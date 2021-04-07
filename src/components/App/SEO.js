@@ -5,11 +5,11 @@ const SEO = () => {
     return (
         <div>
             <Helmet>
-                <title>Rewy - Gatsby IT Startup Templates Collection</title>
-                <meta name="description" content="Rewy - React Gatsby IT Startup Templates Collection" />
-                <meta name="og:title" property="og:title" content="Rewy - React Gatsby IT Startup Templates Collection"></meta>
-                <meta name="twitter:card" content="Rewy - React Gatsby IT Startup Templates Collection"></meta>
-                <link rel="canonical" href="https://rewy-react.envytheme.com/"></link>
+                <title>Webure Technologies - Consult | Create | Collaborate</title>
+                <meta name="description" content="Webure Technologies - Consult | Create | Collaborate" />
+                <meta name="og:title" property="og:title" content="Webure Technologies - Consult | Create | Collaborate"></meta>
+                <meta name="twitter:card" content="Webure Technologies - Consult | Create | Collaborate"></meta>
+                <link rel="canonical" href="https://www.webure.in/"></link>
                 <meta property="og:image" content="https://res.cloudinary.com/dev-empty/image/upload/v1593069801/explore-learning.jpg" />
             </Helmet>
         </div>

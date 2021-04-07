@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import logo from "../../assets/images/logo.png"
-import footerMap from "../../assets/images/footer-map.png"
+import logo from "../../assets/images/logo.webp"
+import footerMap from "../../assets/images/footer-map.webp"
 
 const Footer = () => {
 
