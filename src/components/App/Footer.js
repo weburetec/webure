@@ -140,7 +140,7 @@ const Footer = () => {
                 <div className="footer-bottom-area">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
-                            <p>Copyright @{currentYear} <strong>Webure Technologies</strong> All rights reserved <a target="_blank" href="https://www.webure.in/" rel="noreferrer">EnvyTheme</a></p>
+                            <p>Copyright @{currentYear} <strong><a target="_blank" href="https://www.webure.in/" rel="noreferrer">Webure Technologies</a></strong> All rights reserved </p>
                         </div>
 
                         <div className="col-lg-6 col-md-6">
