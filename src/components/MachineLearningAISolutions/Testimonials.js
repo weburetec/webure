@@ -1,9 +1,9 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import starIcon from '../../assets/images/star-icon.png'
-import client1 from '../../assets/images/testimonials/client1.jpg'
-import client2 from '../../assets/images/testimonials/client2.jpg'
-import client3 from '../../assets/images/testimonials/client3.jpg'
+import starIcon from '../../assets/images/star-icon.webp'
+import client1 from '../../assets/images/testimonials/client1.webp'
+import client2 from '../../assets/images/testimonials/client2.webp'
+import client3 from '../../assets/images/testimonials/client3.webp'
 import shape from '../../assets/images/shape/shape1.svg'
 import Loadable from '@loadable/component'
 const OwlCarousel = Loadable(() => import('react-owl-carousel3'))

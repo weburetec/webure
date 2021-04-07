@@ -1,7 +1,7 @@
 import React from 'react'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import EventSidebar from './EventSidebar'
-import details from '../../assets/images/events/events-details.jpg'
+import details from '../../assets/images/events/events-details.webp'
 
 const EventDetailsContent = () => {
     return (

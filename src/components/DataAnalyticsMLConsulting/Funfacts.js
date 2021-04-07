@@ -1,9 +1,9 @@
 import React from 'react';
 
-import FunIcon1 from '../../assets/images/funfacts/fun-icon1.png'
-import FunIcon2 from '../../assets/images/funfacts/fun-icon2.png'
-import FunIcon3 from '../../assets/images/funfacts/fun-icon3.png'
-import FunIcon4 from '../../assets/images/funfacts/fun-icon4.png'
+import FunIcon1 from '../../assets/images/funfacts/fun-icon1.webp'
+import FunIcon2 from '../../assets/images/funfacts/fun-icon2.webp'
+import FunIcon3 from '../../assets/images/funfacts/fun-icon3.webp'
+import FunIcon4 from '../../assets/images/funfacts/fun-icon4.webp'
 
 const Funfacts = () => {
     return (

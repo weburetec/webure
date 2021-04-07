@@ -1,11 +1,11 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import speaker1 from '../../assets/images/speaker/speaker1.jpg'
-import speaker2 from '../../assets/images/speaker/speaker2.jpg'
-import speaker3 from '../../assets/images/speaker/speaker3.jpg'
-import speaker4 from '../../assets/images/speaker/speaker4.jpg'
-import speaker5 from '../../assets/images/speaker/speaker5.jpg'
-import speaker6 from '../../assets/images/speaker/speaker6.jpg'
+import speaker1 from '../../assets/images/speaker/speaker1.webp'
+import speaker2 from '../../assets/images/speaker/speaker2.webp'
+import speaker3 from '../../assets/images/speaker/speaker3.webp'
+import speaker4 from '../../assets/images/speaker/speaker4.webp'
+import speaker5 from '../../assets/images/speaker/speaker5.webp'
+import speaker6 from '../../assets/images/speaker/speaker6.webp'
 
 const EventSpeakers = () => {
     return (

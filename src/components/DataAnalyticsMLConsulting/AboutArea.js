@@ -1,11 +1,11 @@
 import React from 'react';
 import {Link} from 'gatsby'
 
-import AboutImage from '../../assets/images/about/about-img10.png'
-import AboutShape from '../../assets/images/about/about-shape1.png'
-import StarIcon from '../../assets/images/star-icon.png'
-import OurMissionShape from '../../assets/images/our-mission/our-mission-shape2.png'
-import CircleShape from '../../assets/images/shape/circle-shape1.png'
+import AboutImage from '../../assets/images/about/about-img10.webp'
+import AboutShape from '../../assets/images/about/about-shape1.webp'
+import StarIcon from '../../assets/images/star-icon.webp'
+import OurMissionShape from '../../assets/images/our-mission/our-mission-shape2.webp'
+import CircleShape from '../../assets/images/shape/circle-shape1.webp'
 
 const AboutArea = () => {
     return (
