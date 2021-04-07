@@ -1,6 +1,6 @@
 import React from 'react'
-import starIcon from '../../assets/images/star-icon.png'
-import howitsWork from '../../assets/images/how-its-work.png'
+import starIcon from '../../assets/images/star-icon.webp'
+import howitsWork from '../../assets/images/how-its-work.webp'
 
 const WhyChooseUs = () => {
     return (
