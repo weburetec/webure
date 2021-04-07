@@ -1,7 +1,7 @@
 import React from 'react'
-import service1 from '../../assets/images/services/service1.png'
-import service2 from '../../assets/images/services/service2.png'
-import starIcon from '../../assets/images/star-icon.png'
+import service1 from '../../assets/images/services/service1.webp'
+import service2 from '../../assets/images/services/service2.webp'
+import starIcon from '../../assets/images/star-icon.webp'
 
 const OurServices = () => {
     return (

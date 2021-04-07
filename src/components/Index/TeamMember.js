@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import starIcon from '../../assets/images/star-icon.png'
+import starIcon from '../../assets/images/star-icon.webp'
 import team1 from '../../assets/images/team/team2.webp'
 import team2 from '../../assets/images/team/team2.webp'
 import team3 from '../../assets/images/team/team2.webp'
