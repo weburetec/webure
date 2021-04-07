@@ -126,7 +126,7 @@ const Footer = () => {
                                 </li>
                                 <li>
                                     <i className='bx bx-envelope'></i>
-                                    <a href="mailto:hello@rewy.com">hello@rewy.com</a>
+                                    <a href="mailto:connect@webure.in">connect@webure.in</a>
                                 </li>
                                 <li>
                                     <i className='bx bxs-inbox'></i>
@@ -140,7 +140,7 @@ const Footer = () => {
                 <div className="footer-bottom-area">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
-                            <p>Copyright @{currentYear} <strong>Rewy</strong> All rights reserved <a target="_blank" href="https://envytheme.com/" rel="noreferrer">EnvyTheme</a></p>
+                            <p>Copyright @{currentYear} <strong>Webure Technologies</strong> All rights reserved <a target="_blank" href="https://www.webure.in/" rel="noreferrer">EnvyTheme</a></p>
                         </div>
 
                         <div className="col-lg-6 col-md-6">
