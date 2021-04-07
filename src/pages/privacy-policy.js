@@ -4,7 +4,7 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import { Link } from 'gatsby'
-import privacyPolicy from '../assets/images/privacy-policy.jpg'
+import privacyPolicy from '../assets/images/privacy-policy.webp'
 
 const PrivacyPolicy = () => {
     return (

@@ -1739,11 +1739,11 @@ Main Banner Area CSS
 }
 
 .main-banner-item.item-bg1 {
-  background-image: url(../images/main-banner/main-banner1.jpg);
+  background-image: url(../images/main-banner/main-banner1.webp);
 }
 
 .main-banner-item.item-bg2 {
-  background-image: url(../images/main-banner/main-banner2.jpg);
+  background-image: url(../images/main-banner/main-banner2.webp);
 }
 
 .banner-item-content {
@@ -1892,7 +1892,7 @@ Main Banner Area CSS
   position: relative;
   z-index: 1;
   background-color: #ffffff;
-  background-image: url(../images/main-banner/main-banner-bg4.jpg);
+  background-image: url(../images/main-banner/main-banner-bg4.webp);
   background-position: bottom right;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2077,7 +2077,7 @@ Main Banner Area CSS
 .seo-agency-banner {
   position: relative;
   z-index: 1;
-  background: transparent url(../images/banner-bg2.jpg) left top no-repeat;
+  background: transparent url(../images/banner-bg2.webp) left top no-repeat;
   padding-top: 270px;
   padding-bottom: 150px;
   border-bottom: 1px solid #f7f7f7;
@@ -2842,7 +2842,7 @@ Funfacts Area CSS
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(../images/funfacts/funfacts-bg.jpg);
+  background-image: url(../images/funfacts/funfacts-bg.webp);
 }
 
 .funfacts-area.bg-image .single-funfacts-item h3 {
@@ -5401,7 +5401,7 @@ Projects Area CSS
 }
 
 .projects-area.bg-color {
-  background-image: url(../images/black-bg.jpg);
+  background-image: url(../images/black-bg.webp);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -9513,7 +9513,7 @@ Blog Details Area CSS
   height: 115px;
   border-radius: 5px 5px 0 0;
   background-color: #ff5d22;
-  background-image: url(../images/bg.jpg);
+  background-image: url(../images/bg.webp);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10175,7 +10175,7 @@ Page Title Area CSS
 .page-title-area {
   position: relative;
   z-index: 1;
-  background: transparent url(../images/page-title-bg.jpg) right top no-repeat;
+  background: transparent url(../images/page-title-bg.webp) right top no-repeat;
   border-bottom: 1px solid #fafafa;
   padding-top: 200px;
   padding-bottom: 100px;
@@ -10494,15 +10494,15 @@ Widget Sidebar CSS
 }
 
 .widget-area .widget_tracer_posts_thumb .item .thumb .fullimage.bg1 {
-  background-image: url(../images/blog/blog-img9.jpg);
+  background-image: url(../images/blog/blog-img9.webp);
 }
 
 .widget-area .widget_tracer_posts_thumb .item .thumb .fullimage.bg2 {
-  background-image: url(../images/blog/blog-img8.jpg);
+  background-image: url(../images/blog/blog-img8.webp);
 }
 
 .widget-area .widget_tracer_posts_thumb .item .thumb .fullimage.bg3 {
-  background-image: url(../images/blog/blog-img7.jpg);
+  background-image: url(../images/blog/blog-img7.webp);
 }
 
 .widget-area .widget_tracer_posts_thumb .item .thumb::before, .widget-area .widget_tracer_posts_thumb .item .thumb::after {
@@ -10800,15 +10800,15 @@ Widget Sidebar CSS
 }
 
 .widget-area .widget_recent_courses .item .thumb .fullimage.bg1 {
-  background-image: url(../images/courses/course1.jpg);
+  background-image: url(../images/courses/course1.webp);
 }
 
 .widget-area .widget_recent_courses .item .thumb .fullimage.bg2 {
-  background-image: url(../images/courses/course2.jpg);
+  background-image: url(../images/courses/course2.webp);
 }
 
 .widget-area .widget_recent_courses .item .thumb .fullimage.bg3 {
-  background-image: url(../images/courses/course3.jpg);
+  background-image: url(../images/courses/course3.webp);
 }
 
 .widget-area .widget_recent_courses .item .thumb::before, .widget-area .widget_recent_courses .item .thumb::after {
@@ -11141,7 +11141,7 @@ Coming Soon Area CSS
   position: relative;
   z-index: 1;
   background: #f6f7fb;
-  background-image: url(../images/coming-soon-bg.jpg);
+  background-image: url(../images/coming-soon-bg.webp);
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
