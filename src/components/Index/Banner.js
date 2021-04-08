@@ -32,7 +32,7 @@ const Banner = () => {
                     <div className="col-lg-6 col-md-12">
                         <ReactWOW delay='.1s' animation='fadeInUp'>
                             <div className="main-banner-image">
-                                <img src={bannerImg} alt="banner" />
+                                <img src={bannerImg} alt="banner" class="lazyload" />
                             </div>
                         </ReactWOW>
                     </div>
