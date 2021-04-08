@@ -11,7 +11,7 @@ const Banner = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="main-banner-content">
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                <h1>Secure IT Solutions Services</h1>
+                                <div>Secure <strong>IT Solutions Services</strong></div>
                             </ReactWOW>
 
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
