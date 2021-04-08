@@ -20,7 +20,7 @@ const OurServices = () => {
                             <div className="about-content">
                                 <div className="content">
                                     <span className="sub-title">
-                                        <img src={starIcon} alt="icon" /> Services
+                                        <img src={starIcon} alt="icon" class="lazyload"/> Services
                                     </span>
                                     
                                     <h2>Cloud Hosting Services</h2>
@@ -75,7 +75,7 @@ const OurServices = () => {
                             <div className="our-mission-content">
                                 <div className="content">
                                     <span className="sub-title">
-                                        <img src={starIcon} alt="icon" /> Services
+                                        <img src={starIcon} alt="icon" class="lazyload"/> Services
                                     </span>
                                     
                                     <h2>Design & Development</h2>
