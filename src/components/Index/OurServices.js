@@ -3,6 +3,14 @@ import service1 from '../../assets/images/services/service1.webp'
 import service2 from '../../assets/images/services/service2.webp'
 import starIcon from '../../assets/images/star-icon.webp'
 import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
+
+const MyImage = ({ image }) => (
+  <LazyLoadImage
+    alt={image.alt}
+    effect="blur"
+    src={image.src} />
+);
 
 const OurServices = () => {
     return (
