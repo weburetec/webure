@@ -37,4 +37,4 @@ const Home = () => {
   )
 }
 
-export default Home{ LazyLoadImage, LazyLoadComponent, trackWindowScroll };
+export default Home
