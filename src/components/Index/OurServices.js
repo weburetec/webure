@@ -2,15 +2,7 @@ import React from 'react'
 import service1 from '../../assets/images/services/service1.webp'
 import service2 from '../../assets/images/services/service2.webp'
 import starIcon from '../../assets/images/star-icon.webp'
-import { LazyLoadImage } from '../components/index/react-lazy-load-image-component';
-import '../../components/index/react-lazy-load-image-component/src/effects/blur.css';
-
-const MyImage = ({ image }) => (
-  <LazyLoadImage
-    alt={image.alt}
-    effect="blur"
-    src={image.src} />
-);
+import lazyload from '../../components/lazysizes.min.js'
 
 const OurServices = () => {
     return (
@@ -22,7 +14,6 @@ const OurServices = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-img">
                                 <img src={service1} alt="service" />
-								    <LazyLoadImage alt={image.alt} height={image.height} src={service1} width={image.width} />
                             </div>
                         </div>
 
