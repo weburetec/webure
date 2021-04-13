@@ -5,6 +5,7 @@ import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import ContactInfo from '../components/Contact/ContactInfo'
 import ContactForm from '../components/Contact/ContactForm'
+import ContactInfooffice from '../components/Contact/ContactInfooffice'
 const Contact = () => {
     return (
         <Layout>
@@ -17,6 +18,7 @@ const Contact = () => {
             />
             <ContactInfo />
             <ContactForm />
+            <ContactInfooffice />
             <Footer />
         </Layout>
     );
