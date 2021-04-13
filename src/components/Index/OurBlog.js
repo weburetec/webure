@@ -14,7 +14,7 @@ const OurBlog = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">
-                        <img src={starIcon} alt="blog" /> 
+                        <img src={starIcon} alt="blog" class="lazyload"/> 
                         Our Blog
                     </span>
                     <h2>Latest Valuable Insights</h2>
@@ -26,7 +26,7 @@ const OurBlog = () => {
                         <div className="single-blog-post">
                             <div className="post-image">
                                 <Link to="/blog-details">
-                                    <img src={blog1} alt="blog" />
+                                    <img src={blog1} alt="blog" class="lazyload"/>
                                 </Link>
                             </div>
 
@@ -55,7 +55,7 @@ const OurBlog = () => {
                         <div className="single-blog-post">
                             <div className="post-image">
                                 <Link to="/blog-details">
-                                    <img src={blog5} alt="blog" />
+                                    <img src={blog5} alt="blog" class="lazyload"/>
                                 </Link>
                             </div>
 
@@ -84,7 +84,7 @@ const OurBlog = () => {
                         <div className="single-blog-post">
                             <div className="post-image">
                                 <Link to="/blog-details">
-                                    <img src={blog6} alt="blog" />
+                                    <img src={blog6} alt="blog" class="lazyload"/>
                                 </Link>
                             </div>
 
