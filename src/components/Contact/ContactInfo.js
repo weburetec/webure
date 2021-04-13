@@ -1,9 +1,52 @@
 import React from 'react'
+import contact01 from '../../assets/images/contact01.webp'
+import contact02 from '../../assets/images/contact02.webp'
+import contact03 from '../../assets/images/contact03.webp'
+import contact04 from '../../assets/images/contact04.webp'
 
 const ContactInfo = () => {
     return (
         <div className="contact-info-area pt-100 pb-70">
-            <div className="container">			
+            <div className="container">
+				<div class="row">
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-solutions-box">
+							<div class="icon">
+								<img src={contact01} alt="ContactNY" />
+							</div>
+							<h3><a href="/service-details">New York Office</a></h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-solutions-box">
+							<div class="icon">
+								<img src={contact02} alt="ContactAustralia" />
+							</div>
+							<h3><a href="/service-details">New York Office</a></h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-solutions-box">
+							<div class="icon">
+								<img src={contact02} alt="ContactIndia" />
+							</div>
+							<h3><a href="/service-details">New York Office</a></h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="single-solutions-box">
+							<div class="icon">
+								<img src={contact04} alt="ContactBangalore" />
+							</div>
+							<h3><a href="/service-details">New York Office</a></h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+						</div>
+					</div>
+				</div>
+			
                 <div className="row">
                     <div className="col-lg-4 col-md-6">
                         <div className="contact-info-box">
