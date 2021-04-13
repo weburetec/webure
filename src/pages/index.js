@@ -13,6 +13,9 @@ import Testimonials from "../components/Index/Testimonials"
 import Partner from "../components/Index/Partner"
 import ProjectStartArea from "../components/Index/ProjectStartArea"
 import OurBlog from "../components/Index/OurBlog"
+import LazyLoadImage from './components/LazyLoadImage.jsx';
+import LazyLoadComponent from './components/LazyLoadComponent.jsx';
+import trackWindowScroll from './hoc/trackWindowScroll.js';
 
 const Home = () => {
   return (
@@ -34,4 +37,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home{ LazyLoadImage, LazyLoadComponent, trackWindowScroll };
