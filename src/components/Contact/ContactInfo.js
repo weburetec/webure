@@ -3,38 +3,7 @@ import React from 'react'
 const ContactInfo = () => {
     return (
         <div className="contact-info-area pt-100 pb-70">
-            <div className="container">
-
-				<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-					<div class="axil-office-location mt--30 wow move-up animated" style="visibility: visible;">
-						<div class="thumbnail"> <img src="http://axilthemes.com/themes/keystroke/wp-content/uploads/2020/06/contact-01.jpg" title="contact-01" alt="contact-01">
-						</div>
-						<div class="content">
-							<h4 class="title">Virginia-HQ</h4>
-							<p>435 Pouros Locks <br> United States</p> <a href="#" target="_blank" rel="nofollow" data-hover="View on Map">
-								<span class="button-text">View on Map</span>
-								<span class="button-icon"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-12">
-					<div class="axil-office-location mt--30 wow move-up animated" style="visibility: visible;">
-						<div class="thumbnail"> <img src="http://axilthemes.com/themes/keystroke/wp-content/uploads/2020/06/contact-01.jpg" title="contact-01" alt="contact-01">
-						</div>
-						<div class="content">
-							<h4 class="title">Virginia-HQ</h4>
-							<p>435 Pouros Locks <br> United States</p> <a href="#" target="_blank" rel="nofollow" data-hover="View on Map">
-								<span class="button-text">View on Map</span>
-								<span class="button-icon"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-
-			
-			
-			
+            <div className="container">			
                 <div className="row">
                     <div className="col-lg-4 col-md-6">
                         <div className="contact-info-box">
