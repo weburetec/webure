@@ -2,7 +2,6 @@ import React from 'react'
 import service1 from '../../assets/images/services/service1.webp'
 import service2 from '../../assets/images/services/service2.webp'
 import starIcon from '../../assets/images/star-icon.webp'
-import lazyload from '../../components/lazysizes.min.js'
 
 const OurServices = () => {
     return (
