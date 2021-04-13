@@ -12,7 +12,7 @@ const ContactInfo = () => {
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
 							<div class="icon">
-								<img src={contact01} alt="ContactNY" />
+								<img src={contact01} alt="contact01" />
 							</div>
 							<h3><a href="/service-details">New York Office</a></h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
@@ -21,7 +21,7 @@ const ContactInfo = () => {
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
 							<div class="icon">
-								<img src={contact02} alt="ContactAustralia" />
+								<img src={contact02} alt="contact02" />
 							</div>
 							<h3><a href="/service-details">New York Office</a></h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
@@ -30,7 +30,7 @@ const ContactInfo = () => {
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
 							<div class="icon">
-								<img src={contact02} alt="ContactIndia" />
+								<img src={contact02} alt="contact03" />
 							</div>
 							<h3><a href="/service-details">New York Office</a></h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
@@ -39,7 +39,7 @@ const ContactInfo = () => {
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
 							<div class="icon">
-								<img src={contact04} alt="ContactBangalore" />
+								<img src={contact04} alt="contact04" />
 							</div>
 							<h3><a href="/service-details">New York Office</a></h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
