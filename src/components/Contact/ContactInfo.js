@@ -1,8 +1,8 @@
 import React from 'react'
-import contact01 from '../../assets/images/contact01.webp'
-import contact02 from '../../assets/images/contact02.webp'
-import contact03 from '../../assets/images/contact03.webp'
-import contact04 from '../../assets/images/contact04.webp'
+import contact01 from '../../assets/images/contact-01.webp'
+import contact02 from '../../assets/images/contact-02.webp'
+import contact03 from '../../assets/images/contact-03.webp'
+import contact04 from '../../assets/images/contact-04.webp'
 
 const ContactInfo = () => {
     return (
