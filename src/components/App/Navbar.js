@@ -236,7 +236,7 @@ const Navbar = () => {
                                         </Link>
                                         
                                         <ul className="dropdown-menu">
-                                            <li className="dropdown-menu">
+                                            <li className="nav-item">
                                                 <Link 
                                                     to="/services" 
                                                     activeClassName="active"
@@ -249,7 +249,7 @@ const Navbar = () => {
 
                                             <li className="nav-item">
                                                 <Link 
-                                                    to="/services/service-details" 
+                                                    to="/service-details" 
                                                     activeClassName="active"
                                                     onClick={() => setCollapsed(true)}
                                                     className="nav-link"
