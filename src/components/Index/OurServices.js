@@ -49,7 +49,7 @@ const Services = () => {
                                     Mobile App Development
                                 </Link>
                             </h3>
-                            <p>Because color moon has expertise in both native and cross platform technologies, we always find the right balance among price, qaulity and project requirement so we can offer the best solution for your particular situation.</p>
+                            <p>Because Webure Technologies has expertise in both native and cross platform technologies, we always find the right balance among price, qaulity and project requirement so we can offer the best solution for your particular situation.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
