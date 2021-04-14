@@ -12,7 +12,7 @@ const OurSolutions = () => {
                         Our Solutions
                     </span>
                     <h2>We Different From Others Should Choose Us</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p>Webure a Full Service Digital Agency that help our clients expand their digital reach.</p>
                 </div>
 
                 <div className="row">
@@ -23,10 +23,10 @@ const OurSolutions = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Code Security
+                                    Consult
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+                            <p>Webure gathers the complete requirement and assigns a dedicated person for the project who gives you regular updates with the project to customer.</p>
 
                             <Link to="/service-details" className="view-details-btn">
                                 View Details
@@ -42,11 +42,11 @@ const OurSolutions = () => {
 
                             <h3>
                                 <Link to="/service-details">
-                                    Team Management
+                                    Create
                                 </Link>
                             </h3>
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+                            <p>We start the designing and development of the project based on the requirement and our dedicated Account Manager defines the timelines for the same by communicating the same to you.</p>
                             
                             <Link to="/service-details" className="view-details-btn">
                                 View Details
@@ -62,11 +62,11 @@ const OurSolutions = () => {
 
                             <h3>
                                 <Link to="/service-details">
-                                    Access Controlled
+                                    Collaborate
                                 </Link>
                             </h3> 
 
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</p>
+                            <p>Collaborating our services and web application under mobile friendly web interface to ensure seamless incorporation that is at the juncture of art and technology we provide from digital strategy to end user experience.</p>
                             
                             <Link to="/service-details" className="view-details-btn">
                                 View Details
