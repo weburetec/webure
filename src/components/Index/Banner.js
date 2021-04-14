@@ -11,11 +11,11 @@ const Banner = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="main-banner-content">
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                <h1>Secure <strong>IT Solutions Services</strong></h1>
+                                <h1>Webure a<strong>Full Service Digital Agency</strong></h1>
                             </ReactWOW>
 
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>That helps clients expand their digital reach.</p>
                             </ReactWOW>
 
                             <ReactWOW delay='.1s' animation='fadeInRight'>
