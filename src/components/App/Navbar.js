@@ -139,7 +139,7 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="service" 
+                                            to="/service" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
@@ -150,7 +150,7 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="service" 
+                                            to="/service" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
@@ -161,7 +161,7 @@ const Navbar = () => {
 									
                                     <li className="nav-item">
                                         <Link 
-                                            to="#" 
+                                            to="/service" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
@@ -169,6 +169,77 @@ const Navbar = () => {
                                             Case Studies <i className='bx bx-chevron-down'></i>
                                                 
                                         </Link>
+										<ul className="dropdown-menu">
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="#" 
+                                                    activeClassName="active"
+                                                    onClick={e => e.preventDefault()}
+                                                    className="nav-link"
+                                                >
+                                                    Courses <i className='bx bx-chevron-down'></i>
+                                                </Link>
+
+                                                <ul className="dropdown-menu">
+                                                    <li className="nav-item">
+                                                        <Link 
+                                                            to="/courses" 
+                                                            activeClassName="active"
+                                                            onClick={() => setCollapsed(true)}
+                                                            className="nav-link"
+                                                        >
+                                                            Courses
+                                                        </Link>
+                                                    </li>
+
+                                                    <li className="nav-item">
+                                                        <Link 
+                                                            to="/course-details" 
+                                                            activeClassName="active"
+                                                            onClick={() => setCollapsed(true)}
+                                                            className="nav-link"
+                                                        >
+                                                            Course Details
+                                                        </Link>
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="#" 
+                                                    activeClassName="active"
+                                                    onClick={e => e.preventDefault()}
+                                                    className="nav-link"
+                                                >
+                                                    Events <i className='bx bx-chevron-down'></i>
+                                                </Link>
+
+                                                <ul className="dropdown-menu">
+                                                    <li className="nav-item">
+                                                        <Link 
+                                                            to="/events" 
+                                                            activeClassName="active"
+                                                            onClick={() => setCollapsed(true)}
+                                                            className="nav-link"
+                                                        >
+                                                            Events
+                                                        </Link>
+                                                    </li>
+
+                                                    <li className="nav-item">
+                                                        <Link 
+                                                            to="/event-details" 
+                                                            activeClassName="active"
+                                                            onClick={() => setCollapsed(true)}
+                                                            className="nav-link"
+                                                        >
+                                                            Event Details
+                                                        </Link>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
                                     </li>
 
                                     <li className="nav-item">
