@@ -77,94 +77,6 @@ const Navbar = () => {
                                                     IT Services
                                                 </Link>
                                             </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/seo-agency" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    SEO Agency
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/data-science-ml-company" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Data Science ML Company
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/data-analytics-ai-startup" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Data Analytics & AI Startup
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/digital-marketing-agency" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Digital Marketing Agency
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/data-science-online-courses" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Data Science Online Courses
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/big-data-analysis-startup" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Big Data Analysis Startup
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/data-analytics-ml-consulting" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Data Analytics ML Consulting
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/machine-learning-ai-solutions" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Machine Learning AI Solutions
-                                                </Link>
-                                            </li>
                                         </ul>
                                     </li>
 
@@ -208,7 +120,7 @@ const Navbar = () => {
                                                     onClick={() => setCollapsed(true)}
                                                     className="nav-link"
                                                 >
-                                                    Testimonials
+                                                    Media Coverage
                                                 </Link>
                                             </li>
 
@@ -219,7 +131,7 @@ const Navbar = () => {
                                                     onClick={() => setCollapsed(true)}
                                                     className="nav-link"
                                                 >
-                                                    Team One
+                                                    Team @Webure
                                                 </Link>
                                             </li>
                                         </ul>
@@ -227,39 +139,26 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="#" 
+                                            to="service" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
                                         >
-                                            Services <i className='bx bx-chevron-down'></i>
+                                            ROI Stories <i className='bx bx-chevron-down'></i>
                                         </Link>
-                                        
-                                        <ul className="dropdown-menu">
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/services" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Services
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/service-details" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Service Details
-                                                </Link>
-                                            </li>
-                                        </ul>
                                     </li>
 
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="service" 
+                                            activeClassName="active"
+                                            onClick={e => e.preventDefault()}
+                                            className="nav-link"
+                                        >
+                                            Career <i className='bx bx-chevron-down'></i>
+                                        </Link>
+                                    </li>
+									
                                     <li className="nav-item">
                                         <Link 
                                             to="#" 
@@ -469,72 +368,6 @@ const Navbar = () => {
                                                     Gallery
                                                 </Link>
                                             </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/faq" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    FAQ
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/coming-soon" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Coming Soon
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/membership-levels" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Membership Levels
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/profile-authentication" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Login/Register
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/privacy-policy" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Privacy Policy
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/terms-of-service" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Terms of Service
-                                                </Link>
-                                            </li>
                                         </ul>
                                     </li>
 
@@ -575,15 +408,6 @@ const Navbar = () => {
                                 </ul>
                             
                                 <div className="others-option d-flex align-items-center">
-                                    <div className="option-item">
-                                        <form className="search-box">
-                                            <input type="text" className="input-search" placeholder="Search for anything" />
-                                            <button type="submit">
-                                                <i className="flaticon-loupe"></i>
-                                            </button>
-                                        </form>
-                                    </div>
-
                                     <div className="option-item">
                                         <Link 
                                             to="/contact" 
