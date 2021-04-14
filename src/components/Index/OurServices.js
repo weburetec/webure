@@ -15,7 +15,7 @@ const Services = () => {
             <div className="container">
                 <div className="section-title">
                     <h2>Services We Can Help You With</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p>We offer the same services that thousands of others do. But the real difference is in the execution. Choose any of these services and we’ll show you the difference between us and others. Turn your great ideas into profitable mobile and software products with our excellent blockchain, mobile app development and software development services.</p>
                 </div>
 
                 <div className="row">
@@ -26,11 +26,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Big Data Analysis
+                                    Web Development
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
-
+                            <p>We're motivated to scale and grow your business as we are more than just a web application development company. We're strong software development partner who is ready to cover all your technology needs through following web development services.</p>
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
                             </Link>
@@ -47,10 +46,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Robust Analytics
+                                    Mobile App Development
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            <p>Because color moon has expertise in both native and cross platform technologies, we always find the right balance among price, qaulity and project requirement so we can offer the best solution for your particular situation.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -68,10 +67,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Marketing Analytics
+                                    Consulting
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            <p>Technological advancements need hand holding by experts. Our experts create a cost-effective strategy with our Web, Mobile or Cloud Consulting services..</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -89,10 +88,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Data Visualization
+                                    Game Development
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            <p>We are among leading game development companies in India and US aiming to craft games which offer exceptional gaming experience for players. We utilise latest gaming technologies to design 2D and 3D games which captivate your audience.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -110,10 +109,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Securities Research
+                                    Graphic Designing
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            <p>Discover how our iconic services connect the act of viewing with comprehension for artistic expression that shapes content, grow business and diversifies oppotunity.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -131,10 +130,10 @@ const Services = () => {
                             </div>
                             <h3>
                                 <Link to="/service-details">
-                                    Data Governance
+                                    Digital Marketing
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            <p>In these days, most of the business entities are taking help of the digital marketing companies to get the desired results. No business can succeed without the proper advertising and marketing.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
