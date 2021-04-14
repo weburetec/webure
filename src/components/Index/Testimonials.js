@@ -48,9 +48,18 @@ const Testimonials = () => {
                         Testimonials
                     </span>
                     <h2>What Our Clients are Saying?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p>Being the best digital marketing agency in India and US, we partner with clients to create superior digital experiences.</p>
                 </div>
-
+				<div className="row">
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+						<h2>WE ARE DIVEN & FUTURISTIC</h2>
+						<p>Cook your business success with the right digital marketing ingredients! With a constant desire to create new, better, & groundbreaking our team of experts redefine business performance using data, technology, & media in innovative ways.  Rated-best digital marketing agency in Hyderabad strives to provide a positive experience to our clients by keeping the center of our philosophy & ideas. Also, make sure our clients will be able to attain their long term profits with the best possible marketing solutions provided by our SEO specialists.</p>
+					</div>
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+						<img src={client1} alt="testimonial" />
+					</div>
+				</div>
+				
                 {display ? <OwlCarousel 
                     className="testimonials-slides owl-carousel owl-theme"
                     {...options}
