@@ -1,37 +1,73 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import starIcon from '../../assets/images/star-icon.webp'
+import serviceb1 from '../../assets/images/b1.webp'
+import serviceb2 from '../../assets/images/b2.webp'
+import serviceb3 from '../../assets/images/b3.webp'
+import serviceb4 from '../../assets/images/b4.webp'
+import serviceb5 from '../../assets/images/b5.webp'
+import serviceb6 from '../../assets/images/b6.webp'
+import serviceb7 from '../../assets/images/b7.webp'
+import serviceb8 from '../../assets/images/b8.webp'
 
 const OurSolutions = () => {
     return (
         <section className="solutions-area pb-70">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-4 col-sm-6">
+                    <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
 							<span className="sub-title">
-								<img src={starIcon} alt="star" class="lazyload"/> 
+								<img src={serviceb1} alt="Service" class="lazyload"/> 
 							</span>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
+                    <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
 							<span className="sub-title">
-								<img src={starIcon} alt="star" class="lazyload"/> 
+								<img src={serviceb2} alt="Service" class="lazyload"/> 
 							</span>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
+                    <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
 							<span className="sub-title">
-								<img src={starIcon} alt="star" class="lazyload"/> 
+								<img src={serviceb3} alt="Service" class="lazyload"/> 
 							</span>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
+                    <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
 							<span className="sub-title">
-								<img src={starIcon} alt="star" class="lazyload"/> 
+								<img src={serviceb4} alt="Service" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={serviceb5} alt="Service" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={serviceb6} alt="Service" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={serviceb7} alt="Service" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={serviceb8} alt="Service" class="lazyload"/> 
 							</span>
                         </div>
                     </div>
