@@ -6,6 +6,37 @@ const OurSolutions = () => {
     return (
         <section className="solutions-area pb-70">
             <div className="container">
+                <div className="row">
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={starIcon} alt="star" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={starIcon} alt="star" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={starIcon} alt="star" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-sm-6">
+                        <div className="single-solutions-box">
+							<span className="sub-title">
+								<img src={starIcon} alt="star" class="lazyload"/> 
+							</span>
+                        </div>
+                    </div>
+				</div>
+
                 <div className="section-title">
                     <span className="sub-title">
                         <img src={starIcon} alt="star" class="lazyload"/> 
