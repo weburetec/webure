@@ -1,135 +1,153 @@
-import React from 'react'
-import service1 from '../../assets/images/services/service1.webp'
-import service2 from '../../assets/images/services/service2.webp'
-import starIcon from '../../assets/images/star-icon.webp'
+import React from 'react';
+import {Link} from 'gatsby'
 
-const OurServices = () => {
+import ServiceIcon7 from '../../assets/images/services/service-icon7.webp'
+import ServiceIcon8 from '../../assets/images/services/service-icon8.webp'
+import ServiceIcon9 from '../../assets/images/services/service-icon9.webp'
+import ServiceIcon10 from '../../assets/images/services/service-icon10.webp'
+import ServiceIcon11 from '../../assets/images/services/service-icon11.webp'
+import ServiceIcon12 from '../../assets/images/services/service-icon12.webp'
+import ServiceShape4 from '../../assets/images/services/service-shape4.webp'
+
+const Services = () => {
     return (
-        <React.Fragment>
-            {/* Service Left Image Style */}
-            <div className="about-area pb-100">
-                <div className="container-fluid">
-                    <div className="row align-items-center">
-                        <div className="col-lg-6 col-md-12">
-                            <div className="about-img">
-                                <img src={service1} alt="service" />
+        <section className="services-area ptb-100">
+            <div className="container">
+                <div className="section-title">
+                    <h2>Services We Can Help You With</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                </div>
+
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item">
+                            <div className="icon">
+                                <img src={ServiceIcon7} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Big Data Analysis
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
                             </div>
                         </div>
+                    </div>
 
-                        <div className="col-lg-6 col-md-12">
-                            <div className="about-content">
-                                <div className="content">
-                                    <span className="sub-title">
-                                        <img src={starIcon} alt="icon" class="lazyload"/> Services
-                                    </span>
-                                    
-                                    <h2>Cloud Hosting Services</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                                    <ul className="about-list mb-0">
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Cloud Databases
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Website Hosting
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            File Storage
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Forex Trading
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            File Backups
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Remote Desktop
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Email Servers
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Hybrid Cloud
-                                        </li>
-                                    </ul>
-                                </div>
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item">
+                            <div className="icon">
+                                <img src={ServiceIcon8} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Robust Analytics
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item">
+                            <div className="icon">
+                                <img src={ServiceIcon9} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Marketing Analytics
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item wow fadeInUp">
+                            <div className="icon">
+                                <img src={ServiceIcon10} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Data Visualization
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item wow fadeInUp">
+                            <div className="icon">
+                                <img src={ServiceIcon11} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Securities Research
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div className="col-lg-4 col-md-6 col-sm-12">
+                        <div className="single-services-box-item wow fadeInUp">
+                            <div className="icon">
+                                <img src={ServiceIcon12} alt="Service Icon" />
+                            </div>
+                            <h3>
+                                <Link to="/service-details">
+                                    Data Governance
+                                </Link>
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna aliqua.</p>
+                            
+                            <Link to="/service-details" className="learn-more-btn">
+                                <i className="flaticon-right"></i> Learn More
+                            </Link>
+                            <div className="shape">
+                                <img src={ServiceShape4} alt="Service Shape" />
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            {/* End Service Left Image Style */}
-
-            {/* Service Right Image Style */}
-            <div className="our-mission-area pb-100">
-                <div className="container-fluid">
-                    <div className="row align-items-center">
-                        <div className="col-lg-6 col-md-12">
-                            <div className="our-mission-content">
-                                <div className="content">
-                                    <span className="sub-title">
-                                        <img src={starIcon} alt="icon" class="lazyload"/> Services
-                                    </span>
-                                    
-                                    <h2>Design & Development</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-
-                                    <ul className="our-mission-list mb-0">
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Responsive Design
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            React Development
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Apps Development
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Laravel Development
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            UX/UI Design
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            E-commerce Design
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Web Design
-                                        </li>
-                                        <li>
-                                            <i className="flaticon-tick"></i>
-                                            Print Ready Design
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-6 col-md-12">
-                            <div className="our-mission-image">
-                                <img src={service2} alt="service" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {/* End Service Right Image Style */}
-        </React.Fragment>
+        </section>
     )
 }
 
-export default OurServices;
+export default Services;

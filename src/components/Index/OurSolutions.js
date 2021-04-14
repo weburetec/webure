@@ -14,6 +14,14 @@ const OurSolutions = () => {
     return (
         <section className="solutions-area pb-70">
             <div className="container">
+			    <div className="section-title">
+                    <span className="sub-title">
+                        <img src={starIcon} alt="star" class="lazyload"/> 
+                        Our Solutions
+                    </span>
+                    <h2>Ready to Grow Business?</h2>
+                    <p>Targeted Leads :: New Business Opportunities :: New Clients</p>
+                </div>
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
