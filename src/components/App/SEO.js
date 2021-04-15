@@ -6,6 +6,7 @@ const SEO = () => {
         <div>
             <Helmet>
                 <title>Webure Technologies - Consult | Create | Collaborate</title>
+				<meta name="facebook-domain-verification" content="stflgslbw5kbpkr6rcr8fp8juxmmi8" />
                 <meta name="description" content="Webure Technologies - Consult | Create | Collaborate" />
                 <meta name="og:title" property="og:title" content="Webure Technologies - Consult | Create | Collaborate"></meta>
                 <meta name="twitter:card" content="Webure Technologies - Consult | Create | Collaborate"></meta>

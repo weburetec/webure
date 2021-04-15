@@ -51,7 +51,7 @@ const Testimonials = () => {
                     <p>Being the best digital marketing agency in India and US, we partner with clients to create superior digital experiences.</p>
                 </div>
 				<div className="row">
-                    <div className="col-lg-4 col-md-6 col-sm-12">
+                    <div className="col-lg-4 col-md-6">
 						<h2>WE ARE DIVEN & FUTURISTIC</h2>
 						<p>Cook your business success with the right digital marketing ingredients! With a constant desire to create new, better, & groundbreaking our team of experts redefine business performance using data, technology, & media in innovative ways.  Rated-best digital marketing agency in Hyderabad strives to provide a positive experience to our clients by keeping the center of our philosophy & ideas. Also, make sure our clients will be able to attain their long term profits with the best possible marketing solutions provided by our SEO specialists.</p>
 					</div>
