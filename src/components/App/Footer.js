@@ -16,8 +16,9 @@ const Footer = () => {
                             <a href="/" className="logo">
                                 <img src={logo} alt="logo" />
                             </a>
-                            <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-
+                            <p>WE ARE DRIVEN & FUTURISTIC.</p>
+							<p>Rated-best digital marketing agency in India and US strives to provide a positive experience to our clients by keeping the center of our philosophy & ideas</p>
+							
                             <ul className="social-link">
                                 <li>
                                     <Link to="#" className="d-block" target="_blank" rel="noreferrer">
