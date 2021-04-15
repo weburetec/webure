@@ -87,7 +87,7 @@ const OurSolutions = () => {
                         Our Solutions
                     </span>
                     <h2>We Different From Others Should Choose Us</h2>
-                    <p>Webure a Full Service Digital Agency that help our clients expand their digital reach.</p>
+                    <p>Webure a Full Service Agency that help our clients expand their digital reach.</p>
                 </div>
 
                 <div className="row">
@@ -121,7 +121,7 @@ const OurSolutions = () => {
                                 </Link>
                             </h3>
 
-                            <p>We start the designing and development of the project based on the requirement and our dedicated Account Manager defines the timelines for the same by communicating the same to you.</p>
+                            <p>We start the designing and development of the project based on the requirement and our dedicated Account Manager defines the timelines.</p>
                             
                             <Link to="/service-details" className="view-details-btn">
                                 View Details
@@ -141,7 +141,7 @@ const OurSolutions = () => {
                                 </Link>
                             </h3> 
 
-                            <p>Collaborating our services and web application under mobile friendly web interface to ensure seamless incorporation that is at the juncture of art and technology we provide from digital strategy to end user experience.</p>
+                            <p>Collaborating our services and web application under mobile friendly web interface to ensure seamless incorporation that is at the juncture of art and technology.</p>
                             
                             <Link to="/service-details" className="view-details-btn">
                                 View Details

@@ -29,7 +29,7 @@ const Services = () => {
                                     Web Development
                                 </Link>
                             </h3>
-                            <p>We're motivated to scale and grow your business as we are more than just a web application development company. We're strong software development partner who is ready to cover all your technology needs through following web development services.</p>
+                            <p>We're motivated to scale and grow your business as we are more than just a web application development company. We're strong software development partner who is ready to cover all your technology needs.</p>
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
                             </Link>
@@ -49,7 +49,7 @@ const Services = () => {
                                     Mobile App Development
                                 </Link>
                             </h3>
-                            <p>Because Webure Technologies has expertise in both native and cross platform technologies, we always find the right balance among price, qaulity and project requirement so we can offer the best solution for your particular situation.</p>
+                            <p>Because Webure Technologies has expertise in both native and cross platform technologies, we always find the right balance among price, qaulity and project requirement.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -70,7 +70,7 @@ const Services = () => {
                                     Consulting
                                 </Link>
                             </h3>
-                            <p>Technological advancements need hand holding by experts. Our experts create a cost-effective strategy with our Web, Mobile or Cloud Consulting services..</p>
+                            <p>Technological advancements need hand holding by experts. Our experts create a cost-effective strategy with our Web, Mobile or Cloud Consulting services through as a full service digital agency.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -91,7 +91,7 @@ const Services = () => {
                                     Game Development
                                 </Link>
                             </h3>
-                            <p>We are among leading game development companies in India and US aiming to craft games which offer exceptional gaming experience for players. We utilise latest gaming technologies to design 2D and 3D games which captivate your audience.</p>
+                            <p>We are among leading game development companies in India and US aiming to craft games which offer exceptional gaming experience for players.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
@@ -133,7 +133,7 @@ const Services = () => {
                                     Digital Marketing
                                 </Link>
                             </h3>
-                            <p>In these days, most of the business entities are taking help of the digital marketing companies to get the desired results. No business can succeed without the proper advertising and marketing.</p>
+                            <p>In these days, most of the business entities are taking help of the digital marketing companies to get the desired results.</p>
                             
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
