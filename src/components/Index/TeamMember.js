@@ -12,7 +12,7 @@ const TeamMembers = () => {
             <div className="container">
                 <div className="section-title">
                     <span className="sub-title">
-                        <img src={starIcon} alt="banner" /> 
+                        <img src={starIcon} alt="banner" class="lazyload"/> 
                         Team Members
                     </span>
                     <h2>Our Data Scientist</h2>
@@ -23,7 +23,7 @@ const TeamMembers = () => {
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-scientist-box">
                             <div className="image">
-                                <img src={team1} alt="banner" />
+                                <img src={team1} alt="banner" class="lazyload"/>
                             </div>
                             <div className="content">
                                 <h3>Merv Adrian</h3>
@@ -58,7 +58,7 @@ const TeamMembers = () => {
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-scientist-box">
                             <div className="image">
-                                <img src={team2} alt="banner" />
+                                <img src={team2} alt="banner" class="lazyload"/>
                             </div>
                             <div className="content">
                                 <h3>Kirk Borne</h3>
@@ -93,7 +93,7 @@ const TeamMembers = () => {
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-scientist-box">
                             <div className="image">
-                                <img src={team3} alt="banner" />
+                                <img src={team3} alt="banner" class="lazyload"/>
                             </div>
                             <div className="content">
                                 <h3>Carla Gentry</h3>
@@ -128,7 +128,7 @@ const TeamMembers = () => {
                     <div className="col-lg-3 col-sm-6 col-md-6">
                         <div className="single-scientist-box">
                             <div className="image">
-                                <img src={team4} alt="banner" />
+                                <img src={team4} alt="banner" class="lazyload"/>
                             </div>
                             <div className="content">
                                 <h3>Marie Curie</h3>
