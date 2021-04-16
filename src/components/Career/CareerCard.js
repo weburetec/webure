@@ -40,7 +40,7 @@ const CareerCard = () => {
 			
             <div className="container">
 				<div className="row">
-					<h4 class="fs-20 text-black">What to expect when you join us</h4>
+					<h4 align="center" class="fs-20 text-black">What to expect when you join us</h4>
 					<div className="row">
 						<div className="col-lg-3 col-sm-6 col-md-6">
 							<div class="single-events-box">
@@ -105,7 +105,7 @@ const CareerCard = () => {
 							</div>
 						</div>
 					</div>						
-					<h4 class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h4>
+					<h3 align="center" class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h3><br/><br/><br/><br/>
 				</div>
 			</div>
 			
