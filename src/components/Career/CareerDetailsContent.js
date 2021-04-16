@@ -57,9 +57,6 @@ const CareerDetailsContent = () => {
 									</div>
 									<div class="col-md-4 pr-lg-0 pl-lg-10 mb-md-0 mb-6">
 										<div class="media justify-content-md-start">
-											<div class="image mr-5">
-												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNNyAydjJoNlYyek01IDRWMWExIDEgMCAwIDEgMS0xaDhhMSAxIDAgMCAxIDEgMXYzaDRhMSAxIDAgMCAxIDEgMXY1aC03VjhIN3YySDBWNWExIDEgMCAwIDEgMS0xem00IDZoMnYzSDl6bS0yIDJ2M2g2di0zaDd2N2ExIDEgMCAwIDEtMSAxSDFhMSAxIDAgMCAxLTEtMXYtN3oiLz48L2c+PC9nPjwvc3ZnPg==" alt=""/>
-											</div>
 											<p class="font-weight-semibold font-size-5 text-black-2 mb-0">Full-Time</p>
 										</div>
 									</div>
