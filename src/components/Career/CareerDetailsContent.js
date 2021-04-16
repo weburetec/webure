@@ -62,7 +62,7 @@ const CareerDetailsContent = () => {
 									</div>
 									<div class="col-md-4 pl-lg-0">
 										<div class="media justify-content-md-start">
-											<p class="font-size-5 text-gray mb-0">777 Brockton Avenue, <br class="d-md-none d-lg-block d-block">Abington MA 2351</p>
+											<p class="font-size-5 text-gray mb-0">777 Brockton Avenue, <br class="d-md-none d-lg-block d-block"/>Abington MA 2351</p>
 										</div>
 									</div>
 								</div>
