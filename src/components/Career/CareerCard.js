@@ -24,7 +24,9 @@ const CareerCard = () => {
 						<img src={details} alt="details" />
 					</div>
 				</div>
-
+			</div>
+			
+			<div className="container">
 				<div className="row">
 					<div className="col-lg-6 col-sm-6 col-md-6">
 						<h4 class="fs-20 text-black">Webure Values</h4>
@@ -34,12 +36,16 @@ const CareerCard = () => {
 						<img src={details} alt="details" />
 					</div>
 				</div>
-
+				<br>
+				<br>
+			</div>
+			
+            <div className="container">
 				<div className="row">
 					<h4 class="fs-20 text-black">What to expect when you join us</h4>
-					<img src={details} alt="details" />
+					<div></div>
 					<div className="row">
-						<div className="col-lg-4 col-sm-6 col-md-6">
+						<div className="col-lg-3 col-sm-6 col-md-6">
 							<div class="single-events-box">
 								<div class="card shadow_1">
 									<div class="card-body">
@@ -55,7 +61,7 @@ const CareerCard = () => {
 							</div>
 						</div>
 						
-						<div className="col-lg-4 col-sm-6 col-md-6">
+						<div className="col-lg-3 col-sm-6 col-md-6">
 							<div class="single-events-box">
 								<div class="card shadow_1">
 									<div class="card-body">
@@ -71,7 +77,7 @@ const CareerCard = () => {
 							</div>
 						</div>
 
-						<div className="col-lg-4 col-sm-6 col-md-6">
+						<div className="col-lg-3 col-sm-6 col-md-6">
 							<div class="single-events-box">
 								<div class="card shadow_1">
 									<div class="card-body">
@@ -86,12 +92,27 @@ const CareerCard = () => {
 								</div>
 							</div>
 						</div>		
+						<div className="col-lg-3 col-sm-6 col-md-6">
+							<div class="single-events-box">
+								<div class="card shadow_1">
+									<div class="card-body">
+										<div class="media mb-2">
+											<div class="media-body">
+												<img src={details} alt="details" />
+											</div>
+										</div>
+										<h4 align="center" class="fs-20 text-black">Global Exposure</h4>
+										<p class="fs-14">With numerous events happening across the world, get a chance to showcase your talent at the International level. We believe in taking risks and innovating and not get bogged by processes.</p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>						
-
-					<h2 class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h2>
-					
+					<h4 class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h4>
 				</div>
-
+			</div>
+			
+            <div className="container">
                 <div className="row">
                     <div className="col-lg-4 col-sm-6 col-md-6">
 						<div class="single-events-box">
