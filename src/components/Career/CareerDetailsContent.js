@@ -1,6 +1,6 @@
 import React from 'react'
 import UpcomingEventTimer from './UpcomingEventTimer'
-import EventSidebar from './EventSidebar'
+import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 
 const CareerDetailsContent = () => {
