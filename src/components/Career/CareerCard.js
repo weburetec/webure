@@ -9,9 +9,18 @@ import event6 from '../../assets/images/events/event6.webp'
 import event7 from '../../assets/images/events/event7.webp'
 import event8 from '../../assets/images/events/event8.webp'
 import event9 from '../../assets/images/events/event9.webp'
+import details from '../../assets/images/events/events-details.webp'
 
 const CareerCard = () => {
     return (
+        <section className="events-details-area pb-100">
+            <div className="events-details-image">
+                <img src={details} alt="details" />
+
+                <UpcomingEventTimer />
+            </div>
+		</section>
+	
         <div className="events-area pt-100 pb-70">
             <div className="container">
                 <div className="row">
