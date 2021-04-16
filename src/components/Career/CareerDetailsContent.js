@@ -3,7 +3,7 @@ import UpcomingEventTimer from './UpcomingEventTimer'
 import EventSidebar from './EventSidebar'
 import details from '../../assets/images/events/events-details.webp'
 
-const EventDetailsContent = () => {
+const CareerDetailsContent = () => {
     return (
         <section className="events-details-area pb-100">
             <div className="events-details-image">
@@ -39,7 +39,7 @@ const EventDetailsContent = () => {
                     </div>
 
                     <div className="col-lg-4 col-md-12">
-                        <EventSidebar />
+                        <CareerSidebar />
                     </div>
                 </div>
             </div>
@@ -47,4 +47,4 @@ const EventDetailsContent = () => {
     )
 }
 
-export default EventDetailsContent
+export default CareerDetailsContent
