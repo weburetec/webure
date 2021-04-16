@@ -58,7 +58,7 @@ const CareerDetailsContent = () => {
 									<div class="col-md-4 mb-md-0 mb-6">
 										<div class="media justify-content-md-start">
 											<div class="image mr-5">
-												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNMTIgMTJhLjUuNSAwIDAgMCAwLTFIOGEyLjUgMi41IDAgMCAxIDAtNWgxVjRoMnYyaDIuNXYySDhhLjUuNSAwIDAgMCAwIDFoNGEyLjUgMi41IDAgMCAxIDAgNWgtMXYySDl2LTJINi41di0yem04LTJjMC01LjUyMy00LjQ3Ny0xMC0xMC0xMFMwIDQuNDc3IDAgMTBzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTB6Ii8+PC9nPjwvZz48L3N2Zz4=" alt="">
+												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNMTIgMTJhLjUuNSAwIDAgMCAwLTFIOGEyLjUgMi41IDAgMCAxIDAtNWgxVjRoMnYyaDIuNXYySDhhLjUuNSAwIDAgMCAwIDFoNGEyLjUgMi41IDAgMCAxIDAgNWgtMXYySDl2LTJINi41di0yem04LTJjMC01LjUyMy00LjQ3Ny0xMC0xMC0xMFMwIDQuNDc3IDAgMTBzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTB6Ii8+PC9nPjwvZz48L3N2Zz4=" alt=""/>
 											</div>
 											<p class="font-weight-semibold font-size-5 text-black-2 mb-0">80-90K PLN</p>
 										</div>
@@ -66,7 +66,7 @@ const CareerDetailsContent = () => {
 									<div class="col-md-4 pr-lg-0 pl-lg-10 mb-md-0 mb-6">
 										<div class="media justify-content-md-start">
 											<div class="image mr-5">
-												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNNyAydjJoNlYyek01IDRWMWExIDEgMCAwIDEgMS0xaDhhMSAxIDAgMCAxIDEgMXYzaDRhMSAxIDAgMCAxIDEgMXY1aC03VjhIN3YySDBWNWExIDEgMCAwIDEgMS0xem00IDZoMnYzSDl6bS0yIDJ2M2g2di0zaDd2N2ExIDEgMCAwIDEtMSAxSDFhMSAxIDAgMCAxLTEtMXYtN3oiLz48L2c+PC9nPjwvc3ZnPg==" alt="">
+												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDIwIDIwIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNNyAydjJoNlYyek01IDRWMWExIDEgMCAwIDEgMS0xaDhhMSAxIDAgMCAxIDEgMXYzaDRhMSAxIDAgMCAxIDEgMXY1aC03VjhIN3YySDBWNWExIDEgMCAwIDEgMS0xem00IDZoMnYzSDl6bS0yIDJ2M2g2di0zaDd2N2ExIDEgMCAwIDEtMSAxSDFhMSAxIDAgMCAxLTEtMXYtN3oiLz48L2c+PC9nPjwvc3ZnPg==" alt=""/>
 											</div>
 											<p class="font-weight-semibold font-size-5 text-black-2 mb-0">Full-Time</p>
 										</div>
@@ -74,8 +74,78 @@ const CareerDetailsContent = () => {
 									<div class="col-md-4 pl-lg-0">
 										<div class="media justify-content-md-start">
 											<div class="image mr-5">
-												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDE4IDIyIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNNyA5YTIgMiAwIDEgMSA0IDAgMiAyIDAgMCAxLTQgMHptOC4zNjQgNi4zNjRhOSA5IDAgMSAwLTEyLjcyOCAwTDkgMjEuNzI4bDYuMzY0LTYuMzY0eiIvPjwvZz48L2c+PC9zdmc+" alt=""></div><p class="font-size-5 text-gray mb-0">777 Brockton Avenue, <br class="d-md-none d-lg-block d-block">Abington MA 2351</p></div></div></div><div class="row"><div class="col-md-4 mb-lg-0 mb-10"><div class=""><span class="font-size-4 d-block mb-4 text-gray">Career Level</span><h6 class="font-size-5 text-black-2 font-weight-semibold mb-9">Project Manangement</h6></div><div class="tags"><p class="font-size-4 text-gray mb-0">Soft Skill</p><ul class="list-unstyled mr-n3 mb-0"><li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Slack</li><li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Basic English</li><li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Well Organized</li></ul></div></div><div class="col-md-4 pr-lg-0 pl-lg-10 mb-lg-0 mb-8"><div class=""><span class="font-size-4 d-block mb-4 text-gray">Type of corporation</span><h6 class="font-size-5 text-black-2 font-weight-semibold mb-9">B2B &amp; B2C</h6></div><div class="tags"><p class="font-size-4 text-gray mb-3">Technical Skill</p><ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0"><li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li><li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li><li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li><li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li><li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li></ul></div></div><div class="col-md-4 pl-lg-0"><div class=""><span class="font-size-4 d-block mb-4 text-gray">Company size</span><h6 class="font-size-5 text-black-2 font-weight-semibold mb-0">11-50 employees</h6></div></div></div></div><div class="job-details-content pt-8 pl-sm-9 pl-6 pr-sm-9 pr-6 pb-10 light-mode-texts"><div class="row"><div class="col-xl-11 col-md-12 pr-xxl-9 pr-xl-10 pr-lg-20"><div class=""><p class="mb-4 font-size-4 text-gray">Job Description</p><p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p></div><div class=""><span class="font-size-4 font-weight-semibold text-black-2 mb-7">Your Role:</span><p class="font-size-4 text-black-2 mb-7">We’re looking for a passionate individual to design beautiful and functional products for our customers at Gubagoo. We move very fast and you will be expected to contribute to a cross-functional product development squad, that includes product managers and developers, to deliver the UX and UI for the team to bring to life. </p><p class="font-size-4 text-black-2 mb-7">We are serious about remote work. You can work for from anywhere. </p><span class="font-size-4 font-weight-semibold text-black-2 mb-7">What you will be doing:</span><ul class="list-unstyled"><li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Contribute new controls or design improvements to our</li><li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Take ownership of the successful delivery of features</li><li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Help set and achieve quarterly goals</li><li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ship a TON of product improvements and features</li></ul><a class="btn btn-green text-uppercase btn-medium w-180 h-px-48 rounded-3 mr-4 mt-6" href="/#">Apply to this job</a></div></div></div></div></div></div></div></div></div>
-                    </div>
+												<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyMiIgdmlld0JveD0iMCAwIDE4IDIyIj48Zz48Zz48cGF0aCBmaWxsPSIjMDBiMDc0IiBkPSJNNyA5YTIgMiAwIDEgMSA0IDAgMiAyIDAgMCAxLTQgMHptOC4zNjQgNi4zNjRhOSA5IDAgMSAwLTEyLjcyOCAwTDkgMjEuNzI4bDYuMzY0LTYuMzY0eiIvPjwvZz48L2c+PC9zdmc+" alt=""/>
+											</div>
+											<p class="font-size-5 text-gray mb-0">777 Brockton Avenue, <br class="d-md-none d-lg-block d-block">Abington MA 2351</p>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-4 mb-lg-0 mb-10">
+										<div class="">
+											<span class="font-size-4 d-block mb-4 text-gray">Career Level</span>
+											<h6 class="font-size-5 text-black-2 font-weight-semibold mb-9">Project Manangement</h6>
+										</div>
+										<div class="tags">
+											<p class="font-size-4 text-gray mb-0">Soft Skill</p>
+											<ul class="list-unstyled mr-n3 mb-0">
+												<li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Slack</li>
+												<li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Basic English</li>
+												<li class="d-block font-size-4 text-black-2 mt-2"><span class="d-inline-block mr-2">•</span>Well Organized</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-md-4 pr-lg-0 pl-lg-10 mb-lg-0 mb-8">
+										<div class="">
+											<span class="font-size-4 d-block mb-4 text-gray">Type of corporation</span>
+											<h6 class="font-size-5 text-black-2 font-weight-semibold mb-9">B2B &amp; B2C</h6>
+										</div>
+										<div class="tags">
+											<p class="font-size-4 text-gray mb-3">Technical Skill</p>
+											<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
+												<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
+												<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li>
+												<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li>
+												<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
+												<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
+											</ul>
+										</div>
+									</div>
+									<div class="col-md-4 pl-lg-0">
+										<div class="">
+											<span class="font-size-4 d-block mb-4 text-gray">Company size</span>
+											<h6 class="font-size-5 text-black-2 font-weight-semibold mb-0">11-50 employees</h6>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="job-details-content pt-8 pl-sm-9 pl-6 pr-sm-9 pr-6 pb-10 light-mode-texts">
+								<div class="row">
+									<div class="col-xl-11 col-md-12 pr-xxl-9 pr-xl-10 pr-lg-20">
+										<div class="">
+											<p class="mb-4 font-size-4 text-gray">Job Description</p>
+											<p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
+										</div>
+										<div class="">
+											<span class="font-size-4 font-weight-semibold text-black-2 mb-7">Your Role:</span>
+											<p class="font-size-4 text-black-2 mb-7">We’re looking for a passionate individual to design beautiful and functional products for our customers at Gubagoo. We move very fast and you will be expected to contribute to a cross-functional product development squad, that includes product managers and developers, to deliver the UX and UI for the team to bring to life. </p>
+											<p class="font-size-4 text-black-2 mb-7">We are serious about remote work. You can work for from anywhere. </p>
+											<span class="font-size-4 font-weight-semibold text-black-2 mb-7">What you will be doing:</span>
+												<ul class="list-unstyled">
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Contribute new controls or design improvements to our</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Take ownership of the successful delivery of features</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Help set and achieve quarterly goals</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ship a TON of product improvements and features</li>
+												</ul>
+												<a class="btn btn-green text-uppercase btn-medium w-180 h-px-48 rounded-3 mr-4 mt-6" href="/#">Apply to this job</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
                     <div className="col-lg-4 col-md-12">
                         <CareerSidebar />
