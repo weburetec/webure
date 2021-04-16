@@ -279,6 +279,7 @@ const CareerCard = () => {
                 </div>
             </div>
         </div>
+        </div></div></div></div>
     )
 }
 
