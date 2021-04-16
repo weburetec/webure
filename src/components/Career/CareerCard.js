@@ -31,9 +31,10 @@ const CareerCard = () => {
 			</div>
 
             <div className="container">
+				<br/><br/>
+				<h4 class="fs-20 text-black">Offices</h4><br/>
+				<h2 class="fs-20 text-black">Our Global Footprints</h2><br/>
 				<div className="row">
-					<h4 class="fs-20 text-black">Offices</h4><br/>
-					<h2 class="fs-20 text-black">Our Global Footprints</h2><br/>
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
 							<div class="icon">
