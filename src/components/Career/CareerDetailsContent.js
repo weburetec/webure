@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
