@@ -131,11 +131,11 @@ const CareerDetailsContent = () => {
 								</div>
 							</div>
 						</div>
+						<div className="col-lg-4 col-md-12">
+							<CareerSidebar />
+						</div>					
 					</div>
 				</div>
-            <div className="col-lg-4 col-md-12">
-				<CareerSidebar />
-            </div>
 			</div>
         </section>
     )
