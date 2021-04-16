@@ -25,9 +25,7 @@ const CareerCard = () => {
 					</div>
 				</div>
 			</div>
-		</div>
 
-        <div className="events-area pt-100 pb-70">
             <div className="container">
 				<div className="row">
 					<h4 class="fs-20 text-black">Offices</h4>
