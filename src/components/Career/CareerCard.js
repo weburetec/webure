@@ -36,14 +36,11 @@ const CareerCard = () => {
 						<img src={details} alt="details" />
 					</div>
 				</div>
-				<br>
-				<br>
 			</div>
 			
             <div className="container">
 				<div className="row">
 					<h4 class="fs-20 text-black">What to expect when you join us</h4>
-					<div></div>
 					<div className="row">
 						<div className="col-lg-3 col-sm-6 col-md-6">
 							<div class="single-events-box">
