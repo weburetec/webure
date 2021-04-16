@@ -118,7 +118,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-										<a class="btn btn-primary light btn-rounded mr-auto" href="/react/search-job">REMOTE</a>
+										<a class="btn btn-primary light btn-rounded mr-auto" href="/CareerDetailsContent">REMOTE</a>
 										<span class="text-black font-w500">London, England</span>
 									</div>
 								</div>
