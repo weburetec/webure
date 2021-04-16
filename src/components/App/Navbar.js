@@ -150,12 +150,12 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="/service" 
+                                            to="/career" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
                                         >
-                                            Career <i className='bx bx-chevron-down'></i>
+                                            Career
                                         </Link>
                                     </li>
 									
