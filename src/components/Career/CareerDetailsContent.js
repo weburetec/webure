@@ -49,20 +49,21 @@ const CareerDetailsContent = () => {
 												</ul>
 											</div>
 										</div>
-										<div class="col-md-4 text-right pt-7 pt-md-0 mt-md-n1">
-											<div class="media justify-content-md-end">
-												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>											
-											</div>
+										<div class="media justify-content-md-end text-right pt-7 pt-md-0 mt-md-n1">
+											<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>											
+										</div>
+										<div class="col-md-4 ">
+
 											<div className="btn-box">
 												<Link to="#" className="default-btn">
 													<i className="flaticon-user"></i>APPLY NOW! <span></span>
 												</Link>
 											</div>	
-											<div class="col-md-2">
+											<div class="col-md-4">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/><br/>
 												<span class="font-size-3 text-gray line-height-2">Full Time</span>
 											</div>
-											<div class="col-md-2">
+											<div class="col-md-4">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/><br/>
 												<span class="font-size-3 text-gray line-height-2">Full Time</span>
 											</div>
