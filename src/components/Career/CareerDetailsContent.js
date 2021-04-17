@@ -31,13 +31,13 @@ const CareerDetailsContent = () => {
 										</div>
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
-												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4><br/><br/><br/><br/>
-												<div className="btn-box">
-													<Link to="#" className="default-btn">
-														<i className="flaticon-user"></i>APPLY NOW! <span></span>
-													</Link>
-												</div>												
+												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>											
 											</div>
+											<div className="btn-box">
+												<Link to="#" className="default-btn">
+													<i className="flaticon-user"></i>APPLY NOW! <span></span>
+												</Link>
+											</div>	
 										</div>
 									</div>
 										<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
