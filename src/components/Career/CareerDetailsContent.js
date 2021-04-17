@@ -38,6 +38,16 @@ const CareerDetailsContent = () => {
 													<i className="flaticon-user"></i>APPLY NOW! <span></span>
 												</Link>
 											</div>	
+											<div class="col-md-6">
+											<span class="font-size-3 text-gray line-height-2"><strong>Technical Skill</strong></span>
+												<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li>
+													<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
+												</ul>
+											</div>
 										</div>
 									</div>									
 								</div>
