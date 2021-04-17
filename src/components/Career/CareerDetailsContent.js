@@ -27,15 +27,15 @@ const CareerDetailsContent = () => {
 										<div class="col-md-6">
 											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
 											<span class="font-size-3 text-gray line-height-2">AirBnb</span>
-											<div class="col-md-3">
+											<div class="col-md-2">
 												<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
 												<ul class="list-unstyled">
-													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Slack</li>
-													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Basic English</li>
-													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Well Organized</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Slack</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Basic English</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Well Organized</li>
 												</ul>
 											</div>
-											<div class="col-md-9">
+											<div class="col-md-7">
 												<span class="font-size-3 text-gray line-height-2">Technical Skill</span>
 												<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
 													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
