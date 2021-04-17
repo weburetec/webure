@@ -12118,3 +12118,47 @@ Go Top CSS
           transform: translateY(-5px);
 }
 /*# sourceMappingURL=style.css.map */
+
+/*# Career Page Skill Sets */
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.list-inline, .list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+.flex-all-center {
+    justify-content: center;
+}
+.bg-regent-opacity-15 {
+    background-color: rgba(176,213,232,.15);
+}
+.rounded-3 {
+    border-radius: 3px; 
+}
+.font-size-3 {
+    font-size: 13px;
+    line-height: 2;
+    letter-spacing: .26px;
+}
+.h-px-33 {
+    /* height: 33px!important; */
+}
+.mt-2, .my-2 {
+    margin-top: .375rem!important;
+}
+.mr-3, .mx-3 {
+    margin-right: .5rem!important;
+}
+.pr-5, .px-5 {
+    padding-right: .75rem!important;
+}
+.pl-5, .px-5 {
+    padding-left: .75rem!important;
+}
+/*# Career Page Skill Sets */
+
+
