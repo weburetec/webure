@@ -24,8 +24,9 @@ const CareerDetailsContent = () => {
 							<div class="bg-white rounded-4 border border-mercury shadow-9">
 								<div class="pt-9 pl-sm-9 pl-5 pr-sm-9 pr-5 pb-8 border-bottom border-width-1 border-default-color light-mode-texts">
 									<div class="row">
-										<div class="col-md-6">
+										<div class="col-md-8">
 											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
+											<div class="ahl"></div>
 											<span class="font-size-3 text-gray line-height-2">AirBnb</span>
 											<div class="col-md-6">
 												<span class="font-size-3 text-gray line-height-2"><strong>Soft Skill</strong></span>
@@ -48,7 +49,7 @@ const CareerDetailsContent = () => {
 												</ul>
 											</div>
 										</div>
-										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
+										<div class="col-md-4 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
 												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>											
 											</div>

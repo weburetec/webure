@@ -12161,4 +12161,31 @@ Go Top CSS
 }
 /*# Career Page Skill Sets */
 
+/*# Line Animation */
 
+.ahl {
+  width: 20%;
+  height: 2px;
+  background: gray;
+  position: relative;
+  &::before {
+    content: "";
+    background: red;
+    width: 20%;
+    height: 8px;
+    position: absolute;
+    animation-name: ahl;
+    animation-duration: 5s;
+  }
+
+  @keyframes ahl {
+    0% {
+      width: 0%;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+}
+
+/*# Line Animation */
