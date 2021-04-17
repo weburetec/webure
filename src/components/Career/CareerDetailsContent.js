@@ -31,9 +31,7 @@ const CareerDetailsContent = () => {
 										</div>
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
-												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>
-												<br/>
-												<br/>
+												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4><br/><br/><br/><br/>
 												<div className="btn-box">
 													<Link to="#" className="default-btn">
 														<i className="flaticon-user"></i>APPLY NOW! <span></span>
@@ -42,14 +40,15 @@ const CareerDetailsContent = () => {
 											</div>
 										</div>
 									</div>
-									<div class="col-md-6">
 										<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
 										<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
-											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Slack</li>
-											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Basic English</li>
-											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Well Organized</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Slack</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Basic English</li>
+											<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Communication Skill</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Well Organised</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
 										</ul>
-									</div>
+									</div>	
 									<div class="col-md-6">
 										<span class="font-size-3 text-gray line-height-2">Technical Skill</span>
 										<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
