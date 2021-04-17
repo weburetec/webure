@@ -9,6 +9,7 @@ const CareerDetails = () => {
     return (
         <Layout>
             <Navbar />
+			<br/><br/><br/><br/>
             <CareerDetailsContent />
             <Footer />
         </Layout>
