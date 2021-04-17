@@ -59,12 +59,12 @@ const CareerDetailsContent = () => {
 											<br/>
 											<div class="col-md-12">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/>
-												<span class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
+												<span class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0 bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
 											</div>
 											<br/><br/>
 											<div class="col-md-12">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/>
-												<span class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
+												<span class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0 bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
 											</div>
 										</div>
 									</div>									
@@ -74,12 +74,13 @@ const CareerDetailsContent = () => {
 						
 						<div class="col-12">
 							<div class="card-btn-group">
+								<br/>
 								<h4 class="mb-4 font-size-4 text-gray"><strong>Job Description</strong></h4>
 								<p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
-								<span class="font-size-4 font-weight-semibold text-black-2 mb-7">Your Role:</span>
+								<h4 class="mb-4 font-size-4 text-gray"><strong>Your Role:</strong></h4>
 								<p class="font-size-4 text-black-2 mb-7">We’re looking for a passionate individual to design beautiful and functional products for our customers at Gubagoo. We move very fast and you will be expected to contribute to a cross-functional product development squad, that includes product managers and developers, to deliver the UX and UI for the team to bring to life. </p>
 								<p class="font-size-4 text-black-2 mb-7">We are serious about remote work. You can work for from anywhere. </p>
-								<span class="font-size-4 font-weight-semibold text-black-2 mb-7">What you will be doing:</span>								
+								<h4 class="mb-4 font-size-4 text-gray"><strong>What you will be doing:</strong></h4>							
 									<ul class="list-unstyled">
 										<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Contribute new controls or design improvements to our</li>
 										<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Take ownership of the successful delivery of features</li>
