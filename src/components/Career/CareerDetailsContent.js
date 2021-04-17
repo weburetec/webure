@@ -39,8 +39,10 @@ const CareerDetailsContent = () => {
 												</Link>
 											</div>	
 										</div>
-									</div>
-									<div class="col-md-6">
+									</div>									
+								</div>
+							</div>
+																<div class="col-md-6">
 										<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
 										<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
 											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Slack</li>
@@ -59,10 +61,9 @@ const CareerDetailsContent = () => {
 											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
 											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
 										</ul>
-									</div>									
-								</div>
-							</div>
+									</div>
 						</div>
+						
 						<div class="col-12">
 							<div class="card-btn-group">
 								<hr/>
