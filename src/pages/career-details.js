@@ -3,8 +3,7 @@ import Layout from "../components/App/Layout"
 import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
-import CareerDetailsContent from '../components/Career/CareerDetailsContent'
-import upload from '../components/Career/Upload'
+import CareerDetailsContent from '../components/Career/CareerDetailsContent
 
 const CareerDetails = () => {
     return (
@@ -12,7 +11,6 @@ const CareerDetails = () => {
             <Navbar />
 			<br/><br/><br/><br/>
             <CareerDetailsContent />
-			<Upload />
             <Footer />
         </Layout>
     );
