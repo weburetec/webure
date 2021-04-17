@@ -9,12 +9,6 @@ const CareerDetails = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Event Details" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Event Details" 
-            />
             <CareerDetailsContent />
             <Footer />
         </Layout>
