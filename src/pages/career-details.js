@@ -4,6 +4,7 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import CareerDetailsContent from '../components/Career/CareerDetailsContent'
+import upload from '../components/Career/upload'
 
 const CareerDetails = () => {
     return (
@@ -11,6 +12,7 @@ const CareerDetails = () => {
             <Navbar />
 			<br/><br/><br/><br/>
             <CareerDetailsContent />
+			<upload />
             <Footer />
         </Layout>
     );
