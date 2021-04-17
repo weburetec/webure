@@ -25,8 +25,9 @@ const CareerDetailsContent = () => {
 								<div class="pt-9 pl-sm-9 pl-5 pr-sm-9 pr-5 pb-8 border-bottom border-width-1 border-default-color light-mode-texts">
 									<div class="row">
 										<div class="col-md-6">
-											<h3 class="font-size-6 mb-0">Product Designer</h3>
+											<h2 class="font-size-6 mb-0">Product Designer</h2>
 											<span class="font-size-3 text-gray line-height-2">AirBnb</span>
+
 										</div>
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
@@ -39,9 +40,18 @@ const CareerDetailsContent = () => {
 						</div>
 						<div class="col-12">
 							<div class="card-btn-group">
-								<a class="btn btn-green text-uppercase btn-medium rounded-3 w-180 mr-4 mb-5" href="/#">Apply to this job</a>
+								<div className="btn-box">
+									<Link to="#" className="default-btn">
+										<i className="flaticon-user"></i>APPLY NOW! <span></span>
+									</Link>
+								</div>
 								<a class="btn btn-outline-mercury text-black-2 text-uppercase h-px-48 rounded-3 mb-5 px-5" href="/#">
-								<i class="icon icon-bookmark-2 font-weight-bold mr-4 font-size-4"></i> Save job</a>
+								<div className="btn-box">
+									<Link to="#" className="default-btn">
+										<i className="flaticon-user"></i>APPLY NOW! <span></span>
+									</Link>
+								</div>
+								<hr/>
 								<p class="mb-4 font-size-4 text-gray">Job Description</p>
 								<p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
 								<span class="font-size-4 font-weight-semibold text-black-2 mb-7">Your Role:</span>
