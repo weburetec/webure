@@ -32,6 +32,11 @@ const CareerDetailsContent = () => {
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
 												<p class="font-size-4 text-gray mb-0">19 June 2020</p>
+												<div className="btn-box">
+													<Link to="#" className="default-btn">
+														<i className="flaticon-user"></i>APPLY NOW! <span></span>
+													</Link>
+												</div>
 											</div>
 										</div>
 									</div>
@@ -40,17 +45,6 @@ const CareerDetailsContent = () => {
 						</div>
 						<div class="col-12">
 							<div class="card-btn-group">
-								<div className="btn-box">
-									<Link to="#" className="default-btn">
-										<i className="flaticon-user"></i>APPLY NOW! <span></span>
-									</Link>
-								</div>
-								<a class="btn btn-outline-mercury text-black-2 text-uppercase h-px-48 rounded-3 mb-5 px-5" href="/#">
-								<div className="btn-box">
-									<Link to="#" className="default-btn">
-										<i className="flaticon-user"></i>APPLY NOW! <span></span>
-									</Link>
-								</div>
 								<hr/>
 								<p class="mb-4 font-size-4 text-gray">Job Description</p>
 								<p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
