@@ -56,10 +56,12 @@ const CareerDetailsContent = () => {
 													<i className="flaticon-user"></i>APPLY NOW! <span></span>
 												</Link>
 											</div>	
+											<br/>
 											<div class="col-md-12">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/>
 												<span class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
 											</div>
+											<br/><br/>
 											<div class="col-md-12">
 												<span class="font-size-3 text-gray line-height-2"><strong>Type</strong></span><br/>
 												<span class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Full Time</span>
@@ -72,7 +74,6 @@ const CareerDetailsContent = () => {
 						
 						<div class="col-12">
 							<div class="card-btn-group">
-								<hr/>
 								<h4 class="mb-4 font-size-4 text-gray"><strong>Job Description</strong></h4>
 								<p class="font-size-4 text-black-2 mb-7">Gubagoo is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
 								<span class="font-size-4 font-weight-semibold text-black-2 mb-7">Your Role:</span>
