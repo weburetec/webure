@@ -27,37 +27,39 @@ const CareerDetailsContent = () => {
 										<div class="col-md-6">
 											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
 											<span class="font-size-3 text-gray line-height-2">AirBnb</span>
-											<div class="col-md-2">
-												<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
-												<ul class="list-unstyled">
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Slack</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Basic English</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Well Organized</li>
-												</ul>
-											</div>
-											<div class="col-md-7">
-												<span class="font-size-3 text-gray line-height-2">Technical Skill</span>
-												<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li>
-													<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
-												</ul>
-											</div>
 
 										</div>
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
 											<div class="media justify-content-md-end">
-												<p class="font-size-4 text-gray mb-0">19 June 2020</p>
-											</div>
-											<div className="btn-box">
-												<Link to="#" className="default-btn">
-													<i className="flaticon-user"></i>APPLY NOW! <span></span>
-												</Link>
+												<h4 class="font-size-4 text-gray mb-0"><strong>19 June 2020</strong></h4>
+												<br/>
+												<br/>
+												<div className="btn-box">
+													<Link to="#" className="default-btn">
+														<i className="flaticon-user"></i>APPLY NOW! <span></span>
+													</Link>
+												</div>												
 											</div>
 										</div>
 									</div>
+									<div class="col-md-6">
+									<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
+										<ul class="list-unstyled">
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Slack</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Basic English</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2"><span class="d-inline-block mr-7">•</span>Well Organized</li>
+										</ul>
+									</div>
+									<div class="col-md-6">
+										<span class="font-size-3 text-gray line-height-2">Technical Skill</span>
+										<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li>
+											<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
+											<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
+										</ul>
+									</div>									
 								</div>
 							</div>
 						</div>
