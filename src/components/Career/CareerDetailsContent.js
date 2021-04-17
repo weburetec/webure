@@ -25,8 +25,20 @@ const CareerDetailsContent = () => {
 								<div class="pt-9 pl-sm-9 pl-5 pr-sm-9 pr-5 pb-8 border-bottom border-width-1 border-default-color light-mode-texts">
 									<div class="row">
 										<div class="col-md-6">
-											<h2 class="font-size-6 mb-0">Product Designer</h2>
+											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
 											<span class="font-size-3 text-gray line-height-2">AirBnb</span>
+											<div class="col-md-6">
+												<span class="font-size-3 text-gray line-height-2">Soft Skill</span>
+												<ul class="list-unstyled">
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Contribute new controls or design improvements to our</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Take ownership of the successful delivery of features</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Help set and achieve quarterly goals</li>
+													<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ship a TON of product improvements and features</li>
+												</ul>
+											</div>
+											<div class="col-md-6">
+												<span class="font-size-3 text-gray line-height-2">Technical Skill</span>
+											</div>
 
 										</div>
 										<div class="col-md-6 text-right pt-7 pt-md-0 mt-md-n1">
