@@ -16,7 +16,7 @@ const ContactForm = () => {
                                 <div className="row">
                                     <div className="col-lg-12 col-md-6">
                                         <div className="form-group">
-                                            <input type="text" name="name" className="form-control" required placeholder="Your name" />
+                                            <input type="text" name="name" className="form-control" required placeholder="Name" />
                                         </div>
                                     </div>
 
@@ -34,8 +34,24 @@ const ContactForm = () => {
 
                                     <div className="col-lg-12 col-md-12">
                                         <div className="form-group">
+                                            <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="Objective" />
+                                        </div>
+                                    </div>
+
+                                    <div className="col-lg-12 col-md-12">
+                                        <div className="form-group">
+                                            <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="Experience" />
+                                        </div>
+                                    </div>
+
+                                    <div className="col-lg-12 col-md-12">
+                                        <div className="form-group">
                                             <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="Write your message..." />
                                         </div>
+                                    </div>
+
+                                    <div className="col-lg-12 col-md-12">
+                                        <input type="file" id="myFile" name="filename">
                                     </div>
 
                                     <div className="col-lg-12 col-md-12">
