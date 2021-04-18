@@ -51,15 +51,6 @@ const ContactForm = () => {
                                     </div>
 
                                     <div className="col-lg-12 col-md-12">
-										<form>
-										  <div class="custom-file">
-											<input type="file" class="custom-file-input" id="customFile">
-											<label class="custom-file-label" for="customFile">Choose file</label>
-										  </div>
-										</form>
-                                    </div>
-
-                                    <div className="col-lg-12 col-md-12">
                                         <button type="submit" className="default-btn">
                                             <i className="flaticon-tick"></i> 
                                             Send Message <span></span>
