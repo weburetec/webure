@@ -9,12 +9,7 @@ const Career = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Career" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Career" 
-            />
+			<br/><br/><br/><br/>
             <CareerCard />
             <Footer />
         </Layout>
