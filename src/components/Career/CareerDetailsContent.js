@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
-import CareerSidebar from './CareerSidebar'
+import ContactForm from '../components/Contact/ContactForm'
 import details from '../../assets/images/events/events-details.webp'
 
 const CareerDetailsContent = () => {
