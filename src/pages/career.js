@@ -9,7 +9,6 @@ const Career = () => {
     return (
         <Layout>
             <Navbar />
-			<br/><br/><br/><br/>
             <CareerCard />
             <Footer />
         </Layout>
