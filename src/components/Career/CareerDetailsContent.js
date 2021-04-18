@@ -91,7 +91,7 @@ const CareerDetailsContent = () => {
 						</div>							
 					</div>
 					<div className="col-lg-4 col-md-12">
-						<CareerSidebar />
+						<ContactForm />
 					</div>
 				</div>
 			</div>
