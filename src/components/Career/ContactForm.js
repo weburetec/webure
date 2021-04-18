@@ -7,22 +7,10 @@ const ContactForm = () => {
         <section className="contact-area pb-100">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">
-                        <img src={starIcon} alt="contact" /> 
-                        Get in Touch
-                    </span>
-                    <h2>Ready to Get Started?</h2>
-                    <p>Your email address will not be published. Required fields are marked *</p>
+                    <h4>Apply Job</h4>
                 </div>
 
                 <div className="row">
-                    <div className="col-lg-6 col-md-12">
-                        <div className="contact-image">
-                            <img src={contact} alt="contact" />
-                        </div>
-                    </div>
-
-                    <div className="col-lg-6 col-md-12">
                         <div className="contact-form">
                             <form id="contactForm">
                                 <div className="row">
@@ -59,7 +47,6 @@ const ContactForm = () => {
                                 </div>
                             </form>
                         </div>
-                    </div>
                 </div>
             </div>
         </section>
