@@ -4,12 +4,13 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import CareerCard from '../components/Career/CareerCard'
-
+import upload from '../components/Career/upload'
 const Career = () => {
     return (
         <Layout>
             <Navbar />
             <CareerCard />
+			<upload />
             <Footer />
         </Layout>
     );
