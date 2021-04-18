@@ -1,7 +1,7 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody, MDBInput, MDBBtn, MDBIcon, MDBModalFooter } from 'mdbreact';
 
-const FormPage = () => {
+const Upload = () => {
   return (
     <MDBContainer>
       <MDBRow>
@@ -92,4 +92,4 @@ const FormPage = () => {
   );
 };
 
-export default FormPage;
+export default Upload;
