@@ -18,6 +18,10 @@ import contact04 from '../../assets/images/contact-04.webp'
 const CareerCard = () => {
     return (
         <div className="events-area pt-100 pb-70">
+		    <div className="events-details-image">
+                <img src={details} alt="details" />
+                <UpcomingEventTimer />
+            </div>
             <div className="container">
 				<div className="row">
 					<div className="col-lg-6 col-sm-6 col-md-6">
