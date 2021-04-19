@@ -1,12 +1,9 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import payment1 from '../../assets/images/payment/payment1.webp'
-import payment2 from '../../assets/images/payment/payment2.webp'
-import payment3 from '../../assets/images/payment/payment3.webp'
 
 const CareerSidebar = () => {
     return (
-		<br /><br />
+		<br/><br/>
         <div className="events-details-info">
             <ul className="info">
                 <li>
