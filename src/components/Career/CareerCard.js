@@ -60,6 +60,21 @@ const CareerCard = () => {
 							<div class="col-lg-4 col-sm-6">						
 								<img src={Location6} alt="Location6" />
 							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location7} alt="Location7" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location8} alt="Location8" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location9} alt="Location9" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location10} alt="Location10" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location11} alt="Location11" />
+							</div>
 						</div>
 					</div>
 				</div>
@@ -69,40 +84,6 @@ const CareerCard = () => {
 				<br/><br/>
 				<h4 class="fs-20 text-black">Offices</h4><br/>
 				<h2 class="fs-20 text-black">Our Global Footprints</h2><br/>
-				<div className="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-solutions-box">
-							<div class="icon">
-								<img src={contact01} alt="contact01" />
-							</div>
-							<h3><a href="/service-details">New York Office</a></h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-solutions-box">
-							<div class="icon">
-								<img src={contact01} alt="contact01" />
-							</div>
-							<h3><a href="/service-details">New York Office</a></h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-solutions-box">
-							<div class="icon">
-								<img src={contact01} alt="contact01" />
-							</div>
-							<h3><a href="/service-details">New York Office</a></h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-solutions-box">
-							<div class="icon">
-								<img src={contact01} alt="contact01" />
-							</div>
-							<h3><a href="/service-details">New York Office</a></h3>
-						</div>
-					</div>
-				</div>
 			</div>
 			
 			
