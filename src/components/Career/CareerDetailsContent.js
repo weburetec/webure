@@ -2,6 +2,7 @@ import React from 'react'
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
+import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 
 const CareerDetailsContent = () => {
@@ -91,6 +92,8 @@ const CareerDetailsContent = () => {
 						</div>							
 					</div>
 					<div className="col-lg-4 col-md-12">
+						<CareerSidebar />
+						<br />
 						<ContactForm />
 					</div>
 				</div>

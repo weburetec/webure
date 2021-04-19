@@ -8,43 +8,19 @@ const CareerSidebar = () => {
     return (
         <div className="events-details-info">
             <ul className="info">
-                <li className="price">
+                <li>
                     <div className="d-flex justify-content-between align-items-center">
-                        <span>Cost</span>
-                        $149
+                        <span>JOB ID</span>
+                        WT/BRLHYD/DEV/001
                     </div>
                 </li>
                 <li>
                     <div className="d-flex justify-content-between align-items-center">
-                        <span>Total Slot</span>
-                        1500
-                    </div>
-                </li>
-                <li>
-                    <div className="d-flex justify-content-between align-items-center">
-                        <span>Booked Slot</span>
-                        350
-                    </div>
-                </li>
-                <li>
-                    <div className="d-flex justify-content-between align-items-center">
-                        <span>Pay With</span>
-                        <div className="payment-method">
-                            <img src={payment1} className="shadow" alt="payment-card" />
-                            <img src={payment2} className="shadow" alt="payment-card" />
-                            <img src={payment3} className="shadow" alt="payment-card" />
-                        </div>
+                        <span>Department</span>
+                        Development
                     </div>
                 </li>
             </ul>
-
-            <div className="btn-box">
-                <Link to="#" className="default-btn">
-                    <i className="flaticon-user"></i> 
-                    Book Now <span></span>
-                </Link>
-                <p>You must <Link to="/profile-authentication">login</Link> before register event.</p>
-            </div>
 
             <div className="events-share">
                 <div className="share-info">
