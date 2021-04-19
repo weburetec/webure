@@ -217,7 +217,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
@@ -244,7 +244,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
@@ -271,7 +271,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
@@ -298,7 +298,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
@@ -325,7 +325,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
@@ -352,7 +352,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/event-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
 									</div>
 								</div>
