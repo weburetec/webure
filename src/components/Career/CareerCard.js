@@ -26,13 +26,13 @@ const CareerCard = () => {
             </div>
             <div className="container">
 				<div className="row">
-					<div className="col-lg-8 col-sm-6 col-md-6">
+					<div className="col-lg-6 col-sm-6 col-md-6">
 						<h2 class="fs-20 text-black">We are Webure</h2>
 						<h4 class="fs-14">Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before.”</h4>
 					</div>
-					<div className="col-lg-4 col-sm-6 col-md-6">
+					<div className="col-lg-6 col-sm-6 col-md-6">
 						<div class="card-body">
-							<div class="col-lg-3 col-sm-6">
+							<div class="col-md-6">
 								<div class="single-solutions-box">
 									<div class="icon">
 										<img src={Bangalore} alt="Bangalore" />
@@ -40,7 +40,7 @@ const CareerCard = () => {
 									<h3><a href="/service-details">New York Office</a></h3>
 								</div>
 							</div>
-							<div class="col-lg-3 col-sm-6">
+							<div class="col-md-6">
 								<div class="single-solutions-box">
 									<div class="icon">
 										<img src={Bangalore} alt="Bangalore" />
