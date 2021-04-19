@@ -46,6 +46,12 @@ const ContactForm = () => {
 
                                     <div className="col-lg-12 col-md-12">
                                         <div className="form-group">
+                                            <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="- To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!!!" />
+                                        </div>
+                                    </div>
+
+                                    <div className="col-lg-12 col-md-12">
+                                        <div className="form-group">
                                             <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="Write your message..." />
                                         </div>
                                     </div>
