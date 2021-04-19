@@ -14,7 +14,7 @@ import contact01 from '../../assets/images/contact-01.webp'
 import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
-import Bangalore from '../../assets/images/Bangalore.webp'
+import Bangalore from '../../assets/images/Melbourne.webp'
 import UpcomingEventTimer from './UpcomingEventTimer'
 
 const CareerCard = () => {
