@@ -14,7 +14,17 @@ import contact01 from '../../assets/images/contact-01.webp'
 import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
-import Bangalore from '../../assets/images/Melbourne.webp'
+import Location1 from '../../assets/images/Location-1.webp'
+import Location2 from '../../assets/images/Location-2.webp'
+import Location3 from '../../assets/images/Location-3.webp'
+import Location4 from '../../assets/images/Location-4.webp'
+import Location5 from '../../assets/images/Location-5.webp'
+import Location6 from '../../assets/images/Location-6.webp'
+import Location7 from '../../assets/images/Location-7.webp'
+import Location8 from '../../assets/images/Location-8.webp'
+import Location9 from '../../assets/images/Location-9.webp'
+import Location10 from '../../assets/images/Location-10.webp'
+import Location11 from '../../assets/images/Location-11.webp'
 import UpcomingEventTimer from './UpcomingEventTimer'
 
 const CareerCard = () => {
@@ -32,11 +42,23 @@ const CareerCard = () => {
 					</div>
 					<div className="col-lg-6 col-sm-6 col-md-6">
 						<div className="row">
-							<div class="col-lg-3 col-sm-6">						
-								<img src={Bangalore} alt="Bangalore" />
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location1} alt="Location1" />
 							</div>
-							<div class="col-lg-3 col-sm-6">						
-								<img src={Bangalore} alt="Bangalore" />
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location2} alt="Location2" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location3} alt="Location3" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location4} alt="Location4" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location5} alt="Location5" />
+							</div>
+							<div class="col-lg-4 col-sm-6">						
+								<img src={Location6} alt="Location6" />
 							</div>
 						</div>
 					</div>
