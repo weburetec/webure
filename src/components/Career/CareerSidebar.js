@@ -6,6 +6,7 @@ import payment3 from '../../assets/images/payment/payment3.webp'
 
 const CareerSidebar = () => {
     return (
+		<br /><br />
         <div className="events-details-info">
             <ul className="info">
                 <li>
@@ -21,35 +22,6 @@ const CareerSidebar = () => {
                     </div>
                 </li>
             </ul>
-
-            <div className="events-share">
-                <div className="share-info">
-                    <span>Share This Course <i className="flaticon-share"></i></span>
-
-                    <ul className="social-link">
-                        <li>
-                            <Link to="#" className="d-block">
-                                <i className='bx bxl-facebook'></i>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to="#" className="d-block">
-                                <i className='bx bxl-twitter'></i>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to="#" className="d-block">
-                                <i className='bx bxl-instagram'></i>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to="#" className="d-block">
-                                <i className='bx bxl-linkedin'></i>
-                            </Link>
-                        </li>
-                    </ul>
-                </div>
-            </div>
         </div>
     )
 }
