@@ -3,7 +3,6 @@ import {Link} from 'gatsby'
 
 const CareerSidebar = () => {
     return (
-		<br/><br/>
         <div className="events-details-info">
             <ul className="info">
                 <li>
