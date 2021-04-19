@@ -14,6 +14,7 @@ import contact01 from '../../assets/images/contact-01.webp'
 import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
+import Bangalore from '../../assets/images/Bangalore.webp'
 import UpcomingEventTimer from './UpcomingEventTimer'
 
 const CareerCard = () => {
@@ -31,7 +32,38 @@ const CareerCard = () => {
 					</div>
 					<div className="col-lg-4 col-sm-6 col-md-6">
 						<div class="card-body">
-							<img src={details} alt="details" />
+							<div class="col-lg-3 col-sm-6">
+								<div class="single-solutions-box">
+									<div class="icon">
+										<img src={Bangalore} alt="Bangalore" />
+									</div>
+									<h3><a href="/service-details">New York Office</a></h3>
+								</div>
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div class="single-solutions-box">
+									<div class="icon">
+										<img src={Bangalore} alt="Bangalore" />
+									</div>
+									<h3><a href="/service-details">New York Office</a></h3>
+								</div>
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div class="single-solutions-box">
+									<div class="icon">
+										<img src={Bangalore} alt="Bangalore" />
+									</div>
+									<h3><a href="/service-details">New York Office</a></h3>
+								</div>
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div class="single-solutions-box">
+									<div class="icon">
+										<img src={Bangalore} alt="Bangalore" />
+									</div>
+									<h3><a href="/service-details">New York Office</a></h3>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
