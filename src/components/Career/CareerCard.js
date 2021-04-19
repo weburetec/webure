@@ -38,7 +38,8 @@ const CareerCard = () => {
 				<div className="row">
 					<div className="col-lg-6 col-sm-6 col-md-6">
 						<h2 class="fs-20 text-black">We are Webure</h2>
-						<h4 class="fs-14">Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before.”</h4>
+						<h4 class="fs-14">Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done. We are fully aware of the fact that “if you want something never done.”</h4>
+						<h2 class="fs-20 text-black">Our Global Footprints</h2><br/>
 						<div className="row">
 							<div class="col-lg-4 col-sm-6">						
 								<img src={Location1} alt="Location1" />
@@ -62,22 +63,28 @@ const CareerCard = () => {
 							<div class="col-lg-4 col-sm-6">						
 								<img src={Location3} alt="Location3" />
 							</div>
-							<div class="col-lg-4 col-sm-6">						
+							<div class="col-lg-4 col-sm-6">	
+								<br/>
 								<img src={Location4} alt="Location4" />
 							</div>
 							<div class="col-lg-4 col-sm-6">						
+								<br/>
 								<img src={Location5} alt="Location5" />
 							</div>
 							<div class="col-lg-4 col-sm-6">						
+								<br/>
 								<img src={Location6} alt="Location6" />
 							</div>
 							<div class="col-lg-4 col-sm-6">						
+								<br/>
 								<img src={Location7} alt="Location7" />
 							</div>
 							<div class="col-lg-4 col-sm-6">						
+								<br/>
 								<img src={Location8} alt="Location8" />
 							</div>
 							<div class="col-lg-4 col-sm-6">						
+								<br/>
 								<img src={Location9} alt="Location9" />
 							</div>
 						</div>
