@@ -15,8 +15,6 @@ import Partner from "../components/Index/Partner"
 import ProjectStartArea from "../components/Index/ProjectStartArea"
 import OurBlog from "../components/Index/OurBlog"
 
-const TeamMember = lazy(() => import(‘../components/Index/TeamMember’))
-
 const Home = () => {
   return (
     <Layout>
@@ -34,4 +32,3 @@ const Home = () => {
 }
 
 export default Home
-ReactDOM.render(<App />, document.getElementById(‘root’));
