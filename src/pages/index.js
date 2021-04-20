@@ -1,5 +1,4 @@
 import React from "react"
-import ReactDOM from ‘react-dom’;
 import Navbar from "../components/App/Navbar"
 import Footer from "../components/App/Footer"
 import Layout from "../components/App/Layout"
