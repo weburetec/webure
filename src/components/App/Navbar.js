@@ -58,9 +58,9 @@ const Navbar = () => {
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
                                         <Link 
-                                            to="/about-us" 
+                                            to="/index"
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()} 
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             Home
@@ -71,7 +71,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/about-us" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             About Us <i className='bx bx-chevron-down'></i>
@@ -128,7 +128,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/service" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             Services
@@ -139,7 +139,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/career" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             Career
@@ -150,7 +150,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/case-studies" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             ROI Stories</Link>
@@ -160,7 +160,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/blog" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             Blog
