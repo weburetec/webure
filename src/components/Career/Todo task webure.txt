@@ -6,4 +6,28 @@
 6. Check how to defer images of team members in home page for faster loading
 7. Add contact pop up form for collection of leads on button click at banner in home page
 8. In ready to grow business add image rollover effect with some content in it
-9.
+9. Contact form design to be changed to material design
+10. 
+
+
+
+.hover_style_1:before {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: .3s ease-out;
+    -o-transition: .3s ease-out;
+    transition: .3s ease-out;
+    background-image: -o-linear-gradient(356deg,#ff4545,#e82a2a);
+    background-image: linear-gradient(
+94deg
+,#ff4545,#e82a2a);
+    background: -webkit-linear-gradient(
+94deg
+,#ff4545,#e82a2a);
+    -webkit-text-fill-color: transparent;
+}
