@@ -17,7 +17,7 @@ const ProjectStartArea = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="project-start-content">
                             <h2>We Like to Start Your Project With Us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <p>Let’s talk and explore variety of digital marketing strategies to build your brand and reach the right people.</p>
                             
                             <Link to="/contact" className="default-btn">
                                 <i className="flaticon-web"></i> 

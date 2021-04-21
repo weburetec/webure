@@ -1,0 +1,9 @@
+1. Add icons of awards in banner
+2. Menu links not working
+3. add some stats in home page
+4. Add partner images in home page
+5. Make the changes in footer 
+6. Check how to defer images of team members in home page for faster loading
+7. Add contact pop up form for collection of leads on button click at banner in home page
+8. In ready to grow business add image rollover effect with some content in it
+9.
