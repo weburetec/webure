@@ -170,7 +170,7 @@ const Navbar = () => {
                                         <Link 
                                             to="/gallery" 
                                             activeClassName="active"
-                                            onClick={e => e.preventDefault()}
+                                            onClick={() => setCollapsed(true)}
                                             className="nav-link"
                                         >
                                             Clientele
