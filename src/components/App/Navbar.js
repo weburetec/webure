@@ -126,7 +126,7 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="/service" 
+                                            to="/services"
                                             activeClassName="active"
                                             onClick={() => setCollapsed(true)}
                                             className="nav-link"
