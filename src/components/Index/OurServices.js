@@ -15,7 +15,7 @@ const Services = () => {
             <div className="container">
                 <div className="section-title">
                     <h2>Services We Can Help You With</h2>
-                    <p>We offer the same services that thousands of others do. But the real difference is in the execution. Choose any of these services and we’ll show you the difference between us and others. Turn your great ideas into profitable mobile and software products with our excellent blockchain, mobile app development and software development services.</p>
+                    <p>We offer the same services that thousands of others do. But the real difference is in the execution. Choose any of these services and we’ll show you the difference between us and others. Turn your great ideas into profitable mobile and software products with our excellent services.</p>
                 </div>
 
                 <div className="row">
@@ -29,7 +29,7 @@ const Services = () => {
                                     Web Development
                                 </Link>
                             </h3>
-                            <p>We're motivated to scale and grow your business as we are more than just a web application development company. We're strong software development partner who is ready to cover all your technology needs.</p>
+                            <p>We're motivated to scale and grow your business as we are more than just a web application development company. We're strong software development partner who is ready to cover all your tech needs.</p>
                             <Link to="/service-details" className="learn-more-btn">
                                 <i className="flaticon-right"></i> Learn More
                             </Link>
