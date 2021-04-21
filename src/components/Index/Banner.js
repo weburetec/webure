@@ -15,7 +15,7 @@ const Banner = () => {
                             </ReactWOW>
 
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                <p>That helps clients expand their digital reach.</p>
+                                <h4>That helps clients expand their digital reach. Put your brand on the map with the ROI driven Digital Marketing solutions</h4>
                             </ReactWOW>
 
                             <ReactWOW delay='.1s' animation='fadeInRight'>
