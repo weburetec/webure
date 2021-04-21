@@ -58,7 +58,7 @@ const Navbar = () => {
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
                                         <Link 
-                                            to="/index"
+                                            to="/"
                                             activeClassName="active"
                                             onClick={() => setCollapsed(true)}
                                             className="nav-link"
