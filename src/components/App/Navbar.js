@@ -58,7 +58,7 @@ const Navbar = () => {
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
                                         <Link 
-                                            to="/" 
+                                            to="/about-us" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()} 
                                             className="nav-link"
@@ -69,7 +69,7 @@ const Navbar = () => {
 
                                     <li className="nav-item">
                                         <Link 
-                                            to="#" 
+                                            to="/about-us" 
                                             activeClassName="active"
                                             onClick={e => e.preventDefault()}
                                             className="nav-link"
