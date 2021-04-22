@@ -82,11 +82,10 @@ const OurSolutions = () => {
 				</div>
 
                 <div className="section-title">
-                    <span className="sub-title">
-                        <img src={starIcon} alt="star" class="lazyload"/> 
+                    <span className="sub-title"> 
                         Our Solutions
                     </span>
-                    <h2>We Different From Others Should Choose Us</h2>
+                    <h2>We are different from others Why should you Choose Us</h2>
                     <p>Webure a Full Service Agency that help our clients expand their digital reach.</p>
                 </div>
 
@@ -141,7 +140,7 @@ const OurSolutions = () => {
                                 </Link>
                             </h3> 
 
-                            <p>Collaborating our services and web application under mobile friendly web interface to ensure seamless incorporation that is at the juncture of art and technology.</p>
+                            <p>Collaborating our services and web application under mobile friendly web interface to ensure seamless collaboration as your extended team for technology.</p>
                             
                             <Link to="/service-details" className="view-details-btn">
                                 View Details
