@@ -43,18 +43,12 @@ const Testimonials = () => {
         <div className="testimonials-area pt-100 bg-f1f8fb">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">
-                        <img src={starIcon} alt="testimonial" /> 
+                    <span className="sub-title"> 
                         Testimonials
                     </span>
                     <h2>What Our Clients are Saying?</h2>
                     <p>Being the best digital marketing agency in India and US, we partner with clients to create superior digital experiences.</p>
                 </div>
-				<div className="row">
-                    <div className="col-lg-4 col-md-6 col-sm-12">
-						<img src={client1} alt="testimonial" />
-					</div>
-				</div>
 				
                 {display ? <OwlCarousel 
                     className="testimonials-slides owl-carousel owl-theme"
