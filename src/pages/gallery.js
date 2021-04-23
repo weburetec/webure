@@ -14,6 +14,9 @@ import gallery6 from '../assets/images/gallery/Client06.png'
 import gallery7 from '../assets/images/gallery/Client07.png'
 import gallery8 from '../assets/images/gallery/Client08.png'
 import gallery9 from '../assets/images/gallery/Client09.png'
+import gallery10 from '../assets/images/gallery/Client09.png'
+import gallery11 from '../assets/images/gallery/Client09.png'
+import gallery12 from '../assets/images/gallery/Client09.png'
 import Lightbox from 'react-image-lightbox'
 
 const images = [
@@ -26,6 +29,9 @@ const images = [
     (gallery7),
     (gallery8),
     (gallery9),
+    (gallery10),
+    (gallery11),
+    (gallery12),
 ];
 
 const Gallery = () => {
@@ -173,6 +179,51 @@ const Gallery = () => {
                                     }
                                 >
                                     <img src={gallery9} alt="event" />
+                                </Link>
+                            </div>
+                        </div>
+						
+                        <div className="col-lg-3 col-md-6 col-sm-6">
+                            <div className="single-gallery-item">
+                                <Link 
+                                    to="#"
+                                    onClick={e => {
+                                        e.preventDefault(); 
+                                        setIsOpenImage(true); 
+                                        setPhotoIndex(8);}
+                                    }
+                                >
+                                    <img src={gallery10} alt="event" />
+                                </Link>
+                            </div>
+                        </div>
+						
+                        <div className="col-lg-3 col-md-6 col-sm-6">
+                            <div className="single-gallery-item">
+                                <Link 
+                                    to="#"
+                                    onClick={e => {
+                                        e.preventDefault(); 
+                                        setIsOpenImage(true); 
+                                        setPhotoIndex(8);}
+                                    }
+                                >
+                                    <img src={gallery11} alt="event" />
+                                </Link>
+                            </div>
+                        </div>
+						
+                        <div className="col-lg-3 col-md-6 col-sm-6">
+                            <div className="single-gallery-item">
+                                <Link 
+                                    to="#"
+                                    onClick={e => {
+                                        e.preventDefault(); 
+                                        setIsOpenImage(true); 
+                                        setPhotoIndex(8);}
+                                    }
+                                >
+                                    <img src={gallery12} alt="event" />
                                 </Link>
                             </div>
                         </div>
