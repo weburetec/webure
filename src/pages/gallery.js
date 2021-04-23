@@ -4,6 +4,7 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import {Link} from 'gatsby'
+import details from '../../assets/images/events/events-details.webp'
 import gallery1 from '../assets/images/gallery/Client01.png'
 import gallery2 from '../assets/images/gallery/Client02.png'
 import gallery3 from '../assets/images/gallery/Client03.png'
@@ -42,6 +43,10 @@ const Gallery = () => {
             />
 
             <div className="gallery-area pt-100 pb-70">
+				<div className="events-details-image">
+					<img src={details} alt="details" />
+					<UpcomingEventTimer />
+				</div>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3 col-md-6 col-sm-6">
