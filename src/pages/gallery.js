@@ -35,12 +35,6 @@ const Gallery = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Gallery" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Gallery" 
-            />
 
             <div className="gallery-area pt-100 pb-70">
 				<div className="events-details-image">
