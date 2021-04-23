@@ -39,7 +39,6 @@ const Gallery = () => {
             <div className="gallery-area pt-100 pb-70">
 				<div className="events-details-image">
 					<img src={details} alt="details" />
-					<UpcomingEventTimer />
 				</div>
                 <div className="container">
                     <div className="row">
