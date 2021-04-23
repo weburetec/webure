@@ -4,7 +4,7 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import {Link} from 'gatsby'
-import details from '../../assets/images/events/events-details.webp'
+import details from '../assets/images/events/events-details.webp'
 import gallery1 from '../assets/images/gallery/Client01.png'
 import gallery2 from '../assets/images/gallery/Client02.png'
 import gallery3 from '../assets/images/gallery/Client03.png'
