@@ -44,7 +44,7 @@ const Gallery = () => {
             <div className="gallery-area pt-100 pb-70">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -59,7 +59,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -74,7 +74,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -89,7 +89,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -104,7 +104,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -119,7 +119,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -134,7 +134,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -149,7 +149,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
@@ -164,7 +164,7 @@ const Gallery = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="single-gallery-item">
                                 <Link 
                                     to="#"
