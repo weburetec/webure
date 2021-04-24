@@ -28,6 +28,9 @@ const Navbar = () => {
 
     return (
         <React.Fragment>
+			<div class="topbar">
+				<p>Hi, I'm a fixed topbar that disappears and reappears depeing on scroll positions</p>
+			</div>
             <div id="navbar" className="navbar-area">
                 <div className="tarn-nav">
                     <div className="container-fluid">

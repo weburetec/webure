@@ -12189,3 +12189,16 @@ Go Top CSS
 }
 
 /*# Line Animation */
+
+
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 60px;
+  width: 100%;
+  background-color: #30336b;
+  &--shadow {
+    box-shadow: 0 0 10px rgba(#000, .5);
+  }
+}
