@@ -12200,5 +12200,11 @@ Go Top CSS
   background-color: #30336b;
   &--shadow {
     box-shadow: 0 0 10px rgba(#000, .5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+  font-size: 16px;
+  color: #f6e58d;
   }
 }
