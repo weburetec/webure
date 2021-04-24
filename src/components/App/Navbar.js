@@ -36,7 +36,7 @@ const Navbar = () => {
 						<p>connect@webure.in</p>						
 					</div>
 					<div className="col-lg-4 col-md-12">
-						<p>Hi, I'm a fixed topbar that disappears and reappears depeing on scroll positions</p>						
+						<p></p>						
 					</div>
 					<div className="col-lg-3 col-md-12">
                         <div className="single-footer-widget">							
