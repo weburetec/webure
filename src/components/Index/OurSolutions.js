@@ -9,14 +9,11 @@ import serviceb5 from '../../assets/images/b5.webp'
 import serviceb6 from '../../assets/images/b6.webp'
 import serviceb7 from '../../assets/images/b7.webp'
 import serviceb8 from '../../assets/images/b8.webp'
-
+import icon4 from '../../assets/images/icon4.webp'
+import icon5 from '../../assets/images/icon5.webp'
+import icon6 from '../../assets/images/icon6.webp'
+import icon7 from '../../assets/images/icon7.webp'
 import aboutImage from '../../assets/images/about/about-img5.webp'
-import starIcon from '../../assets/images/star-icon.webp'
-import icon4 from '../../assets/images/icons/icon4.webp'
-import icon5 from '../../assets/images/icons/icon5.webp'
-import icon6 from '../../assets/images/icons/icon6.webp'
-import icon7 from '../../assets/images/icons/icon7.webp'
-import shape1 from '../../assets/images/shape/circle-shape1.webp'
 
 const OurSolutions = () => {
     return (
