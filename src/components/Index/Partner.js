@@ -6,6 +6,7 @@ import partner3 from '../../assets/images/partner/partner3.webp'
 import partner4 from '../../assets/images/partner/partner4.webp'
 import partner5 from '../../assets/images/partner/partner5.webp'
 import partner6 from '../../assets/images/partner/partner6.webp'
+import partner7 from '../../assets/images/partner/partner7.webp'
 
 const Partner = () => {
     return (
@@ -63,6 +64,15 @@ const Partner = () => {
                             <div className="single-partner-item">
                                 <div className="single-partner-item">
                                     <img src={partner6} alt="partner" />
+                                </div>
+                            </div>
+                        </ReactWOW>
+                    </div>
+                    <div className="col-lg-2 col-6 col-sm-4 col-md-4">
+                        <ReactWOW delay='.6s' animation='fadeInUp'>
+                            <div className="single-partner-item">
+                                <div className="single-partner-item">
+                                    <img src={partner7} alt="partner" />
                                 </div>
                             </div>
                         </ReactWOW>

@@ -95,13 +95,6 @@ const Testimonials = () => {
                         </div>
                     </div>
                 </OwlCarousel> : ''}
-
-                <div className="testimonials-view-btn text-center">
-                    <Link to="/testimonials" className="default-btn">
-                        <i className="flaticon-view"></i> 
-                        Check Out All Reviews <span></span>
-                    </Link>
-                </div>
             </div>
 
             <div className="shape-img1">
