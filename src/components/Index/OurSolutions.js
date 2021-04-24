@@ -29,22 +29,18 @@ const OurSolutions = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <div className="content">
-                                <span className="sub-title">
-                                    <img src={starIcon} alt="banner" /> 
-                                    About Us
-                                </span>
-                                <h2>Drive Digital Revolution Through Data Science</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <h2>Drive Digital Revolution Through Webure Technologies</h2>
+                                <p>Utilizing technology to drive efficiency, enable scale, encourage engagement and facilitate ease of use.</p>
                                 
                                 <ul className="features-list">
                                     <li>
                                         <img src={icon4} alt="banner" />
-                                        <h3>10 Years</h3>
+                                        <h3>7 Years</h3>
                                         <p>On the market</p>
                                     </li>
                                     <li>
                                         <img src={icon5} alt="banner" />
-                                        <h3>45+</h3>
+                                        <h3>15+</h3>
                                         <p>Team members</p>
                                     </li>
                                     <li>
@@ -54,15 +50,16 @@ const OurSolutions = () => {
                                     </li>
                                     <li>
                                         <img src={icon7} alt="banner" />
-                                        <h3>80%</h3>
-                                        <p>Senior scientist</p>
+                                        <h3>300+</h3>
+                                        <p>Projects Completed</p>
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <p>Provides Different Web Services and Web Solutions Like web development, web design, logo design, web hosting, data processing, graphics designing, mobile application development, e-commerce website development.</p>
                                 
                                 <Link to="/about-us" className="default-btn">
                                     <i className="flaticon-right"></i>More About Us<span></span>
                                 </Link>
+								<br />
                             </div>
                         </div>
                     </div>
