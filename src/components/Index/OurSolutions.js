@@ -19,7 +19,13 @@ const OurSolutions = () => {
     return (
         <section className="solutions-area pb-70">
             <div className="container">
-		        <div className="col-lg-12 col-md-12">
+				<div className="col-lg-6 col-md-12">
+                    <div className="about-image">
+						<img src={aboutImage} alt="banner" />
+                    </div>
+                </div>
+					
+		        <div className="col-lg-6 col-md-12">
                     <div className="about-content">
                         <div className="content">
                             <h2>Drive Digital Revolution Through Data Science</h2>
