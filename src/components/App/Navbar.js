@@ -30,14 +30,39 @@ const Navbar = () => {
         <React.Fragment>
             <div id="navbar" className="navbar-area">
 				<div class="row">
-					<div className="col-lg-3 col-md-12">
+					<div className="col-lg-3 col-md-12">						
+					</div>
+					<div className="col-lg-2 col-md-12">
+						<p>connect@webure.in</p>						
+					</div>
+					<div className="col-lg-4 col-md-12">
 						<p>Hi, I'm a fixed topbar that disappears and reappears depeing on scroll positions</p>						
 					</div>
-					<div className="col-lg-6 col-md-12">
-						<p>Hi, I'm a fixed topbar that disappears and reappears depeing on scroll positions</p>						
-					</div>
 					<div className="col-lg-3 col-md-12">
-						<p>Hi, I'm a fixed topbar that disappears and reappears depeing on scroll positions</p>						
+                        <div className="single-footer-widget">							
+                            <ul className="social-link">
+                                <li>
+                                    <Link to="#" className="d-block" target="_blank" rel="noreferrer">
+                                        <i className='bx bxl-facebook'></i>
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link to="#" className="d-block" target="_blank" rel="noreferrer">
+                                        <i className='bx bxl-twitter'></i>
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link to="#" className="d-block" target="_blank" rel="noreferrer">
+                                        <i className='bx bxl-instagram'></i>
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link to="#" className="d-block" target="_blank" rel="noreferrer">
+                                        <i className='bx bxl-linkedin'></i>
+                                    </Link>
+                                </li>
+                            </ul>
+                        </div>			
 					</div>
 				</div>
                 <div className="tarn-nav">
