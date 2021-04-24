@@ -119,11 +119,11 @@ const Footer = () => {
                             <ul className="footer-contact-info">
                                 <li>
                                     <i className='bx bx-map'></i> 
-                                    175 5th Ave, New York, NY 10010, <br /> United States
+                                    #310-G, #88 Whitefield Post Office Road, Whitefield, Bangalore, KA 560103, <br /> India
                                 </li>
                                 <li>
                                     <i className='bx bx-phone-call'></i>
-                                    <a href="tel:+44587154756">+1 (123) 456 7890</a>
+                                    <a href="tel:+44587154756">+99 999 999999</a>
                                 </li>
                                 <li>
                                     <i className='bx bx-envelope'></i>
@@ -131,7 +131,7 @@ const Footer = () => {
                                 </li>
                                 <li>
                                     <i className='bx bxs-inbox'></i>
-                                    <a href="tel:+557854578964">+55 785 4578964</a>
+                                    <a href="tel:+557854578964">+99 999 999999</a>
                                 </li>
                             </ul>
                         </div>
@@ -141,7 +141,7 @@ const Footer = () => {
                 <div className="footer-bottom-area">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">
-                            <p>Copyright @{currentYear} <strong><a target="_blank" href="https://www.webure.in/" rel="noreferrer">Webure Technologies</a></strong> All rights reserved </p>
+                            <p>Copyright @ {currentYear} <strong><a target="_blank" href="https://www.webure.in/" rel="noreferrer">Webure Technologies</a></strong> All rights reserved </p>
                         </div>
 
                         <div className="col-lg-6 col-md-6">
