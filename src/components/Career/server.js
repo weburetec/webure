@@ -10,12 +10,12 @@ app.use("/", router);
 app.listen(5000, () => console.log("Server Running"));
 
 const contactEmail = nodemailer.createTransport({
-  service: 'smtp.gmail.com',
-  port: 465,
-  secure: true,
+  service: 'smtp.ethereal.email',
+  port: 587,
+  secure: false,
   auth: {
-    user: "nitinpsaxena@gmail.com",
-    pass: "rlwdztkvhsrijvaj",
+    user: testAccount.user,
+    pass: testAccount.pass,
   },
 });
 
