@@ -12,10 +12,9 @@ app.listen(5000, () => console.log("Server Running"));
 const contactEmail = nodemailer.createTransport({
   service: 'smtp.ethereal.email',
   port: 587,
-  secure: false,
   auth: {
-    user: testAccount.user,
-    pass: testAccount.pass,
+    user: 'lorenza.grady@ethereal.email',
+    pass: 'RmRa8JxayttcXF8U3s',
   },
 });
 
