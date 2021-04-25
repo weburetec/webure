@@ -1,5 +1,5 @@
 import React from 'react'
-import React, { useState } from "react";
+import { useState } from "react";
 import starIcon from '../../assets/images/star-icon.webp'
 import contact from '../../assets/images/contact.webp'
 
