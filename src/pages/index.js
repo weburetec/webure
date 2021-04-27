@@ -6,7 +6,6 @@ import Banner from "../components/Index/Banner"
 import OurSolutions from "../components/Index/OurSolutions"
 import OurServices from "../components/Index/OurServices"
 import OurFeatures from "../components/Index/OurFeatures"
-import TeamMember from "../components/Index/TeamMember"
 import RecentProjects from "../components/Index/RecentProjects"
 import Pricing from "../components/Index/Pricing"
 import Testimonials from "../components/Index/Testimonials"
@@ -21,7 +20,6 @@ const Home = () => {
       <Banner />
       <OurSolutions />
       <OurServices />
-      <TeamMember />
       <Testimonials />
       <Partner />
       <ProjectStartArea />
