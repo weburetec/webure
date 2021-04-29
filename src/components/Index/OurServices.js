@@ -24,11 +24,11 @@ const Services = () => {
                                 <div class="nav flex-row nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                                     <a class="nav-link rounded-circle" id="tab1" data-toggle="pill" href="#digital-marketing" role="tab" aria-controls="tab1" aria-selected="false">
                                         <img src="img/icon/services/ecommerce-development.png" alt=""/>
-                                        <span>Ecommerce <br> Development</span>
+                                        <span>Ecommerce <br/> Development</span>
                                      </a>
                                     <a class="nav-link rounded-circle" id="tab2" data-toggle="pill" href="#website-maintenance" role="tab" aria-controls="tab2" aria-selected="false">                                       
                                         <img src="img/icon/services/website-maintenance-service.png" alt=""/>
-                                        <span>Website<br> Maintenance</span>
+                                        <span>Website<br/> Maintenance</span>
                                     </a>
                                     <a class="nav-link rounded-circle active" id="tab3" data-toggle="pill" href="#content-management" role="tab" aria-controls="tab3" aria-selected="true">
                                         <img src="img/icon/services/aws-cloud-hotsing.png" alt=""/>
@@ -36,15 +36,15 @@ const Services = () => {
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab4" data-toggle="pill" href="#web-hosting" role="tab" aria-controls="tab4" aria-selected="false">
                                         <img src="img/icon/services/google-ads.png" alt=""/>
-                                        <span>Google <br> Ads</span>
+                                        <span>Google <br/> Ads</span>
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab5" data-toggle="pill" href="#app-development" role="tab" aria-controls="tab5" aria-selected="false">
                                         <img src="img/icon/services/social-media-marketing.png" alt=""/>
-                                        <span>Social Media<br> Marketing</span>
+                                        <span>Social Media<br/> Marketing</span>
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab6" data-toggle="pill" href="#seo" role="tab" aria-controls="tab6" aria-selected="false">
                                         <img src="img/icon/services/seo-service.png" alt=""/>
-                                        <span>SEO &amp;<br>Analytics</span>
+                                        <span>SEO &amp;<br/>Analytics</span>
                                     </a>
                                 </div>
                                 <div class="tab-content" id="services-content">
