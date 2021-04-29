@@ -202,103 +202,102 @@ const OurSolutions = () => {
         </section>
 
 		<section class="home__discover st-80">
-		<div class="container">
-		<div class="row">
-		<div class="col-12">
-		<h2 class="sl--heading sl--darkGrey aos-init aos-animate" data-aos-easing="ease" data-aos="fade-up">Explore technologies and companies</h2>
-		 <p class="sl-subTitle sl--lightGrey sl-marginT20 aos-init aos-animate" data-aos-easing="ease" data-aos="fade-up">Gain
-		insights about products, services, partners, and competitors.</p>
-		</div>
-		<div class="col-12  elements--plus">
-		<div class="discover__inputWrap search_bar">
-		<div class="discover__input">
-		<input class="" id="autoguggestion-input" placeholder="Search for technologies and companies by name or domain">
-		<span class="search__icon"></span>
-		<div id="embed_search_autosuggestion" class="company_autosuggestion unified_search_autosuggestion" style="display: none;">
-		<div class="suggestion_block">
-		<ul id="technology_autosuggestion">
-		</ul>
-		<ul id="company_autosuggestion">
-		</ul>
-		</div>
-		<div class="embed_result_block">
-		<p class="text-primary">See all results</p>
-		</div>
-		</div>
-		</div>
-		</div>
-		</div>
-		</div>
-		<div class="row sl-marginT80">
-		<div class="col-lg-6 col-md-12">
-		<div class="horizontal-line"></div>
-		<h2 class="discover__techText">Technologies</h2>
-		<div class="row discover__techWrap sl--marginR20">
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/analytics/segment-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/101273-1497950693-535848?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
-		<div class="media-body">
-		<h5 class="mt-0">Segment</h5>
-		<p>Business Intelligence &amp; Analytics-Analytics</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/marketing-automation/marketo-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/990-1500306114-455972?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
-		<div class="media-body">
-		<h5 class="mt-0">Marketo</h5>
-		<p>Marketing-Marketing Automation</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/domain-name-services/microsoft-azure-dns-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://sm.pcmag.com/t/pcmag_in/review/m/microsoft-/microsoft-azure_18sd.640.jpg" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://sm.pcmag.com/t/pcmag_in/review/m/microsoft-/microsoft-azure_18sd.640.jpg">
-		<div class="media-body">
-		<h5 class="mt-0">Microsoft Azure DNS</h5>
-		<p>Computer networks-Domain Name Services</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/contact-management/salesforce-crm-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/90378-1427725601-6725419?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
-		<div class="media-body">
-		<h5 class="mt-0">Salesforce CRM</h5>
-		<p>Sales-Contact Management</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/lead-capture/pardot-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/8294-1523873904-9495888?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga0.imgix.net/logo/o/8294-1523873904-9495888?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format">
-		<div class="media-body">
-		<h5 class="mt-0">Pardot</h5>
-		<p>Sales-Lead Capture</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h2 class="sl--heading sl--darkGrey aos-init aos-animate" data-aos-easing="ease" data-aos="fade-up">Explore technologies and companies</h2>
+						<p class="sl-subTitle sl--lightGrey sl-marginT20 aos-init aos-animate" data-aos-easing="ease" data-aos="fade-up">Gain insights about products, services, partners, and competitors.</p>
+					</div>
+					<div class="col-12  elements--plus">
+						<div class="discover__inputWrap search_bar">
+							<div class="discover__input">
+								<input class="" id="autoguggestion-input" placeholder="Search for technologies and companies by name or domain">
+								<span class="search__icon"></span>
+								<div id="embed_search_autosuggestion" class="company_autosuggestion unified_search_autosuggestion" style="display: none;">
+									<div class="suggestion_block">
+										<ul id="technology_autosuggestion">
+										</ul>
+										<ul id="company_autosuggestion">
+										</ul>
+									</div>
+									<div class="embed_result_block">
+										<p class="text-primary">See all results</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row sl-marginT80">
+					<div class="col-lg-6 col-md-12">
+						<div class="horizontal-line"></div>
+							<h2 class="discover__techText">Technologies</h2>
+							<div class="row discover__techWrap sl--marginR20">
+								<div class="col-md-6 col-sm-12">
+									<a href="/tech/analytics/segment-market-share">
+									<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+										<div class="media">
+											<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/101273-1497950693-535848?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+											<div class="media-body">
+												<h5 class="mt-0">Segment</h5>
+												<p>Business Intelligence &amp; Analytics-Analytics</p>
+											</div>
+										</div>
+									</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<a href="/tech/marketing-automation/marketo-market-share">
+									<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+										<div class="media">
+											<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/990-1500306114-455972?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+											<div class="media-body">
+												<h5 class="mt-0">Marketo</h5>
+												<p>Marketing-Marketing Automation</p>
+											</div>
+										</div>
+									</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<a href="/tech/domain-name-services/microsoft-azure-dns-market-share">
+									<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+									<div class="media">
+									<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://sm.pcmag.com/t/pcmag_in/review/m/microsoft-/microsoft-azure_18sd.640.jpg" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://sm.pcmag.com/t/pcmag_in/review/m/microsoft-/microsoft-azure_18sd.640.jpg">
+									<div class="media-body">
+									<h5 class="mt-0">Microsoft Azure DNS</h5>
+									<p>Computer networks-Domain Name Services</p>
+									</div>
+									</div>
+									</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<a href="/tech/contact-management/salesforce-crm-market-share">
+									<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+									<div class="media">
+									<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/90378-1427725601-6725419?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+									<div class="media-body">
+									<h5 class="mt-0">Salesforce CRM</h5>
+									<p>Sales-Contact Management</p>
+									</div>
+									</div>
+									</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<a href="/tech/lead-capture/pardot-market-share">
+									<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+									<div class="media">
+									<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/8294-1523873904-9495888?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga0.imgix.net/logo/o/8294-1523873904-9495888?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format">
+									<div class="media-body">
+									<h5 class="mt-0">Pardot</h5>
+									<p>Sales-Lead Capture</p>
+									</div>
+									</div>
+									</div>
+									</a>
+								</div>
 		<div class="col-md-6 col-sm-12">
 		<a href="/tech/display-advertising/quantcast-market-share">
 		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
