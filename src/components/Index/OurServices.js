@@ -19,31 +19,31 @@ const Services = () => {
                             <div class="col-12">
                                 <div class="services-hex text-center">
                                     <h2 class="sec-title mb-5">Our Services</h2>
-                                    <img src="img/services-line.jpg" alt="Services" title="Services" class="img-fluid">
+                                    <img src="img/services-line.jpg" alt="Services" title="Services" class="img-fluid"/>
                                 </div>
                                 <div class="nav flex-row nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                                     <a class="nav-link rounded-circle" id="tab1" data-toggle="pill" href="#digital-marketing" role="tab" aria-controls="tab1" aria-selected="false">
-                                        <img src="img/icon/services/ecommerce-development.png" alt="">
+                                        <img src="img/icon/services/ecommerce-development.png" alt=""/>
                                         <span>Ecommerce <br> Development</span>
                                      </a>
                                     <a class="nav-link rounded-circle" id="tab2" data-toggle="pill" href="#website-maintenance" role="tab" aria-controls="tab2" aria-selected="false">                                       
-                                        <img src="img/icon/services/website-maintenance-service.png" alt="">
+                                        <img src="img/icon/services/website-maintenance-service.png" alt=""/>
                                         <span>Website<br> Maintenance</span>
                                     </a>
                                     <a class="nav-link rounded-circle active" id="tab3" data-toggle="pill" href="#content-management" role="tab" aria-controls="tab3" aria-selected="true">
-                                        <img src="img/icon/services/aws-cloud-hotsing.png" alt="">
+                                        <img src="img/icon/services/aws-cloud-hotsing.png" alt=""/>
                                         <span>AWS Cloud <br>Hosting</span>
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab4" data-toggle="pill" href="#web-hosting" role="tab" aria-controls="tab4" aria-selected="false">
-                                        <img src="img/icon/services/google-ads.png" alt="">
+                                        <img src="img/icon/services/google-ads.png" alt=""/>
                                         <span>Google <br> Ads</span>
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab5" data-toggle="pill" href="#app-development" role="tab" aria-controls="tab5" aria-selected="false">
-                                        <img src="img/icon/services/social-media-marketing.png" alt="">
+                                        <img src="img/icon/services/social-media-marketing.png" alt=""/>
                                         <span>Social Media<br> Marketing</span>
                                     </a>
                                     <a class="nav-link rounded-circle" id="tab6" data-toggle="pill" href="#seo" role="tab" aria-controls="tab6" aria-selected="false">
-                                        <img src="img/icon/services/seo-service.png" alt="">
+                                        <img src="img/icon/services/seo-service.png" alt=""/>
                                         <span>SEO &amp;<br>Analytics</span>
                                     </a>
                                 </div>
