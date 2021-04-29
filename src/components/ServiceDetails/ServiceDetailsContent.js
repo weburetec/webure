@@ -4,7 +4,7 @@ import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
-import gallery12 from '../assets/images/gallery/Client09.png'
+import details2 from '../assets/images/gallery/Client09.png'
 
 const CareerDetailsContent = () => {
     return (
@@ -23,8 +23,7 @@ const CareerDetailsContent = () => {
 						<br/>						
 					</div>
 					<div className="col-lg-4 col-md-12">
-						<img src={details} alt="details" />
-						<CareerSidebar />
+						<img src={details2} alt="details2" />
 						<br />
 						<ContactForm />
 					</div>
