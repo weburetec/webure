@@ -18,7 +18,7 @@ const Services = () => {
                         <div class="row services">
                             <div class="col-12">
                                 <div class="services-hex text-center">
-                                    <h2 class="sec-title mb-5">Our<br/> Services</h2>
+                                    <h2 class="sec-title mb-5">Our Services</h2>
                                     <img src="img/services-line.jpg" alt="Services" title="Services" class="img-fluid">
                                 </div>
                                 <div class="nav flex-row nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
