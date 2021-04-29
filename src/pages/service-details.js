@@ -10,6 +10,7 @@ const Details = () => {
     return (
         <Layout>
             <Navbar />
+			<br/><br/><br/><br/>
             <ServiceDetailsContent />
             <RelatedServices />
             <Footer />
