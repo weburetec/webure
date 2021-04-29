@@ -10,12 +10,6 @@ const Details = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Service Details" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Service Details" 
-            />
             <ServiceDetailsContent />
             <RelatedServices />
             <Footer />
