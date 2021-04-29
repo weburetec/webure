@@ -232,7 +232,6 @@ const OurSolutions = () => {
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-12 order-md-12 order-3">
-
 						<div class="col-lg-4 col-md-12 order-md-12 order-1">
 							<div class="media contact-media">
 								<img class="" src="https://d3ml3b6vywsj0z.cloudfront.net/website/v2/home/contact_group_3.svg" alt="Buyers personas"/>
