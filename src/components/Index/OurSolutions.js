@@ -80,7 +80,7 @@ const OurSolutions = () => {
                                     <li>
                                         <img src={icon4} alt="banner" />
                                         <h3>Stripe</h3>
-                                        <p>Accounting and Payment System</p>
+                                        <p>Payment System</p>
                                     </li>
                                     <li>
                                         <img src={icon5} alt="banner" />
@@ -90,12 +90,12 @@ const OurSolutions = () => {
                                     <li>
                                         <img src={icon6} alt="banner" />
                                         <h3>Slack</h3>
-                                        <p>Project Collaboration Tool</p>
+                                        <p>Project Tool</p>
                                     </li>
                                     <li>
                                         <img src={icon7} alt="banner" />
                                         <h3>Marketo</h3>
-                                        <p>Marketing Automation</p>
+                                        <p>Automation Tool</p>
                                     </li>
                                 </ul>
 								<br />
