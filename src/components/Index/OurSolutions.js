@@ -68,9 +68,6 @@ const OurSolutions = () => {
 				<br/>
 				<br/>				
 			    <div className="section-title">
-                    <span className="sub-title">
-                        Our Solutions
-                    </span>
                     <h2>Ready to Grow Business?</h2>
                     <p>Targeted Leads :: New Business Opportunities :: New Clients</p>
                 </div>
@@ -83,7 +80,7 @@ const OurSolutions = () => {
                                     <li>
                                         <img src={icon4} alt="banner" />
                                         <h3>Stripe</h3>
-                                        <p>Accounting and Payment System</p>
+                                        <p style="font-size:10px">Accounting and Payment System</p>
                                     </li>
                                     <li>
                                         <img src={icon5} alt="banner" />
