@@ -298,107 +298,108 @@ const OurSolutions = () => {
 									</div>
 									</a>
 								</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/tech/display-advertising/quantcast-market-share">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/100557-1526929372-1868749?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga1.imgix.net/logo/o/100557-1526929372-1868749?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format">
-		<div class="media-body">
-		<h5 class="mt-0">Quantcast</h5>
-		<p>Marketing-Display Advertising</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
-		<div class="col-lg-6 col-md-12">
-		<div class="horizontal-line"></div>
-		<h2 class="discover__techText">Companies</h2>
-		<div class="row discover__techWrap">
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5c3b014ad55ae49f1b77a3a4/ericsson">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/yeq894qkzzyhl9mygnjc" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/yeq894qkzzyhl9mygnjc">
-		<div class="media-body">
-		<h5 class="mt-0">Ericsson</h5>
-		<p>ericsson.com</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5c3b0152d55ae49f1b77af06/roblox">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/gg7hnk7vv8e8wudbq7pr" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/gg7hnk7vv8e8wudbq7pr">
-		<div class="media-body">
-		<h5 class="mt-0">Roblox</h5>
-		<p>roblox.com</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5b8915897c866675e50ff666/nvidia">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502744943/jhowtgkdwv2aa1eodg2b.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502744943/jhowtgkdwv2aa1eodg2b.png">
-		<div class="media-body">
-		<h5 class="mt-0">Nvidia</h5>
-		<p>nvidia.com</p>
-		</div>
-		 </div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5b8916f97c866675e51166c3/lending-club">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf">
-		<div class="media-body">
-		<h5 class="mt-0">Lending Club</h5>
-		<p>lendingclub.com</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5b8916d17c866675e5114a03/usertesting">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/z3sir9m7gabp16zf3esy" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/z3sir9m7gabp16zf3esy">
-		<div class="media-body">
-		<h5 class="mt-0">Usertesting</h5>
-		<p>usertesting.com</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		<div class="col-md-6 col-sm-12">
-		<a href="/company/5c3b00a4d55ae49f1b76bfe9/twitter">
-		<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
-		<div class="media">
-		<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg">
-		<div class="media-body">
-		<h5 class="mt-0">Twitter</h5>
-		<p>twitter.com</p>
-		</div>
-		</div>
-		</div>
-		</a>
-		</div>
-		</div>
-		</div>
-		</div>
-		</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/tech/display-advertising/quantcast-market-share">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/100557-1526929372-1868749?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga1.imgix.net/logo/o/100557-1526929372-1868749?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format">
+								<div class="media-body">
+								<h5 class="mt-0">Quantcast</h5>
+								<p>Marketing-Display Advertising</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+								</div>
+								</div>
+								<div class="col-lg-6 col-md-12">
+								<div class="horizontal-line"></div>
+								<h2 class="discover__techText">Companies</h2>
+								<div class="row discover__techWrap">
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5c3b014ad55ae49f1b77a3a4/ericsson">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/yeq894qkzzyhl9mygnjc" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/yeq894qkzzyhl9mygnjc">
+								<div class="media-body">
+								<h5 class="mt-0">Ericsson</h5>
+								<p>ericsson.com</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5c3b0152d55ae49f1b77af06/roblox">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/gg7hnk7vv8e8wudbq7pr" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/gg7hnk7vv8e8wudbq7pr">
+								<div class="media-body">
+								<h5 class="mt-0">Roblox</h5>
+								<p>roblox.com</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5b8915897c866675e50ff666/nvidia">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502744943/jhowtgkdwv2aa1eodg2b.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502744943/jhowtgkdwv2aa1eodg2b.png">
+								<div class="media-body">
+								<h5 class="mt-0">Nvidia</h5>
+								<p>nvidia.com</p>
+								</div>
+								 </div>
+								</div>
+								</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5b8916f97c866675e51166c3/lending-club">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf">
+								<div class="media-body">
+								<h5 class="mt-0">Lending Club</h5>
+								<p>lendingclub.com</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5b8916d17c866675e5114a03/usertesting">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/z3sir9m7gabp16zf3esy" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/z3sir9m7gabp16zf3esy">
+								<div class="media-body">
+								<h5 class="mt-0">Usertesting</h5>
+								<p>usertesting.com</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+								<div class="col-md-6 col-sm-12">
+								<a href="/company/5c3b00a4d55ae49f1b76bfe9/twitter">
+								<div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
+								<div class="media">
+								<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg">
+								<div class="media-body">
+								<h5 class="mt-0">Twitter</h5>
+								<p>twitter.com</p>
+								</div>
+								</div>
+								</div>
+								</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
 
 <section class="home-contact elements--ellipse">
