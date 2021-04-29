@@ -64,7 +64,9 @@ const OurSolutions = () => {
                         </div>
                     </div>
                 </div>
-					
+				<br/>
+				<br/>
+				<br/>				
 			    <div className="section-title">
                     <span className="sub-title">
                         Our Solutions
