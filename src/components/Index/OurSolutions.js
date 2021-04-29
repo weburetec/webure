@@ -105,7 +105,7 @@ const OurSolutions = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <div className="content">
-                                <h2>Drive Digital Revolution Through Webure Technologies</h2>
+                                <h4>Content Partners</h4>
                                 <ul className="features-list">
                                     <li>
                                         <img src={icon4} alt="banner" />
