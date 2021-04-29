@@ -235,7 +235,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/payment-management/stripe-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/91015-1485358248-1568973?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga0.imgix.net/logo/o/91015-1485358248-1568973?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/91015-1485358248-1568973?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://ga0.imgix.net/logo/o/91015-1485358248-1568973?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format"/>
 <div class="media-body">
 <h5 class="mt-0">Stripe</h5>
 <p>Finance and Accounting-Payment Management</p>
@@ -248,7 +248,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/project-collaboration/slack-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/91563-1523890522-2133787?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/91563-1523890522-2133787?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png"/>
 <div class="media-body">
 <h5 class="mt-0">Slack</h5>
 <p>Collaboration-Project Collaboration</p>
@@ -261,7 +261,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/analytics/segment-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/101273-1497950693-535848?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/101273-1497950693-535848?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png"/>
 <div class="media-body">
 <h5 class="mt-0">Segment</h5>
 <p>Business Intelligence &amp; Analytics-Analytics</p>
@@ -274,7 +274,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/online-meetings/zoom-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/111633-1515416413-259357?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/111633-1515416413-259357?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png"/>
 <div class="media-body">
 <h5 class="mt-0">Zoom</h5>
 <p>Communications-Online Meetings</p>
@@ -287,7 +287,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/contact-management/salesforce-crm-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/90378-1427725601-6725419?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga1.imgix.net/logo/o/90378-1427725601-6725419?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png"/>
 <div class="media-body">
 <h5 class="mt-0">Salesforce CRM</h5>
 <p>Sales-Contact Management</p>
@@ -300,7 +300,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/tech/marketing-automation/marketo-market-share">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/990-1500306114-455972?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://ga0.imgix.net/logo/o/990-1500306114-455972?ixlib=rb-1.0.0&amp;ch=Width%2CDPR&amp;auto=format" alt="Generic placeholder image" onerror="this.onerror=null;this.src='https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png';" src="https://d3ml3b6vywsj0z.cloudfront.net/website/technology_icon.png"/>
 <div class="media-body">
 <h5 class="mt-0">Marketo</h5>
 <p>Marketing-Marketing Automation</p>
@@ -319,7 +319,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5b89165a7c866675e510c378/coursera">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502210913/rlanonwmo1mgrwuvacv9.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502210913/rlanonwmo1mgrwuvacv9.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502210913/rlanonwmo1mgrwuvacv9.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1502210913/rlanonwmo1mgrwuvacv9.png"/>
 <div class="media-body">
 <h5 class="mt-0">Coursera</h5>
 <p>coursera.org</p>
@@ -332,7 +332,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5b8915857c866675e50ff26e/juniper-networks">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397190585/a258e2c803afdf25787ab01d53744ac6.gif" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397190585/a258e2c803afdf25787ab01d53744ac6.gif">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397190585/a258e2c803afdf25787ab01d53744ac6.gif" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397190585/a258e2c803afdf25787ab01d53744ac6.gif"/>
 <div class="media-body">
 <h5 class="mt-0">Juniper Networks</h5>
 <p>juniper.net</p>
@@ -345,7 +345,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5b8916f97c866675e51166c3/lending-club">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/fnyd5qggryugrcynulkf"/>
 <div class="media-body">
 <h5 class="mt-0">Lending Club</h5>
 <p>lendingclub.com</p>
@@ -358,7 +358,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5c3b00a4d55ae49f1b76bfe9/twitter">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg"/>
 <div class="media-body">
 <h5 class="mt-0">Twitter</h5>
 <p>twitter.com</p>
@@ -371,7 +371,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5b8915707c866675e50fdbec/xerox">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
 <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397188986/a79a667532e561f2e9ab5f0d999241a9.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397188986/a79a667532e561f2e9ab5f0d999241a9.png">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397188986/a79a667532e561f2e9ab5f0d999241a9.png" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397188986/a79a667532e561f2e9ab5f0d999241a9.png"/>
 <div class="media-body">
 <h5 class="mt-0">Xerox</h5>
 <p>xerox.com</p>
@@ -384,7 +384,7 @@ insights about products, services, partners, and competitors.</p>
 <a href="/company/5c3b0155d55ae49f1b77b308/freshworks">
 <div class="discover__tech aos-init aos-animate" data-aos="fade-up" data-aos-offset="0" data-aos-easing="ease" data-aos-delay="1000">
  <div class="media">
-<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/lmvkrk1etrborilzp8yb" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/lmvkrk1etrborilzp8yb">
+<img class="align-self-center mr-3 discover__techImg lazyloaded" data-src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/lmvkrk1etrborilzp8yb" alt="Generic placeholder image" src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/lmvkrk1etrborilzp8yb"/>
 <div class="media-body">
 <h5 class="mt-0">Freshworks</h5>
 <p>freshworks.com</p>
