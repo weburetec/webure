@@ -12189,3 +12189,11 @@ Go Top CSS
 }
 
 /*# Line Animation */
+.vertical-line {
+    border: 2px solid #f64b53;
+    width: 333px;
+    height: 2px;
+    background: #f64b53;
+    border-radius: 10px;
+    margin-right: 40px;
+}

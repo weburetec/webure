@@ -76,6 +76,7 @@ const OurSolutions = () => {
                         <div className="about-content">
                             <div className="content">
                                 <h4>Technologies Partners</h4>
+								<div class="vertical-line"></div>
                                 <ul className="features-list">
                                     <li>
                                         <img src={icon4} alt="banner" />
