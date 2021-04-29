@@ -77,9 +77,13 @@ const OurSolutions = () => {
                 <div className="row">
                     <div className="col-lg-3 col-sm-6">
                         <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb1} alt="Service" class="lazyload"/> 
-							</span>
+							<ul className="features-list">
+                                    <li>
+                                        <img src={icon4} alt="banner" />
+                                        <h3>7 Years</h3>
+                                        <p>On the market</p>
+                                    </li>
+							</ul>
                         </div>
                     </div>
                     <div className="col-lg-3 col-sm-6">
