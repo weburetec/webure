@@ -80,7 +80,7 @@ const OurSolutions = () => {
                                     <li>
                                         <img src={icon4} alt="banner" />
                                         <h3>Stripe</h3>
-                                        <p style="font-size:10px">Accounting and Payment System</p>
+                                        <p>Accounting and Payment System</p>
                                     </li>
                                     <li>
                                         <img src={icon5} alt="banner" />
