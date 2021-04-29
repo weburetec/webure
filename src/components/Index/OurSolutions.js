@@ -78,9 +78,37 @@ const OurSolutions = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <div className="content">
+                                <h4>Technologies Partners</h4>
+                                <ul className="features-list">
+                                    <li>
+                                        <img src={icon4} alt="banner" />
+                                        <h3>Stripe</h3>
+                                        <p>Accounting and Payment System</p>
+                                    </li>
+                                    <li>
+                                        <img src={icon5} alt="banner" />
+                                        <h3>Razorpay</h3>
+                                        <p>Payment Systems</p>
+                                    </li>
+                                    <li>
+                                        <img src={icon6} alt="banner" />
+                                        <h3>Slack</h3>
+                                        <p>Project Collaboration Tool</p>
+                                    </li>
+                                    <li>
+                                        <img src={icon7} alt="banner" />
+                                        <h3>Marketo</h3>
+                                        <p>Marketing Automation</p>
+                                    </li>
+                                </ul>
+								<br />
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-6 col-md-12">
+                        <div className="about-content">
+                            <div className="content">
                                 <h2>Drive Digital Revolution Through Webure Technologies</h2>
-                                <p>Utilizing technology to drive efficiency, enable scale, encourage engagement and facilitate ease of use.</p>
-                                
                                 <ul className="features-list">
                                     <li>
                                         <img src={icon4} alt="banner" />
@@ -103,62 +131,8 @@ const OurSolutions = () => {
                                         <p>Projects Completed</p>
                                     </li>
                                 </ul>
-                                <p>Provides Different Web Services and Web Solutions Like web development, web design, logo design, web hosting, data processing, graphics designing, mobile application development, e-commerce website development.</p>
-                                
-                                <Link to="/about-us" className="default-btn">
-                                    <i className="flaticon-right"></i>More About Us<span></span>
-                                </Link>
 								<br />
                             </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb2} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb3} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb4} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb5} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb6} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb7} alt="Service" class="lazyload"/> 
-							</span>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-sm-6">
-                        <div className="single-solutions-box">
-							<span className="sub-title">
-								<img src={serviceb8} alt="Service" class="lazyload"/> 
-							</span>
                         </div>
                     </div>
 				</div>
