@@ -12406,3 +12406,29 @@ Go Top CSS
     background-color: rgb(255, 153, 0);
 }
 
+.overview-right .sec-head:before {
+    content: "";
+    position: absolute;
+    left: -2rem;
+    top: -3.2rem;
+    width: 9.5rem;
+    height: 9.5rem;
+    background-color: var(--color-primary);
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.box-img:before {
+    content: "";
+    position: absolute;
+    width: 1.2rem;
+    height: 5.5rem;
+    background-color: var(--color-primary);
+    left: -3rem;
+    top: 0;
+}
+
+.white-box.box1 {
+    position: relative;
+	margin-top: 0;
+}
