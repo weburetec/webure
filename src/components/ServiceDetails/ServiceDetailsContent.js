@@ -77,7 +77,11 @@ const CareerDetailsContent = () => {
                 </div>
 				<div class="row">
 					<div class="col-lg-12 ml-lg-5">
-						<h2 class="presence-sec section-padding sec-head">Our Clients</h2>
+						<div className="col-lg-4 col-md-12">
+							<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
+								<h4><strong>Our Client</strong></h4>
+							</div>
+						</div>
 						<p class="pt-lg-4">Our Work, Projects and Portfolio speaks for itself. With our strong global delivery model, we serve clients worldwide across USA, UK, Europe, Singapore, Australia, Canada, Dubai - UAE, Sri Lanka. Our spectrum of services include graphic designs, Social Media Designs and websites to highly complex database driven applications, mobile apps, digital marketing projects and global server hosting. Dimakh Consultants can design and build an end-to-end digital solutions that will work for you and your clients.</p>
 					</div>
 					<div class="col-lg-12 text-center">
