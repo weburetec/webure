@@ -12240,7 +12240,7 @@ Go Top CSS
 .achievement-col.col_1::after {
     content: "";
     position: absolute;
-    width: 25rem;
+    width: 2.5rem;
     height: 20rem;
     background-color: #05cac7;
     right: -2rem;
