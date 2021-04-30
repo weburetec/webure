@@ -75,46 +75,22 @@ const CareerDetailsContent = () => {
 						</div>
 					</div>
                 </div>
+				<div class="row">
+					<div class="col-lg-12 ml-lg-5">
+						<h2 class="sec-head">Our Clients</h2>
+						<p class="pt-lg-4">Our Work, Projects and Portfolio speaks for itself. With our strong global delivery model, we serve clients worldwide across USA, UK, Europe, Singapore, Australia, Canada, Dubai - UAE, Sri Lanka. Our spectrum of services include graphic designs, Social Media Designs and websites to highly complex database driven applications, mobile apps, digital marketing projects and global server hosting. Dimakh Consultants can design and build an end-to-end digital solutions that will work for you and your clients.</p>
+					</div>
+					<div class="col-lg-12 text-center">
+						<img src="https://www.dimakhconsultants.com/img/web-design/design-services/our-presence-map.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
+					</div>
+				</div>
 			</div>
         </section>
 		
 		<section class="presence-sec section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 ml-lg-5">
-                    <h2 class="sec-head">Our Clients</h2>
-                    <p class="pt-lg-4">Our Work, Projects and Portfolio speaks for itself. With our strong
-                        global delivery model, we serve clients worldwide across USA, UK,
-                        Europe, Singapore, Australia, Canada, Dubai - UAE, Sri Lanka. Our
-                        spectrum of services include graphic designs, Social Media Designs
-                        and websites to highly complex database driven applications,
-                        mobile apps, digital marketing projects and global server hosting.
-                        Dimakh Consultants can design and build an end-to-end digital
-                        solutions that will work for you and your clients.</p>
-                </div>
-                <div class="col-lg-12 text-center">
-                    <img src="https://www.dimakhconsultants.com/img/web-design/design-services/our-presence-map.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
-                </div>
-                <div class="col-lg-12 col-md-12 mx-auto">
-                    <div class="industries-serve text-center mt-5">
-                        <h4>Industries We Serve:</h4>
-                        <ul class="list-unstyled common-list">
-                            <li> Automobiles</li>
-                            <li> Banking</li>
-                            <li> Financial Services</li>
-                            <li> Infrastructure</li>
-                            <li> IT &amp; ITES</li>
-                            <li> Manufacturing</li>
-                            <li> Pharmaceuticals</li>
-                            <li> Power</li>
-                            <li> Real Estate</li>
-                            <li> Telecommunications</li>
-                            <li> Textiles</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-		</div>
+			<div class="container">
+
+			</div>
 		</section>
     )
 }
