@@ -30,12 +30,7 @@ const CareerDetailsContent = () => {
 							</div>						
 						</div>
 						<br/><br/><br/><br/>
-						<div className="row">
-							<div className="col-lg-4 col-md-12">
-								<h5 class="font-size-8 mb-0">Other service in Digital Marketing</h5>						
-							</div>						
-							<div className="col-lg-8 col-md-12">
-								<div class="row">
+						<div className="row">						
 									<div className="col-lg-2 col-md-12">
 										<div class="services-box">
 											<div class="service-warp wrap1">
@@ -78,9 +73,7 @@ const CareerDetailsContent = () => {
 												</a>						
 											</div>
 										</div>
-									</div>
-								</div>
-							</div>						
+									</div>						
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
