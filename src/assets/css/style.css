@@ -12222,3 +12222,28 @@ Go Top CSS
     font-weight: 700;
     color: var(--color-white);
 }
+
+.achievement-col {
+    box-shadow: 0 0 2rem rgb(0 0 0 / 20%);
+    padding: 2rem 3rem;
+    background-color: var(--color-white);
+    position: relative;
+}
+
+.achievement-title {
+    font-size: 2rem;
+    font-weight: var(--bold);
+    margin: 2rem 0;
+    line-height: 1.3;
+}
+
+.achievement-col.col_1::after {
+    content: "";
+    position: absolute;
+    width: 25rem;
+    height: 20rem;
+    background-color: #05cac7;
+    right: -2rem;
+    top: -2rem;
+    z-index: -1;
+}
