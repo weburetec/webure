@@ -12309,7 +12309,7 @@ Go Top CSS
     top: -3.2rem;
     width: 9.5rem;
     height: 9.5rem;
-    background-color: var(--color-primary);
+    background-color: #FFB900;
     border-radius: 50%;
     z-index: -1;
 }
@@ -12319,4 +12319,10 @@ Go Top CSS
     left: 2rem;
     top: -6rem;
 	position: absolute;
+}
+
+.sec-head {
+    font-size: 3.2rem;
+    font-weight: var(--bold);
+    margin-bottom: 3rem;
 }
