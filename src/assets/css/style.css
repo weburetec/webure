@@ -12326,3 +12326,53 @@ Go Top CSS
     font-weight: var(--bold);
     margin-bottom: 3rem;
 }
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.industries-serve li {
+    font-size: 1.8rem;
+    display: inline-block;
+    margin: 0 2rem 2rem !important;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 3px 1.5rem;
+    line-height: inherit;
+    transition: 0.5s;
+	margin: 0 1rem 2rem !important;
+}
+
+@media only screen and (max-width: 1200px)
+.industries-serve li {
+    margin: 0 1rem 2rem !important;
+}
+
+@media only screen and (max-width: 575px)
+.industries-serve li {
+    width: 45%;
+    float: center;
+    /* float: left; */
+}
+
+.common-list li:before {
+    content: "";
+    position: absolute;
+    width: 0.7rem;
+    height: 0.7rem;
+    background-color: var(--color-black);
+    border-radius: 50%;
+    left: 0;
+    top: 0.8rem;
+}
+
+.industries-serve li::before {
+    width: 0.5rem;
+    height: 0.5rem;
+    left: -3px;
+    top: 50%;
+    transform: translateY(-50%);
+    outline: 5px solid #f6f8fa;
+}
+
