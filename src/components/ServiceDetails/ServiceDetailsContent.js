@@ -75,16 +75,15 @@ const CareerDetailsContent = () => {
 						</div>
 					</div>
                 </div>
+				<br/><br/><br/>
 				<div class="row">
-					<div className="col-lg-4 col-md-12">
+					<div className="col-lg-2 col-md-12">
 						<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
 							<h4><strong>Our Client</strong></h4>
 						</div>
 					</div>
-					<div className="col-lg-8 col-md-12">
-						<div class="d-flex align-items-center justify-content-center">
-							<p class="pt-lg-4">Our Work, Projects and Portfolio speaks for itself. With our strong global delivery model, we serve clients worldwide across USA, UK, Europe, Singapore, Australia, Canada, Dubai - UAE, Sri Lanka. Our spectrum of services include graphic designs, Social Media Designs and websites to highly complex database driven applications, mobile apps, digital marketing projects and global server hosting. Dimakh Consultants can design and build an end-to-end digital solutions that will work for you and your clients.</p>
-						</div>
+					<div className="col-lg-10 col-md-12">
+						<p class="pt-lg-4">Our Work, Projects and Portfolio speaks for itself. With our strong global delivery model, we serve clients worldwide across USA, UK, Europe, Singapore, Australia, Canada, Dubai - UAE, Sri Lanka. Our spectrum of services include graphic designs, Social Media Designs and websites to highly complex database driven applications, mobile apps, digital marketing projects and global server hosting. Dimakh Consultants can design and build an end-to-end digital solutions that will work for you and your clients.</p>
 					</div>
 					<img src="https://www.dimakhconsultants.com/img/web-design/design-services/our-presence-map.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
 				</div>
