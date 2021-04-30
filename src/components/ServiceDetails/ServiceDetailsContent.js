@@ -76,52 +76,48 @@ const CareerDetailsContent = () => {
 									</div>						
 						</div>
 					
-					<div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <div class="overview-right pl-5 pr-5 pt-5">
-                    <h3 class="sec-head">Overview and Process</h3>
-                    <h4 class="sub-head">Mobile App Experts : Dimakh Consultants end to end solution partner </h4>
-                </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="white-box box1">
-                        <div class="box-img">
-                            <img src="https://www.dimakhconsultants.com/img/digital-marketing/icon1.png" alt=""/>
-                        </div>
-                        <p><b>Discuss</b></p>
-                        <p>We initiate each web marketing plan by understanding your business needs, your target audience, your geographic area, detailed understanding of your products and services. We also get inputs of your competitors and we study the competition online. Your inputs are very crucial for success of any web marketing plan. Our time bound and budget oriented approach always helps you to be in control and understand what are the goals we have set and plans to achieve those.</p>
-                    </div>
-                    <div class="white-box box3">
-                        <div class="box-img">
-                            <img src="https://www.dimakhconsultants.com/img/digital-marketing/icon2.png" alt=""/>
-                        </div>
-                        <p><b>Develop</b></p>
-                        <p class="mb-0">From our own set norms and experience we develop a web marketing plan which consists of a step by step approach to achieve the desired goals. The success depends on a developed web marketing plan which is comprehensive, logically organized, and efficient. It covers the basic essentials, Internet advertising opportunities, advanced features, and interactive PR in order to effectively generate leads and raise your online visibility.</p>
-                    </div>
-                    
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="white-box box2">
-                        <div class="box-img">
-                            <img src="https://www.dimakhconsultants.com/img/digital-marketing/icon3.png" alt=""/>
-                        </div>
-                        <p><b>Design</b></p>
-                        <p class="mb-0">Designing the web marketing plan has multiple factors and is spread out over time. We consider not just the increase in traffic but also effective traffic. The design is in line with your online as well as offline presence and strategies. A planned interactivity is a crucial part of the design and helps to track the response and success of the web marketing plan.</p>
-                    </div>
-                    
-                    <div class="white-box box4">
-                        <div class="box-img">
-                            <img src="https://www.dimakhconsultants.com/img/digital-marketing/icon4.png" alt=""/>
-                        </div>
-                        <p><b>Deliver</b></p>
-                        <p class="mb-0">Before a web marketing plan is implemented we do a testing process or a dry run to determine the expected results. Here we have a flexibility to quickly adapt to the results and modify the plan as required saving a lot of money which can be effectively used. The focus is on the website design with interactivity coupled with a strong search engine optimization. We also effectively use social media optimization, content writing, email marketing and online brand management. <br> So let's discuss about your business needs, innovative idea, or web technology requirements and lets together make your project a success.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-					
-					
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-4 col-md-12">
+									<div class="overview-right pl-5 pr-5 pt-5">
+									<h3 class="sec-head">Overview and Process</h3>
+									<h4 class="sub-head">Mobile App Experts : Dimakh Consultants end to end solution partner </h4>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-6">
+								<div class="white-box box1">
+									<div class="box-img">
+										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon1.png" alt=""/>
+									</div>
+									<p><b>Discuss</b></p>
+									<p>We initiate each web marketing plan by understanding your business needs, your target audience, your geographic area, detailed understanding of your products and services. We also get inputs of your competitors and we study the competition online. Your inputs are very crucial for success of any web marketing plan. Our time bound and budget oriented approach always helps you to be in control and understand what are the goals we have set and plans to achieve those.</p>
+								</div>
+								<div class="white-box box3">
+									<div class="box-img">
+										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon2.png" alt=""/>
+									</div>
+									<p><b>Develop</b></p>
+									<p class="mb-0">From our own set norms and experience we develop a web marketing plan which consists of a step by step approach to achieve the desired goals. The success depends on a developed web marketing plan which is comprehensive, logically organized, and efficient. It covers the basic essentials, Internet advertising opportunities, advanced features, and interactive PR in order to effectively generate leads and raise your online visibility.</p>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-6">
+								<div class="white-box box2">
+									<div class="box-img">
+										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon3.png" alt=""/>
+									</div>
+									<p><b>Design</b></p>
+									<p class="mb-0">Designing the web marketing plan has multiple factors and is spread out over time. We consider not just the increase in traffic but also effective traffic. The design is in line with your online as well as offline presence and strategies. A planned interactivity is a crucial part of the design and helps to track the response and success of the web marketing plan.</p>
+								</div>
+								
+								<div class="white-box box4">
+									<div class="box-img">
+										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon4.png" alt=""/>
+									</div>
+									<p><b>Deliver</b></p>
+									<p class="mb-0">Before a web marketing plan is implemented we do a testing process or a dry run to determine the expected results. Here we have a flexibility to quickly adapt to the results and modify the plan as required saving a lot of money which can be effectively used. The focus is on the website design with interactivity coupled with a strong search engine optimization. We also effectively use social media optimization, content writing, email marketing and online brand management. <br> So let's discuss about your business needs, innovative idea, or web technology requirements and lets together make your project a success.</p>
+								</div>
+							</div>
+						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
