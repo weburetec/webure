@@ -36,8 +36,12 @@ const CareerDetailsContent = () => {
 						<ContactForm />
 					</div>
 				</div>
-				<div class="achievements-hex d-flex align-items-center justify-content-center">
-                    <h2>Our Work</h2>
+				<div className="row">
+					<div className="col-lg-3 col-md-12">
+						<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
+							<h2>Our Work</h2>
+						</div>
+					</div>
                 </div>
 			</div>
         </section>
