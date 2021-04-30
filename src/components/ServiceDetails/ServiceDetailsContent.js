@@ -88,7 +88,7 @@ const CareerDetailsContent = () => {
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-12 text-center">
+				<div class="row">
 					<img src="https://www.dimakhconsultants.com/img/web-design/design-services/our-presence-map.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
 				</div>
 			</div>
