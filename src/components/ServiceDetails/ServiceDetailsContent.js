@@ -59,8 +59,6 @@ const CareerDetailsContent = () => {
                 </div>
 				<div className="row">
 					<div className="col-lg-4 col-md-12">
-						<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
-						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<div class="achievement-col col_3 mr-lg-5 mb-5">
