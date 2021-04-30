@@ -12247,3 +12247,8 @@ Go Top CSS
     top: -2rem;
     z-index: -1;
 }
+
+.mb-5, .my-5 {
+    margin-bottom: 3rem!important;
+}
+
