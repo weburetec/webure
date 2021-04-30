@@ -114,7 +114,7 @@ const CareerDetailsContent = () => {
 										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon4.png" alt=""/>
 									</div>
 									<p><b>Deliver</b></p>
-									<p class="mb-0">Before a web marketing plan is implemented we do a testing process or a dry run to determine the expected results. Here we have a flexibility to quickly adapt to the results and modify the plan as required saving a lot of money which can be effectively used. The focus is on the website design with interactivity coupled with a strong search engine optimization. We also effectively use social media optimization, content writing, email marketing and online brand management. <br> So let's discuss about your business needs, innovative idea, or web technology requirements and lets together make your project a success.</p>
+									<p class="mb-0">Before a web marketing plan is implemented we do a testing process or a dry run to determine the expected results. Here we have a flexibility to quickly adapt to the results and modify the plan as required saving a lot of money which can be effectively used. The focus is on the website design with interactivity coupled with a strong search engine optimization. We also effectively use social media optimization, content writing, email marketing and online brand management. <br/> So let's discuss about your business needs, innovative idea, or web technology requirements and lets together make your project a success.</p>
 								</div>
 							</div>
 						</div>
