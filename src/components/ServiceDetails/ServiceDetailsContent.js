@@ -75,25 +75,6 @@ const CareerDetailsContent = () => {
 										</div>
 									</div>						
 						</div>
-					
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-4 col-md-12">
-									<div class="overview-right pl-5 pr-5 pt-5">
-									<h3 class="sec-head">Overview and Process</h3>
-									<h4 class="sub-head">Mobile App Experts : Dimakh Consultants end to end solution partner </h4>
-								</div>
-							</div>
-							<div class="col-lg-4 col-md-6">
-								<div class="white-box box1">
-									<div class="box-img">
-										<img src="https://www.dimakhconsultants.com/img/digital-marketing/icon1.png" alt=""/>
-									</div>
-									<p><b>Discuss</b></p>
-									<p>We initiate each web marketing plan by understanding your business needs, your target audience, your geographic area, detailed understanding of your products and services. We also get inputs of your competitors and we study the competition online. Your inputs are very crucial for success of any web marketing plan. Our time bound and budget oriented approach always helps you to be in control and understand what are the goals we have set and plans to achieve those.</p>
-								</div>
-							</div>
-						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
