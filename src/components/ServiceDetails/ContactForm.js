@@ -29,7 +29,7 @@ const ContactForm = () => {
         <section className="contact-area pb-100">
             <div className="container">
                 <div className="section-title">
-                    <h4>Apply Job</h4>
+                    <h4>Connect with us:-</h4>
                 </div>
 
                 <div className="row">

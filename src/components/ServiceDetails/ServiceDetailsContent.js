@@ -23,10 +23,10 @@ const CareerDetailsContent = () => {
 						<br/>				
 						<div className="row">
 							<div className="col-lg-4 col-md-12">
-								<h2 class="font-size-6 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
+								<h2 class="font-size-8 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
 							</div>						
 							<div className="col-lg-8 col-md-12">
-								<span class="font-size-6 mb-0"><strong>Do you have an idea for an app and are looking for a trusted app design and development agency in India ? Look no further ! The experienced digital marketing professionals at Dimakh Consultants work with you to develop a media strategy, conduct media research, create a media plan and ultimately help you to launch and optimize your online digital campaign. Dimakh Consultants offers complete Digital Marketing package including web design , website development, Internet marketing. Our range of internet marketing services includes search engine optimization (SEO), Google Ads, email marketing solution etc.</strong></span>						
+								<span class="font-size-8 mb-0">Do you have an idea for an app and are looking for a trusted app design and development agency in India ? Look no further ! The experienced digital marketing professionals at Dimakh Consultants work with you to develop a media strategy, conduct media research, create a media plan and ultimately help you to launch and optimize your online digital campaign. Dimakh Consultants offers complete Digital Marketing package including web design , website development, Internet marketing. Our range of internet marketing services includes search engine optimization (SEO), Google Ads, email marketing solution etc.</span>						
 							</div>						
 						</div>
 					</div>
