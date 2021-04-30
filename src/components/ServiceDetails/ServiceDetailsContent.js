@@ -20,7 +20,15 @@ const CareerDetailsContent = () => {
 						<h2 class="font-size-6 mb-0"><strong>ROI Driven digital marketing agency  in Bengaluru, India</strong></h2>
 						<div class="ahl"></div>
 						<h4 class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</h4>
-						<br/>						
+						<br/>				
+						<div className="row">
+							<div className="col-lg-4 col-md-12">
+								<h2 class="font-size-6 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
+							</div>						
+							<div className="col-lg-8 col-md-12">
+								<h2 class="font-size-6 mb-0"><strong>Do you have an idea for an app and are looking for a trusted app design and development agency in India ? Look no further ! The experienced digital marketing professionals at Dimakh Consultants work with you to develop a media strategy, conduct media research, create a media plan and ultimately help you to launch and optimize your online digital campaign. Dimakh Consultants offers complete Digital Marketing package including web design , website development, Internet marketing. Our range of internet marketing services includes search engine optimization (SEO), Google Ads, email marketing solution etc.</strong></h2>						
+							</div>						
+						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={cadetails2} alt="cadetails2" />

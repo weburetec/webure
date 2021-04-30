@@ -12197,3 +12197,13 @@ Go Top CSS
     border-radius: 10px;
     margin-right: 40px;
 }
+
+.horizontal-line {
+    border: 2px solid #f64b53;
+    width: 32px;
+    height: 3px;
+    background: #f64b53;
+    border-radius: 10px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+}
