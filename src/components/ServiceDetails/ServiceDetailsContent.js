@@ -36,6 +36,9 @@ const CareerDetailsContent = () => {
 						<ContactForm />
 					</div>
 				</div>
+				<div class="achievements-hex d-flex align-items-center justify-content-center">
+                    <h2>Our Work</h2>
+                </div>
 			</div>
         </section>
     )

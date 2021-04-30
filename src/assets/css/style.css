@@ -12207,3 +12207,12 @@ Go Top CSS
     margin-right: 40px;
     margin-bottom: 15px;
 }
+
+.achievements-hex {
+    width: 27.7rem;
+    height: 30.1rem;
+    background-image: url(https://www.dimakhconsultants.com/img/static/achievement-hex.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
