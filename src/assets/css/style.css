@@ -12290,3 +12290,33 @@ Go Top CSS
     z-index: -1;
 }
 
+.presence-sec {
+    padding: 13rem 0 2rem;
+    background: rgb(255, 255, 255);
+    background: radial-gradient( circle, rgba(255, 255, 255, 1) 0%, rgba(243, 246, 248, 1) 100% );
+    position: relative;
+    z-index: -2;
+}
+
+.section-padding {
+    padding: 5rem 0;
+}
+
+.presence-sec .sec-head::before {
+    content: "";
+    position: absolute;
+    left: -3rem;
+    top: -3.2rem;
+    width: 9.5rem;
+    height: 9.5rem;
+    background-color: var(--color-primary);
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.presence-sec .sec-head:after {
+    content: url(https://www.dimakhconsultants.com/img/circle-dashed-small.png);
+    left: 2rem;
+    top: -6rem;
+	position: absolute;
+}
