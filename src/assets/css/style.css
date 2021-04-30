@@ -12216,3 +12216,9 @@ Go Top CSS
     background-repeat: no-repeat;
     position: relative;
 }
+
+.achievements-hex h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-white);
+}
