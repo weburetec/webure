@@ -45,7 +45,7 @@ const CareerDetailsContent = () => {
 					<div className="col-lg-4 col-md-12">
 						<div class="achievement-col col_1 mr-lg-5 mb-5">
 							<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-							<h3 class="achievement-title">Covid Kavach App</h3>
+							<h3 class="achievement-title">Kavach App</h3>
 							<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
 						</div>
 					</div>
@@ -65,7 +65,7 @@ const CareerDetailsContent = () => {
 					<div className="col-lg-4 col-md-12">
 						<div class="achievement-col col_3 mr-lg-5 mb-5">
 							<img src="https://www.dimakhconsultants.com/img/mobile-app/gobazzar-app.webp" alt="" class="img-fluid"/>
-							<h3 class="achievement-title">BuyAt/ GoBazzar app</h3>
+							<h3 class="achievement-title">GoBazzar app</h3>
 							<p class="achievement-info">Retailer Consumer connect App - Get all shop offers in one place at a single click. Best integrator app between shops and customers</p>
 						</div>
 					</div>
