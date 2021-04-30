@@ -29,6 +29,35 @@ const CareerDetailsContent = () => {
 								<span class="font-size-8 mb-0">Do you have an idea for an app and are looking for a trusted app design and development agency in India ? Look no further ! The experienced digital marketing professionals at Webure Technologies work with you to develop a media strategy, conduct media research, create a media plan and ultimately help you to launch and optimize your online digital campaign. Webure Technologies offers complete Digital Marketing package including web design , website development, Internet marketing. Our range of internet marketing services includes search engine optimization (SEO), Google Ads, email marketing solution etc.</span>						
 							</div>						
 						</div>
+						<div className="row">
+							<div className="col-lg-4 col-md-12">
+								<h2 class="font-size-8 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
+							</div>						
+							<div className="col-lg-8 col-md-12">
+								<div class="services-box">
+									<div class="service-warp wrap1">
+										<a href="https://www.dimakhconsultants.com/digital-marketing/google-partners-certified-company-pune" class="service service1 bg-blue"/>
+											<img src="https://www.dimakhconsultants.com/img/digital-marketing/Google-partner.png" alt=""/>
+											<h5>Google Partner</h5>
+										</a>
+										<a href="https://www.dimakhconsultants.com/digital-marketing/seo-marketing-company-pune-india" class="service service2 bg-limegreen"/>
+											<img src="https://www.dimakhconsultants.com/img/digital-marketing/Search-engine-optimization.png" alt=""/>
+											<h5>Search Engine Optimization</h5>
+										</a>
+									</div>
+									<div class="service-wrap wrap2">
+										<a href="https://www.dimakhconsultants.com/digital-marketing/conversion-rate-optimisation-company-pune-india" class="service service3 bg-skyblue"/>
+											<img src="https://www.dimakhconsultants.com/img/digital-marketing/Conversion-rate-optimization.png" alt=""/>
+											<h5>Conversion Rate Optimization </h5>
+										</a>
+										<a href="https://www.dimakhconsultants.com/digital-marketing/ppc-marketing-company-pune-india" class="service service4 bg-yellow"/>
+											<img src="https://www.dimakhconsultants.com/img/digital-marketing/PPC-marketing.png" alt=""/>
+											<h5>PPC Marketing </h5>
+										</a>
+									</div>
+								</div>
+							</div>						
+						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
