@@ -68,13 +68,13 @@ const CareerDetailsContent = () => {
 							<h3 class="achievement-title">BuyAt/ GoBazzar app</h3>
 							<p class="achievement-info">Retailer Consumer connect App - Get all shop offers in one place at a single click. Best integrator app between shops and customers</p>
 						</div>
+					</div>
 					<div className="col-lg-4 col-md-12">
 						<div class="achievement-col col_4 mr-lg-5">
 							<img src="https://www.dimakhconsultants.com/img/mobile-app/iscout-cnc.webp" alt="" class="img-fluid"/>
 							<h3 class="achievement-title">iScout CNC</h3>
 							<p class="achievement-info">Control machines remotely - Track machine downtime, get timely alerts, monitor production output and track the CNC Machine line in your factory.</p>
 						</div>
-					</div>
 					</div>
                 </div>
 			</div>
