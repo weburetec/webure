@@ -98,6 +98,36 @@ const CareerDetailsContent = () => {
 								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
 								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
 							</div>
+							<div class="col-12">
+								<div class="col-3">
+									<div class="achievement-col col_1 mr-lg-5 mb-5">
+										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
+										<h3 class="achievement-title">Kavach App</h3>
+										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+									</div>
+								</div>
+								<div class="col-3">
+									<div class="achievement-col col_1 mr-lg-5 mb-5">
+										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
+										<h3 class="achievement-title">Kavach App</h3>
+										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+									</div>
+								</div>
+								<div class="col-3">
+									<div class="achievement-col col_1 mr-lg-5 mb-5">
+										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
+										<h3 class="achievement-title">Kavach App</h3>
+										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+									</div>
+								</div>
+								<div class="col-3">
+									<div class="achievement-col col_1 mr-lg-5 mb-5">
+										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
+										<h3 class="achievement-title">Kavach App</h3>
+										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 					<div className="col-lg-4 col-md-12">
