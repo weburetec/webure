@@ -33,11 +33,7 @@ const CareerDetailsContent = () => {
 						<div className="row">						
 							<div className="col-lg-2 col-md-12">
 								<div class="services-box">
-									<div class="service-warp wrap1">
-										<a href="https://www.dimakhconsultants.com/digital-marketing/google-partners-certified-company-pune" class="service service1 bg-blue">
-											<img src="https://www.dimakhconsultants.com/img/digital-marketing/Google-partner.png" alt=""/>
-											<h5>Google Partner</h5>
-										</a>									
+									<div class="service-warp wrap1">									
 									</div>
 								</div>
 							</div>				
@@ -74,10 +70,10 @@ const CareerDetailsContent = () => {
 							<div className="col-lg-2 col-md-12">
 								<div class="services-box">
 									<div class="service-warp wrap1">
-										<a href="https://www.dimakhconsultants.com/digital-marketing/ppc-marketing-company-pune-india" class="service service4 bg-yellow">
-											<img src="https://www.dimakhconsultants.com/img/digital-marketing/PPC-marketing.png" alt=""/>
-											<h5>PPC Marketing </h5>
-										</a>						
+										<a href="https://www.dimakhconsultants.com/digital-marketing/google-partners-certified-company-pune" class="service service1 bg-blue">
+											<img src="https://www.dimakhconsultants.com/img/digital-marketing/Google-partner.png" alt=""/>
+											<h5>Google Partner</h5>
+										</a>
 									</div>
 								</div>
 							</div>									
@@ -98,30 +94,30 @@ const CareerDetailsContent = () => {
 								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
 								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
 							</div>
-							<br/><br/>
+							<br/><br/><br/><br/><br/><br/><br/>
 							<div class="row">
-								<div class="col-lg-5">
+								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
 										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
 										<h3 class="achievement-title">Kavach App</h3>
 										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
 									</div>
 								</div>
-								<div class="col-lg-5">
+								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
 										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
 										<h3 class="achievement-title">Kavach App</h3>
 										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
 									</div>
 								</div>
-								<div class="col-lg-5">
+								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
 										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
 										<h3 class="achievement-title">Kavach App</h3>
 										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
 									</div>
 								</div>
-								<div class="col-lg-5">
+								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
 										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
 										<h3 class="achievement-title">Kavach App</h3>
