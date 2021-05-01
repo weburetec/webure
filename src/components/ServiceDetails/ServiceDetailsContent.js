@@ -94,9 +94,9 @@ const CareerDetailsContent = () => {
 						</div>
 						<div class="row">
 							<div class="col-12">
-								<h6 class="sec-head">Why Dimakh Consultants</h6>
+								<h6 class="sec-head">Why Webure Technologies</h6>
 								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
-								<p>Dimakh Consultants Pune brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
+								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
 							</div>
 						</div>
 					</div>
