@@ -98,8 +98,12 @@ const CareerDetailsContent = () => {
 							<div class="row">
 								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
-										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-										<h3 class="achievement-title">Kavach App</h3>
+										<div class="col-4">
+											<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
+										</div>
+										<div class="col-8">
+											<h3 class="achievement-title">Kavach App</h3>
+										</div>
 										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
 									</div>
 								</div>
