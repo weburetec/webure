@@ -93,7 +93,7 @@ const CareerDetailsContent = () => {
 						<div class="row">
 							<div class="col-lg-4 col-md-12 order-md-12 order-3">
 								<div class="home-contact__svg" id="home_contact_svg">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 984" width="600" height="984" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);">
+									<svg ="http://www.w3.org/2000/svg" viewBox="0 0 600 984" width="600" height="984" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);">
 										<defs>
 											<clipPath id="__lottie_element_7">
 												<rect width="600" height="984" x="0" y="0"></rect>
@@ -123,27 +123,27 @@ const CareerDetailsContent = () => {
 												<path fill="#ffffff" clip-rule="nonzero" d=" M1116.7030029296875,-60 C1116.7030029296875,-60 -72,-60 -72,-60 C-72,-60 -72,1024.531005859375 -72,1024.531005859375 C-72,1024.531005859375 1116.7030029296875,1024.531005859375 1116.7030029296875,1024.531005859375 C1116.7030029296875,1024.531005859375 1116.7030029296875,-60 1116.7030029296875,-60" fill-opacity="1"></path>
 											</clipPath>
 											<filter id="__lottie_element_87" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-											<feGaussianBlur in="SourceAlpha" result="drop_shadow_1" stdDeviation="20"></feGaussianBlur>
-											<feOffset dx="17.20729309053138" dy="24.574561328669756" in="drop_shadow_1" result="drop_shadow_2"></feOffset>
-											<feFlood flood-color="#5e81f4" flood-opacity="0.15" result="drop_shadow_3"></feFlood>
-											<feComposite in="drop_shadow_3" in2="drop_shadow_2" operator="in" result="drop_shadow_4"></feComposite>
-											<feMerge>
-												<feMergeNode></feMergeNode>
-												<feMergeNode in="SourceGraphic"></feMergeNode>
-											</feMerge>
+												<feGaussianBlur in="SourceAlpha" result="drop_shadow_1" stdDeviation="20"></feGaussianBlur>
+												<feOffset dx="17.20729309053138" dy="24.574561328669756" in="drop_shadow_1" result="drop_shadow_2"></feOffset>
+												<feFlood flood-color="#5e81f4" flood-opacity="0.15" result="drop_shadow_3"></feFlood>
+												<feComposite in="drop_shadow_3" in2="drop_shadow_2" operator="in" result="drop_shadow_4"></feComposite>
+												<feMerge>
+													<feMergeNode></feMergeNode>
+													<feMergeNode in="SourceGraphic"></feMergeNode>
+												</feMerge>
 											</filter>
 											<clipPath id="__lottie_element_89">
 												<path fill="#ffffff" clip-rule="nonzero" d=" M2304,-52 C2304,-52 1111.81201171875,-52 1111.81201171875,-52 C1111.81201171875,-52 1111.81201171875,1024.875 1111.81201171875,1024.875 C1111.81201171875,1024.875 2304,1024.875 2304,1024.875 C2304,1024.875 2304,-52 2304,-52" fill-opacity="1"></path>
 											</clipPath>
 											<filter id="__lottie_element_90" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-											<feGaussianBlur in="SourceAlpha" result="drop_shadow_1" stdDeviation="20"></feGaussianBlur>
-											<feOffset dx="-27.1892336110995" dy="12.678547852220985" in="drop_shadow_1" result="drop_shadow_2"></feOffset>
-											<feFlood flood-color="#5e81f4" flood-opacity="0.15" result="drop_shadow_3"></feFlood>
-											<feComposite in="drop_shadow_3" in2="drop_shadow_2" operator="in" result="drop_shadow_4"></feComposite>
-											<feMerge>
-											<feMergeNode></feMergeNode>
-											<feMergeNode in="SourceGraphic"></feMergeNode>
-											</feMerge>
+												<feGaussianBlur in="SourceAlpha" result="drop_shadow_1" stdDeviation="20"></feGaussianBlur>
+												<feOffset dx="-27.1892336110995" dy="12.678547852220985" in="drop_shadow_1" result="drop_shadow_2"></feOffset>
+												<feFlood flood-color="#5e81f4" flood-opacity="0.15" result="drop_shadow_3"></feFlood>
+												<feComposite in="drop_shadow_3" in2="drop_shadow_2" operator="in" result="drop_shadow_4"></feComposite>
+												<feMerge>
+													<feMergeNode></feMergeNode>
+													<feMergeNode in="SourceGraphic"></feMergeNode>
+												</feMerge>
 											</filter>
 										</defs>
 										<g clip-path="url(#__lottie_element_7)">
