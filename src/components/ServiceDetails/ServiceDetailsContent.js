@@ -101,10 +101,10 @@ const CareerDetailsContent = () => {
 								<div class="col-md-6">
 
 <div class="first hero">
-  <img class="hero-profile-img" src="https://cdn.gamer-network.net/2018/metabomb/leagueoflegendsbestcarrychampions2018pantheon.jpg" alt="">
+  <img class="hero-profile-img" src="https://cdn.gamer-network.net/2018/metabomb/leagueoflegendsbestcarrychampions2018pantheon.jpg" alt=""/>
   <div class="hero-description-bk"></div>
   <div class="hero-logo">
-    <img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt="">
+    <img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt=""/>
   </div>
   <div class="hero-description">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -118,10 +118,10 @@ const CareerDetailsContent = () => {
 </div>
 
 <div class="second hero">
-  <img class="hero-profile-img" src="https://i.pinimg.com/originals/9f/b1/ff/9fb1ffb05dd28039d1a06ad8e90cbd75.jpg" alt="">
+  <img class="hero-profile-img" src="https://i.pinimg.com/originals/9f/b1/ff/9fb1ffb05dd28039d1a06ad8e90cbd75.jpg" alt=""/>
   <div class="hero-description-bk"></div>
   <div class="hero-logo">
-    <img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt="">
+    <img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt=""/>
   </div>
   <div class="hero-description">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
