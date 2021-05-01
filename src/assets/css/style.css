@@ -12592,8 +12592,7 @@ button.primary.ghost {
   display: block;
   position: absolute;
   top: 10%;
-  right: -2px;
-  height: 80%;
+
   border-left: 2px solid rgba(0,0,0,0.025);*/
 }
 

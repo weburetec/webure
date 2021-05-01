@@ -314,7 +314,7 @@ const CareerDetailsContent = () => {
     </div>
   </div>
 
-</div>
+
 							</div>
 							
 							
