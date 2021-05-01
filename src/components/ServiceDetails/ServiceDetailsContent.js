@@ -93,7 +93,7 @@ const CareerDetailsContent = () => {
 						<div class="row">
 							<div class="col-lg-4 col-md-12 order-md-12 order-3">
 								<div class="home-contact__svg" id="home_contact_svg">
-									<svg ="http://www.w3.org/2000/svg" viewBox="0 0 600 984" width="600" height="984" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 984" width="600" height="984" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);">
 										<defs>
 											<clipPath id="__lottie_element_7">
 												<rect width="600" height="984" x="0" y="0"></rect>
