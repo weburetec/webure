@@ -168,9 +168,6 @@ const CareerDetailsContent = () => {
 				</div>
 				<br/><br/>
 				<div class="row">
-				<section class="achievements section-padding mb-4" id="work">
-        <div class="container">
-            <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <div class="achievements-hex d-flex align-items-center justify-content-center">
                         <h2>Our Work</h2>
@@ -200,9 +197,8 @@ const CareerDetailsContent = () => {
                         <p class="achievement-info">Control machines remotely - Track machine downtime, get timely alerts, monitor production output and track the CNC Machine line in your factory.</p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
+
+
 				</div>
 				<div class="row">
 					<div className="col-lg-2 col-md-12">
