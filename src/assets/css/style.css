@@ -12226,7 +12226,7 @@ Go Top CSS
 .achievement-col {
     box-shadow: 0 0 2rem rgb(0 0 0 / 20%);
     padding: 2rem 3rem;
-    background-color: var(--color-white);
+    background-color: #ffffff;
     position: relative;
 }
 
@@ -12377,8 +12377,8 @@ Go Top CSS
 }
 
 .service:link, .service:active, .service:focus {
-    width: 17rem;
-    height: 17rem;
+    width: 10rem;
+    height: 10rem;
     clip-path: var(--shape-polygon);
     display: inline-flex;
     flex-direction: column;
