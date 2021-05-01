@@ -94,8 +94,8 @@ const CareerDetailsContent = () => {
 								<h6 class="sec-head">Why Webure Technologies</h6>
 								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
 								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
-							</div>
 							<br/><br/><br/><br/><br/><br/><br/>
+							</div>
 							<div class="row">
 								<div class="col-lg-6">
 									<div class="achievement-col col_1 mr-lg-5 mb-5">
