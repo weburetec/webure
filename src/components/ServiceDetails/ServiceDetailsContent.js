@@ -125,40 +125,60 @@ const CareerDetailsContent = () => {
 										</ul>
 									</div>
 								</div>
-							</div>
-							
-							
-							<div class="row">
-								<div class="col-lg-6">
-									<div class="achievement-col col_1 mr-lg-5 mb-5">
-										<div class="col-4">
-											<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-										</div>
-										<div class="col-8">
-											<h3 class="achievement-title">Kavach App</h3>
-										</div>
-										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+								
+								<div class="card-container">
+									<span class="pro">PRO</span>
+									<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+									<h3>Ricky Park</h3>
+									<h6>New York</h6>
+									<p>User interface designer and <br/> front-end developer</p>
+									<div class="buttons">
+										<button class="primary">
+											Message
+										</button>
+										<button class="primary ghost">
+											Following
+										</button>
+									</div>
+									<div class="skills">
+										<h6>Skills</h6>
+										<ul>
+											<li>UI / UX</li>
+											<li>Front End Development</li>
+											<li>HTML</li>
+											<li>CSS</li>
+											<li>JavaScript</li>
+											<li>React</li>
+											<li>Node</li>
+										</ul>
 									</div>
 								</div>
-								<div class="col-lg-6">
-									<div class="achievement-col col_1 mr-lg-5 mb-5">
-										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-										<h3 class="achievement-title">Kavach App</h3>
-										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+								
+								<div class="card-container">
+									<span class="pro">PRO</span>
+									<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+									<h3>Ricky Park</h3>
+									<h6>New York</h6>
+									<p>User interface designer and <br/> front-end developer</p>
+									<div class="buttons">
+										<button class="primary">
+											Message
+										</button>
+										<button class="primary ghost">
+											Following
+										</button>
 									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="achievement-col col_1 mr-lg-5 mb-5">
-										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-										<h3 class="achievement-title">Kavach App</h3>
-										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
-									</div>
-								</div>
-								<div class="col-lg-6">
-									<div class="achievement-col col_1 mr-lg-5 mb-5">
-										<img src="https://www.dimakhconsultants.com/img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-										<h3 class="achievement-title">Kavach App</h3>
-										<p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
+									<div class="skills">
+										<h6>Skills</h6>
+										<ul>
+											<li>UI / UX</li>
+											<li>Front End Development</li>
+											<li>HTML</li>
+											<li>CSS</li>
+											<li>JavaScript</li>
+											<li>React</li>
+											<li>Node</li>
+										</ul>
 									</div>
 								</div>
 							</div>
