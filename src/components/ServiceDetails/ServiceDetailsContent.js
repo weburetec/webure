@@ -214,9 +214,9 @@ const CareerDetailsContent = () => {
           Level 13
         </div>
         <div class="points center">
-          5,312 Points
+          5312 Points
         </div>
-        <svg width="110" height="110" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" class="center">
+        <svg width="110" height="110" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" class="center"/>
           <title id="title">Teacher</title>
           <desc id="desc">Cartoon of a Caucasian woman smiling, and wearing black glasses and a purple shirt with white collar drawn by Alvaro Montoro.</desc>
           <style>
