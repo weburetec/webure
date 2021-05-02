@@ -98,7 +98,7 @@ const CareerDetailsContent = () => {
 							</div>
 
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-5">
 									<div class="first hero">
 									  <img class="hero-profile-img" src="https://cdn.gamer-network.net/2018/metabomb/leagueoflegendsbestcarrychampions2018pantheon.jpg" alt=""/>
 									  <div class="hero-description-bk"></div>
@@ -116,7 +116,7 @@ const CareerDetailsContent = () => {
 									  </div>
 									</div>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-5">
 									<div class="second hero">
 									  <img class="hero-profile-img" src="https://i.pinimg.com/originals/9f/b1/ff/9fb1ffb05dd28039d1a06ad8e90cbd75.jpg" alt=""/>
 									  <div class="hero-description-bk"></div>
