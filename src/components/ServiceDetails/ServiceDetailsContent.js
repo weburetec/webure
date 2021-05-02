@@ -97,6 +97,8 @@ const CareerDetailsContent = () => {
 							<br/><br/>
 							</div>
 														
+						</div>
+						
 							<div class="row">
 								<div class="col-md-6">
 									<div class="card-container achievement-col col_1">
@@ -104,7 +106,7 @@ const CareerDetailsContent = () => {
 										<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
 										<h3>Ricky Park</h3>
 										<h6>New York</h6>
-										<p>User interface designer and <br/> front-end developer</p>
+										<p>User interface designer and <br/> front-end developer. Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking</p>
 										<div class="buttons">
 											<button class="primary">
 												Message
@@ -187,8 +189,8 @@ const CareerDetailsContent = () => {
 										</div>
 									</div>
 								</div>
-							</div>
-						</div>
+							</div>						
+						
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
