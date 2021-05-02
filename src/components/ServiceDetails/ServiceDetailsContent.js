@@ -96,45 +96,6 @@ const CareerDetailsContent = () => {
 								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
 							<br/><br/>
 							</div>
-
-							<div class="row">
-								<div class="col-md-5">
-									<div class="first hero">
-									  <img class="hero-profile-img" src="https://cdn.gamer-network.net/2018/metabomb/leagueoflegendsbestcarrychampions2018pantheon.jpg" alt=""/>
-									  <div class="hero-description-bk"></div>
-									  <div class="hero-logo">
-										<img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt=""/>
-									  </div>
-									  <div class="hero-description">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-									  </div>
-									  <div  class="hero-date">
-										<p>20.02.2019</p>
-									  </div>
-									  <div class="hero-btn">
-										<a href="#">Learn More</a>
-									  </div>
-									</div>
-								</div>
-								<div class="col-md-5">
-									<div class="second hero">
-									  <img class="hero-profile-img" src="https://i.pinimg.com/originals/9f/b1/ff/9fb1ffb05dd28039d1a06ad8e90cbd75.jpg" alt=""/>
-									  <div class="hero-description-bk"></div>
-									  <div class="hero-logo">
-										<img src="https://miscmedia-9gag-fun.9cache.com/images/thumbnail-facebook/1557291375.3948_Dy2yZu_n.jpg" alt=""/>
-									  </div>
-									  <div class="hero-description">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-									  </div>
-									  <div  class="hero-date">
-										<p>20.02.2019</p>
-									  </div>
-									  <div class="hero-btn">
-										<a href="#">Learn More</a>
-									  </div>
-									</div>
-								</div>
-							</div>
 														
 							<div class="row">
 								<div class="col-md-6">
@@ -202,7 +163,79 @@ const CareerDetailsContent = () => {
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
 						<br />
-						<ContactForm />
+						<div class="row">
+							<div class="card">
+  <div class="header">
+    <h2>Drop us a line...</h2>
+    <p>Drop us a message and we will contact you back shortly</p>
+   <svg version="1.1" id="Layer"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 113 120" xml:space="preserve" preserveAspectRatio="none">
+<style type="text/css">
+	.st0{fill:  #fff; stroke: rgba(0,0,0,0.2); stroke-width: 2px;}
+</style>
+<g>
+	<path class="st0" d="M93.8,87.4c16.7-28.2,23.9-51,11.5-70.9C100.1,8.2,92.4,4.3,84,2.7c6.1,12.9,6.3,28.3-0.4,41.7
+		c5,2.6,8.3,7.9,8.3,13.9c0,8.7-7,15.7-15.7,15.7c-4.3,0-8.2-1.7-11.1-4.6l-19,14.8c0.7,1.4,0.4,3.1-0.9,4.1l-4,3.1
+		c-1.4,1.1-3.5,0.8-4.5-0.6l-0.1-0.1c-1.1-1.4-0.8-3.5,0.6-4.5l4-3.1c1.3-1,3-0.9,4.2,0.2l18.9-14.8c-2.4-2.8-3.8-6.4-3.8-10.3
+		c0-8.7,7-15.7,15.7-15.7c0.5,0,1,0,1.5,0.1c6.9-13.1,6.2-28.5-1-40.7c-10-0.5-20.3,1.2-28.4,2.2C31,6.2,26.8,1,26.8,1
+		c-3.8,11.5,5.9,17,5.9,17s1.7-0.8-2.4,4.2c-4.1,5.1-5.2,15.6-5.8,18.4c-0.6,2.8,1.6,2.7,2.3,5.8c0.7,3.1-9.2,16.4-10.2,19.7
+		c-1,3.3,8.1,6.9,8.1,6.9l-1.4,4.5c0.7,2.5,13.9,2,13.9,2c-2.8,4.2-10.5,3.7-10.5,3.7l-2.3,1.6c0,0,1.3,1.7,2.4,2.7
+		c1.1,1,1.1,6.2,1.1,6.2c-1.3,8.6,1,10.3,5.9,12.5s12.6-3.1,12.6-2.1c0,1-0.1,19.8-0.1,19.8c29.7,14.6,51.4-6.4,51.4-6.4
+		C95,109.8,93.8,87.4,93.8,87.4z"/>
+</g>
+</svg>
+
+
+  </div>
+  <form class="form-wrap" id="md-form" autocomplete="off" method="get">
+    <div class="input-wrap">
+
+      <i class="material-icons">person</i>
+      <label for="a">Name</label>
+      <input class="input" type="text" id="a" placeholder="First and Last name" value="" />
+
+    </div>
+
+    <div class="input-wrap">
+      <i class="material-icons">email</i>
+      <label for="b">E-mail</label>
+      <input class="input" type="email" id="b" placeholder="email@mail.com" value="" />
+
+    </div>
+
+
+    <div class="input-wrap">
+      <i class="material-icons">mic</i>
+      <label for="c">Message</label>
+      <textarea class="input" id="c" placeholder="Write what you feel" /></textarea>
+    </div>
+
+    <div class="input-wrap">
+      <input type="checkbox" id="d">
+      <label for="d">You agree on our terms and conditions</label>
+    </div>
+
+    <div class="input-wrap">
+      <button id="confirm" type="submit">Submit</button>
+    </div>
+
+  </form>
+
+  <div class="ending">
+    <div>
+      <i class="material-icons">check</i>
+    </div>
+
+    <div>
+      <h2>Your Message has been sent successfuly</h2>
+    </div>
+
+  </div>
+  <!-- end of ending -->
+
+</div>
+<!-- end of Card -->
+						</div>
 					</div>
 				</div>
 				<br/><br/>
