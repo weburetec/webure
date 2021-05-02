@@ -111,100 +111,95 @@ const CareerDetailsContent = () => {
 						<div class="col-lg-4">
 							<div class="card-container achievement-col col_1">
 								<span class="pro">PRO</span>
-									<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
-									<h3>Ricky Park</h3>
-									<h6>New York</h6>
-									<p>User interface designer and <br/> front-end developer. Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking</p>
-									<div class="buttons">
-										<button class="primary">
-											Message
-										</button>
-										<button class="primary ghost">
-											Following
-										</button>
-									</div>
-									<div class="skills">
-										<h6>Skills</h6>
-										<ul>
-											<li>UI / UX</li>
-											<li>Front End Development</li>
-											<li>HTML</li>
-											<li>CSS</li>
-											<li>JavaScript</li>
-											<li>React</li>
-											<li>Node</li>
-										</ul>
-									</div>
+								<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+								<h3>Ricky Park</h3>
+								<h6>New York</h6>
+								<p>User interface designer and <br/> front-end developer. Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking</p>
+								<div class="buttons">
+									<button class="primary">
+										Message
+									</button>
+									<button class="primary ghost">
+										Following
+									</button>
+								</div>
+								<div class="skills">
+									<h6>Skills</h6>
+									<ul>
+										<li>UI / UX</li>
+										<li>Front End Development</li>
+										<li>HTML</li>
+										<li>CSS</li>
+										<li>JavaScript</li>
+										<li>React</li>
+										<li>Node</li>
+									</ul>
 								</div>
 							</div>
+						</div>
 								
-								<div class="col-lg-4">
-									<div class="card-container achievement-col col_2">
-										<span class="pro">PRO</span>
-										<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
-										<h3>Ricky Park</h3>
-										<h6>New York</h6>
-										<p>User interface designer and <br/> front-end developer Best app for Rotary members - Stay connected with Rotary members, clubs, districts, Rotary events and projects. All in one place</p>
-										<div class="buttons">
-											<button class="primary">
-												Message
-											</button>
-											<button class="primary ghost">
-												Following
-											</button>
-										</div>
-										<div class="skills">
-											<h6>Skills</h6>
-											<ul>
-												<li>UI / UX</li>
-												<li>Front End Development</li>
-												<li>HTML</li>
-												<li>CSS</li>
-												<li>JavaScript</li>
-												<li>React</li>
-												<li>Node</li>
-											</ul>
-										</div>
-									</div>
+						<div class="col-lg-4">
+							<div class="card-container achievement-col col_1">
+								<span class="pro">PRO</span>
+								<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+								<h3>Ricky Park</h3>
+								<h6>New York</h6>
+								<p>User interface designer and <br/> front-end developer. Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking</p>
+								<div class="buttons">
+									<button class="primary">
+										Message
+									</button>
+									<button class="primary ghost">
+										Following
+									</button>
 								</div>
-								
-								<div class="col-lg-4">
-									<div class="card-container achievement-col col_3">
-										<span class="pro">PRO</span>
-										<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
-										<h3>Ricky Park</h3>
-										<h6>New York</h6>
-										<p>User interface designer and <br/> front-end developer Retailer Consumer connect App - Get all shop offers in one place at a single click. Best integrator app between shops and customers</p>
-										<div class="buttons">
-											<button class="primary">
-												Message
-											</button>
-											<button class="primary ghost">
-												Following
-											</button>
-										</div>
-										<div class="skills">
-											<h6>Skills</h6>
-											<ul>
-												<li>UI / UX</li>
-												<li>Front End Development</li>
-												<li>HTML</li>
-												<li>CSS</li>
-												<li>JavaScript</li>
-												<li>React</li>
-												<li>Node</li>
-											</ul>
-										</div>
-									</div>
+								<div class="skills">
+									<h6>Skills</h6>
+									<ul>
+										<li>UI / UX</li>
+										<li>Front End Development</li>
+										<li>HTML</li>
+										<li>CSS</li>
+										<li>JavaScript</li>
+										<li>React</li>
+										<li>Node</li>
+									</ul>
 								</div>
-							</div>	
+							</div>
+						</div>						
 
-
-
-
-
-
+						<div class="col-lg-4">
+							<div class="card-container achievement-col col_1">
+								<span class="pro">PRO</span>
+								<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
+								<h3>Ricky Park</h3>
+								<h6>New York</h6>
+								<p>User interface designer and <br/> front-end developer. Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking</p>
+								<div class="buttons">
+									<button class="primary">
+										Message
+									</button>
+									<button class="primary ghost">
+										Following
+									</button>
+								</div>
+								<div class="skills">
+									<h6>Skills</h6>
+									<ul>
+										<li>UI / UX</li>
+										<li>Front End Development</li>
+										<li>HTML</li>
+										<li>CSS</li>
+										<li>JavaScript</li>
+										<li>React</li>
+										<li>Node</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>	
 				</div>
+				
 				<div class="row">
 					<div className="col-lg-2 col-md-12">
 						<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
