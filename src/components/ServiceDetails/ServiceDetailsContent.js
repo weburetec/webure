@@ -229,10 +229,8 @@ const CareerDetailsContent = () => {
 					</div>
 				</div>
 			</div>
-        </section>
-		
-		<section class="why-sec-red section-padding bg-red">
-			<div class="container">
+
+			<div class="container why-sec-red section-padding bg-red">
 				<div class="row">
 					<div class="col-lg-8 col-md-12">
 						<div class="row why-panel top align-items-stretch">
@@ -284,7 +282,9 @@ const CareerDetailsContent = () => {
                 </div>
             </div>
         </div>
-    </section>
+
+
+        </section>
     )
 }
 
