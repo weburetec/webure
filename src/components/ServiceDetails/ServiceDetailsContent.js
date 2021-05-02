@@ -95,11 +95,8 @@ const CareerDetailsContent = () => {
 								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
 								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
 							<br/><br/>
-							</div>
-														
-						</div>
-						
-										
+							</div>						
+						</div>			
 					</div>
 					<div className="col-lg-4 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
@@ -110,36 +107,6 @@ const CareerDetailsContent = () => {
 					</div>
 				</div>
 				<br/><br/>
-				<div class="row">
-                <div class="col-lg-4 col-md-12 col-sm-12">
-                    <div class="achievements-hex d-flex align-items-center justify-content-center">
-                        <h2>Our Work</h2>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="achievement-col col_1 mr-lg-5 mb-5">
-                        <img src="img/mobile-app/covid-kavach-app.webp" alt="" class="img-fluid"/>
-                        <h3 class="achievement-title">Covid Kavach App</h3>
-                        <p class="achievement-info">Support Covid - successful implementation of COVID KAVACH An award winning app for clinical trial participants symptoms tracking.  </p>
-                    </div>
-                    <div class="achievement-col col_2 mr-lg-5 col_2 mb-5">
-                        <img src="img/mobile-app/rotary-app.webp" alt="" class="img-fluid"/>
-                        <h3 class="achievement-title">Rotary App</h3>
-                        <p class="achievement-info">Best app for Rotary members - Stay connected with Rotary members, clubs, districts, Rotary events and projects. All in one place.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="achievement-col col_3 mr-lg-5 mb-5">
-                        <img src="img/mobile-app/gobazzar-app.webp" alt="" class="img-fluid"/>
-                        <h3 class="achievement-title">BuyAt/ GoBazzar app</h3>
-                        <p class="achievement-info">Retailer Consumer connect App - Get all shop offers in one place at a single click. Best integrator app between shops and customers</p>
-                    </div><br class="d-none d-lg-block"/><br class="d-none d-lg-block"/>
-                    <div class="achievement-col col_4 mr-lg-5">
-                        <img src="img/mobile-app/iscout-cnc.webp" alt="" class="img-fluid"/>
-                        <h3 class="achievement-title">iScout CNC</h3>
-                        <p class="achievement-info">Control machines remotely - Track machine downtime, get timely alerts, monitor production output and track the CNC Machine line in your factory.</p>
-                    </div>
-                </div>
 
 
 							<div class="row">
@@ -179,7 +146,7 @@ const CareerDetailsContent = () => {
 										<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
 										<h3>Ricky Park</h3>
 										<h6>New York</h6>
-										<p>User interface designer and <br/> front-end developer</p>
+										<p>User interface designer and <br/> front-end developer Best app for Rotary members - Stay connected with Rotary members, clubs, districts, Rotary events and projects. All in one place</p>
 										<div class="buttons">
 											<button class="primary">
 												Message
@@ -209,7 +176,7 @@ const CareerDetailsContent = () => {
 										<img class="round" src="https://randomuser.me/api/portraits/women/79.jpg" alt="user" />
 										<h3>Ricky Park</h3>
 										<h6>New York</h6>
-										<p>User interface designer and <br/> front-end developer</p>
+										<p>User interface designer and <br/> front-end developer Retailer Consumer connect App - Get all shop offers in one place at a single click. Best integrator app between shops and customers</p>
 										<div class="buttons">
 											<button class="primary">
 												Message
