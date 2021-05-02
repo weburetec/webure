@@ -196,10 +196,10 @@ const CareerDetailsContent = () => {
 							</div>
 						</div>
 					</div>
-					<br/><br/><br/><br/>
 				</div>
 				
 				<div class="row">
+					<br/><br/><br/><br/>
 					<div className="col-lg-2 col-md-12">
 						<div class="achievements-hex d-flex align-items-center justify-content-center font-color-white">
 							<h4><strong>Our Client</strong></h4>
