@@ -12610,3 +12610,35 @@ button.primary.ghost {
 }
 /* END CARD DESIGN */
 
+.why-sec-red {
+    background: url(https://www.dimakhconsultants.com/img/web-design/design-services/mob/why-us.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.row.why-panel {
+    background: var(--color-red-1);
+}
+
+@media only screen and (max-width: 575px)
+.row.why-panel:first-child {
+    margin: 18rem 0 0;
+}
+
+@media only screen and (max-width: 767px)
+.why-panel div[class*="col"]:not(:last-child) .whyCol {
+    border-right: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.why-panel .whyCol {
+    padding: 3rem 2rem;
+}
+
+.whyCol {
+    text-align: center;
+    color: var(--color-white);
+    padding: 1rem 2rem;
+    height: 100%;
+}
+
