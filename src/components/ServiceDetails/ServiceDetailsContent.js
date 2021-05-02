@@ -107,6 +107,8 @@ const CareerDetailsContent = () => {
 					</div>
 				</div>
 				<br/><br/>
+				<div class="row">
+
 
 
 							<div class="row">
