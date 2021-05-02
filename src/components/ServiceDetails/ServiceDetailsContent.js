@@ -30,7 +30,23 @@ const CareerDetailsContent = () => {
 							</div>						
 						</div>
 						<br/><br/>
-						<div className="row">						
+						
+						
+						<div class="row">
+							<div class="col-12">
+								<h6 class="sec-head">Why Webure Technologies</h6>
+								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
+								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
+							<br/><br/>
+							</div>						
+						</div>			
+					</div>
+					<div className="col-lg-4 col-md-12">
+						<img src={bannerhex} alt="bannerhex" />
+						<br />
+						<div class="row">
+						
+<div className="row">						
 							<div className="col-lg-2 col-md-12">
 								<div class="services-box">
 									<div class="service-warp wrap1">									
@@ -88,21 +104,9 @@ const CareerDetailsContent = () => {
 								</div>
 							</div>						
 						</div>
+
+
 						
-						<div class="row">
-							<div class="col-12">
-								<h6 class="sec-head">Why Webure Technologies</h6>
-								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
-								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
-							<br/><br/>
-							</div>						
-						</div>			
-					</div>
-					<div className="col-lg-4 col-md-12">
-						<img src={bannerhex} alt="bannerhex" />
-						<br />
-						<div class="row">
-							
 						</div>
 					</div>
 				</div>
