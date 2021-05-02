@@ -229,61 +229,6 @@ const CareerDetailsContent = () => {
 					</div>
 				</div>
 			</div>
-
-			<div class="container why-sec-red section-padding bg-red">
-				<div class="row">
-					<div class="col-lg-8 col-md-12">
-						<div class="row why-panel top align-items-stretch">
-							<div class="col-lg-4 col-md-4">
-								<div class="whyCol">
-									<img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/experience.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>EXPERIENCE</h5>
-                                <span>22+ years in industry</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="whyCol">
-                                <img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/consulting-approach.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>INNOVATION</h5>
-                                <span>4200+ Websites and applications designed</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="whyCol">
-                                <img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/unique-designing-model.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>CUSTOMER BASE</h5>
-                                <span>2500+ Satisfied customers worldwide</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row why-panel align-items-stretch">
-                        <div class="col-lg-4 col-md-4">
-                            <div class="whyCol">
-                            <img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/work.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>WORK</h5>
-                                <span>100+ Government web applications</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="whyCol">
-                                <img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/expertise.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>EXPERTISE</h5>
-                                <span>200+ E-comm Payment Gateway integrations</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4">
-                            <div class="whyCol">
-                            <img src="https://www.dimakhconsultants.com/img/web-design/design-services/icon/globe.png" alt="Experience" title="Experience" class="img-fluid"/>
-                                <h5>LOCAL - GLOBAL</h5>
-                                <span>2000+ Man years in experience</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
         </section>
     )
 }
