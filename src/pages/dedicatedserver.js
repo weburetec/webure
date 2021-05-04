@@ -11,7 +11,7 @@ const Details = () => {
         <Layout>
             <Navbar />
 			<br/><br/><br/><br/>
-            <ServiceDetailsContent />
+            <DedicatedServerContent />
             <RelatedServices />
             <Footer />
         </Layout>
