@@ -5,7 +5,8 @@ import ContactForm from './ContactForm'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 import bannerhex from '../../assets/images/banner-hex.webp'
-  
+import {PricingTable, PricingSlot, PricingDetail} from './react-pricing-table';
+
 const DedicatedServerContent = () => {
     return (
         <section className="events-details-area pb-100">
