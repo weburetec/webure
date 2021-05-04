@@ -49,7 +49,6 @@ const DedicatedServerContent = () => {
 <table class="table dedicated-table">
 <thead>
 <tr>
-<th>&nbsp;</th>
 <th>Servers</th>
 <th>CPU Cores/Speed</th>
 <th>Memory</th>
@@ -62,7 +61,6 @@ const DedicatedServerContent = () => {
 </thead>
 <tbody>
 <tr>
-<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E3-1230 v2 </td>
 <td>4x3.3GHz</td>
 <td>16GB DDR3</td>
@@ -75,7 +73,6 @@ const DedicatedServerContent = () => {
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E3-1270v3 </td>
 <td>4x3.5GHz</td>
 <td>16GB DDR3</td>
@@ -88,7 +85,6 @@ const DedicatedServerContent = () => {
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E3-1230v5 </td>
 <td>4x3.4GHz</td>
 <td>16GB DDR4</td>
@@ -101,7 +97,6 @@ const DedicatedServerContent = () => {
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E3-1275v5 </td>
 <td>4x3.6GHz</td>
 <td>16GB DDR4</td>
@@ -114,7 +109,6 @@ const DedicatedServerContent = () => {
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E5-2637v2 </td>
 <td>4x3.5GHz</td>
 <td>32GB DDR3</td>
@@ -127,7 +121,6 @@ const DedicatedServerContent = () => {
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E5-2630v3 </td>
 <td>8x2.4GHz</td>
 <td>32GB DDR3</td>
@@ -135,12 +128,11 @@ const DedicatedServerContent = () => {
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$249</b></td>
-<td><button class="primary">
+<td><button class="primary" onclick="window.location.href='/home'">
 									Message
 								</button></td>
 </tr>
 <tr>
-<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E5-2630v4 </td>
 <td>10x2.2GHz</td>
 <td>32GB DDR4</td>
