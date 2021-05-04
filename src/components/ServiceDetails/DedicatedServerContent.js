@@ -62,7 +62,6 @@ const DedicatedServerContent = () => {
 </thead>
 <tbody>
 <tr>
-<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
 <td>Intel Xeon E3</td>
 <td>Intel Xeon E3</td>
 <td>Intel Xeon E3</td>
@@ -70,7 +69,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E3</td>
 <td><b>24 Hours</b></td>
 <td><b>Intel Xeon E3</b></td>
-<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=625">Configure</a></td>
+
 </tr>
 </tbody>
 </table>
