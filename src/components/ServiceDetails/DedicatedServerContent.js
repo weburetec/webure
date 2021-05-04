@@ -5,12 +5,8 @@ import ContactForm from './ContactForm'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 import bannerhex from '../../assets/images/banner-hex.webp'
-<link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
-<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
   
-const CareerDetailsContent = () => {
+const DedicatedServerContent = () => {
     return (
         <section className="events-details-area pb-100">
             <div className="events-details-image">
@@ -46,113 +42,37 @@ const CareerDetailsContent = () => {
 				
 				<div class="row">
 				
-<div class="mdc-data-table">
-  <div class="mdc-data-table__table-container">
-    <table class="mdc-data-table__table" aria-label="Dessert calories">
-      <thead>
-        <tr class="mdc-data-table__header-row">
-          <th class="mdc-data-table__header-cell" role="columnheader" scope="col">Dessert</th>
-          <th class="mdc-data-table__header-cell mdc-data-table__header-cell--numeric" role="columnheader" scope="col">Carbs (g)</th>
-          <th class="mdc-data-table__header-cell mdc-data-table__header-cell--numeric" role="columnheader" scope="col">Protein (g)</th>
-          <th class="mdc-data-table__header-cell" role="columnheader" scope="col">Comments</th>
-        </tr>
-      </thead>
-      <tbody class="mdc-data-table__content">
-        <tr class="mdc-data-table__row">
-          <th class="mdc-data-table__cell" scope="row">Frozen yogurt</th>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">24</td>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">4.0</td>
-          <td class="mdc-data-table__cell">Super tasty</td>
-        </tr>
-        <tr class="mdc-data-table__row">
-          <th class="mdc-data-table__cell" scope="row">Ice cream sandwich</th>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">37</td>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">4.33333333333</td>
-          <td class="mdc-data-table__cell">I like ice cream more</td>
-        </tr>
-        <tr class="mdc-data-table__row">
-          <th class="mdc-data-table__cell" scope="row">Eclair</th>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">24</td>
-          <td class="mdc-data-table__cell mdc-data-table__cell--numeric">6.0</td>
-          <td class="mdc-data-table__cell">New filing flavor</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-
-  <div class="mdc-data-table__pagination">
-    <div class="mdc-data-table__pagination-trailing">
-      <div class="mdc-data-table__pagination-rows-per-page">
-        <div class="mdc-data-table__pagination-rows-per-page-label">
-          Rows per page
-        </div>
-
-        <div class="mdc-select mdc-select--outlined mdc-select--no-label mdc-data-table__pagination-rows-per-page-select">
-          <div class="mdc-select__anchor" role="button" aria-haspopup="listbox"
-                aria-labelledby="demo-pagination-select" tabindex="0">
-            <span class="mdc-select__selected-text-container">
-              <span id="demo-pagination-select" class="mdc-select__selected-text">10</span>
-            </span>
-            <span class="mdc-select__dropdown-icon">
-              <svg
-                  class="mdc-select__dropdown-icon-graphic"
-                  viewBox="7 10 10 5">
-                <polygon
-                    class="mdc-select__dropdown-icon-inactive"
-                    stroke="none"
-                    fill-rule="evenodd"
-                    points="7 10 12 15 17 10">
-                </polygon>
-                <polygon
-                    class="mdc-select__dropdown-icon-active"
-                    stroke="none"
-                    fill-rule="evenodd"
-                    points="7 15 12 10 17 15">
-                </polygon>
-              </svg>
-            </span>
-            <span class="mdc-notched-outline mdc-notched-outline--notched">
-              <span class="mdc-notched-outline__leading"></span>
-              <span class="mdc-notched-outline__trailing"></span>
-            </span>
-          </div>
-
-          <div class="mdc-select__menu mdc-menu mdc-menu-surface mdc-menu-surface--fullwidth" role="listbox">
-            <ul class="mdc-list">
-              <li class="mdc-list-item mdc-list-item--selected" aria-selected="true" role="option" data-value="10">
-                <span class="mdc-list-item__text">10</span>
-              </li>
-              <li class="mdc-list-item" role="option" data-value="25">
-                <span class="mdc-list-item__text">25</span>
-              </li>
-              <li class="mdc-list-item" role="option" data-value="100">
-                <span class="mdc-list-item__text">100</span>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <div class="mdc-data-table__pagination-navigation">
-        <div class="mdc-data-table__pagination-total">
-          1‑10 of 100
-        </div>
-        <button class="mdc-icon-button material-icons mdc-data-table__pagination-button" data-first-page="true" disabled>
-          <div class="mdc-button__icon">first_page</div>
-        </button>
-        <button class="mdc-icon-button material-icons mdc-data-table__pagination-button" data-prev-page="true" disabled>
-          <div class="mdc-button__icon">chevron_left</div>
-        </button>
-        <button class="mdc-icon-button material-icons mdc-data-table__pagination-button" data-next-page="true">
-          <div class="mdc-button__icon">chevron_right</div>
-        </button>
-        <button class="mdc-icon-button material-icons mdc-data-table__pagination-button" data-last-page="true">
-          <div class="mdc-button__icon">last_page</div>
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
+				<div class="dedicated-servers-table"><div class="table-header"><div class="locations-wrap grid"><p class="title"><b>Dedicated</b> Servers</p> <div class="locations"><div class="loc active"><span>All locations</span></div><div class="loc"><span>New York</span></div><div class="loc"><span>Los Angeles</span></div><div class="loc"><span>Dallas</span></div><div class="loc"><span>Amsterdam</span></div><div class="loc"><span>London</span></div><div class="loc"><span>Auckland</span></div><div class="loc"><span>Buffalo</span></div><div class="loc"><span>Montreal</span></div></div></div> <div class="filters-wrap"><div class="filters"><div><h6>PROCESSOR TYPE</h6> <label><input type="checkbox">Single Processors
+  </label><label><input type="checkbox">Dual Processors
+  </label></div> <div><h6>CPU cores</h6> <div class="vue-slider vue-slider-ltr" label="CPU cores" units="cores" background="0095cd" prefix="" style="padding: 7.5px 0px; width: 100%; height: 2px;"><div class="vue-slider-rail"><div class="vue-slider-process" style="height: 100%; top: 0px; left: 0%; width: 100%; transition-property: width, left; transition-duration: 0.5s;"></div><div aria-valuetext="4" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="4" aria-valuemin="4" aria-valuemax="48" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 0%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">4</span></div></div></div><div aria-valuetext="48" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="48" aria-valuemin="4" aria-valuemax="48" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 100%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">48</span></div></div></div></div></div> <div class="range-values"><span>4 cores</span> <span>48 cores</span></div></div> <div><h6>MEMORY</h6> <div class="vue-slider vue-slider-ltr" label="MEMORY" units="GB" background="0095cd" prefix="" style="padding: 7.5px 0px; width: 100%; height: 2px;"><div class="vue-slider-rail"><div class="vue-slider-process" style="height: 100%; top: 0px; left: 0%; width: 100%; transition-property: width, left; transition-duration: 0.5s;"></div><div aria-valuetext="8" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 0%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">8</span></div></div></div><div aria-valuetext="256" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="256" aria-valuemin="0" aria-valuemax="100" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 100%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">256</span></div></div></div></div></div> <div class="range-values"><span>8 GB</span> <span>256 GB</span></div></div> <div><h6>STORAGE</h6> <div class="vue-slider vue-slider-ltr" label="STORAGE" units="" background="0095cd" prefix="" style="padding: 7.5px 0px; width: 100%; height: 2px;"><div class="vue-slider-rail"><div class="vue-slider-process" style="height: 100%; top: 0px; left: 0%; width: 100%; transition-property: width, left; transition-duration: 0.5s;"></div><div aria-valuetext="120 GB" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="120 GB" aria-valuemin="0" aria-valuemax="100" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 0%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">120 GB</span></div></div></div><div aria-valuetext="16 TB" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="16 TB" aria-valuemin="0" aria-valuemax="100" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 100%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">16 TB</span></div></div></div></div></div> <div class="range-values"><span>120 GB </span> <span>16 TB </span></div></div> <div><h6>DRIVE TYPE</h6> <label><input type="checkbox">HDD
+  </label><label><input type="checkbox">SSD
+  </label></div> <div><h6>PRICE/MONTH</h6> <div class="vue-slider vue-slider-ltr" label="PRICE/MONTH" units="" background="0095cd" prefix="$" style="padding: 7.5px 0px; width: 100%; height: 2px;"><div class="vue-slider-rail"><div class="vue-slider-process" style="height: 100%; top: 0px; left: 0%; width: 100%; transition-property: width, left; transition-duration: 0.5s;"></div><div aria-valuetext="0" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1400" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 0%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">0</span></div></div></div><div aria-valuetext="1400" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="1400" aria-valuemin="0" aria-valuemax="1400" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 100%; transition: left 0.5s ease 0s;"><div class="vue-slider-dot-handle"></div><div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top"><div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top"><span class="vue-slider-dot-tooltip-text">1400</span></div></div></div></div></div> <div class="range-values"><span>$0 </span> <span>$1400 </span></div></div></div> <div class="dd-link"><span class="link"><i class="icon icon-nav-arrow"></i>SHOW ADVANCED FILTERS</span></div></div> <!----></div> <div class="servers-table grid"><div class="head grid"><div>CPU</div> <div>Cores</div> <div>RAM</div> <div>Storage</div> <div>Cloud Backup</div> <div>Setup time</div> <div>Monthly</div> <div class="sort">
+  Sort:
+  <span>Price: Low to High</span> <!----></div></div> <div class="servers-wrap"><div class="layer"><!----></div> <!----> <div id="servers" class="servers"><div class="server grid"><div class="name"><!----> <!----><b>Intel E3 1270 V6</b></div> <div>4 x 3.8 GHz</div> <div>32 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$129</b></div> <div><a href="https://order.servermania.com/configure/98?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag sale"></div> <!----><b>Xeon E-2146G</b></div> <div>6 x 3.5 GHz</div> <div>32 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><del>$159</del><b>$149</b></div> <div><a href="https://order.servermania.com/configure/290?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>Intel Xeon W-2125</b></div> <div>4 x 4.0 GHz</div> <div>32 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 24h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$159</b></div> <div><a href="https://order.servermania.com/configure/170?options=1345%7C3718," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag sale"></div> <!----><b>Xeon E-2246G</b></div> <div>6 x 3 .6 Ghz</div> <div>64 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><del>$179</del><b>$169</b></div> <div><a href="https://order.servermania.com/configure/356?options=1345%7C3995," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>AMD Ryzen 3950X</b></div> <div>16 x 3.5 Ghz</div> <div>128 GB</div> <div><div>1 TB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$209</b></div> <div><a href="https://order.servermania.com/configure/337?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2620 V4</b></div> <div>16 x 2.1 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$209</b></div> <div><a href="https://order.servermania.com/configure/177?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>Intel Xeon Silver 4210</b></div> <div>10 x 2 .2 Ghz</div> <div>64 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$219</b></div> <div><a href="https://order.servermania.com/configure/288?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2695 V2</b></div> <div>24 x 2.4 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$219</b></div> <div><a href="https://order.servermania.com/configure/338?options=1345%7C3995," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2630 V4</b></div> <div>20 x 2.2 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$289</b></div> <div><a href="https://order.servermania.com/configure/203?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel Xeon Silver 4210</b></div> <div>20 x 2 .2 Ghz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><!----><b>$329</b></div> <div><a href="https://order.servermania.com/configure/287?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag drop"></div> <span>2x </span><b>Intel E5 2690 V4</b></div> <div>28 x 2.6 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 48h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><del>$529</del><b>$429</b></div> <div><a href="https://order.servermania.com/configure/87?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag drop"></div> <span>2x </span><b>Intel E5 2699 V4</b></div> <div>44 x 2.2 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
+      Details
+    </div> <!----></div> <div class="price-curr"><del>$929</del><b>$729</b></div> <div><a href="https://order.servermania.com/configure/194?options=1345%7C3718," class="btn btn-info">Customize</a></div></div></div></div></div></div>
 				
 				</div>
 				
@@ -168,4 +88,4 @@ const CareerDetailsContent = () => {
     )
 }
 
-export default CareerDetailsContent
+export default DedicatedServerContent
