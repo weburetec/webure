@@ -160,7 +160,7 @@ const DedicatedServerContent = () => {
         of free linux options as well as Windows Server. Each OS will be
         immediately installed after checkout, or choose to install a custom OS
         using our Surge control panel.
-      </p> <div class="grid"><div class="sprite windows"></div> <div class="sprite debian"></div> <div class="sprite ubuntu"></div> <div class="sprite centos"></div> <div class="sprite freebsd"></div> <div class="sprite fedora"></div></div> <a href="/dedicated-servers-hosting/distributions.htm" class="btn btn-white">Learn More</a></div>
+      </p> <div class="grid"><div class="sprite windows"></div> <div class="sprite debian"></div> <div class="sprite ubuntu"></div> <div class="sprite centos"></div> <div class="sprite freebsd"></div> <div class="sprite fedora"></div></div></div>
 				
 				<div class="row">
 					<div class="col-lg-1"></div>
