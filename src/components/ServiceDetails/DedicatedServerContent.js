@@ -41,37 +41,33 @@ const DedicatedServerContent = () => {
 				</div>
 				
 				<div class="row">
-				
-<div id="dual-processor" class="table-responsive">
-	<table class="table dedicated-table">
-		<thead>
-			<tr>
-				<th>&nbsp;</th>
-				<th>Servers</th>
-				<th>CPU Cores/Speed</th>
-				<th>Memory</th>
-				<th>Storage</th>
-				<th>Bandwidth</th>
-				<th>Deployment Time</th>
-				<th>Monthly</th>
-				<th>&nbsp;</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"/> </td>
-				<td>Intel Xeon E3-1230 v2 </td>
-				<td>4x3.3GHz</td>
-				<td>16GB DDR3</td>
-				<td>1x 2TB HDD/240GB SSD</td>
-				<td>20TB</td>
-				<td><b>24 Hours</b></td>
-				<td><b>$48</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=625">Configure</a></td>
-			</tr>
-		</tbody>
-	</table>
-</div>		
+
+					<PricingTable  highlightColor='#1976D2'>
+    <PricingSlot  onClick={this.submit} buttonText='TRY IT FREE' title='FREE' priceText='$0/month'>
+        <PricingDetail> <b>15</b> projects</PricingDetail>
+        <PricingDetail> <b>5 GB</b> storage</PricingDetail>
+        <PricingDetail> <b>5</b> users</PricingDetail>
+        <PricingDetail strikethrough> <b>Time tracking</b></PricingDetail>
+    </PricingSlot>
+    <PricingSlot highlighted onClick={this.submit} buttonText='SIGN UP' title='BASIC' priceText='$24/month'>
+        <PricingDetail> <b>35</b> projects</PricingDetail>
+        <PricingDetail> <b>15 GB</b> storage</PricingDetail>
+        <PricingDetail> <b>Unlimited</b> users</PricingDetail>
+        <PricingDetail> <b>Time tracking</b></PricingDetail>
+    </PricingSlot>
+    <PricingSlot  onClick={this.submit} buttonText='SIGN UP' title='PROFESSIONAL' priceText='$99/month'>
+        <PricingDetail> <b>100</b> projects</PricingDetail>
+        <PricingDetail> <b>30 GB</b> storage</PricingDetail>
+        <PricingDetail> <b>Unlimited</b> users</PricingDetail>
+        <PricingDetail> <b>Time tracking</b></PricingDetail>
+    </PricingSlot>
+    <PricingSlot  onClick={this.submit} buttonText='SIGN UP' title='ENTERPRISE' priceText='$200/month'>
+        <PricingDetail> <b>Unlimited</b> projects</PricingDetail>
+        <PricingDetail> <b>75 GB</b> storage</PricingDetail>
+        <PricingDetail> <b>Unlimited</b> users</PricingDetail>
+        <PricingDetail> <b>Time tracking</b></PricingDetail>
+    </PricingSlot>
+</PricingTable>
 		
 				</div>
 				
