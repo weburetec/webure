@@ -203,7 +203,7 @@ const DedicatedServerContent = () => {
             support requests.
           </p></div> <div class="question"><h3><span>+</span>What happens if a component of the dedicated server
             fails?
-          </h3> <p>ServerMania will quickly replace any failed server component as quickly as we can.</p>
+          </h3> <p>Webure will quickly replace any failed server component as quickly as we can.</p>
 		  </div></div> <br/> <br/> <div class="tac"></div></div></section>
     )
 }
