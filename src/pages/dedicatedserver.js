@@ -62,10 +62,8 @@ const Details = () => {
             support requests.
           </p></div> <div class="question"><h3><span>+</span>What happens if a component of the dedicated server
             fails?
-          </h3> <p>
-            ServerMania will quickly replace any failed server component as
-            quickly as we can.
-          </p></div></div> <br> <br> <div class="tac"><a href="https://www.servermania.com/kb" class="link">More useful information in our Knowledge Base
+          </h3> <p>ServerMania will quickly replace any failed server component as quickly as we can.</p>
+		  </div></div> <br/> <br/> <div class="tac"><a href="https://www.servermania.com/kb" class="link">More useful information in our Knowledge Base
           <i class="icon icon-arrow-right-1"></i></a></div></div></section>
 			
 			
