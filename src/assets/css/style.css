@@ -12726,3 +12726,24 @@ section>.wrap {
 .vertical-tab-pricing-wrapper .nav-tablist li.active, .vertical-tab-wrapper-v3 .nav-tablist li.active, .vertical-tab-wrapper.vertical-tab-pricing-wrapper .nav-tablist li.active, .vertical-tab-wrapper.vertical-tab-wrapper-v3 .nav-tablist li.active {
     border: solid 1px rgba(69,164,236,.4);
 }
+
+.down-arrow-rounded {
+    background-color: #45a4ec;
+}
+
+.vertical-tab-wrapper.vertical-tab-pricing-wrapper .tab-content .tab-pane {
+    max-width: 400px;
+    margin: 0 auto 30px;
+    border-radius: 10px;
+    height: auto;
+}
+
+.tab-pane {
+    border: 1px solid rgba(69,164,236,.3);
+}
+
+.tab-pane.fade {
+    opacity: 0;
+    transition: opacity .15s linear;
+}
+
