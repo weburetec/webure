@@ -387,7 +387,7 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 
       </div>
     </div>
-  </div>
+  </div></div>
 </section>			
 			
 			
