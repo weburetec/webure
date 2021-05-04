@@ -155,8 +155,28 @@ const DedicatedServerContent = () => {
 				</div>
 					
 				<div class="row">
-					<div class="col-lg-1"></div>
-					<div class="col-lg-10">
+					<h1 class="title text-center" style="color:#fff;">One Global Network, Geographically Diverse</h1>
+					<p class="intro text-center" style="color:#fff">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
+					<div class="row  ">
+						<div class="content col-md-4 col-sm-12 col-xs-12">
+							<h3 class="title" style="color:#fff">Connect Globally</h3>
+							<div class="desc" style="color:#fff">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>
+						</div>
+						<div class="figure col-md-7 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-xs-offset-0">
+							<img class="" src="https://serverhub.com/themes/serverhub/assets/img/fiber.png" alt=""/>
+						</div>
+					</div>
+					<div class="col-lg-4">
+					<div class="content col-md-4 col-sm-12 col-xs-12">
+						<h3 class="title" style="color:#fff">Connect Globally</h3>
+						<div class="desc" style="color:#fff">
+							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+						</div>
+					</div>
+					</div>
+					<div class="col-lg-8">
 						<img src="https://tistio.com/wp-content/uploads/2020/11/map-1024x655.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
 					</div>
 					<div class="col-lg-1"></div>
