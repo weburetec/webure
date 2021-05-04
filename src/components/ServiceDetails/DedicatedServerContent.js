@@ -42,64 +42,103 @@ const DedicatedServerContent = () => {
 				
 				<div class="row">
 				
-				<div class="dedicated-servers-table">
-					<div class="table-header">
-						<div class="locations-wrap grid">
-							<p class="title"><b>Dedicated</b> Servers</p> 
-								<div class="locations">
-									<div class="loc active">
-										<span>All locations</span></div>
-										<div class="loc"><span>New York</span></div>
-										<div class="loc"><span>Los Angeles</span></div>
-										<div class="loc"><span>Dallas</span></div>
-										<div class="loc"><span>Amsterdam</span></div>
-										<div class="loc"><span>London</span></div>
-										<div class="loc"><span>Auckland</span></div>
-										<div class="loc"><span>Buffalo</span></div>
-										<div class="loc"><span>Montreal</span></div>
-										</div></div> 
-										<div class="filters-wrap">
-											<div>
-												<h6>CPU cores</h6> 
-													<div class="vue-slider vue-slider-ltr" label="CPU cores" units="cores" background="0095cd" prefix="" style="padding: 7.5px 0px; width: 100%; height: 2px;">
-														<div class="vue-slider-rail">
-															<div class="vue-slider-process" style="height: 100%; top: 0px; left: 0%; width: 100%; transition-property: width, left; transition-duration: 0.5s;"></div>
-																<div aria-valuetext="4" class="vue-slider-dot vue-slider-dot-hover" role="slider" aria-valuenow="4" aria-valuemin="4" aria-valuemax="48" aria-orientation="horizontal" tabindex="0" style="width: 15px; height: 15px; transform: translate(-50%, -50%); top: 50%; left: 0%; transition: left 0.5s ease 0s;">
-																	<div class="vue-slider-dot-handle"></div>
-																	<div class="vue-slider-dot-tooltip vue-slider-dot-tooltip-top">
-																	<div class="vue-slider-dot-tooltip-inner vue-slider-dot-tooltip-inner-top">
-																		<span class="vue-slider-dot-tooltip-text">4</span>
-																	</div>
-																	</div>
-																</div>
-<div class="servers-table grid"><div class="head grid"><div>CPU</div> <div>Cores</div> <div>RAM</div> <div>Storage</div> <div>Cloud Backup</div> <div>Setup time</div> <div>Monthly</div> <div class="sort">
-  Sort:
-  <span>Price: Low to High</span> <!----></div></div> <div class="servers-wrap"><div class="layer"><!----></div> <!----> <div id="servers" class="servers"><div class="server grid"><div class="name"><!----> <!----><b>Intel E3 1270 V6</b></div> <div>4 x 3.8 GHz</div> <div>32 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$129</b></div> <div><a href="https://order.servermania.com/configure/98?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag sale"></div> <!----><b>Xeon E-2146G</b></div> <div>6 x 3.5 GHz</div> <div>32 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><del>$159</del><b>$149</b></div> <div><a href="https://order.servermania.com/configure/290?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>Intel Xeon W-2125</b></div> <div>4 x 4.0 GHz</div> <div>32 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 24h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$159</b></div> <div><a href="https://order.servermania.com/configure/170?options=1345%7C3718," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag sale"></div> <!----><b>Xeon E-2246G</b></div> <div>6 x 3 .6 Ghz</div> <div>64 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><del>$179</del><b>$169</b></div> <div><a href="https://order.servermania.com/configure/356?options=1345%7C3995," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>AMD Ryzen 3950X</b></div> <div>16 x 3.5 Ghz</div> <div>128 GB</div> <div><div>1 TB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$209</b></div> <div><a href="https://order.servermania.com/configure/337?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2620 V4</b></div> <div>16 x 2.1 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$209</b></div> <div><a href="https://order.servermania.com/configure/177?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <!----><b>Intel Xeon Silver 4210</b></div> <div>10 x 2 .2 Ghz</div> <div>64 GB</div> <div><div>500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$219</b></div> <div><a href="https://order.servermania.com/configure/288?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2695 V2</b></div> <div>24 x 2.4 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$219</b></div> <div><a href="https://order.servermania.com/configure/338?options=1345%7C3995," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel E5 2630 V4</b></div> <div>20 x 2.2 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$289</b></div> <div><a href="https://order.servermania.com/configure/203?options=1345%7C3717," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><!----> <span>2x </span><b>Intel Xeon Silver 4210</b></div> <div>20 x 2 .2 Ghz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><!----><b>$329</b></div> <div><a href="https://order.servermania.com/configure/287?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag drop"></div> <span>2x </span><b>Intel E5 2690 V4</b></div> <div>28 x 2.6 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 48h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><del>$529</del><b>$429</b></div> <div><a href="https://order.servermania.com/configure/87?options=1345%7C3719," class="btn btn-info">Customize</a></div></div><div class="server grid"><div class="name"><div class="flag drop"></div> <span>2x </span><b>Intel E5 2699 V4</b></div> <div>44 x 2.2 GHz</div> <div>64 GB</div> <div><div>2 x 500 GB SSD</div></div> <div>50 GB</div> <div class="hours"><span>Setup in 8h</span> <div class="d-link">
-      Details
-    </div> <!----></div> <div class="price-curr"><del>$929</del><b>$729</b></div> <div><a href="https://order.servermania.com/configure/194?options=1345%7C3718," class="btn btn-info">Customize</a></div></div></div></div></div></div>
-				
+<div id="dual-processor" class="table-responsive">
+<table class="table dedicated-table">
+<thead>
+<tr>
+<th>&nbsp;</th>
+<th>Servers</th>
+<th>CPU Cores/Speed</th>
+<th>Memory</th>
+<th>Storage</th>
+<th>Bandwidth</th>
+<th>Deployment Time</th>
+<th>Monthly</th>
+<th>&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E3-1230 v2 </td>
+<td>4x3.3GHz</td>
+<td>16GB DDR3</td>
+<td>1x 2TB HDD/240GB SSD</td>
+<td>20TB</td>
+<td><b>24 Hours</b></td>
+<td><b>$48</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=625">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E3-1270v3 </td>
+<td>4x3.5GHz</td>
+<td>16GB DDR3</td>
+<td>1x 2TB HDD/240GB SSD</td>
+<td>20TB</td>
+<td><b>24 Hours</b></td>
+<td><b>$65</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=627">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E3-1230v5 </td>
+<td>4x3.4GHz</td>
+<td>16GB DDR4</td>
+<td>1x 2TB HDD/500GB SSD</td>
+<td>20TB</td>
+<td><b>48 Hours</b></td>
+<td><b>$99</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=670">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E3-1275v5 </td>
+<td>4x3.6GHz</td>
+<td>16GB DDR4</td>
+<td>1x 2TB HDD/500GB SSD</td>
+<td>20TB</td>
+<td><b>48 Hours</b></td>
+<td><b>$119</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=672">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E5-2637v2 </td>
+<td>4x3.5GHz</td>
+<td>32GB DDR3</td>
+<td>1x 3TB HDD/500GB SSD</td>
+<td>20TB</td>
+<td><b>48 Hours</b></td>
+<td><b>$189</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=747">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E5-2630v3 </td>
+<td>8x2.4GHz</td>
+<td>32GB DDR3</td>
+<td>2x 3TB HDD/500GB SSD</td>
+<td>20TB</td>
+<td><b>48 Hours</b></td>
+<td><b>$249</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=644">Configure</a></td>
+</tr>
+<tr>
+<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+<td>Intel Xeon E5-2630v4 </td>
+<td>10x2.2GHz</td>
+<td>32GB DDR4</td>
+<td>2x 3TB HDD/500GB SSD</td>
+<td>20TB</td>
+<td><b>48 Hours</b></td>
+<td><b>$299</b></td>
+<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=674">Configure</a></td>
+</tr>
+</tbody>
+</table>
+</div>		
+		
 				</div>
 				
 				<div class="row">
