@@ -164,12 +164,12 @@ const DedicatedServerContent = () => {
 								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 							</div>
 						</div>
-						<div class="figure col-md-7 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-xs-offset-0">
+						<div class="col-lg-8">
 							<img class="" src="https://serverhub.com/themes/serverhub/assets/img/fiber.png" alt=""/>
 						</div>
 					</div>
 					<div class="col-lg-4">
-					<div class="content col-md-4 col-sm-12 col-xs-12">
+					<div class="content col-md-12">
 						<h3 class="title">Connect Globally</h3>
 						<div class="desc">
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
