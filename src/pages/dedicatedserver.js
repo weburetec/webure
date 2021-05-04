@@ -134,7 +134,7 @@ const Details = () => {
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://freshworks.com/freddy-self-service/signup/" data-omnichannel-link="">
+                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://freshworks.com/freddy-self-service/signup/" data-omnichannel-link=""/>
                       </div>
                     </div>
                   </div>
