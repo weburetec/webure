@@ -130,11 +130,11 @@ const Details = () => {
                       <div class="add-ons-footer">
                         
       
-  <a title="" class="button button--ghost button--small " id="" target="" href="https://freshworks.com/freddy-self-service/signup/"> Start Trial</a>
+  <a title="" class="button button--ghost button--small " id="" target=""> Start Trial</a>
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://freshworks.com/freddy-self-service/signup/" data-omnichannel-link=""/>
+                        
                       </div>
                     </div>
                   </div>
@@ -232,11 +232,11 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
                       <div class="add-ons-footer">
                         
       
-  <a title="" class="button button--ghost button--small " id="" target="" href="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing"> Add to Trial</a>
+  <a title="" class="button button--ghost button--small " id="" target=""> Add to Trial</a>
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing" data-omnichannel-link="">
+                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing" data-omnichannel-link=""/>
                       </div>
                     </div>
                   </div>
@@ -355,11 +355,11 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
                       <div class="add-ons-footer">
                         
       
-  <a title="" class="button button--ghost button--small " id="" target="" href="https://www.freshworks.com/live-chat-software/signup/"> Add to Trial</a>
+  <a title="" class="button button--ghost button--small " id="" target="" > Add to Trial</a>
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/signup/" data-omnichannel-link="">
+                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/signup/" data-omnichannel-link=""/>
                       </div>
                     </div>
                   </div>
