@@ -155,12 +155,12 @@ const DedicatedServerContent = () => {
 				</div>
 					
 				<div class="row">
-					<h1 class="title text-center" style="color:#fff;">One Global Network, Geographically Diverse</h1>
-					<p class="intro text-center" style="color:#fff">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
+					<h1>One Global Network, Geographically Diverse</h1>
+					<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
 					<div class="row  ">
 						<div class="content col-md-4 col-sm-12 col-xs-12">
-							<h3 class="title" style="color:#fff">Connect Globally</h3>
-							<div class="desc" style="color:#fff">
+							<h3>Connect Globally</h3>
+							<div class="desc">
 								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 							</div>
 						</div>
@@ -170,8 +170,8 @@ const DedicatedServerContent = () => {
 					</div>
 					<div class="col-lg-4">
 					<div class="content col-md-4 col-sm-12 col-xs-12">
-						<h3 class="title" style="color:#fff">Connect Globally</h3>
-						<div class="desc" style="color:#fff">
+						<h3 class="title">Connect Globally</h3>
+						<div class="desc">
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
 					</div>
