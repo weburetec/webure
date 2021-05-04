@@ -158,28 +158,16 @@ const DedicatedServerContent = () => {
 					<h1>One Global Network, Geographically Diverse</h1>
 					<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
 					<div class="row  ">
-						<div class="content col-md-4 col-sm-12 col-xs-12">
+						<div class="content col-md-4">
 							<h3>Connect Globally</h3>
 							<div class="desc">
 								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 							</div>
 						</div>
 						<div class="col-lg-8">
-							<img class="" src="https://serverhub.com/themes/serverhub/assets/img/fiber.png" alt=""/>
+							<img class="" src="https://tistio.com/wp-content/uploads/2020/11/map-1024x655.png" alt=""/>
 						</div>
 					</div>
-					<div class="col-lg-4">
-					<div class="content col-md-12">
-						<h3 class="title">Connect Globally</h3>
-						<div class="desc">
-							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-						</div>
-					</div>
-					</div>
-					<div class="col-lg-8">
-						<img src="https://tistio.com/wp-content/uploads/2020/11/map-1024x655.png" alt="DCPL Presence Map" title="DCPL Presence Map" class="img-fluid mt-4"/>
-					</div>
-					<div class="col-lg-1"></div>
 				</div>
 			</div>
         </section>
