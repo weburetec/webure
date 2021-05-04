@@ -12609,3 +12609,23 @@ button.primary.ghost {
   bottom: 10%;
 }
 /* END CARD DESIGN */
+
+.white {
+    color: #fff;
+}
+
+h2.with-sub {
+    margin-bottom: 20px;
+}
+
+.tac {
+    text-align: center!important;
+}
+
+section>.wrap {
+    padding: 60px 0;
+}
+
+.bg-blue {
+    background: #0095cd;
+}

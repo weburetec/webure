@@ -64,7 +64,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E3-1230 v2 </td>
 <td>4x3.3GHz</td>
 <td>16GB DDR3</td>
-<td>1x 2TB HDD/240GB SSD</td>
+<td>1x 2TB HDD</td>
 <td>20TB</td>
 <td><b>24 Hours</b></td>
 <td><b>$48</b></td>
@@ -76,7 +76,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E3-1270v3 </td>
 <td>4x3.5GHz</td>
 <td>16GB DDR3</td>
-<td>1x 2TB HDD/240GB SSD</td>
+<td>1x 2TB HDD</td>
 <td>20TB</td>
 <td><b>24 Hours</b></td>
 <td><b>$65</b></td>
@@ -88,7 +88,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E3-1230v5 </td>
 <td>4x3.4GHz</td>
 <td>16GB DDR4</td>
-<td>1x 2TB HDD/500GB SSD</td>
+<td>1x 2TB HDD</td>
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$99</b></td>
@@ -100,7 +100,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E3-1275v5 </td>
 <td>4x3.6GHz</td>
 <td>16GB DDR4</td>
-<td>1x 2TB HDD/500GB SSD</td>
+<td>1x 2TB HDD</td>
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$119</b></td>
@@ -112,7 +112,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E5-2637v2 </td>
 <td>4x3.5GHz</td>
 <td>32GB DDR3</td>
-<td>1x 3TB HDD/500GB SSD</td>
+<td>1x 3TB HDD</td>
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$189</b></td>
@@ -124,7 +124,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E5-2630v3 </td>
 <td>8x2.4GHz</td>
 <td>32GB DDR3</td>
-<td>2x 3TB HDD/500GB SSD</td>
+<td>2x 3TB HDD</td>
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$249</b></td>
@@ -136,7 +136,7 @@ const DedicatedServerContent = () => {
 <td>Intel Xeon E5-2630v4 </td>
 <td>10x2.2GHz</td>
 <td>32GB DDR4</td>
-<td>2x 3TB HDD/500GB SSD</td>
+<td>2x 3TB HDD</td>
 <td>20TB</td>
 <td><b>48 Hours</b></td>
 <td><b>$299</b></td>
