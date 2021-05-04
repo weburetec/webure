@@ -14,7 +14,7 @@ const Details = () => {
             <DedicatedServerContent />
 			
 			<section class="os bg-blue super-p"><div class="wrap tac"><h2 class="white with-sub">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> <p class="white">
-        ServerMania offers dozens of Operating Systems to choose from to
+        Webure Technologies offers dozens of Operating Systems to choose from to
         ensure you have the right software available. You can find a variety
         of free linux options as well as Windows Server. Each OS will be
         immediately installed after checkout, or choose to install a custom OS
