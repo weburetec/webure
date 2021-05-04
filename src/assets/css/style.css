@@ -12706,3 +12706,23 @@ section>.wrap {
     text-transform: uppercase;
     transition: all .3s linear!important;
 }
+
+
+
+.pt-xl {
+    padding-top: 40px;
+}
+
+.l-page {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.vertical-tab-wrapper.vertical-tab-pricing-wrapper.vertical-tab-wrapper {
+    display: block;
+}
+
+.vertical-tab-pricing-wrapper .nav-tablist li.active, .vertical-tab-wrapper-v3 .nav-tablist li.active, .vertical-tab-wrapper.vertical-tab-pricing-wrapper .nav-tablist li.active, .vertical-tab-wrapper.vertical-tab-wrapper-v3 .nav-tablist li.active {
+    border: solid 1px rgba(69,164,236,.4);
+}
