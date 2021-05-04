@@ -3,7 +3,7 @@ import Layout from "../components/App/Layout"
 import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
-import ServiceDetailsContent from '../components/ServiceDetails/ServiceDetailsContent'
+import DedicatedServerContent from '../components/ServiceDetails/DedicatedServerContent'
 import RelatedServices from '../components/ServiceDetails/RelatedServices'
  
 const Details = () => {
