@@ -59,13 +59,6 @@ const DedicatedServerContent = () => {
 										<div class="loc"><span>Montreal</span></div>
 										</div></div> 
 										<div class="filters-wrap">
-											<div class="filters">
-												<div>
-													<h6>PROCESSOR TYPE</h6> 
-													<label><input type="checkbox">Single Processors</label>
-													<label><input type="checkbox">Dual Processors</label>
-												</div> 
-											</div>
 											<div>
 												<h6>CPU cores</h6> 
 													<div class="vue-slider vue-slider-ltr" label="CPU cores" units="cores" background="0095cd" prefix="" style="padding: 7.5px 0px; width: 100%; height: 2px;">
