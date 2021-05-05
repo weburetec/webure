@@ -216,9 +216,12 @@ const Details = () => {
 						</div>
 					</div>
 				</div>
-				<div class="pricing-table-info"><p>INR pricing is for online payments only. For offline payment, please follow USD pricing</p></div>
+				<div class="pricing-table-info">
+					<p>INR pricing is for online payments only. For offline payment, please follow USD pricing</p>
+				</div>
 				<div class="row pricing-table-support-details pricing-v2-support-details align-center">
-				</div></div></div>
+				</div>
+				</div></div></div></div>
 			</section>			
 			
 			
