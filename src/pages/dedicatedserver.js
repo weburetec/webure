@@ -222,7 +222,6 @@ const Details = () => {
 						<p><em>All prices are exclusive of applicable taxes</em></p>
 						<p>24 x 5&nbsp;email support&nbsp;included with all plans</p>
 						<p>24 x 5 chat&nbsp;support&nbsp;included with all paid plans</p>
-						<p><strong>Can’t decide which plan is right for you?&nbsp; </strong></p>
 					</div>
 				</div></div></div>
 			</section>			
