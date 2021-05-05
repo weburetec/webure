@@ -135,8 +135,7 @@ const Details = () => {
 														</div>
 													</div>
 													<div class="add-ons-footer">
-														<a title="" class="button button--ghost button--small " id="" target=""> Add to Trial</a>
-														<input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing" data-omnichannel-link=""/>
+
 													</div>
 												</div>
 											</div>
