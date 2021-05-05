@@ -214,7 +214,7 @@ const Details = () => {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div></div>
 			</section>			
 			
 			
@@ -237,7 +237,7 @@ const Details = () => {
         of free linux options as well as Windows Server. Each OS will be
         immediately installed after checkout, or choose to install a custom OS
         using our Surge control panel.
-      </p> <div class="grid"><div class="sprite windows"></div> <div class="sprite debian"></div> <div class="sprite ubuntu"></div> <div class="sprite centos"></div> <div class="sprite freebsd"></div> <div class="sprite fedora"></div></div> <a href="/dedicated-servers-hosting/distributions.htm" class="btn1 btn-white">Learn More</a></div></section>
+      </p> </section>
 			
             <RelatedServices />
             <Footer />
