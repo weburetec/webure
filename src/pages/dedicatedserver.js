@@ -12,6 +12,8 @@ const Details = () => {
             <Navbar />
 			<br/><br/><br/><br/>
             <DedicatedServerContent />
+			
+			
 			<section class="pt-xl  " data-scroll-target="addons" id="addons">
 				<div class="l-page container align-center">
 					<h2 class="align-center">Enhance your Freshchat experience</h2>
@@ -215,29 +217,18 @@ const Details = () => {
 						</div>
 					</div>
 				</div></div>
-			</section>			
+			</section>		
 			
 			
 			
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<section class="os bg-blue super-p"><div class="wrap tac"><h2 class="white with-sub">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> <p class="white">
-        Webure Technologies offers dozens of Operating Systems to choose from to
-        ensure you have the right software available. You can find a variety
-        of free linux options as well as Windows Server. Each OS will be
-        immediately installed after checkout, or choose to install a custom OS
-        using our Surge control panel.
-      </p> </section>
+			<section class="os bg-blue super-p">
+				<div class="wrap tac">
+					<h2 class="white with-sub">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> 
+					<p class="white">Webure Technologies offers dozens of Operating Systems to choose from to ensure you have the right software available. You can find a variety of free linux options as well as Windows Server. Each OS will be immediately installed after checkout, or choose to install a custom OS using our Surge control panel.</p>
+				</div>
+			</section>
 			
             <RelatedServices />
             <Footer />
