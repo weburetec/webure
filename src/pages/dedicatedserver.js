@@ -15,6 +15,7 @@ const Details = () => {
 			<section class="pt-xl" data-scroll-target="addons" id="addons">
 				<div class="l-page container align-center">
 					<h2 class="align-center">Enhance your Freshchat experience</h2>
+					<input type="hidden" class="product-key" data-product-key="fchat"/>
 					<div class="vertical-tab-wrapper vertical-tab-pricing-wrapper tablist-container">
 						<div class="row">
 							<div class="col-md-5">
