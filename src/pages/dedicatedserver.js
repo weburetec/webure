@@ -218,11 +218,6 @@ const Details = () => {
 					</div>
 				</div></div>
 			</section>		
-			
-			
-			
-			
-			
 			<section class="os bg-blue super-p">
 				<div class="wrap tac">
 					<h2 class="white with-sub">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> 
