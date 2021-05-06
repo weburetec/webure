@@ -12774,6 +12774,7 @@ section>.wrap {
     min-height: 75px;
     width: 100%;
     list-style: none;
+	padding: 15px;
 }
 
 .vertical-tab-wrapper.vertical-tab-pricing-wrapper .nav-tablist li a {
