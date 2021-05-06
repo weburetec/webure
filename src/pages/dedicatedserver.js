@@ -48,115 +48,62 @@ const Details = () => {
 							</div>
 							
 							<div class="col-md-7">
-          <div class="browser-mockup ">
-            <div class="tab-content browser-content" id="myTabContent">
-                <div class="tab-pane fade active in" role="tabpanel" id="addon1" aria-labelledby="addon1-tab">
-                  <div class="add-on-content-heading">
-                    <h3>Additional bot sessions</h3>
-                  </div>
-                  <div class="add-on-content-body">
-                      <div class="add-ons-plan-info-wrapper">
-                        <div class="add-ons-plan-info hide" data-currency="US">
-                          
-      
-  <p><span class="add-on-price">$100 for 1000</span> bot sessions/month</p>
-
-
-
-                        </div>
-                          <div class="add-ons-plan-info hide" data-currency="EU">
-                            
-      
-  <p><span class="add-on-price">€100 for 1000 bot</span>&nbsp;sessions/month</p>
-
-
-
-                          </div>
-                          <div class="add-ons-plan-info hide" data-currency="ZAR">
-                            
-      
-  <p><span class="add-on-price">R1500 for 1000</span> bot sessions/month</p>
-
-
-
-                          </div>
-                          <div class="add-ons-plan-info hide" data-currency="GB">
-                            
-      
-  <p><span class="add-on-price">£75&nbsp;for 1000</span> bot sessions/month</p>
-
-
-
-                          </div>
-                          <div class="add-ons-plan-info" data-currency="IN">
-                            
-      
-  <p><span class="add-on-price">₹7200 for 1000</span> bot sessions/month</p>
-
-
-
-                          </div>
-                          <div class="add-ons-plan-info hide" data-currency="AU">
-                            
-      
-  <p><span class="add-on-price">AUD145 for 1000</span> bot sessions/month</p>
-
-
-
-                          </div>
-                      </div>
-                    <div class="add-on-content">
-                      
-      
-  <p><em>Chatbots are available on all plans.</em></p>
-
-<p><em>All interactions between an end-user and a chatbot within 24 hours are counted as 1 bot session.&nbsp;For bots on other channels, check FAQs. The validity of sessions purchased aligns with your payment cycle.</em></p>
-
-
-
-                        <p class="hide-in-desktop"><span class="add-on-tab-desc"><i>Use chatbots with superior API connectors to automate the resolution of issues.</i></span></p>
-                      <div class="add-on-features-list">
-                      </div>
-                      <div class="add-ons-footer">
-                        
-      
-  <a title="" class="button button--ghost button--small " id="" target="" href="https://freshworks.com/freddy-self-service/signup/"> Start Trial</a>
-
-
-
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://freshworks.com/freddy-self-service/signup/" data-omnichannel-link="">
-                      </div>
-                    </div>
-                  </div>
-                  
-  <div class="pricing-table-mobile-view-options">
-    <p class="view-features">See more</p>
-    <p class="hide-features">Hide details</p>
-    <i class="icon-arrow-down"></i>
-  </div>
-                </div>
-                <div class="tab-pane fade" role="tabpanel" id="addon2" aria-labelledby="addon2-tab">
-                  <div class="add-on-content-heading">
-                    <h3>WhatsApp Business</h3>
-                  </div>
-                  <div class="add-on-content-body">
-                      <div class="add-ons-plan-info-wrapper">
-                        <div class="add-ons-plan-info hide" data-currency="US">
-                          
-      
-  <p><span class="add-on-price">$49 </span>flat fee/number/month. Free on Annual plans for 1st number</p>
-
-
-
-                        </div>
-                          <div class="add-ons-plan-info hide" data-currency="EU">
-                            
-      
-  <p><span class="add-on-price">€49&nbsp;</span>flat fee/number/month. Free on Annual plans for first number</p>
-
-
-
-                          </div>
+								<div class="browser-mockup ">
+									<div class="tab-content browser-content" id="myTabContent">
+										<div class="tab-pane fade active in" role="tabpanel" id="addon1" aria-labelledby="addon1-tab">
+											<div class="add-on-content-heading">
+												<h3>Additional bot sessions</h3>
+											</div>
+											<div class="add-on-content-body">
+												<div class="add-ons-plan-info-wrapper">
+													<div class="add-ons-plan-info hide" data-currency="US">
+														<p><span class="add-on-price">$100 for 1000</span> bot sessions/month</p>
+													</div>
+													<div class="add-ons-plan-info hide" data-currency="EU">
+														<p><span class="add-on-price">€100 for 1000 bot</span>&nbsp;sessions/month</p>
+													</div>
+													<div class="add-ons-plan-info hide" data-currency="ZAR">
+														<p><span class="add-on-price">R1500 for 1000</span> bot sessions/month</p>
+													</div>
+													<div class="add-ons-plan-info hide" data-currency="GB">
+														<p><span class="add-on-price">£75&nbsp;for 1000</span> bot sessions/month</p>
+													</div>
+													<div class="add-ons-plan-info" data-currency="IN">
+														<p><span class="add-on-price">₹7200 for 1000</span> bot sessions/month</p>
+													</div>
+													<div class="add-ons-plan-info hide" data-currency="AU">
+														<p><span class="add-on-price">AUD145 for 1000</span> bot sessions/month</p>
+													</div>
+												</div>
+												<div class="add-on-content">
+													<p><em>Chatbots are available on all plans.</em></p>
+													<p><em>All interactions between an end-user and a chatbot within 24 hours are counted as 1 bot session.&nbsp;For bots on other channels, check FAQs. The validity of sessions purchased aligns with your payment cycle.</em></p>
+													<p class="hide-in-desktop"><span class="add-on-tab-desc"><i>Use chatbots with superior API connectors to automate the resolution of issues.</i></span></p>
+													<div class="add-on-features-list"></div>
+													<div class="add-ons-footer">
+														<a title="" class="button button--ghost button--small " id="" target="" href="https://freshworks.com/freddy-self-service/signup/"> Start Trial</a>
+														<input type="hidden" class="dynamic-link" data-helpdesk-link="https://freshworks.com/freddy-self-service/signup/" data-omnichannel-link=""/>
+													</div>
+												</div>
+											</div>
+											<div class="pricing-table-mobile-view-options">
+												<p class="view-features">See more</p>
+												<p class="hide-features">Hide details</p>
+												<i class="icon-arrow-down"></i>
+											</div>
+										</div>
+										<div class="tab-pane fade" role="tabpanel" id="addon2" aria-labelledby="addon2-tab">
+											<div class="add-on-content-heading">
+												<h3>WhatsApp Business</h3>
+											</div>
+											<div class="add-on-content-body">
+												<div class="add-ons-plan-info-wrapper">
+													<div class="add-ons-plan-info hide" data-currency="US">
+														<p><span class="add-on-price">$49 </span>flat fee/number/month. Free on Annual plans for 1st number</p>
+													</div>
+													<div class="add-ons-plan-info hide" data-currency="EU">
+														<p><span class="add-on-price">€49&nbsp;</span>flat fee/number/month. Free on Annual plans for first number</p>
+													</div>
                           <div class="add-ons-plan-info hide" data-currency="ZAR">
                             
       
@@ -226,7 +173,7 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing" data-omnichannel-link="">
+                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/integrations/whatsapp/?source=pricing" data-omnichannel-link=""/>
                       </div>
                     </div>
                   </div>
@@ -349,7 +296,7 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 
 
 
-                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/signup/" data-omnichannel-link="">
+                        <input type="hidden" class="dynamic-link" data-helpdesk-link="https://www.freshworks.com/live-chat-software/signup/" data-omnichannel-link=""/>
                       </div>
                     </div>
                   </div>
