@@ -28129,7 +28129,7 @@ p.disclaimer-small {
 	left: 30px;
 	top: -17px;
 	border: 10px solid;
-	border-color: #fff transparent transparent;
+	border-color: #fff transparent transparent
 }
 
 .alert-note-wrapper {
@@ -28137,5 +28137,5 @@ p.disclaimer-small {
 	padding: 20px;
 	border: 1px solid rgba(255, 187, 55, .4);
 	border-radius: 5px;
-	margin: 25px 0 32px;
+	margin: 25px 0 32px
 }
