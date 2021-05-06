@@ -162,6 +162,14 @@ const DedicatedServerContent = () => {
 							<h3>Connect Globally</h3>
 							<div class="desc">
 								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>					
+							<h3>Connect Globally</h3>
+							<div class="desc">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>
+							<h3>Connect Globally</h3>
+							<div class="desc">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 							</div>
 						</div>
 						<div class="col-lg-8">
