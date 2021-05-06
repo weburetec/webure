@@ -18,7 +18,7 @@ const Details = () => {
 					<input type="hidden" class="product-key" data-product-key="fchat"/>
 					<div class="vertical-tab-wrapper vertical-tab-pricing-wrapper tablist-container">
 						<div class="row">
-							<div class="col-md-5">
+							<div class="col-md-4">
 								<ul class="nav-tablist clearfix-md" id="myTabs" role="tablist">
 									<li role="presentation" class=" active">
 										<a href="#addon1" id="addon1-tab" class="" role="tab" data-toggle="tab" aria-controls="addon1" aria-expanded="true">
@@ -28,7 +28,7 @@ const Details = () => {
 										</a>
 										<span class="down-arrow-rounded"></span>
 									</li>
-									<br/><br/>
+									<br/>
 									<li role="presentation" class="">
 										<a href="#addon2" id="addon2-tab" class="" role="tab" data-toggle="tab" aria-controls="addon2" aria-expanded="false">
 										<span class="pricing-pill-text">Add-On</span>
@@ -37,7 +37,7 @@ const Details = () => {
 									</a>
 									<span class="down-arrow-rounded"></span>
 									</li>
-									<br/><br/>
+									<br/>
 									<li role="presentation" class="">
 										<a href="#addon3" id="addon3-tab" class="" role="tab" data-toggle="tab" aria-controls="addon3" aria-expanded="false">
 										<span class="pricing-pill-text">Add-On</span>
@@ -49,7 +49,7 @@ const Details = () => {
 								</ul>
 							</div>
 							
-							<div class="col-md-7">
+							<div class="col-md-8">
 								<div class="browser-mockup ">
 									<div class="tab-content browser-content" id="myTabContent">
 										<div class="tab-pane fade active in" role="tabpanel" id="addon1" aria-labelledby="addon1-tab">
