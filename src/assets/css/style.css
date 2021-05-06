@@ -12754,7 +12754,7 @@ section>.wrap {
 
 .vertical-tab-wrapper.vertical-tab-pricing-wrapper .nav-tablist {
     margin-top: 0;
-    display: none;
+    display: #4d4d4d;
 }
 
 .vertical-tab-wrapper.vertical-tab-pricing-wrapper .nav-tablist li:first-child {
