@@ -12832,3 +12832,7 @@ section>.wrap {
     background-color: #45a4ec;
 }
 
+::selection {
+    background-color: #cdf;
+    color: #4d4d4d;
+}
