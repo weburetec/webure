@@ -144,7 +144,7 @@ const Details = () => {
 
 <p>The flat fee is waived off for the first 2 months.</p>
 
-<p>In addition to this, WhatsApp has an additional per message fee for Template messages that varies depending on volume and destination country.<br>
+<p>In addition to this, WhatsApp has an additional per message fee for Template messages that varies depending on volume and destination country.<br/>
 Freshworks doesn't levy any extra messaging fee on top of this.</p>
 
 
