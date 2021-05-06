@@ -28,6 +28,22 @@ const Details = () => {
 										</a>
 										<span class="down-arrow-rounded"></span>
 									</li>
+									<li role="presentation" class="">
+                <a href="#addon2" id="addon2-tab" class="" role="tab" data-toggle="tab" aria-controls="addon2" aria-expanded="false">
+                  <span class="pricing-pill-text">Add-On</span>
+                  <span class="add-on-tab-heading">WhatsApp Business</span>
+                  <span class="add-on-tab-desc"><i>Leverage the power of WhatsApp. Bring all messages from WhatsApp to one Inbox to support and notify your customers.</i></span>
+                </a>
+                <span class="down-arrow-rounded"></span>
+									</li>
+									<li role="presentation" class="">
+                <a href="#addon3" id="addon3-tab" class="" role="tab" data-toggle="tab" aria-controls="addon3" aria-expanded="false">
+                  <span class="pricing-pill-text">Add-On</span>
+                  <span class="add-on-tab-heading">Acquisition &amp; Engagement</span>
+                  <span class="add-on-tab-desc"><i>Acquire and engage customers using proactive campaigns, announcements, automated meeting scheduling and more</i></span>
+                </a>
+                <span class="down-arrow-rounded"></span>
+									</li>
 								</ul>
 							</div>
 						</div>
