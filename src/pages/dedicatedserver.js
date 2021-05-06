@@ -28,7 +28,6 @@ const Details = () => {
 										</a>
 										<span class="down-arrow-rounded"></span>
 									</li>
-									<br/>
 									<li role="presentation" class="">
 										<a href="#addon2" id="addon2-tab" class="" role="tab" data-toggle="tab" aria-controls="addon2" aria-expanded="false">
 										<span class="pricing-pill-text">Add-On</span>
@@ -37,7 +36,6 @@ const Details = () => {
 									</a>
 									<span class="down-arrow-rounded"></span>
 									</li>
-									<br/>
 									<li role="presentation" class="">
 										<a href="#addon3" id="addon3-tab" class="" role="tab" data-toggle="tab" aria-controls="addon3" aria-expanded="false">
 										<span class="pricing-pill-text">Add-On</span>
