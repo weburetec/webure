@@ -224,7 +224,7 @@ const Details = () => {
 								</div>   
 							</div>
 						</div>
-					</div> <!-- End row -->
+
 				</div>
 			</section>
 			
