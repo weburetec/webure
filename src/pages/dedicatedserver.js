@@ -81,11 +81,11 @@ const Details = () => {
 <div class="elementor-widget-wrap">
 <div class="elementor-element elementor-element-9f7d6f8 elementor-widget elementor-widget-heading" data-id="9f7d6f8" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Want to know more about our <br>Dedicated Server options?</h2> </div>
+<h2 class="elementor-heading-title elementor-size-default">Want to know more about our <br/>Dedicated Server options?</h2> </div>
 </div>
 <div class="elementor-element elementor-element-e5f1245 elementor-widget elementor-widget-heading" data-id="e5f1245" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<p class="elementor-heading-title elementor-size-default">If You Have Any Questions About Choosing A Server Or A Location, Our Experts Are Ready To Help.<br>
+<p class="elementor-heading-title elementor-size-default">If You Have Any Questions About Choosing A Server Or A Location, Our Experts Are Ready To Help.<br/>
 Contact Us To Discuss Your Business Requirements, And We Will Create A Perfect Bespoke Solution To Cater Your Demands.</p> </div>
 </div>
 <div class="elementor-element elementor-element-6b09463 elementor-widget elementor-widget-button" data-id="6b09463" data-element_type="widget" data-widget_type="button.default">
