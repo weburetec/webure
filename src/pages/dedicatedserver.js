@@ -316,6 +316,31 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 					</div>
 				</div>
 			</section>
+
+			<section class="os bg-blue super-p rowbackground">
+					<h1>One Global Network, Geographically Diverse</h1>
+					<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
+					<div class="row  ">
+						<div class="content col-md-4">
+							<h3>Connect Globally</h3>
+							<div class="desc">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>					
+							<h3>Connect Globally</h3>
+							<div class="desc">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>
+							<h3>Connect Globally</h3>
+							<div class="desc">
+								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							</div>
+						</div>
+						<div class="col-lg-8">
+							<img class="" src="https://tistio.com/wp-content/uploads/2020/11/map-1024x655.png" alt=""/>
+						</div>
+					</div>
+			</section>
+
 	
 			<section class="os bg-blue super-p rowbackground">
 				<div class="wrap tac">
