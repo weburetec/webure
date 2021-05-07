@@ -32,18 +32,17 @@ const Details = () => {
 				<div class="row  ">
 					<div class="content col-md-1"></div>
 					<div class="content col-md-4">
-						<h3>Connect Globally</h3>
-						<div class="desc">
+						<div class="desc pcontentbox">
 							<h3>Connect Globally</h3>
-							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>					
-						<h3>Connect Globally</h3>
-						<div class="desc">
-							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+						<div class="desc pcontentbox">
+							<h3>Connect Globally</h3>
+							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
-						<h3>Connect Globally</h3>
-						<div class="desc">
-							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+						<div class="desc pcontentbox">
+							<h3>Connect Globally</h3>
+							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">

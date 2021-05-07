@@ -12711,4 +12711,9 @@ section>.wrap {
     background-color: #FCE896;
 }
 
-
+.pcontentbox {
+    border: 1px;
+    border-style: solid;
+    border-color: #747474;
+    padding: 10px;
+}
