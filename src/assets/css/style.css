@@ -12724,3 +12724,9 @@ section>.wrap {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.elementor-39617 .elementor-element.elementor-element-02c6e30 {
+    --divider-border-style: solid;
+    --divider-color: #FF0035;
+    --divider-border-width: 5px;
+}
