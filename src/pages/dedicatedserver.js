@@ -317,7 +317,7 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 				</div>
 			</section>
 	
-			<section class="os bg-blue super-p">
+			<section class="os bg-blue super-p rowbackground">
 				<div class="wrap tac">
 					<h2 class="white with-sub">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> 
 					<p class="white">Webure Technologies offers dozens of Operating Systems to choose from to ensure you have the right software available. You can find a variety of free linux options as well as Windows Server. Each OS will be immediately installed after checkout, or choose to install a custom OS using our Surge control panel.</p>
