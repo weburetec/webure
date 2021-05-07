@@ -17,7 +17,7 @@ const DedicatedServerContent = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-8 col-md-12">
-						<h2 class="font-size-6 mb-0"><strong>ROI Driven digital marketing agency  in Bengaluru, India</strong></h2>
+						<h2 class="font-size-6 mb-0"><strong>Get The Cheapest Enterprise-Grade Dedicated Servers In The Market</strong></h2>
 						<div class="ahl"></div>
 						<span class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</span>
 						<br/>				
@@ -152,30 +152,6 @@ const DedicatedServerContent = () => {
             </div>
 
 		
-				</div>
-					
-				<div class="row">
-					<h1>One Global Network, Geographically Diverse</h1>
-					<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
-					<div class="row  ">
-						<div class="content col-md-4">
-							<h3>Connect Globally</h3>
-							<div class="desc">
-								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-							</div>					
-							<h3>Connect Globally</h3>
-							<div class="desc">
-								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-							</div>
-							<h3>Connect Globally</h3>
-							<div class="desc">
-								<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-							</div>
-						</div>
-						<div class="col-lg-8">
-							<img class="" src="https://tistio.com/wp-content/uploads/2020/11/map-1024x655.png" alt=""/>
-						</div>
-					</div>
 				</div>
 			</div>
         </section>
