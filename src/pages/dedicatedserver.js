@@ -43,9 +43,11 @@ const Details = () => {
 				<div class="wrap tac">
 					<h2 class="intro text-center">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> 
 					<div class="row">
-						<div class="content col-md-1"></div>
-						<p class="intro text-center">Webure Technologies offers dozens of Operating Systems to choose from to ensure you have the right software available. You can find a variety of free linux options as well as Windows Server. Each OS will be immediately installed after checkout, or choose to install a custom OS using our Surge control panel.</p>					
-						<div class="content col-md-1"></div>
+						<div class="content col-md-2"></div>
+						<div class="content col-md-8">
+							<p class="intro text-center">Webure Technologies offers dozens of Operating Systems to choose from to ensure you have the right software available. You can find a variety of free linux options as well as Windows Server. Each OS will be immediately installed after checkout, or choose to install a custom OS using our Surge control panel.</p>					
+						</div>
+						<div class="content col-md-2"></div>
 					</div>
 				</div>
 			</section>
