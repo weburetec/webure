@@ -69,8 +69,14 @@ const Details = () => {
 					<div class="row">
 						<div class="content col-md-3"></div>
 						<div class="content col-md-6">
-							<img src={serverclientpartner1} alt="serverclientpartner1" />
-							<img src={serverclientpartner2} alt="serverclientpartner2" />
+							<div class="desc pcontentbox">
+								<img src={serverclientpartner1} alt="serverclientpartner1" />
+							<div>
+							<br/>
+							<div class="desc pcontentbox">
+								<img src={serverclientpartner2} alt="serverclientpartner2" />
+							<div>
+							<br/>
 							<img src={serverclientpartner3} alt="serverclientpartner3" />
 							<img src={serverclientpartner4} alt="serverclientpartner4" />
 							<img src={serverclientpartner5} alt="serverclientpartner5" />
