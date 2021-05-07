@@ -82,7 +82,7 @@ const Details = () => {
 				</div>
 			</section>
 			
-			<section class="pt-xl" data-scroll-target="" id="">
+			<section class="pt-xl">
 				<div class="l-page container">
 					<div class="l-section-heading">
 						<h2>Frequently Asked Questions</h2>
@@ -94,9 +94,9 @@ const Details = () => {
 									<h3 class="accordion-heading">How does the 21-day free trial work?</h3>
 									<div class="accordion-expand"></div>
 								</div>
-								<div class="accordion-content" style="display: none;">
+								<div class="accordion-content">
 									<div class="accordion-text">
-										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21&nbsp;days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
+										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21 days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
 									</div>
 								</div>   
 							</div>
@@ -162,7 +162,7 @@ const Details = () => {
 									<h3 class="accordion-heading">How does the 21-day free trial work?</h3>
 									<div class="accordion-expand"></div>
 								</div>
-								<div class="accordion-content" style="display: none;">
+								<div class="accordion-content">
 									<div class="accordion-text">
 										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21&nbsp;days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
 									</div>
@@ -173,7 +173,7 @@ const Details = () => {
 									<h3 class="accordion-heading">How does the 21-day free trial work?</h3>
 									<div class="accordion-expand"></div>
 								</div>
-								<div class="accordion-content" style="display: none;">
+								<div class="accordion-content">
 									<div class="accordion-text">
 										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21&nbsp;days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
 									</div>
@@ -224,7 +224,7 @@ const Details = () => {
 								</div>   
 							</div>
 						</div>
-
+					</div>
 				</div>
 			</section>
 			
