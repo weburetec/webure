@@ -34,15 +34,16 @@ const Details = () => {
 					<div class="content col-md-4">
 						<h3>Connect Globally</h3>
 						<div class="desc">
-							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							<h3>Connect Globally</h3>
+							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>					
 						<h3>Connect Globally</h3>
 						<div class="desc">
-							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
 						<h3>Connect Globally</h3>
 						<div class="desc">
-							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
+							<p class="pcontentbox">We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
 					</div>
 					<div class="col-lg-6">
@@ -64,42 +65,18 @@ const Details = () => {
 					<div class="row">
 						<div class="content col-md-3"></div>
 						<div class="content col-md-6">
-							<div class="content col-md-1">
-								<img src={serverclientpartner1} alt="serverclientpartner1" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner2} alt="serverclientpartner2" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner3} alt="serverclientpartner3" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner4} alt="serverclientpartner4" />
-							</div>							
-							<div class="content col-md-1">
-								<img src={serverclientpartner5} alt="serverclientpartner5" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner6} alt="serverclientpartner6" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner7} alt="serverclientpartner7" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner8} alt="serverclientpartner8" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner9} alt="serverclientpartner9" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner10} alt="serverclientpartner10" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner11} alt="serverclientpartner11" />
-							</div>
-							<div class="content col-md-1">
-								<img src={serverclientpartner12} alt="serverclientpartner12" />
-							</div>
+							<img src={serverclientpartner1} alt="serverclientpartner1" />
+							<img src={serverclientpartner2} alt="serverclientpartner2" />
+							<img src={serverclientpartner3} alt="serverclientpartner3" />
+							<img src={serverclientpartner4} alt="serverclientpartner4" />
+							<img src={serverclientpartner5} alt="serverclientpartner5" />
+							<img src={serverclientpartner6} alt="serverclientpartner6" />
+							<img src={serverclientpartner7} alt="serverclientpartner7" />
+							<img src={serverclientpartner8} alt="serverclientpartner8" />
+							<img src={serverclientpartner9} alt="serverclientpartner9" />
+							<img src={serverclientpartner10} alt="serverclientpartner10" />
+							<img src={serverclientpartner11} alt="serverclientpartner11" />
+							<img src={serverclientpartner12} alt="serverclientpartner12" />
 						</div>
 						<div class="content col-md-3"></div>
 					</div>
