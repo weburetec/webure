@@ -12717,3 +12717,10 @@ section>.wrap {
     border-color: #747474;
     padding: 10px;
 }
+
+.elementor-39617 .elementor-element.elementor-element-2fbcb77:not(.elementor-motion-effects-element-type-background), .elementor-39617 .elementor-element.elementor-element-2fbcb77>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url(https://www.redswitches.com/wp-content/uploads/2021/03/home-background-image.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
