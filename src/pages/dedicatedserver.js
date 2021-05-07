@@ -65,12 +65,7 @@ const Details = () => {
 														<textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[message]" id="form-field-message" rows="0" placeholder="Message*"></textarea> 
 													</div>
 													<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-														<button type="submit" class="elementor-button elementor-size-sm">
-														<span>
-															<span class=" elementor-button-icon"></span>
-															<span class="elementor-button-text">Submit</span>
-														</span>
-														</button>
+
 													</div>
 												</div>
 											</form>
