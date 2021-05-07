@@ -35,11 +35,13 @@ const Details = () => {
 						<div class="desc pcontentbox">
 							<h3>Connect Globally</h3>
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-						</div>					
+						</div>	
+						<br/>
 						<div class="desc pcontentbox">
 							<h3>Connect Globally</h3>
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>
+						<br/>
 						<div class="desc pcontentbox">
 							<h3>Connect Globally</h3>
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
