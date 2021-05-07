@@ -71,11 +71,11 @@ const Details = () => {
 						<div class="content col-md-6">
 							<div class="desc pcontentbox">
 								<img src={serverclientpartner1} alt="serverclientpartner1" />
-							<div>
+							</div>
 							<br/>
 							<div class="desc pcontentbox">
 								<img src={serverclientpartner2} alt="serverclientpartner2" />
-							<div>
+							</div>
 							<br/>
 							<img src={serverclientpartner3} alt="serverclientpartner3" />
 							<img src={serverclientpartner4} alt="serverclientpartner4" />
