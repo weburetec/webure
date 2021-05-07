@@ -317,7 +317,7 @@ Freshworks doesn't levy any extra messaging fee on top of this.</p>
 				</div>
 			</section>
 
-			<section class="os bg-blue super-p rowbackground l-page container align-center">
+			<section class="os bg-blue super-p rowbackground">
 					<h1 class="intro text-center">One Global Network, Geographically Diverse</h1>
 					<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
 					<div class="row  ">
