@@ -57,7 +57,7 @@ const Details = () => {
 			</section>
 			<section class="os bg-blue super-p rowbackground">
 				<div class="wrap tac">
-					<h2 class="intro text-center">AN OPERATING SYSTEM FOR EVERY PROJECT</h2> 
+					<h2 class="intro text-center">Clients & Partners</h2> 
 					<div class="row">
 						<div class="content col-md-2"></div>
 						<div class="content col-md-8">
@@ -67,6 +67,79 @@ const Details = () => {
 					</div>
 					<div class="row">
 						<div class="content col-md-3"></div>
+						<div class="content col-md-6">
+							<div className="partner-area pt-100 pb-70">
+								<div className="container">
+									<div className="row align-items-center">
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.1s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<img class="pcontentbox" src={serverclientpartner1} alt="serverclientpartner1" />
+												</div>
+											</ReactWOW>
+										</div>
+
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.3s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<div className="single-partner-item">
+														<img class="pcontentbox" src={serverclientpartner2} alt="serverclientpartner2" />
+													</div>
+												</div>
+											</ReactWOW>
+										</div>
+
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.4s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<div className="single-partner-item">
+														<img src={partner4} alt="partner" />
+													</div>
+												</div>
+											</ReactWOW>
+										</div>
+
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.5s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<div className="single-partner-item">
+														<img src={partner5} alt="partner" />
+													</div>
+												</div>
+											</ReactWOW>
+										</div>
+
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.6s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<div className="single-partner-item">
+														<img src={partner6} alt="partner" />
+													</div>
+												</div>
+											</ReactWOW>
+										</div>
+										<div className="col-lg-2 col-6 col-sm-4 col-md-4">
+											<ReactWOW delay='.6s' animation='fadeInUp'>
+												<div className="single-partner-item">
+													<div className="single-partner-item">
+														<img src={partner7} alt="partner" />
+													</div>
+												</div>
+											</ReactWOW>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						
+						
+						
+						
+						
+						
+						
 						<div class="content col-md-6">
 							<img class="pcontentbox" src={serverclientpartner1} alt="serverclientpartner1" />
 							<img class="pcontentbox" src={serverclientpartner2} alt="serverclientpartner2" />
