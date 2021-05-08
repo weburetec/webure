@@ -12718,3 +12718,77 @@ section>.wrap {
     padding: 10px;
 }
 
+
+.dedicated-pricing {
+    margin-top: 102px;
+    padding-bottom: 102px;
+}
+
+.table-header {
+    float: left;
+    font: 400 25px/32px "Gotham SSm A","Gotham SSm B";
+    margin: 36px 0;
+    text-align: left;
+    width: 100%;
+}
+
+@media screen and (max-width: 767px)
+.table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221);
+    border-image: initial;
+}
+
+table.dedicated-table {
+    float: left;
+    margin-bottom: 28px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 8%);
+    background: #fff;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+table.dedicated-table thead {
+    background: none repeat scroll 0 0 #87c54b;
+    color: #fff;
+    font: 400 15px/15px "Gotham SSm A","Gotham SSm B";
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table.dedicated-table thead tr {
+    height: 54px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table.dedicated-table thead {
+    background: none repeat scroll 0 0 #87c54b;
+    color: #fff;
+    font: 400 15px/15px "Gotham SSm A","Gotham SSm B";
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
