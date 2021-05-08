@@ -28,211 +28,239 @@ const Details = () => {
 			
 			<section class="dedicated-pricing">
 				<div class="container">
-				<h4 class="table-header">Single Processor - Intel Xeon E Series Processor Family</h4>
-				<div id="dual-processor" class="table-responsive">
-				<table class="table dedicated-table">
-				<thead>
-				<tr>
-				<th>&nbsp;</th>
-				<th>Servers</th>
-				<th>CPU Cores/Speed</th>
-				<th>Memory</th>
-				<th>Storage</th>
-				<th>Bandwidth</th>
-				<th>Deployment Time</th>
-				<th>Monthly</th>
-				<th>&nbsp;</th>
-				</tr>
-				</thead>
-				<tbody>
-				<tr>
-				<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E3-1230 v2 </td>
-				<td>4x3.3GHz</td>
-				<td>16GB DDR3</td>
-				<td>1x 2TB HDD/240GB SSD</td>
-				<td>20TB</td>
-				<td><b>24 Hours</b></td>
-				<td><b>$48</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=625">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E3-1270v3 </td>
-				<td>4x3.5GHz</td>
-				<td>16GB DDR3</td>
-				<td>1x 2TB HDD/240GB SSD</td>
-				<td>20TB</td>
-				<td><b>24 Hours</b></td>
-				<td><b>$65</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=627">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E3-1230v5 </td>
-				<td>4x3.4GHz</td>
-				<td>16GB DDR4</td>
-				<td>1x 2TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>48 Hours</b></td>
-				<td><b>$99</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=670">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E3-1275v5 </td>
-				<td>4x3.6GHz</td>
-				<td>16GB DDR4</td>
-				<td>1x 2TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>48 Hours</b></td>
-				<td><b>$119</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=672">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2637v2 </td>
-				<td>4x3.5GHz</td>
-				<td>32GB DDR3</td>
-				<td>1x 3TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>48 Hours</b></td>
-				<td><b>$189</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=747">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2630v3 </td>
-				<td>8x2.4GHz</td>
-				<td>32GB DDR3</td>
-				<td>2x 3TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>48 Hours</b></td>
-				<td><b>$249</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=644">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2630v4 </td>
-				<td>10x2.2GHz</td>
-				<td>32GB DDR4</td>
-				<td>2x 3TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>48 Hours</b></td>
-				<td><b>$299</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=674">Configure</a></td>
-				</tr>
-				</tbody>
-				</table>
-				</div>
-				<h4 class="table-header">Dual Processor - Intel Xeon E Series &amp; Scalable Processor Family</h4>
-				<div id="single-processor" class="table-responsive">
-				<table class="table dedicated-table">
-				<thead>
-				<tr>
-				<th>&nbsp;</th>
-				<th>Servers</th>
-				<th>CPU Cores/Speed</th>
-				<th>Memory</th>
-				<th>Hard Drive(s)</th>
-				<th>Bandwidth</th>
-				<th>Deployment Time</th>
-				<th>Monthly</th>
-				<th>&nbsp;</th>
-				</tr>
-				</thead>
-				<tbody>
-				<tr>
-				<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2637v2</td>
-				<td>8x3.5GHz</td>
-				<td>64GB DDR3</td>
-				<td>2x 3TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>08 Hours</b></td>
-				<td><b>$249</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=748">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2680v2</td>
-				<td>20x2.8GHz</td>
-				<td>64GB DDR3</td>
-				<td>2x 4TB HDD/1TB SSD</td>
-				<td>20TB</td>
-				<td><b>08 Hours</b></td>
-				<td><b>$289</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=749">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2637v3</td>
-				<td>8x3.5GHz</td>
-				<td>64GB DDR3</td>
-				<td>2x 3TB HDD/500GB SSD</td>
-				<td>20TB</td>
-				<td><b>08 Hours</b></td>
-				<td><b>$359</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=750">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2660v2</td>
-				<td>20x2.2GHz</td>
-				<td>128GB DDR3</td>
-				<td>4x 4TB HDD/1TB SSD</td>
-				<td>20TB</td>
-				<td><b>--</b></td>
-				<td><b>$369</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=752">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon E5-2670v2</td>
-				<td>20x2.7GHz</td>
-				<td>128GB DDR3</td>
-				<td>6x 512GB SSD</td>
-				<td>20TB</td>
-				<td><b>--</b></td>
-				<td><b>$389</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=753">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon Silver 4114</td>
-				<td>20x3.0GHz</td>
-				<td>64GB DDR4</td>
-				<td>2x 1TB NVMe</td>
-				<td>20TB</td>
-				<td><b>--</b></td>
-				<td><b>$399</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=709">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon Gold 5118</td>
-				<td>24x2.3GHz</td>
-				<td>64GB DDR4</td>
-				<td>2x 1TB NVMe</td>
-				<td>20TB</td>
-				<td><b>--</b></td>
-				<td><b>$599</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=754">Configure</a></td>
-				</tr>
-				<tr>
-				<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
-				<td>Intel Xeon Gold 6148</td>
-				<td>40x2.4GHz</td>
-				<td>128GB DDR4</td>
-				<td>2x 1TB NVMe</td>
-				<td>20TB</td>
-				<td><b>--</b></td>
-				<td><b>$999</b></td>
-				<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=755">Configure</a></td>
-				</tr>
-				</tbody>
-				</table>
-				</div>
+					<h4 class="table-header">Single Processor - Intel Xeon E Series Processor Family</h4>
+					<div id="dual-processor" class="table-responsive">
+						<table class="table dedicated-table">
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>Servers</th>
+									<th>CPU Cores/Speed</th>
+									<th>Memory</th>
+									<th>Storage</th>
+									<th>Bandwidth</th>
+									<th>Deployment Time</th>
+									<th>Monthly</th>
+									<th>&nbsp;</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E31230v2 </td>
+									<td>4x3-3GHz</td>
+									<td>16GB DDR3</td>
+									<td>1x 2TB HDD/240GB SSD</td>
+									<td>20TB</td>
+									<td><b>24 Hours</b></td>
+									<td><b>$48</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E3-1270v3 </td>
+									<td>4x3.5GHz</td>
+									<td>16GB DDR3</td>
+									<td>1x 2TB HDD/240GB SSD</td>
+									<td>20TB</td>
+									<td><b>24 Hours</b></td>
+									<td><b>$65</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E3-1230v5 </td>
+									<td>4x3.4GHz</td>
+									<td>16GB DDR4</td>
+									<td>1x 2TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>48 Hours</b></td>
+									<td><b>$99</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+									<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E3-1275v5 </td>
+									<td>4x3.6GHz</td>
+									<td>16GB DDR4</td>
+									<td>1x 2TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>48 Hours</b></td>
+									<td><b>$119</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2637v2 </td>
+									<td>4x3.5GHz</td>
+									<td>32GB DDR3</td>
+									<td>1x 3TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>48 Hours</b></td>
+									<td><b>$189</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2630v3 </td>
+									<td>8x2.4GHz</td>
+									<td>32GB DDR3</td>
+									<td>2x 3TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>48 Hours</b></td>
+									<td><b>$249</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2630v4 </td>
+									<td>10x2.2GHz</td>
+									<td>32GB DDR4</td>
+									<td>2x 3TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>48 Hours</b></td>
+									<td><b>$299</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<h4 class="table-header">Dual Processor - Intel Xeon E Series &amp; Scalable Processor Family</h4>
+					<div id="single-processor" class="table-responsive">
+						<table class="table dedicated-table">
+							<thead>
+								<tr>
+									<th>&nbsp;</th>
+									<th>Servers</th>
+									<th>CPU Cores/Speed</th>
+									<th>Memory</th>
+									<th>Hard Drive(s)</th>
+									<th>Bandwidth</th>
+									<th>Deployment Time</th>
+									<th>Monthly</th>
+									<th>&nbsp;</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><img src="https://serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2637v2</td>
+									<td>8x3.5GHz</td>
+									<td>64GB DDR3</td>
+									<td>2x 3TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>08 Hours</b></td>
+									<td><b>$249</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2680v2</td>
+									<td>20x2.8GHz</td>
+									<td>64GB DDR3</td>
+									<td>2x 4TB HDD/1TB SSD</td>
+									<td>20TB</td>
+									<td><b>08 Hours</b></td>
+									<td><b>$289</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2637v3</td>
+									<td>8x3.5GHz</td>
+									<td>64GB DDR3</td>
+									<td>2x 3TB HDD/500GB SSD</td>
+									<td>20TB</td>
+									<td><b>08 Hours</b></td>
+									<td><b>$359</b></td>
+									<td><a style="color:#85c342" href="https://my.serverhub.com/cart.php?a=add&amp;pid=750">Configure</a></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2660v2</td>
+									<td>20x2.2GHz</td>
+									<td>128GB DDR3</td>
+									<td>4x 4TB HDD/1TB SSD</td>
+									<td>20TB</td>
+									<td><b>--</b></td>
+									<td><b>$369</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon E5-2670v2</td>
+									<td>20x2.7GHz</td>
+									<td>128GB DDR3</td>
+									<td>6x 512GB SSD</td>
+									<td>20TB</td>
+									<td><b>--</b></td>
+									<td><b>$389</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon Silver 4114</td>
+									<td>20x3.0GHz</td>
+									<td>64GB DDR4</td>
+									<td>2x 1TB NVMe</td>
+									<td>20TB</td>
+									<td><b>--</b></td>
+									<td><b>$399</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon Gold 5118</td>
+									<td>24x2.3GHz</td>
+									<td>64GB DDR4</td>
+									<td>2x 1TB NVMe</td>
+									<td>20TB</td>
+									<td><b>--</b></td>
+									<td><b>$599</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+								<tr>
+									<td><img src="https://www.serverhub.com/themes/serverhub/assets/img/xeon.png"> </td>
+									<td>Intel Xeon Gold 6148</td>
+									<td>40x2.4GHz</td>
+									<td>128GB DDR4</td>
+									<td>2x 1TB NVMe</td>
+									<td>20TB</td>
+									<td><b>--</b></td>
+									<td><b>$999</b></td>
+									<td><button class="primary">
+									Message
+								</button></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 				</div>
 			</section>
 
