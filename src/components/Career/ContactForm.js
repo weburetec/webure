@@ -23,7 +23,7 @@ const ContactForm = () => {
 
                 <div className="row">
                         <div className="contact-form">
-                            <form id="contactForm" onsubmit>
+                            <form id="contactForm" onsubmit={sendEmail}>
                                 <div className="row">
                                     <div className="col-lg-12 col-md-6">
                                         <div className="form-group">
