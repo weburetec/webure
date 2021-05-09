@@ -19,14 +19,15 @@ const DedicatedServerContent = () => {
                     <div className="col-lg-8 col-md-12">
 						<h2 class="font-size-6 mb-0"><strong>Cheapest Enterprise-Grade Dedicated Servers</strong></h2>
 						<div class="ahl"></div>
-						<span class="font-size-8 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</span>
+						<span class="font-size-12 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</span>
 						<br/>				
 						<div className="row">
 							<div className="col-lg-4 col-md-12">
 								<h2 class="font-size-8 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
 							</div>						
 							<div className="col-lg-8 col-md-12">
-								<span class="font-size-8 mb-0">Webure Technologies guarantees you the best price in the market. If you find a better offer, contact us and we will match your price and offer 25% additional discount on it or offer a free month upgrade.*.</span>						
+								<span class="font-size-12 mb-0">Webure Technologies guarantees you the best price in the market. If you find a better offer, contact us and we will match your price and offer 25% additional discount on it or offer a free month upgrade.*.</span>
+								<span class="font-size-12 mb-0">If You Have Any Questions About Choosing A Server Or A Location, Our Experts Are Ready To Help. Contact Us To Discuss Your Business Requirements, And We Will Create A Perfect Bespoke Solution To Cater Your Demands.</span>								
 							</div>						
 						</div>
 						<br/><br/>			
