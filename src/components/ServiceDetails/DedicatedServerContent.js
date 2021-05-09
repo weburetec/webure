@@ -41,127 +41,119 @@ const DedicatedServerContent = () => {
 				</div>
 				
 				<div class="row">
-
-            <div className="membership-levels-area ptb-100">
-                <div className="container">
-                    <div className="membership-levels-table table-responsive">
-
-<table class="table dedicated-table">
-<thead>
-<tr>
-<th>Servers</th>
-<th>CPU Cores/Speed</th>
-<th>Memory</th>
-<th>Storage</th>
-<th>Bandwidth</th>
-<th>Deployment Time</th>
-<th>Monthly</th>
-<th>&nbsp;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Intel Xeon E3-1230 v2 </td>
-<td>4x3.3GHz</td>
-<td>16GB DDR3</td>
-<td>1x 2TB HDD</td>
-<td>20TB</td>
-<td><b>24 Hours</b></td>
-<td><b>$48</b></td>
-<td>								<button class="primary">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E3-1270v3 </td>
-<td>4x3.5GHz</td>
-<td>16GB DDR3</td>
-<td>1x 2TB HDD</td>
-<td>20TB</td>
-<td><b>24 Hours</b></td>
-<td><b>$65</b></td>
-<td><button class="primary">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E3-1230v5 </td>
-<td>4x3.4GHz</td>
-<td>16GB DDR4</td>
-<td>1x 2TB HDD</td>
-<td>20TB</td>
-<td><b>48 Hours</b></td>
-<td><b>$99</b></td>
-<td><button class="primary">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E3-1275v5 </td>
-<td>4x3.6GHz</td>
-<td>16GB DDR4</td>
-<td>1x 2TB HDD</td>
-<td>20TB</td>
-<td><b>48 Hours</b></td>
-<td><b>$119</b></td>
-<td><button class="primary">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E5-2637v2 </td>
-<td>4x3.5GHz</td>
-<td>32GB DDR3</td>
-<td>1x 3TB HDD</td>
-<td>20TB</td>
-<td><b>48 Hours</b></td>
-<td><b>$189</b></td>
-<td><button class="primary">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E5-2630v3 </td>
-<td>8x2.4GHz</td>
-<td>32GB DDR3</td>
-<td>2x 3TB HDD</td>
-<td>20TB</td>
-<td><b>48 Hours</b></td>
-<td><b>$249</b></td>
-<td><button class="primary" onclick="window.location.href='/home'">
-									Message
-								</button></td>
-</tr>
-<tr>
-<td>Intel Xeon E5-2630v4 </td>
-<td>10x2.2GHz</td>
-<td>32GB DDR4</td>
-<td>2x 3TB HDD</td>
-<td>20TB</td>
-<td><b>48 Hours</b></td>
-<td><b>$299</b></td>
-<td><button class="primary">
-									Message
-								</button></td>
-</tr>
-</tbody>
-</table>
-
-                    </div>
-                </div>
-            </div>
-
-		
+					<div className="membership-levels-area ptb-100">
+						<div className="container">
+							<div className="membership-levels-table table-responsive">
+								<table class="table dedicated-table">
+									<thead>
+										<tr>
+											<th>Servers</th>
+											<th>CPU Cores/Speed</th>
+											<th>Memory</th>
+											<th>Storage</th>
+											<th>Bandwidth</th>
+											<th>Deployment Time</th>
+											<th>Monthly</th>
+											<th>&nbsp;</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Intel Xeon E3-1230 v2 </td>
+											<td>4x3.3GHz</td>
+											<td>16GB DDR3</td>
+											<td>1x 2TB HDD</td>
+											<td>20TB</td>
+											<td><b>24 Hours</b></td>
+											<td><b>$48</b></td>
+											<td><button class="primary">Message</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E3-1270v3 </td>
+											<td>4x3.5GHz</td>
+											<td>16GB DDR3</td>
+											<td>1x 2TB HDD</td>
+											<td>20TB</td>
+											<td><b>24 Hours</b></td>
+											<td><b>$65</b></td>
+											<td><button class="primary">
+																				Message
+																			</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E3-1230v5 </td>
+											<td>4x3.4GHz</td>
+											<td>16GB DDR4</td>
+											<td>1x 2TB HDD</td>
+											<td>20TB</td>
+											<td><b>48 Hours</b></td>
+											<td><b>$99</b></td>
+											<td><button class="primary">
+																				Message
+																			</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E3-1275v5 </td>
+											<td>4x3.6GHz</td>
+											<td>16GB DDR4</td>
+											<td>1x 2TB HDD</td>
+											<td>20TB</td>
+											<td><b>48 Hours</b></td>
+											<td><b>$119</b></td>
+											<td><button class="primary">
+																				Message
+																			</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E5-2637v2 </td>
+											<td>4x3.5GHz</td>
+											<td>32GB DDR3</td>
+											<td>1x 3TB HDD</td>
+											<td>20TB</td>
+											<td><b>48 Hours</b></td>
+											<td><b>$189</b></td>
+											<td><button class="primary">
+																				Message
+																			</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E5-2630v3 </td>
+											<td>8x2.4GHz</td>
+											<td>32GB DDR3</td>
+											<td>2x 3TB HDD</td>
+											<td>20TB</td>
+											<td><b>48 Hours</b></td>
+											<td><b>$249</b></td>
+											<td><button class="primary" onclick="window.location.href='/home'">
+																				Message
+																			</button></td>
+										</tr>
+										<tr>
+											<td>Intel Xeon E5-2630v4 </td>
+											<td>10x2.2GHz</td>
+											<td>32GB DDR4</td>
+											<td>2x 3TB HDD</td>
+											<td>20TB</td>
+											<td><b>48 Hours</b></td>
+											<td><b>$299</b></td>
+											<td><button class="primary">
+																				Message
+																			</button></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+					</div>		
 				</div>
 				<br/>
 				<br/>
-										<div className="row">
-							<div className="col-lg-12">
-								<h2 class="intro text-center"><strong>On The Edge Technology and Affordable Prices</strong></h2>
-								<p class="intro text-center">Expand your Network Globally!</p>								
-							</div>
-				
-				
+				<div className="row">
+					<div className="col-lg-12">
+						<h2 class="intro text-center"><strong>On The Edge Technology and Affordable Prices</strong></h2>
+						<p class="intro text-center">Expand your Network Globally!</p>								
+					</div>
+				</div>
 			</div>
         </section>
     )

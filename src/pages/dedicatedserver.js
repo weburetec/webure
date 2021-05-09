@@ -24,10 +24,7 @@ const Details = () => {
             <Navbar />
 			<br/><br/><br/><br/>
             <DedicatedServerContent />
-
-
-
-			<section class="os bg-blue super-p rowbackground">
+			<section class="ah2 os bg-blue super-p rowbackground">
 				<br />	
 				<h1 class="intro text-center">One Global Network, Geographically Diverse</h1>
 				<p class="intro text-center">An optimized network around the globe, with up to 40G single Backbone Uplinks</p>
@@ -38,11 +35,6 @@ const Details = () => {
 							<h3>Connect Globally</h3>
 							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
 						</div>	
-						<br/>
-						<div class="desc pcontentbox">
-							<h3>Connect Globally</h3>
-							<p>We blend a best-in-class network mesh and mirror it across all our datacenter worldwide. With multiple transit providers connected to each datacenter and tied together to form one globally unified network.</p>
-						</div>
 						<br/>
 						<div class="desc pcontentbox">
 							<h3>Connect Globally</h3>
