@@ -148,7 +148,7 @@ const DedicatedServerContent = () => {
 				</div>
 				<br/>
 				<br/>
-				<div className="row">
+				<div className="row ah2">
 					<div className="col-lg-12">
 						<h2 class="intro text-center"><strong>On The Edge Technology and Affordable Prices</strong></h2>
 						<p class="intro text-center">Expand your Network Globally!</p>								
