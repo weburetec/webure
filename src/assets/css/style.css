@@ -12884,10 +12884,6 @@ tbody {
     transition: transform .25s ease,opacity .25s ease 75ms;
 }
 
-.accordion-content {
-    display: none;
-}
-
 .accordion-text {
     background-color: rgba(69,164,236,.05);
 }
