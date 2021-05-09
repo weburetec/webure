@@ -182,6 +182,159 @@ const Details = () => {
 					</div>
 				</div>
 			</section>
+
+
+
+			<section class="pt-xl  " data-scroll-target="" id="">
+				<div class="l-page container">
+					<div class="l-section-heading">
+						<h2>Frequently Asked Questions</h2>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">How does the 21-day free trial work?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content" style="display: none;">
+									<div class="accordion-text">
+										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21&nbsp;days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">Can I upgrade or downgrade my subscription?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Yes, you can choose to upgrade your subscription instantly. If you wish to downgrade or cancel your subscription, you can do so at the end of your term. Click on ‘Billing’ in your Freshchat account to modify your subscription details.</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">How does the 21-day free trial work?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content" style="display: none;">
+									<div class="accordion-text">
+										<p>When you sign up, you instantly get access to our fully-loaded Garden plan for 21&nbsp;days. We will alert you before your trial expires. You can then select a plan and pay by credit card to continue using the product. If you choose not to continue, your account will be suspended.</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">Can I upgrade or downgrade my subscription?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Yes, you can choose to upgrade your subscription instantly. If you wish to downgrade or cancel your subscription, you can do so at the end of your term. Click on ‘Billing’ in your Freshchat account to modify your subscription details.</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+							<div class="accordion-wrapper accordion-85">
+								<div class="accordion-float-wrapper">
+									<h3 class="accordion-heading">What are contacts and how does pricing work for it?</h3>
+									<div class="accordion-expand"></div>
+								</div>
+								<div class="accordion-content">
+									<div class="accordion-text">
+										<p>Contacts are leads and users you chat with. With Freshchat, get unlimited contacts on any plan — save and access their data without pay anything extra</p>
+									</div>
+								</div>   
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+
+
+
 			
 			
             <RelatedServices />
