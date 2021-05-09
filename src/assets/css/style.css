@@ -12858,6 +12858,7 @@ tbody {
 }
 
 .accordion-expand::before {
+	background: #45a4ec;
     content: '';
     position: absolute;
     width: 12px;
@@ -12868,11 +12869,8 @@ tbody {
     margin-top: -1px;
 }
 
-.accordion-expand::after, .accordion-expand::before {
-    background: #45a4ec;
-}
-
 .accordion-expand::after {
+	background: #45a4ec;
     content: '';
     position: absolute;
     width: 2px;
