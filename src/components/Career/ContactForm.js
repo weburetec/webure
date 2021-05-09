@@ -1,5 +1,4 @@
 import React from 'react'
-import emailjs from './email.min.js';
 import emailjs from './email.js';
 
 const ContactForm = () => {
