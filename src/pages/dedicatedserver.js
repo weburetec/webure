@@ -50,6 +50,7 @@ const Details = () => {
 			</section>
 			<section class="ah2 os bg-blue super-p rowbackground">
 				<div class="wrap tac">
+					<br/><br/>
 					<h2 class="intro text-center">Clients & Partners</h2> 
 					<div class="row">
 						<div class="content col-md-2"></div>
@@ -182,9 +183,6 @@ const Details = () => {
 					</div>
 				</div>
 			</section>
-
-
-
 			<section class="pt-xl  " data-scroll-target="" id="">
 				<div class="l-page container">
 					<div class="l-section-heading">
