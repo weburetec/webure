@@ -1,5 +1,5 @@
 import React from 'react'
-import emailjs from 'emailjs-com';
+import emailjs from 'https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js';
 
 
 const ContactForm = () => {
@@ -23,7 +23,7 @@ const ContactForm = () => {
 
                 <div className="row">
                         <div className="contact-form">
-                            <form id="contactForm">
+                            <form id="contactForm" onsubmit>
                                 <div className="row">
                                     <div className="col-lg-12 col-md-6">
                                         <div className="form-group">
