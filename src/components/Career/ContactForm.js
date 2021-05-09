@@ -1,5 +1,5 @@
 import React from 'react';
-import emailjs from './email';
+import emailjs from './email.min.js';
 
 export default function ContactUs() {
 
