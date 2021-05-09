@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactWOW from 'react-wow'
 import Layout from "../components/App/Layout"
 import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
@@ -85,7 +86,7 @@ const Details = () => {
 											<ReactWOW delay='.4s' animation='fadeInUp'>
 												<div className="single-partner-item">
 													<div className="single-partner-item">
-														<img src={partner4} alt="partner" />
+														<img src={serverclientpartner3} alt="serverclientpartner3" />
 													</div>
 												</div>
 											</ReactWOW>
@@ -95,7 +96,7 @@ const Details = () => {
 											<ReactWOW delay='.5s' animation='fadeInUp'>
 												<div className="single-partner-item">
 													<div className="single-partner-item">
-														<img src={partner5} alt="partner" />
+														<img src={serverclientpartner4} alt="serverclientpartner4" />
 													</div>
 												</div>
 											</ReactWOW>
@@ -105,7 +106,7 @@ const Details = () => {
 											<ReactWOW delay='.6s' animation='fadeInUp'>
 												<div className="single-partner-item">
 													<div className="single-partner-item">
-														<img src={partner6} alt="partner" />
+														<img src={serverclientpartner5} alt="serverclientpartner5" />
 													</div>
 												</div>
 											</ReactWOW>
@@ -114,7 +115,7 @@ const Details = () => {
 											<ReactWOW delay='.6s' animation='fadeInUp'>
 												<div className="single-partner-item">
 													<div className="single-partner-item">
-														<img src={partner7} alt="partner" />
+														<img src={serverclientpartner6} alt="serverclientpartner6" />
 													</div>
 												</div>
 											</ReactWOW>
