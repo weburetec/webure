@@ -48,7 +48,7 @@ const Details = () => {
 					<div class="content col-md-1"></div>
 				</div>
 			</section>
-			<section class="os bg-blue super-p rowbackground">
+			<section class="ah2 os bg-blue super-p rowbackground">
 				<div class="wrap tac">
 					<h2 class="intro text-center">Clients & Partners</h2> 
 					<div class="row">
