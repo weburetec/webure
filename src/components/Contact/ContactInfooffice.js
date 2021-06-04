@@ -10,13 +10,7 @@ const ContactInfooffice = () => {
             <div className="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
-						<div class="elementor-element elementor-element-6872a1d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6872a1d" data-element_type="widget" data-widget_type="divider.default">
-							<div class="elementor-widget-container">
-								<div class="elementor-divider">
-									<span class="elementor-divider-separator"></span>
-								</div>
-							</div>
-						</div>	
+						
 					</div>
 					<div class="col-lg-8 col-sm-6">
 					
