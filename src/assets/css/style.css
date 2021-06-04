@@ -12898,3 +12898,18 @@ tbody {
     --divider-color: #F5EB0B;
     --divider-border-width: 3.4px;
 }
+
+.elementor-834 .elementor-element.elementor-element-6872a1d .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-divider {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator {
+    border-top: var(--divider-border-width) var(--divider-border-style) var(--divider-color);
+}
