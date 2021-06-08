@@ -10,12 +10,6 @@ const Contact = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Contact" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Contact" 
-            />
             <ContactInfo />
             <ContactForm />
             <ContactInfooffice />
