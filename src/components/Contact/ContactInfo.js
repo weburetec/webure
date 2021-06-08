@@ -6,6 +6,14 @@ const ContactInfo = () => {
             <div className="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
+						return(<svg xmlns="//www.w3.org/2000/svg" version="1.1" class="svg-filters" style="display:none;">
+  <defs>
+    <filter id="marker-shape">
+      <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp" />
+      <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp" />
+    </filter>
+  </defs>
+</svg>)
 						<p>Realistic Marker <mark>Highlight Text</mark> Effect</p>						
 					</div>
 					<div class="col-lg-8 col-sm-6">
