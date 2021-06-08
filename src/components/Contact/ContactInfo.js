@@ -5,8 +5,6 @@ const ContactInfo = () => {
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
 				<div class="row">
-				<br />
-				<br />
 					<div class="col-lg-4 col-sm-6">
 						<H2>Realistic Marker <span class="realistic-marker-highlight">Highlight Text</span> Effect</H2>						
 					</div>
