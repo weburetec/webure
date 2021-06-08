@@ -7,7 +7,7 @@ const ContactInfo = () => {
             <div className="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
-						<h2><Strong>GET IN TOUCH <mark>WITH US</mark></Strong></h2>
+						<h2><strong>GET IN TOUCH <mark>WITH US</mark></strong></h2>
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<ContactForm />
