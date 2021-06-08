@@ -8,6 +8,11 @@ const ContactInfo = () => {
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
 						<h2><strong>GET IN TOUCH <mark>WITH US</mark></strong></h2>
+						<h5>
+							<span style="color: #3b3b3b;">Fill out this simple form and our team</span>
+							<br />
+							<span style="color: #3b3b3b;">will contact you shortly.</span>
+						</h5>
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<ContactForm />
