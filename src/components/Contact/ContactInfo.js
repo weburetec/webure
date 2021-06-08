@@ -4,12 +4,15 @@ const ContactInfo = () => {
     return (
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
-                <div className="row">
-				
-				<p>Realistic Marker <span class="realistic-marker-highlight">Highlight Text</span> Effect</p>
-				
-				
-				</div>
+				<div class="row">
+					<div class="col-lg-4 col-sm-6">
+						<p>Realistic Marker <mark>Highlight Text</mark> Effect</p>						
+					</div>
+					<div class="col-lg-8 col-sm-6">
+					
+					</div>
+				</div>				
+
 				<div className="row">
                     <div className="col-lg-4 col-md-6">
                         <div className="contact-info-box">
