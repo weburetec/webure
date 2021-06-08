@@ -1,4 +1,5 @@
 import React from 'react'
+import ContactForm from '../components/Contact/ContactForm'
 
 const ContactInfo = () => {
     return (
@@ -6,11 +7,10 @@ const ContactInfo = () => {
             <div className="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
-						<p>Realistic Marker <span class="realistic-marker-highlight">Highlight Text</span> Effect</p>	
-						<p>Inside this text some words <mark>are highlighted</mark> and some aren’t.</p>
+						<H2><Strong>GET IN TOUCH <mark>WITH US</mark></Strong></H2>
 					</div>
 					<div class="col-lg-8 col-sm-6">
-					
+						<ContactForm />
 					</div>
 				</div>				
 
