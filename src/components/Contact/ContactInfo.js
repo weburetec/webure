@@ -15,7 +15,7 @@ const ContactInfo = () => {
 						</h5>
 						
 						<p class="queris_hr wow fadeInDown"><strong>For Enquiries &amp; Sales :</strong><br />
-						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 – 9999359997</p>
+						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 – 999999999</p>
 						
 					</div>
 					<div class="col-lg-8 col-sm-6">
