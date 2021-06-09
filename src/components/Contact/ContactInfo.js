@@ -7,6 +7,7 @@ const ContactInfo = () => {
             <div className="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
+						<h2>Sketch <span class="sketch-highlight">Highlight Text</span> Effect</h2>
 						<h2><strong>GET IN TOUCH <mark>WITH US</mark></strong></h2>
 						<h5>
 							<span>Fill out this simple form and our team</span>
