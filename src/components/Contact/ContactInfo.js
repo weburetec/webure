@@ -20,7 +20,7 @@ const ContactInfo = () => {
 						
 					</div>
 					<div class="col-lg-8 col-sm-6">
-						<ContactForm />
+						<ContactFormRevised />
 					</div>
 				</div>				
 
