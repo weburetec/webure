@@ -1,7 +1,6 @@
 import React from 'react'
 import starIcon from '../../assets/images/star-icon.webp'
 import contact from '../../assets/images/contact.webp'
-import './ContactForm.css'
 
 const ContactFormRevised = () => {
     return (
