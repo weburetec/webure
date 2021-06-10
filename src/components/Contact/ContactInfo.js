@@ -6,7 +6,7 @@ const ContactInfo = () => {
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
 				<div class="row">
-					<div class="col-lg-4 col-sm-6">
+					<div class="col-lg-7 col-sm-6">
 						<h2>GET IN TOUCH  <span class="sketch-highlight">WITH US</span></h2>
 						<h2><strong>GET IN TOUCH <mark>WITH US</mark></strong></h2>
 						<h5>
@@ -19,7 +19,7 @@ const ContactInfo = () => {
 						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 – 999999999</p>
 						
 					</div>
-					<div class="col-lg-8 col-sm-6">
+					<div class="col-lg-5 col-sm-6">
 						<ContactFormRevised />
 					</div>
 				</div>				
