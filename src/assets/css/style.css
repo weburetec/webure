@@ -12982,6 +12982,12 @@ mark {
 	
 }
 
-.elementor-divider-separator {
+.elementordividerseparator {
     border-top: var(--divider-border-width) var(--divider-border-style) var(#f5eb0b);
+}
+
+
+.contactopening{
+	color: #222; 
+	background-color: #f5eb0b;
 }

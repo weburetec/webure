@@ -9,9 +9,9 @@ const ContactInfooffice = () => {
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
 				<div class="row">
-					<span class="elementor-divider-separator"></span>
+					<span class="elementordividerseparator"></span>
 					<div class="col-lg-4 col-sm-6">
-						<p><strong>We have a list of <span style="color: #222; background-color: #f5eb0b;">openings</span></strong></p>
+						<p><strong>We have a list of <span class="contactopening">openings</span></strong></p>
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
