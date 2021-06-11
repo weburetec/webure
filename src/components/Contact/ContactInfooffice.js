@@ -11,7 +11,7 @@ const ContactInfooffice = () => {
 				<div class="row">
 					<span class="elementor-divider-separator"></span>
 					<div class="col-lg-4 col-sm-6">
-						<p><strong>We have a list of <span style="color: #222; background-color: #f5eb0b;">&nbsp;openings&nbsp;<br /></span></strong></p>
+						<p><strong>We have a list of <span style="color: #222; background-color: #f5eb0b;">openings</span></strong></p>
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
