@@ -12968,9 +12968,9 @@ mark {
 .click159 {
     width: 300px;
     background: white;
-    font-size: 40px;
+    font-size: 20px;
     margin: 100px auto;
-    padding: 10px;
+    padding: 8px;
     cursor: pointer;
 }
 

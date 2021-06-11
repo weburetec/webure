@@ -14,26 +14,28 @@ const ContactInfooffice = () => {
 						<p><strong>We have a list of <span style="color: #222; background-color: #f5eb0b;">&nbsp;openings&nbsp;<br></span></strong></p>
 					</div>
 					<div class="col-lg-8 col-sm-6">
-						<div class="col-lg-3 col-sm-6">
-							<div className="App159">
-								<button className="click159">UI Designer</button>
-							</div>					
+						<div class="row">
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">UI Designer</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">UI Designer</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">UI Designer</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">UI Designer</button>
+								</div>					
+							</div>	
 						</div>
-						<div class="col-lg-3 col-sm-6">
-							<div className="App159">
-								<button className="click159">UI Designer</button>
-							</div>					
-						</div>
-						<div class="col-lg-3 col-sm-6">
-							<div className="App159">
-								<button className="click159">UI Designer</button>
-							</div>					
-						</div>
-						<div class="col-lg-3 col-sm-6">
-							<div className="App159">
-								<button className="click159">UI Designer</button>
-							</div>					
-						</div>						
 					</div>
 				</div>
 				<div class="row">
