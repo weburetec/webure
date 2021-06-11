@@ -9,14 +9,14 @@ const ContactInfooffice = () => {
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
 				<div class="row">
-					    <div className="App159">
-							<button className="click159">UI Designer</button>
-						</div>
+
 					<div class="col-lg-4 col-sm-6">
 						
 					</div>
 					<div class="col-lg-8 col-sm-6">
-					
+					    <div className="App159">
+							<button className="click159">UI Designer</button>
+						</div>					
 
 					
 					</div>
