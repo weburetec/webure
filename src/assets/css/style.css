@@ -12981,3 +12981,7 @@ mark {
 	transition-duration: 0.5s;
 	
 }
+
+.elementor-divider-separator {
+    border-top: var(--divider-border-width) var(--divider-border-style) var(#f5eb0b);
+}
