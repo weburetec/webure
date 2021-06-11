@@ -12985,9 +12985,15 @@ mark {
 .elementordividerseparator {
     border-top: var(--divider-border-width) var(--divider-border-style) var(#f5eb0b);
 }
-
+hr.new1 {
+  border: 10px solid #f5eb0b;
+  border-radius: 5px;
+}
 
 .contactopening{
-	color: #222; 
-	background-color: #f5eb0b;
+	color: #222;
+    background-color: #f9f377;
+    padding: 8px;
+    font-size: 32px;
+    font-family: 'Barlow';
 }
