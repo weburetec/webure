@@ -12,7 +12,8 @@ const ContactInfooffice = () => {
 
 					<div class="col-lg-4 col-sm-6">
 						<hr class="new1" />
-						<h2><strong>We have a list of <span class="contactopening">openings</span></strong></h2>
+						<br />
+						<h2><strong>We have a list of <span class="contactopening"><br />openings</span></strong></h2>
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
