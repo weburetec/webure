@@ -12982,12 +12982,9 @@ mark {
 	
 }
 
-.elementordividerseparator {
-    border-top: var(--divider-border-width) var(--divider-border-style) var(#f5eb0b);
-}
 hr.new1 {
   border: 10px solid #f5eb0b;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .contactopening{
