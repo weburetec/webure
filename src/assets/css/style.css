@@ -12960,3 +12960,17 @@ mark {
   opacity:0.5;
   border-radius:0.25em;
 }
+
+.App159 {
+    display: flex;
+}
+
+.click159 {
+    width: 300px;
+    background: white;
+    font-size: 40px;
+    margin: 100px auto;
+    padding: 10px;
+    cursor: pointer;
+}
+
