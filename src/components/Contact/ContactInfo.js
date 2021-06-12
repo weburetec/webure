@@ -21,7 +21,9 @@ const ContactInfo = () => {
 						
 					</div>
 					<div class="col-lg-8 col-sm-6">
-						<ContactFormRevised />
+						<div class="row">
+							<ContactFormRevised />
+						</div>
 					</div>
 				</div>				
 
