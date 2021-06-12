@@ -37,6 +37,28 @@ const ContactInfooffice = () => {
 								</div>					
 							</div>	
 						</div>
+						<div class="row">
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">UI/UX Designer</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">Flutter Developer</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">People Manager</button>
+								</div>					
+							</div>
+							<div class="col-lg-3 col-sm-6">
+								<div className="App159">
+									<button className="click159">Business Manager</button>
+								</div>					
+							</div>	
+						</div>
 					</div>
 				</div>
 				<div class="row">
