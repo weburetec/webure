@@ -7,7 +7,7 @@ const ContactFormRevised = () => {
         <section className="contact-area pb-100">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-6 col-md-12">
+                    <div className="col-lg-12 col-md-12">
                         <div className="contact-form">
                             <form id="contactForm">
                                 <div className="row">
