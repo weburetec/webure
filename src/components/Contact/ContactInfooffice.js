@@ -17,24 +17,25 @@ const ContactInfooffice = () => {
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
+							<h2><strong>Your Designation</strong></h2>
 							<div class="col-lg-3 col-sm-6">
 								<div className="App159">
-									<button className="click159">UI Designer</button>
+									<button className="click159">UI/UX Designer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
 								<div className="App159">
-									<button className="click159">UI Designer</button>
+									<button className="click159">Flutter Developer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
 								<div className="App159">
-									<button className="click159">UI Designer</button>
+									<button className="click159">HR Manager</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
 								<div className="App159">
-									<button className="click159">UI Designer</button>
+									<button className="click159">Business Development Manager</button>
 								</div>					
 							</div>	
 						</div>
