@@ -12993,3 +12993,28 @@ hr.new1 {
     font-size: 32px;
     font-family: 'Barlow';
 }
+
+
+/*================================================
+Career Area CSS
+=================================================*/
+.single-career-box {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border: 1px solid #f5f3f2;
+  text-align: center;
+}
+
+.single-solutions-box:hover {
+	border-color: #ff5d22;
+    width: 300px;
+    background: white;
+    font-size: 15px;
+    margin: 10px auto;
+    padding: 8px;
+    cursor: pointer;
+	border-color: #f5eb0b;
+}

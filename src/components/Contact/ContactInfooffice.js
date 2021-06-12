@@ -17,44 +17,44 @@ const ContactInfooffice = () => {
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">UI/UX Designer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">Flutter Developer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">People Manager</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">Business Manager</button>
 								</div>					
 							</div>	
 						</div>
 						<div class="row">
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">UI/UX Designer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">Flutter Developer</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">People Manager</button>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="App159">
+								<div className="single-career-box">
 									<button className="click159">Business Manager</button>
 								</div>					
 							</div>	
