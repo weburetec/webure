@@ -9,35 +9,34 @@ const ContactInfooffice = () => {
         <div className="contact-info-area pt-100 pb-70">
             <div className="container">
 				<div class="row">
-
 					<div class="col-lg-4 col-sm-6">
 						<hr class="new1" />
 						<br />
 						<h2><strong>We have a list of<br /> <span class="contactopening">openings</span></strong></h2>
 					</div>
 					<div class="col-lg-8 col-sm-6">
-						<div class="row">
-							<div class="col-lg-3 col-sm-6">
+
+							<div class="col-lg-2 col-sm-6">
 								<div className="App159">
 									<button className="click159">UI/UX Designer</button>
 								</div>					
 							</div>
-							<div class="col-lg-3 col-sm-6">
+							<div class="col-lg-2 col-sm-6">
 								<div className="App159">
 									<button className="click159">Flutter Developer</button>
 								</div>					
 							</div>
-							<div class="col-lg-3 col-sm-6">
+							<div class="col-lg-2 col-sm-6">
 								<div className="App159">
 									<button className="click159">HR Manager</button>
 								</div>					
 							</div>
-							<div class="col-lg-3 col-sm-6">
+							<div class="col-lg-2 col-sm-6">
 								<div className="App159">
 									<button className="click159">Business Development Manager</button>
 								</div>					
 							</div>	
-						</div>
+						
 					</div>
 				</div>
 				<div class="row">
