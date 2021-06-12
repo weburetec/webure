@@ -11,7 +11,6 @@ const Contact = () => {
         <Layout>
             <Navbar />
             <ContactInfo />
-            <ContactForm />
             <ContactInfooffice />
             <Footer />
         </Layout>
