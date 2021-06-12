@@ -13008,9 +13008,7 @@ Career Area CSS
   text-align: center;
 }
 
-.single-career-box:hover {
-	border-color: #ff5d22;
-    width: 300px;
+.single-career-box:hover {    
     background: white;
     font-size: 15px;
     margin: 10px auto;
