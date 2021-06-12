@@ -297,7 +297,7 @@ a:hover {
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
   border: solid #f5f5f5;
-  border-bottom: 1px
+  border-bottom: 1px;
   background-color: #ffffff;
   -webkit-transition: 0.5s;
   transition: 0.5s;
