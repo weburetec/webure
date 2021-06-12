@@ -12968,23 +12968,22 @@ mark {
 .click159 {
     width: 300px;
     background: white;
-    font-size: 20px;
+    font-size: 15px;
     margin: 100px auto;
     padding: 8px;
     cursor: pointer;
+	border-color: #f5eb0b;
 }
 
 .click159:hover {
-    opacity: 0.3;
-	background: palegreen;
-
-	
+	background: #f5eb0b;
 }
 
 hr.new1 {
   border: 2px solid #f5eb0b;
   border-radius: 2px;
   float: left;
+  width: 10px
 }
 
 .contactopening{
