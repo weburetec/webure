@@ -18,7 +18,7 @@ const ContactInfooffice = () => {
 						<div class="row">
 							<div class="col-lg-3 col-sm-6">
 								<div className="single-career-box">
-									<button className="click159">UI/UX Designer</button>
+									<p>UI/UX Designer</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
