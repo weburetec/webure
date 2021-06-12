@@ -12977,8 +12977,7 @@ mark {
 .click159:hover {
     opacity: 0.3;
 	background: palegreen;
-	transform: scale(2);
-	transition-duration: 0.5s;
+
 	
 }
 
