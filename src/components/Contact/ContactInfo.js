@@ -1,5 +1,6 @@
 import React from 'react'
 import ContactFormRevised from './ContactFormRevised'
+import get-in-touchmin from '../../assets/images/get-in-touchmin.webp'
 
 const ContactInfo = () => {
     return (
@@ -17,7 +18,8 @@ const ContactInfo = () => {
 							<span>will contact you shortly.</span>
 						</h5>						
 						<p class="queris_hr wow fadeInDown"><strong>For Enquiries &amp; Sales :</strong><br />
-						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 9 889 3406<br />Contact [New York] : +1 917 675 3086</p>						
+						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 9 889 3406<br />Contact [New York] : +1 917 675 3086</p>	
+						<img src={get-in-touchmin} alt="get-in-touchmin" />
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
