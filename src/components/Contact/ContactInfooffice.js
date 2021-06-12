@@ -84,8 +84,8 @@ const ContactInfooffice = () => {
 								<img src={contact01} alt="contact01" />
 							</div>
 							<h3><a href="/service-details">New Zealand</a></h3>
-							<p>Level 26, HSBC Tower, 188 Quay Street</p>
-							<p>Auckland, AUK 1010 New Zealand</p>
+							<p>Level 26, HSBC Tower, 188 Quay Street, Auckland, AUK 1010 New Zealand</p>
+							<p></p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -94,8 +94,8 @@ const ContactInfooffice = () => {
 								<img src={contact02} alt="contact02" />
 							</div>
 							<h3><a href="/service-details">New York </a></h3>
-							<p>One World Trade Center, 285 Fulton Street Suite 8500</p>
-							<p>New York City NY 10007, USA</p>
+							<p>One World Trade Center, 285 Fulton Street Suite 8500, New York City NY 10007, USA</p>
+							<p></p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -104,8 +104,8 @@ const ContactInfooffice = () => {
 								<img src={contact03} alt="contact03" />
 							</div>
 							<h3><a href="/service-details">Canada </a></h3>
-							<p>155-2 King Street West Unit #145 Hamilton</p>
-							<p>ON L8P 4S0 Canada</p>
+							<p>155-2 King Street West Unit #145 Hamilton, ON L8P 4S0 Canada</p>
+							<p></p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -114,8 +114,8 @@ const ContactInfooffice = () => {
 								<img src={contact04} alt="contact04" />
 							</div>
 							<h3><a href="/service-details">India Office</a></h3>
-							<p>#310G, Whitefield, Bangalore</p>
-							<p>560103, India</p>
+							<p>#310G, Whitefield, Bangalore, 560103, India</p>
+							<p></p>
 						</div>
 					</div>
 				</div>
