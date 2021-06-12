@@ -3,6 +3,7 @@ import contact01 from '../../assets/images/contact-01.webp'
 import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
+import ContactFormRevised from './ContactFormRevised'
 
 const ContactInfooffice = () => {
     return (
@@ -63,6 +64,23 @@ const ContactInfooffice = () => {
 				</div>
 				<br />
 				<br />
+				
+				<div class="row">
+					<div class="col-lg-4 col-sm-6">
+						<hr class="new1" />
+						<br />
+						<h2><strong>Help us get in touch <span class="contactopening">with</span><br /> <span class="contactopening">you</span></strong></h2>
+					</div>
+					<div class="col-lg-8 col-sm-6">
+						<div class="row">
+							<ContactFormRevised />
+						</div>
+					</div>
+				</div>
+				<br />
+				<br />				
+				
+				
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-solutions-box">
