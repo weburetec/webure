@@ -1,5 +1,6 @@
 import React from 'react'
 import ContactFormRevised from './ContactFormRevised'
+import SignupForm from './Singup'
 import contact01 from '../../assets/images/get-in-touchmin.webp'
 
 const ContactInfo = () => {
@@ -24,6 +25,7 @@ const ContactInfo = () => {
 					<div class="col-lg-7 col-sm-6">
 						<div class="row">
 							<ContactFormRevised />
+							<SignupForm />
 						</div>
 					</div>
 				</div>				
