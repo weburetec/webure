@@ -135,11 +135,43 @@ const AboutUsContent = () => {
                 <div className="about-inner-area">
                     <div className="row">
                         <div className="col-lg-6 col-md-6 col-sm-6">
-                            <div className="about-text">
-                                <h2 class="gel-heading-title">Why Webure</h2>
-                                <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
 
-                            </div>
+							<div class="wpb_wrapper">
+								<div class="gel-heading gel-heading-style-01 text-left">
+									<h2 class="gel-heading-title">Why Webure</h2>
+								</div>
+								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
+								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
+									<div class="image">
+									<a href="#"><img alt="Innovation_and_passion" data-src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png"><noscript><img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png"></noscript></a></div>
+									<div class="content-box">
+										<h4 class="title"><a href="#">Innovation &amp; Passion</a></h4>
+                <div class="description">
+	        <p>We might not be a 100 year old experienced company, but we guarantee you practical ideas and solutions with young minds executing the entire project. The passion is what drives our team!</p>
+        </div>
+        </div></div><div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div><div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
+    		<div class="image">
+		<a href="#">		<img alt="Personalised Process" data-src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png"><noscript><img alt="Personalised Process" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png"></noscript>				</a>	</div>
+<div class="content-box">
+            <h4 class="title">
+            <a href="#">            Personalised Process            </a>        </h4>
+                <div class="description">
+	        <p>We don’t work with a “one size fits all” approach, instead we believe in personalisation.</p>
+        </div>
+        </div></div><div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div><div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
+    		<div class="image">
+		<a href="#">		<img alt="Transparency" data-src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png"><noscript><img alt="Transparency" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png"></noscript>				</a>	</div>
+<div class="content-box">
+            <h4 class="title">
+            <a href="#">            Transparency            </a>        </h4>
+                <div class="description">
+	        <p>Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</p>
+        </div>
+        </div></div><div class="gel-space gel-2047cedd8149d6eedf2220f04c828d1e"></div></div>
+
+
+
+
                         </div>
     
                         <div className="col-lg-6 col-md-6 col-sm-6">
