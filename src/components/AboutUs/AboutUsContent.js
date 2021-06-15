@@ -19,10 +19,11 @@ const AboutUsContent = () => {
 			
 			<div className="container">
                 <div className="row">
-                    <div className="col-lg-8 col-md-12">
-						<h2><strong>ROI Driven digital marketing agency  in <span class="contactopening">Bengaluru, India</span></strong></h2>
+                    <div className="col-lg-7 col-md-12">
+						<h2><strong>About <span class="contactopening">Webure</span></strong></h2>
 						<div class="ahl"></div>
-						<span class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</span>
+						<h4 class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</h4>
+						<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br /> Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</h4>						
 						<br/>				
 						<div className="row">
 							<div className="col-lg-4 col-md-12">
@@ -44,7 +45,7 @@ const AboutUsContent = () => {
 							</div>						
 						</div>			
 					</div>
-					<div className="col-lg-4 col-md-12">
+					<div className="col-lg-5 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
 						<br />
 						<div class="row">
