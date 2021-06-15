@@ -16,7 +16,6 @@ const AboutUs = () => {
         <Layout>
             <Navbar />
             <AboutUsContent />
-            <OurHistory />
             <WhyChooseUs />
             <HowItWork />
             <TeamMembers />
