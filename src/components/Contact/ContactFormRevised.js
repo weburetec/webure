@@ -5,48 +5,41 @@ import contact from '../../assets/images/contact.webp'
 const ContactFormRevised = () => {
     return (
         <section className="contact-area pb-100">
-            <div className="container">
-                <div className="row">
-                    <div className="col-lg-12 col-md-12">
-                        <div className="contact-form">
-                            <form id="contactForm">
-                                <div className="row">
-                                    <div className="col-lg-12 col-md-6">
-                                        <div className="form-group">
-                                            <input type="text" name="name" className="form-control" required placeholder="Your name" />
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-12 col-md-6">
-                                        <div className="form-group">
-                                            <input type="email" name="email" className="form-control" required placeholder="Your email address" />
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-12 col-md-12">
-                                        <div className="form-group">
-                                            <input type="text" name="phone_number" className="form-control" required placeholder="Your phone number" />
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-12 col-md-12">
-                                        <div className="form-group">
-                                            <textarea name="message" className="form-control" cols="30" rows="6" required placeholder="Write your message..." />
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-12 col-md-12">
-                                        <button type="submit" className="default-btn">
-                                            <i className="flaticon-tick"></i> 
-                                            Send Message <span></span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    const paperStyle = { padding: '30px 20px', width: 300, margin: "20px auto" }
+    const headerStyle = { margin: 0 }
+    const avatarStyle = { backgroundColor: '#1bbd7e' }
+    const marginTop = { marginTop: 5 }
+    return (
+        <Grid>
+            <Paper elevation={20} style={paperStyle}>
+                <Grid align='center'>
+                    <Avatar style={avatarStyle}>
+                        <AddCircleOutlineOutlinedIcon />
+                    </Avatar>
+                    <h2 style={headerStyle}>Sign Up</h2>
+                    <Typography variant='caption' gutterBottom>Please fill this form to create an account !</Typography>
+                </Grid>
+                <form>
+                    <TextField fullWidth label='Name' placeholder="Enter your name" />
+                    <TextField fullWidth label='Email' placeholder="Enter your email" />
+                    <FormControl component="fieldset" style={marginTop}>
+                        <FormLabel component="legend">Gender</FormLabel>
+                        <RadioGroup aria-label="gender" name="gender" style={{ display: 'initial' }}>
+                            <FormControlLabel value="female" control={<Radio />} label="Female" />
+                            <FormControlLabel value="male" control={<Radio />} label="Male" />
+                        </RadioGroup>
+                    </FormControl>
+                    <TextField fullWidth label='Phone Number' placeholder="Enter your phone number" />
+                    <TextField fullWidth label='Password' placeholder="Enter your password"/>
+                    <TextField fullWidth label='Confirm Password' placeholder="Confirm your password"/>
+                    <FormControlLabel
+                        control={<Checkbox name="checkedA" />}
+                        label="I accept the terms and conditions."
+                    />
+                    <Button type='submit' variant='contained' color='primary'>Sign up</Button>
+                </form>
+            </Paper>
+        </Grid>
         </section>
     )
 }
