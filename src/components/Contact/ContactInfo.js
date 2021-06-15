@@ -25,7 +25,6 @@ const ContactInfo = () => {
 					<div class="col-lg-7 col-sm-6">
 						<div class="row">
 							<ContactFormRevised />
-							<SignupForm />
 						</div>
 					</div>
 				</div>				
