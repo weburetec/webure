@@ -8,6 +8,7 @@ import icon6 from '../../assets/images/icons/icon6.webp'
 import icon7 from '../../assets/images/icons/icon7.webp'
 import shape1 from '../../assets/images/shape/circle-shape1.webp'
 import bannerhex from '../../assets/images/banner-hex.webp'
+import details from '../../assets/images/events/events-details.webp'
  
 const AboutUsContent = () => {
     return (
