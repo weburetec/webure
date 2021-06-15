@@ -15,12 +15,6 @@ const AboutUs = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="About Us" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="About Us" 
-            />
             <AboutUsContent />
             <OurHistory />
             <WhyChooseUs />
