@@ -21,22 +21,33 @@ const AboutUsContent = () => {
 			<div className="container">
                 <div className="row">
                     <div className="col-lg-7 col-md-12">
+						<hr class="new1" />
+						<br />
 						<h2><strong>About <span class="contactopening">Webure</span></strong></h2>
-						<div class="ahl"></div>
 						<h4 class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</h4>
-						<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br /> Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</h4>						
-						<br/>				
+						<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br /><br /> Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</h4>						
+						<br/>			
+						<hr>
 						<div className="row">
-							<div className="col-lg-4 col-md-12">
-								<h2 class="font-size-8 mb-0"><strong>Get more leads and sales with Digital Marketing</strong></h2>						
-							</div>						
-							<div className="col-lg-8 col-md-12">
-								<span class="font-size-8 mb-0">Do you have an idea for an app and are looking for a trusted app design and development agency in India ? Look no further ! The experienced digital marketing professionals at Webure Technologies work with you to develop a media strategy, conduct media research, create a media plan and ultimately help you to launch and optimize your online digital campaign. Webure Technologies offers complete Digital Marketing package including web design , website development, Internet marketing. Our range of internet marketing services includes search engine optimization (SEO), Google Ads, email marketing solution etc.</span>						
-							</div>						
+							<div className="col-lg-7 col-md-12">
+							
+							</div>
 						</div>
-						<br/><br/>
-						
-						
+						<div className="row">	
+							<div class="vc_column-inner">
+								<div class="wpb_wrapper">
+									<div class="gel-counter gel-1c1abcad4fe8ad7cf0c4a18dd9b5fcbf">
+										<span class="counterup counter-value" data-start="0" data-end="975" data-decimals="0" data-duration="0" data-separator="" data-decimal=",">975</span>
+									</div>
+
+									<div class="gel-heading gel-heading-style-01 text-left">
+										<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Litres of Beer Drunk	</h2>
+									</div>
+								<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
+							</div>
+						</div>							
+							
+						<br/><br/>						
 						<div class="row">
 							<div class="col-12">
 								<h6 class="sec-head">Why Webure Technologies</h6>
