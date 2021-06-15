@@ -13036,3 +13036,29 @@ Career Area CSS
     height: 8px;
 }
 
+.gel-heading-title {
+    text-align: center;
+}
+
+.gel-3a8e8f7a394db94fe302850bf5118fd4 {
+    font-family: Open Sans!important;
+    font-weight: 600!important;
+    font-style: normal!important;
+    font-size: 16px!important;
+    line-height: 1.6!important;
+    letter-spacing: -0.025em!important;
+    color: #7d7d7d!important;
+}
+
+.vc_column_container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.vc_column-inner {
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
