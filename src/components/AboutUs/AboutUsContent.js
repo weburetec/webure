@@ -39,7 +39,33 @@ const AboutUsContent = () => {
 									</div>
 									<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
 								</div>
-							</div>							
+							</div>	
+							<div class="wpb_column vc_column_container vc_col-sm-4" id="counter">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="gel-counter gel-1c1abcad4fe8ad7cf0c4a18dd9b5fcbf">
+											<span class="counterup counter-value" data-start="0" data-end="1832" data-decimals="0" data-duration="0" data-separator="" data-decimal=",">1832</span>
+										</div>
+										<div class="gel-heading gel-heading-style-01 text-left">
+											<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Meeting Hours	</h2>
+										</div>
+										<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
+									</div>
+								</div>
+							</div>
+	
+							<div class="wpb_column vc_column_container vc_col-sm-4" id="counter">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="gel-counter gel-1c1abcad4fe8ad7cf0c4a18dd9b5fcbf">
+											<span class="counterup counter-value" data-start="0" data-end="8754" data-decimals="0" data-duration="0" data-separator="" data-decimal=",">8754</span>
+										</div>
+										<div class="gel-heading gel-heading-style-01 text-left">
+											<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Hours of Research	</h2>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>	
 						<br/><br/>						
 						<div class="row">
