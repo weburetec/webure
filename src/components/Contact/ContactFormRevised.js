@@ -1,6 +1,14 @@
 import React from 'react'
 import starIcon from '../../assets/images/star-icon.webp'
 import contact from '../../assets/images/contact.webp'
+import { Grid, Paper, Avatar, Typography, TextField, Button } from '@material-ui/core'
+import AddCircleOutlineOutlinedIcon from '@material-ui/icons/AddCircleOutlineOutlined';
+import Radio from '@material-ui/core/Radio';
+import RadioGroup from '@material-ui/core/RadioGroup';
+import FormControlLabel from '@material-ui/core/FormControlLabel';
+import FormControl from '@material-ui/core/FormControl';
+import FormLabel from '@material-ui/core/FormLabel';
+import Checkbox from '@material-ui/core/Checkbox';
 
 const ContactFormRevised = () => {
     return (
