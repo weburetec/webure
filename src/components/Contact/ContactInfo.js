@@ -1,6 +1,6 @@
 import React from 'react'
 import ContactFormRevised from './ContactFormRevised'
-import SignupForm from './Signup'
+import SignupForm from './signup'
 import contact01 from '../../assets/images/get-in-touchmin.webp'
 
 const ContactInfo = () => {
