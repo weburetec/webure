@@ -70,10 +70,7 @@ const AboutUsContent = () => {
 						<br/><br/>						
 						<div class="row">
 							<div class="col-12">
-								<h6 class="sec-head">Why Webure Technologies</h6>
-								<p>We are a full service web based interactive marketing agency that develops world-class websites and online internet campaigns (Google Adwords). Our experts work in harmony to strategically integrate cutting-edge technology solutions with a sensible Internet marketing approach, providing superior brand and user experiences that deliver results to our global clients.</p>
-								<p>Webure Technologies New York brings effective tools for making your website popular on the Internet with the help of a planned strategy for your web marketing efforts. Effective Web Marketing is a combination of many important aspects of the Web and Internet techniques. </p>
-							<br/><br/>
+								<h6 class="sec-head"></h6>
 							</div>						
 						</div>			
 					</div>
@@ -83,7 +80,6 @@ const AboutUsContent = () => {
 					</div>
 				</div>
 			</div>
-		
             <div className="container-fluid">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
@@ -95,10 +91,6 @@ const AboutUsContent = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <div className="content">
-                                <span className="sub-title">
-                                    <img src={starIcon} alt="banner" /> 
-                                    About Us
-                                </span>
                                 <h2>Drive Digital Revolution Through Data Science</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                                 
@@ -142,45 +134,19 @@ const AboutUsContent = () => {
             <div className="container">
                 <div className="about-inner-area">
                     <div className="row">
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-6 col-md-6 col-sm-6">
                             <div className="about-text">
-                                <h3>Our History</h3>
+                                <h2 class="gel-heading-title">Why Digiligo</h2>
                                 <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                                
-                                <ul className="features-list">
-                                    <li><i className="flaticon-tick"></i> Activate Listening</li>
-                                    <li><i className="flaticon-tick"></i> Brilliant minds</li>
-                                    <li><i className="flaticon-tick"></i> Better. Best. Wow!</li>
-                                    <li><i className="flaticon-tick"></i> Branding it better!</li>
-                                </ul>
+
                             </div>
                         </div>
     
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        <div className="col-lg-6 col-md-6 col-sm-6">
                             <div className="about-text">
-                                <h3>Our Mission</h3>
+                                <h2 class="gel-heading-title">Our Mission & Vision</h2>
                                 <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
                                 
-                                <ul className="features-list">
-                                    <li><i className="flaticon-tick"></i> Creating. Results.</li>
-                                    <li><i className="flaticon-tick"></i> Expect more</li>
-                                    <li><i className="flaticon-tick"></i> Good thinking</li>
-                                    <li><i className="flaticon-tick"></i> In real we trust</li>
-                                </ul>
-                            </div>
-                        </div>
-    
-                        <div className="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
-                            <div className="about-text">
-                                <h3>Who we are</h3>
-                                <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                                
-                                <ul className="features-list">
-                                    <li><i className="flaticon-tick"></i> Stay real. Always.</li>
-                                    <li><i className="flaticon-tick"></i> We have you covered</li>
-                                    <li><i className="flaticon-tick"></i> We turn heads</li>
-                                    <li><i className="flaticon-tick"></i> Your brand, promoted</li>
-                                </ul>
                             </div>
                         </div>
                     </div>
