@@ -28,11 +28,6 @@ const AboutUsContent = () => {
 						<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br /><br /> Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</h4>						
 						<br/>			
 						<hr>
-						<div className="row">
-							<div className="col-lg-7 col-md-12">
-							
-							</div>
-						</div>
 						<div className="row">	
 							<div class="vc_column-inner">
 								<div class="wpb_wrapper">
@@ -43,10 +38,10 @@ const AboutUsContent = () => {
 									<div class="gel-heading gel-heading-style-01 text-left">
 										<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Litres of Beer Drunk	</h2>
 									</div>
-								<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
-							</div>
-						</div>							
-							
+									<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
+								</div>
+							</div>							
+						</div>	
 						<br/><br/>						
 						<div class="row">
 							<div class="col-12">
