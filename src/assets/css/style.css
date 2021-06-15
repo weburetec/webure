@@ -13066,3 +13066,29 @@ Career Area CSS
     height: 42px;
 }
 
+.gel-image-box-style-04, .gel-image-box-style-05 {
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 400ms;
+    transition-delay: 0ms;
+}
+
+.gel-image-box-style-04 .content-box, .gel-image-box-style-05 .content-box {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+}
+
+.gel-image-box-style-01, .gel-image-box-style-04, .gel-image-box-style-06 {
+    text-align: left;
+}
+
+.gel-image-box .description p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 0;
+}
+
