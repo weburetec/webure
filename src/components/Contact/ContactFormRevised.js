@@ -11,8 +11,6 @@ import FormLabel from '@material-ui/core/FormLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 
 const ContactFormRevised = () => {
-    return (
-        <section className="contact-area pb-100">
     const paperStyle = { padding: '30px 20px', width: 300, margin: "20px auto" }
     const headerStyle = { margin: 0 }
     const avatarStyle = { backgroundColor: '#1bbd7e' }
@@ -48,7 +46,6 @@ const ContactFormRevised = () => {
                 </form>
             </Paper>
         </Grid>
-        </section>
     )
 }
 
