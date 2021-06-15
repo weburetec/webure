@@ -136,7 +136,7 @@ const AboutUsContent = () => {
                     <div className="row">
                         <div className="col-lg-6 col-md-6 col-sm-6">
                             <div className="about-text">
-                                <h2 class="gel-heading-title">Why Digiligo</h2>
+                                <h2 class="gel-heading-title">Why Webure</h2>
                                 <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
 
                             </div>
