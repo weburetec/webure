@@ -143,7 +143,7 @@ const AboutUsContent = () => {
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
 									<div class="image">
 										<img alt="Innovation_and_passion" data-src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
-										<img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
+										<noscript><img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" /></noscript>
 									</div>
 									<div class="content-box">
 										<h4 class="title"><a href="#">Innovation &amp; Passion</a></h4>
@@ -183,10 +183,28 @@ const AboutUsContent = () => {
                         </div>
     
                         <div className="col-lg-6 col-md-6 col-sm-6">
-                            <div className="about-text">
-                                <h2 class="gel-heading-title">Our Mission & Vision</h2>
-                                <p>Real innovations and a positive customer experience are the heart of successful communication.</p>                                
-                            </div>
+							<div class="wpb_wrapper">
+								<div class="gel-heading gel-heading-style-01 text-left">
+									<h2 class="gel-heading-title">Our Mission &amp; Vision</h2>
+								</div>
+								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
+								<div class="wpb_text_column wpb_content_element ">
+									<div class="wpb_wrapper">
+										<p><strong>Our Mission</strong> is to empower our clients to be future ready through tailored digital first approaches.</p>
+										<p><strong>Our Vision</strong> is to create impactful and meaningful applications, digital platforms, marketing solutions and enterprise systems that will help clients, customers and the general public become digital savvy for today and generations to come!</p>
+										<p>We will achieve this by doing the below:</p>
+									</div>
+								</div>
+								<div class="gel-list gel-list-style-01 gel-60c9d0d8d666e gel-60c9d0d8d6679">
+									<ul class="content-list circle-type">
+										<li class="item-list gel-list-item">Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.                                    </li>
+                                        <li class="item-list gel-list-item">Enable digital transformation for clients of all sizes, be it an MNC or a startup.                                      </li>
+                                        <li class="item-list gel-list-item">Build systems and applications that will change the way our clients do business.                                     </li>
+                                        <li class="item-list gel-list-item">Empower every human being with the endless possibilities of digital, even in rural areas across the world.                                    </li>
+									</ul>
+								</div>
+								<div class="gel-space gel-0fae9c719603b15e5d955a9603debdfc"></div>
+							</div>
                         </div>
                     </div>
                 </div>
