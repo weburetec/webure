@@ -73,7 +73,7 @@ const ContactInfooffice = () => {
 					</div>
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
-							<ContactFormRevised />
+							<CareerFormRevised />
 						</div>
 					</div>
 				</div>			
