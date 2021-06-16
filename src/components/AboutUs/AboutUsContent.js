@@ -26,20 +26,23 @@ const AboutUsContent = () => {
 						<h2><strong>About <span class="contactopening">Webure</span></strong></h2>
 						<h4 class="font-size-3 text-gray line-height-2">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential.</h4>
 						<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br /><br /> Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</h4>						
-						<br/>			
-						<div className="row">	
-							<div class="vc_column-inner">
-								<div class="wpb_wrapper">
-									<div class="gel-counter gel-1c1abcad4fe8ad7cf0c4a18dd9b5fcbf">
-										<span class="counterup counter-value" data-start="0" data-end="975" data-decimals="0" data-duration="0" data-separator="" data-decimal=",">975</span>
-									</div>
+						<br/>		
+						<hr />
+						<div className="row">
+							<div class="wpb_column vc_column_container vc_col-sm-4" id="counter">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="gel-counter gel-1c1abcad4fe8ad7cf0c4a18dd9b5fcbf">
+											<span class="counterup counter-value" data-start="0" data-end="975" data-decimals="0" data-duration="0" data-separator="" data-decimal=",">975</span>
+										</div>
 
-									<div class="gel-heading gel-heading-style-01 text-left">
-										<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Litres of Beer Drunk	</h2>
+										<div class="gel-heading gel-heading-style-01 text-left">
+											<h2 class="gel-heading-title gel-3a8e8f7a394db94fe302850bf5118fd4">Litres of Beer Drunk	</h2>
+										</div>
+										<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
 									</div>
-									<div class="gel-space gel-d5ce6661addcd85ccc9635905ae2dec2"></div>
-								</div>
-							</div>	
+								</div>	
+							</div>
 							<div class="wpb_column vc_column_container vc_col-sm-4" id="counter">
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
