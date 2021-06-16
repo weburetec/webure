@@ -33,7 +33,7 @@ const ContactFormRevised = () => {
 								<input type="hidden" name="page_title" value="Contact"/>
 								<div class="row">									
 									<div class="form-group col-md-12">
-										<input type="text" name="full_name" placeholder="Name*">
+										<input type="text" name="full_name" placeholder="Name*"/>
 									</div>
 
 									<div class="form-group col-md-12">
