@@ -81,19 +81,7 @@ const ContactFormRevised = () => {
 										<input type="text" name="how_did_you_hear" placeholder="Where did you heard about us?"/>
 									</div>							
 
-									<div class="form-group col-md-12 field-careers" style="display: none;">
-										<div class="file-uploader" action="">
-											<div class="file-chooser">
-										    	<div class="file-upload-wrapper"><input id="fileupload" name="cv_file" class="file-chooser__input custom-file-upload-hidden" type="file" tabindex="-1" style="position: absolute; left: -9999px;">
-													<input type="text" class="file-upload-input" placeholder="Drag &amp; Drop to upload" disabled=""/>
-													
-												</div>
-										  	</div>
-										    <div class="file-uploader__message-area">
-										    	<p>Select a file to upload</p>
-										  	</div>
-										</div>
-									</div>
+
 
 									<div class="submit-btn text-center">
 										<input type="submit" name="submitBtn" value="Send">
