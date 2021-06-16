@@ -86,7 +86,7 @@ const ContactFormRevised = () => {
 											<div class="file-chooser">
 										    	<div class="file-upload-wrapper"><input id="fileupload" name="cv_file" class="file-chooser__input custom-file-upload-hidden" type="file" tabindex="-1" style="position: absolute; left: -9999px;">
 													<input type="text" class="file-upload-input" placeholder="Drag &amp; Drop to upload" disabled=""/>
-													<button type="button" class="file-upload-button" tabindex="-1">Select a File</button>
+													
 												</div>
 										  	</div>
 										    <div class="file-uploader__message-area">
