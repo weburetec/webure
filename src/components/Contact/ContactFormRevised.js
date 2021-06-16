@@ -20,7 +20,6 @@ const ContactFormRevised = () => {
             <Paper elevation={20} style={paperStyle}>
                 <Grid align='center'>
                     <h1></strong>What can we do for you</strong></h1>
-                    <Typography variant='caption' gutterBottom>Please fill this form to create an account !</Typography>
                 </Grid>
                 <form>
                     <TextField fullWidth label='Name' placeholder="Enter your name" />
