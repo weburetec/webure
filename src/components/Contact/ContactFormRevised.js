@@ -83,11 +83,6 @@ const ContactFormRevised = () => {
 
 
 
-									<div class="submit-btn text-center">
-										<input type="submit" name="submitBtn" value="Send"/>
-										<div class="form-loader" style="display: none;"><img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/loader.svg" alt="loader"></div>									</div>
-
-									<div class="ajax-message"></div>
 
 								</div>
 							</form>
