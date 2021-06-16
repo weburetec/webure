@@ -28,9 +28,9 @@ const ContactFormRevised = () => {
 								</ul>
 							</div>
 							<form id="contact-form" method="post" enctype="multipart/form-data">
-								<input type="hidden" name="action" value="contact_form_ajax">
-								<input type="hidden" name="enquiry_for" id="enquiry_for" value="General Inquiries">
-								<input type="hidden" name="page_title" value="Contact">
+								<input type="hidden" name="action" value="contact_form_ajax"/>
+								<input type="hidden" name="enquiry_for" id="enquiry_for" value="General Inquiries"/>
+								<input type="hidden" name="page_title" value="Contact"/>
 								<div class="row">									
 									<div class="form-group col-md-12">
 										<input type="text" name="full_name" placeholder="Name*">
@@ -54,7 +54,7 @@ const ContactFormRevised = () => {
 
 									<div class="form-group col-md-12 field-quote" style="display: none;">
 										<input type="text" name="services" placeholder="Services*">
-																			</div>
+									</div>
 
 									<div class="form-group col-md-12 field-quote" style="display: none;">
 										<input type="text" name="requirement" placeholder="Requirement">
@@ -79,12 +79,15 @@ const ContactFormRevised = () => {
 
 									<div class="form-group col-md-12 field-careers" style="display: none;">
 										<input type="text" name="how_did_you_hear" placeholder="Where did you heard about us?">
-									</div>								
+									</div>							
 
 									<div class="form-group col-md-12 field-careers" style="display: none;">
 										<div class="file-uploader" action="">
 											<div class="file-chooser">
-										    	<div class="file-upload-wrapper"><input id="fileupload" name="cv_file" class="file-chooser__input custom-file-upload-hidden" type="file" tabindex="-1" style="position: absolute; left: -9999px;"><input type="text" class="file-upload-input" placeholder="Drag &amp; Drop to upload" disabled=""><button type="button" class="file-upload-button" tabindex="-1">Select a File</button></div>
+										    	<div class="file-upload-wrapper"><input id="fileupload" name="cv_file" class="file-chooser__input custom-file-upload-hidden" type="file" tabindex="-1" style="position: absolute; left: -9999px;">
+													<input type="text" class="file-upload-input" placeholder="Drag &amp; Drop to upload" disabled="">
+													<button type="button" class="file-upload-button" tabindex="-1">Select a File</button>
+												</div>
 										  	</div>
 										    <div class="file-uploader__message-area">
 										    	<p>Select a file to upload</p>
