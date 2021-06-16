@@ -142,11 +142,8 @@ const AboutUsContent = () => {
 								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
 									<div class="image">
-										<a href="#"><img alt="Innovation_and_passion" data-src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
-											<noscript>
-												<img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png">
-											</noscript>
-										</a>
+										<img alt="Innovation_and_passion" data-src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
+										<img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
 									</div>
 									<div class="content-box">
 										<h4 class="title"><a href="#">Innovation &amp; Passion</a></h4>
@@ -158,11 +155,8 @@ const AboutUsContent = () => {
 								<div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
 									<div class="image">
-										<a href="#"><img alt="Personalised Process" data-src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" />
-											<noscript>
-												<img alt="Personalised Process" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png">
-											</noscript>
-										</a>
+										<img alt="Personalised Process" data-src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" />
+										<noscript><img alt="Personalised Process" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" /></noscript>
 									</div>
 									<div class="content-box">
 										<h4 class="title"><a href="#">Personalised Process</a></h4>
@@ -175,8 +169,7 @@ const AboutUsContent = () => {
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
 									<div class="image">
 										<img alt="Transparency" data-src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" />
-										<noscript><img alt="Transparency" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png"></noscript>				
-											
+										<noscript><img alt="Transparency" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" /></noscript>		
 									</div>
 									<div class="content-box">
 										<h4 class="title"><a href="#">Transparency</a></h4>
@@ -192,8 +185,7 @@ const AboutUsContent = () => {
                         <div className="col-lg-6 col-md-6 col-sm-6">
                             <div className="about-text">
                                 <h2 class="gel-heading-title">Our Mission & Vision</h2>
-                                <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                                
+                                <p>Real innovations and a positive customer experience are the heart of successful communication.</p>                                
                             </div>
                         </div>
                     </div>
