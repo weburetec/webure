@@ -9,7 +9,8 @@ import icon7 from '../../assets/images/icons/icon7.webp'
 import shape1 from '../../assets/images/shape/circle-shape1.webp'
 import bannerhex from '../../assets/images/banner-hex.webp'
 import details from '../../assets/images/events/events-details.webp'
- 
+import UpcomingEventTimer from './UpcomingEventTimer'
+
 const AboutUsContent = () => {
     return (
         <section className="about-area ptb-100">
@@ -29,6 +30,7 @@ const AboutUsContent = () => {
 						<br/>		
 						<hr />
 						<div className="row">
+							<UpcomingEventTimer />
 							<div class="wpb_column vc_column_container vc_col-sm-4" id="counter">
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
