@@ -10,21 +10,15 @@ import FormControl from '@material-ui/core/FormControl';
 import FormLabel from '@material-ui/core/FormLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 
-const CareerFormRevised = () => {
-    const paperStyle = { padding: '30px 20px', width: 750, margin: "20px auto" }
+const ContactFormRevised = () => {
+    const paperStyle = { padding: '30px 20px', width: 740, margin: "20px auto" }
     const headerStyle = { margin: 0 }
     const avatarStyle = { backgroundColor: '#1bbd7e' }
     const marginTop = { marginTop: 5 }
     return (
         <Grid>
             <Paper elevation={20} style={paperStyle}>
-                <Grid align='center'>
-                    <Avatar style={avatarStyle}>
-                        <AddCircleOutlineOutlinedIcon />
-                    </Avatar>
-                    <h2 style={headerStyle}>Sign Up</h2>
-                    <Typography variant='caption' gutterBottom>Please fill this form to create an account !</Typography>
-                </Grid>
+                <h2 style={headerStyle}>Sign Up</h2>
                 <form>
                     <TextField fullWidth label='Name' placeholder="Enter your name" />
                     <TextField fullWidth label='Email' placeholder="Enter your email" />
@@ -36,11 +30,17 @@ const CareerFormRevised = () => {
                         </RadioGroup>
                     </FormControl>
                     <TextField fullWidth label='Phone Number' placeholder="Enter your phone number" />
-                    <Button type='submit' variant='contained' color='primary'>Sign up</Button>
+                    <TextField fullWidth label='Password' placeholder="Enter your password"/>
+                    <TextField fullWidth label='Confirm Password' placeholder="Confirm your password"/>
+                    <FormControlLabel
+                        control={<Checkbox name="checkedA" />}
+                        label="I accept the terms and conditions."
+                    />
+
                 </form>
             </Paper>
         </Grid>
     )
 }
 
-export default CareerFormRevised
+export default ContactFormRevised
