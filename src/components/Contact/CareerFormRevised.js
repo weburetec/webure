@@ -10,7 +10,7 @@ import FormControl from '@material-ui/core/FormControl';
 import FormLabel from '@material-ui/core/FormLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 
-const ContactFormRevised = () => {
+const CareerFormRevised = () => {
     const paperStyle = { padding: '30px 20px', width: 740, margin: "20px auto" }
     const headerStyle = { margin: 0 }
     const avatarStyle = { backgroundColor: '#1bbd7e' }
@@ -43,4 +43,4 @@ const ContactFormRevised = () => {
     )
 }
 
-export default ContactFormRevised
+export default CareerFormRevised
