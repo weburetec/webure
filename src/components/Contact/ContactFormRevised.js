@@ -18,10 +18,7 @@ const ContactFormRevised = () => {
     return (
         <Grid>
             <Paper elevation={20} style={paperStyle}>
-                <Grid align='center'>
-                    <h2 style={headerStyle}>Sign Up</h2>
-                    <Typography variant='caption' gutterBottom>Please fill this form to create an account !</Typography>
-                </Grid>
+                <h2 style={headerStyle}>Sign Up</h2>
                 <form>
                     <TextField fullWidth label='Name' placeholder="Enter your name" />
                     <TextField fullWidth label='Email' placeholder="Enter your email" />
