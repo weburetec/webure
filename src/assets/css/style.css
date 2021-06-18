@@ -13098,3 +13098,284 @@ Career Area CSS
     padding-top: 120px;
 }
 
+
+
+
+
+
+
+
+
+
+.locations-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+ }
+  .locations-main .row {
+    margin: 0;
+    width: 100%; }
+  .locations-main .map-part {
+    padding: 0; }
+    .locations-main .map-part figure img {
+      height: 100%;
+      -o-object-fit: cover;
+         object-fit: cover; }
+    .locations-main .map-part .accMainDiv {
+      height: 100%; }
+      .locations-main .map-part .accMainDiv .accoContain {
+        height: 100%;
+        -webkit-transform: none;
+                transform: none;
+        margin: 0;
+        -webkit-transition: none;
+        transition: none; }
+        .locations-main .map-part .accMainDiv .accoContain .map-block {
+          height: 100%;position:relative;}
+          .locations-main .map-part .accMainDiv .accoContain .map-block iframe {
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0; }
+      @media (max-width: 767px) {
+        .locations-main .map-part .accMainDiv .accoContain {
+          height: 350px; } }
+    .locations-main .map-part .resp-accordion {
+      display: none;
+      font-size: 100%;
+      font-weight: normal;
+      padding: 40px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      position: relative;
+      -webkit-transition: 0.5s all;
+      transition: 0.5s all; }
+      .locations-main .map-part .resp-accordion:before {
+        content: "";
+        height: 2px;
+        width: calc(100% - 80px);
+        background: #DDD;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto; }
+      .locations-main .map-part .resp-accordion:after {
+        content: "";
+        height: 25px;
+        width: 25px;
+        background: #FFDA30;
+        position: absolute;
+        bottom: -7px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        -webkit-transform: rotate(45deg);
+                transform: rotate(45deg);
+        opacity: 0;
+        -webkit-transition: 0.5s all;
+        transition: 0.5s all; }
+      .locations-main .map-part .resp-accordion.minus {
+        background: #FFDA30;
+        margin-bottom: 30px; }
+        .locations-main .map-part .resp-accordion.minus .direction-btn .cta-button {
+          background: #FFFFFF; }
+        .locations-main .map-part .resp-accordion.minus:after {
+          opacity: 1; }
+        .locations-main .map-part .resp-accordion.minus:before {
+          display: none; }
+      .locations-main .map-part .resp-accordion .contact-info {
+        font-size: 14px;
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 60%;
+                flex: 0 0 60%;
+        max-width: 60%; }
+        .locations-main .map-part .resp-accordion .contact-info .name {
+          font-size: 18px;
+          margin-bottom: 13px; }
+        .locations-main .map-part .resp-accordion .contact-info .address {
+          margin-bottom: 15px;
+          line-height: 20px; }
+        .locations-main .map-part .resp-accordion .contact-info .email {
+          margin-bottom: 11px; }
+        .locations-main .map-part .resp-accordion .contact-info a {
+          color: #000000;
+          display: inline-block; }
+          .locations-main .map-part .resp-accordion .contact-info a:hover {
+            text-decoration: underline; }
+      .locations-main .map-part .resp-accordion .direction-btn {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 40%;
+                flex: 0 0 40%;
+        max-width: 40%;
+        padding: 1px 0 0 26px;
+        text-align: right; }
+        .locations-main .map-part .resp-accordion .direction-btn .cta-button {
+          font-size: 10px;
+          min-height: 30px;
+          line-height: 29px;
+          padding: 1px 20px 0;
+          letter-spacing: 0.5px; }
+          .locations-main .map-part .resp-accordion .direction-btn .cta-button:after {
+            border-left: solid 1px #000000;
+            border-bottom: solid 1px #000000;
+            content: "";
+            height: 15px;
+            width: 15px;
+            position: absolute;
+            -webkit-transform: rotate(-45deg);
+                    transform: rotate(-45deg);
+            height: 6px;
+            width: 6px;
+            -webkit-transform: rotate(-135deg);
+                    transform: rotate(-135deg);
+            display: inline-block;
+            vertical-align: middle;
+            margin: -2px 0 0 2px;
+            position: relative;
+            -webkit-transition: 0.5s all;
+            transition: 0.5s all; }
+          .locations-main .map-part .resp-accordion .direction-btn .cta-button:hover:after {
+            border-color: #FFFFFF; }
+      @media (max-width: 767px) {
+        .locations-main .map-part .resp-accordion {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; } }
+      @media (max-width: 480px) {
+        .locations-main .map-part .resp-accordion {
+          padding: 20px;
+          display: block; }
+          .locations-main .map-part .resp-accordion:before {
+            width: calc(100% - 40px); }
+          .locations-main .map-part .resp-accordion .contact-info {
+            -webkit-box-flex: 0;
+                -ms-flex: 0 0 100%;
+                    flex: 0 0 100%;
+            max-width: 100%;
+            margin-bottom: 20px; }
+          .locations-main .map-part .resp-accordion .direction-btn {
+            -webkit-box-flex: 0;
+                -ms-flex: 0 0 100%;
+                    flex: 0 0 100%;
+            max-width: 100%;
+            padding: 0;
+            text-align: left; } }
+  .locations-main .address-part {
+    padding: 0; }
+    .locations-main .address-part .location-box {
+      padding: 46px 68px;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      position: relative;
+      -webkit-transition: 0.5s all;
+      transition: 0.5s all;
+      cursor: pointer; }
+      .locations-main .address-part .location-box .contact-info {
+        font-size: 14px;
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 60%;
+                flex: 0 0 60%;
+        max-width: 60%; }
+        .locations-main .address-part .location-box .contact-info .name {
+          font-size: 18px;
+          margin-bottom: 13px; }
+        .locations-main .address-part .location-box .contact-info .address {
+          margin-bottom: 15px;
+          line-height: 20px; }
+        .locations-main .address-part .location-box .contact-info .email {
+          margin-bottom: 11px; }
+        .locations-main .address-part .location-box .contact-info a {
+          color: #000000;
+          display: inline-block; }
+          .locations-main .address-part .location-box .contact-info a:hover {
+            text-decoration: underline; }
+      .locations-main .address-part .location-box .direction-btn {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 40%;
+                flex: 0 0 40%;
+        max-width: 40%;
+        padding: 1px 0 0 26px;
+        text-align: right; }
+        .locations-main .address-part .location-box .direction-btn .cta-button {
+          font-size: 10px;
+          min-height: 30px;
+          line-height: 29px;
+          padding: 1px 20px 0;
+          letter-spacing: 0.5px; }
+          .locations-main .address-part .location-box .direction-btn .cta-button:after {
+            border-left: solid 1px #000000;
+            border-bottom: solid 1px #000000;
+            content: "";
+            height: 15px;
+            width: 15px;
+            position: absolute;
+            -webkit-transform: rotate(-45deg);
+                    transform: rotate(-45deg);
+            height: 6px;
+            width: 6px;
+            -webkit-transform: rotate(-135deg);
+                    transform: rotate(-135deg);
+            display: inline-block;
+            vertical-align: middle;
+            margin: -2px 0 0 2px;
+            position: relative;
+            -webkit-transition: 0.5s all;
+            transition: 0.5s all; }
+          .locations-main .address-part .location-box .direction-btn .cta-button:hover:after {
+            border-color: #FFFFFF; }
+      .locations-main .address-part .location-box:after {
+        content: "";
+        width: calc(100% - 140px);
+        height: 2px;
+        background: #aaa;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        margin: auto;
+        right: 0;
+        opacity: 0.4; }
+      .locations-main .address-part .location-box:last-child:after {
+        opacity: 0; }
+      .locations-main .address-part .location-box.current {
+        background: #FFDA30; }
+        .locations-main .address-part .location-box.current .direction-btn .cta-button {
+          background: #FFFFFF; }
+          .locations-main .address-part .location-box.current .direction-btn .cta-button:hover {
+            background: #000000; }
+        .locations-main .address-part .location-box.current:after {
+          opacity: 0; }
+        .locations-main .address-part .location-box.current:hover {
+          background: #FFDA30; }
+      .locations-main .address-part .location-box:hover {
+        background: #f9f9f9; }
+  @media (max-width: 1700px) {
+    
+      .locations-main .address-part .location-box {
+        padding: 30px 25px; }
+        .locations-main .address-part .location-box .direction-btn {
+          padding: 0 0 0 15px; }
+        .locations-main .address-part .location-box:after {
+          width: calc(100% - 60px); } }
+  @media (max-width: 1365px) {
+    .locations-main .address-part .location-box {
+      display: block; }
+      .locations-main .address-part .location-box .contact-info {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 20px; }
+      .locations-main .address-part .location-box .direction-btn {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+        max-width: 100%;
+        text-align: left;
+        padding: 0; } }
