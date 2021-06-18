@@ -1,129 +1,146 @@
 import React from 'react'
 import {Link} from 'gatsby'
+import details from '../../assets/images/events/events-details.webp'
 
 const ServicesOne = () => {
     return (
         <section className="solutions-area pt-100 pb-70">
+            <div className="events-details-image">
+                <img src={details} alt="details" />
+                <UpcomingEventTimer />
+            </div>
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-rocket"></i>
-                            </div>
-                            <h3>
-                                <Link to="/service-details">
-                                Startup Applications
-                                </Link>
-                            </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-laptop"></i>
-                            </div>
-   
-                            <h3>
-                                <Link to="/service-details">
-                                SaaS Solutions
-                                </Link>
-                            </h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-                            
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-money"></i>
-                            </div>
-
-                            <h3>
-                                <Link to="/service-details">
-                                eCommerce Platforms
-                                </Link>
-                            </h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-                            
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-segmentation"></i>
-                            </div>
-
-                            <h3>
-                                <Link to="/service-details">
-                                Research
-                                </Link>
-                            </h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-                           
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-analytics"></i>
-                            </div>
-
-                            <h3>
-                                <Link to="/service-details">
-                                Analytics
-                                </Link>
-                            </h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-                            
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 col-sm-6">
-                        <div className="single-solutions-box">
-                            <div className="icon">
-                                <i className="flaticon-settings"></i>
-                            </div>
-
-                            <h3>
-                                <Link to="/service-details">
-                                Technology
-                                </Link>
-                            </h3>
-
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipiscing aliqua.</p>
-                            
-                            <Link className="view-details-btn" to="/service-details">
-                                View Details
-                            </Link>
-                        </div>
-                    </div>
-                </div>
+                
+				
+				<div class="row">
+     <a href="mobileapp.html">
+          <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Android &amp; iOS application"> <img src="images/service1.png" class="img-responsive service_img" alt="Android &amp; iOS application"> </div>
+              <div class="col-sm-8">
+           
+            <h3>Android &amp; iOS<br>
+                  <span>Applications</span></h3>
+            <div class="greenline"></div>
+            <p>Mobile devices &amp; smartphones have become increasingly...</p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon1.jpg" class="img-responsive" alt="android"></li>
+            <li><img src="images/icon2.jpg" class="img-responsive" alt="ios"></li>
+          </ul>
+     
+            </div>
+      </div>
+      </a>
+      
+      <a href="webapp.html">
+       <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Web App Development"> <img src="images/service2.png" class="img-responsive service_img" alt="Web App Development"> </div>
+              <div class="col-sm-8">
+            <h3>Web App <br>
+                  <span>Development</span></h3>
+            <div class="greenline"></div>
+            <p>LBM has been promptly delivering professional Web solutions...</p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
+            <li><img src="images/icon4.jpg" class="img-responsive" alt="java"></li>
+            <li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
+          </ul>
+            </div>
+      </div>
+      </a>
+       <a href="webdesign.html">
+          <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Graphics &amp; Web Designing"> <img src="images/service3.png" class="img-responsive service_img" alt="Graphics &amp; Web Designing"> </div>
+              <div class="col-sm-8">
+            <h3>Graphics &amp; Web <br>
+                  <span>Designing</span></h3>
+            <div class="greenline"></div>
+            <p>Our design approach offers the flexibility of accommodating... </p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop"></li>
+            <li><img src="images/icon7.jpg" class="img-responsive" alt="html5"></li>
+            <li><img src="images/icon8.jpg" class="img-responsive" alt="artificial intelligence"></li>
+          </ul>
+            </div>
+      </div>
+      </a>
+      <a href="content-management.html">
+          <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Content Management System"> <img src="images/service4.png" class="img-responsive service_img" alt="Content Management System"> </div>
+              <div class="col-sm-8">
+            <h3>Content <br>
+                  <span>Management System</span></h3>
+            <div class="greenline"></div>
+            <p>A content management system is a software system rendering... </p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
+            <li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
+            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
+            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
+          </ul>
+            </div>
+      </div>
+      </a>
+      <a href="e-commerce.html">
+          <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development"> <img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development"> </div>
+              <div class="col-sm-8">
+            <h3>E-commerce <br>
+                  <span>Development</span></h3>
+            <div class="greenline"></div>
+            <p>Our expertise in delivering high end and feature rich ecommerce... </p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
+            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
+          </ul>
+            </div>
+      </div>
+      </a>
+      <a href="erp.html">
+          <div class="col-sm-6">
+        <div class="blk1">
+              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares"> <img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares"> </div>
+              <div class="col-sm-8">
+            <h3>ERP &amp; CRM <br>
+                  <span>Softwares </span></h3>
+            <div class="greenline"></div>
+            <p>ERP are transforming business activities and re-defining... </p>
+          </div>
+              <div class="clearfix"></div>
+              <hr>
+              <ul>
+            <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
+            <li><img src="images/icon4.jpg" class="img-responsive" alt="java"></li>
+          </ul>
+            </div>
+      </div>
+      </a>
+        </div>
+				
+				
+				
+				
+				</div>
             </div>
         </section>
     )
