@@ -93,7 +93,7 @@ const ContactInfooffice = () => {
 										<button class="cta-button">Get Directions</button>
 									</div>
 								</h2>
-								<div class="accoContain current in" id="tab-1">
+								<div class="accoContain current in">
 									<div class="map-block">
 										<!-- united -->
 										<!-- united -->
@@ -109,7 +109,7 @@ const ContactInfooffice = () => {
 										<button class="cta-button">Get Directions</button>
 									</div>
 								</h2>
-								<div class="accoContain" id="tab-2">
+								<div class="accoContain">
 									<div class="map-block">
 										<!-- Australia -->
 										<!-- Australia -->
@@ -125,7 +125,7 @@ const ContactInfooffice = () => {
 										<button class="cta-button">Get Directions</button>
 									</div>
 								</h2>
-								<div class="accoContain" id="tab-3">
+								<div class="accoContain">
 									<div class="map-block">
 										<!-- netherland -->
 										<!-- netherland -->
@@ -141,7 +141,7 @@ const ContactInfooffice = () => {
 										<button class="cta-button">Get Directions</button>
 									</div>
 								</h2>
-								<div class="accoContain" id="tab-4">
+								<div class="accoContain">
 									<div class="map-block">
 										<!-- India -->
 										<!-- India -->
@@ -151,7 +151,7 @@ const ContactInfooffice = () => {
 						</div>
 					</div>
 					<div class="address-part detailTab col-md-5 col-lg-4">
-						<div class="location-box tabing current" data-tab="tab-1">
+						<div class="location-box tabing current">
 							<div class="contact-info">
 								<h4 class="name">United States</h4>
 								<div class="address">9655 Granite Ridge Dr Suite 200, CA 92123</div>
@@ -161,7 +161,7 @@ const ContactInfooffice = () => {
 								<button class="cta-button">Get Directions</button>
 							</div>
 						</div>
-						<div class="location-box tabing" data-tab="tab-2">
+						<div class="location-box tabing">
 							<div class="contact-info">
 								<h4 class="name">Australia</h4>
 								<div class="address">Level 6, 241 Commonwealth Street, Surry Hills, NSW 2010</div>
@@ -171,7 +171,7 @@ const ContactInfooffice = () => {
 								<a href="https://goo.gl/maps/Y1JgSndRuWSJbjRR9" target="_blank" class="cta-button">Get Directions</a>
 							</div>
 						</div>
-						<div class="location-box tabing" data-tab="tab-3">
+						<div class="location-box tabing">
 							<div class="contact-info">
 								<h4 class="name">Netherlands</h4>
 								<div class="address">Wilhelminastraat 14, 2011VM, Haarlem, The Netherlands</div>
@@ -181,7 +181,7 @@ const ContactInfooffice = () => {
 									<button class="cta-button">Get Directions</button>
 								</div>
 						</div>
-						<div class="location-box tabing" data-tab="tab-4">
+						<div class="location-box tabing">
 							<div class="contact-info">
 								<h4 class="name">India</h4>
 								<div class="address">Uplers House, Next to Kalasagar Mall, Sattadhar Cross Roads, Ahmedabad - 380061</div>
