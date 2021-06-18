@@ -85,8 +85,8 @@ const ContactInfooffice = () => {
 								<h2 class="resp-accordion minus" role="tab">
 									<span class="resp-arrow"></span>
 									<div class="contact-info">
-									<h4 class="name">United States</h4>
-									<div class="address">9655 Granite Ridge Dr Suite 200, CA 92123</div>
+									<h4 class="name">India</h4>
+									<div class="address">#310G, Whitefield Post Office Road, Whitefield, Bangalore, Karnataka, India - 560103</div>
 										<div><a href="tel:+12136746665">+1 213 674 6665</a></div>
 									</div>
 									<div class="direction-btn">
@@ -100,8 +100,8 @@ const ContactInfooffice = () => {
 								</div>
 								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
 									<div class="contact-info">
-										<h4 class="name">Australia</h4>
-										<div class="address">Level 6, 241 Commonwealth Street, Surry Hills, NSW 2010</div>
+										<h4 class="name">Canada</h4>
+										<div class="address">155-2 King Street West Unit #145 Hamilton, ON L8P 4S0 Canada</div>
 										<div><a href="tel:+610872006665">+61 08 7200 6665</a></div>
 									</div>
 									<div class="direction-btn">
@@ -115,8 +115,8 @@ const ContactInfooffice = () => {
 								</div>
 								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
 									<div class="contact-info">
-										<h4 class="name">Netherlands</h4>
-										<div class="address">Wilhelminastraat 14, 2011VM, Haarlem, The Netherlands</div>
+										<h4 class="name">New York</h4>
+										<div class="address">One World Trade Center, 285 Fulton Street Suite 8500, New York City NY 10007 U.S.A</div>
 										<div><a href="tel:+31647076508">+31 23 204 9966</a></div>
 									</div>
 									<div class="direction-btn">
@@ -130,8 +130,8 @@ const ContactInfooffice = () => {
 								</div>
 								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
 									<div class="contact-info">
-										<h4 class="name">India</h4>
-										<div class="address">Uplers House, Next to Kalasagar Mall, Sattadhar Cross Roads, Ahmedabad - 380061</div>
+										<h4 class="name">Australia</h4>
+										<div class="address">Level 27, 101 Collins Street Melbourne Australia</div>
 										<div><a href="tel:+917940324566">+91 79 40324566</a></div>
 									</div>
 									<div class="direction-btn">
