@@ -4,6 +4,7 @@ import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
 import CareerFormRevised from './CareerFormRevised'
+import map from '../../assets/images/events/map-1024x655.webp'
 
 const ContactInfooffice = () => {
     return (
@@ -74,6 +75,8 @@ const ContactInfooffice = () => {
 					<div class="col-lg-8 col-sm-6">
 						<div class="row">
 							<CareerFormRevised />
+							<br />
+							<br /><br /><br />
 						</div>
 					</div>
 				</div>			
@@ -97,7 +100,7 @@ const ContactInfooffice = () => {
 					</h2><div class="accoContain current in">
 							<div class="map-block">
 						
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.4861281815915!2d-117.12163218481723!3d32.805882180963316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d95575b152f711%3A0xb90b5b3ad3488d50!2sUplers!5e0!3m2!1sen!2sin!4v1571855551135!5m2!1sen!2sin"></iframe>
+								<img src={map} alt="map" />
 				
 							</div>
 						</div>
