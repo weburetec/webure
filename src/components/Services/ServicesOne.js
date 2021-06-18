@@ -14,39 +14,39 @@ const ServicesOne = () => {
                 
 				
 				<div class="row">
-     <a href="mobileapp.html">
-          <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Android &amp; iOS application"> <img src="images/service1.png" class="img-responsive service_img" alt="Android &amp; iOS application"> </div>
-              <div class="col-sm-8">
-           
-            <h3>Android &amp; iOS<br>
-                  <span>Applications</span></h3>
-            <div class="greenline"></div>
-            <p>Mobile devices &amp; smartphones have become increasingly...</p>
-          </div>
-              <div class="clearfix"></div>
-              <hr>
-              <ul>
-            <li><img src="images/icon1.jpg" class="img-responsive" alt="android"></li>
-            <li><img src="images/icon2.jpg" class="img-responsive" alt="ios"></li>
-          </ul>
-     
-            </div>
-      </div>
-      </a>
-      
-      <a href="webapp.html">
-       <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Web App Development"> <img src="images/service2.png" class="img-responsive service_img" alt="Web App Development"> </div>
-              <div class="col-sm-8">
-            <h3>Web App <br>
-                  <span>Development</span></h3>
-            <div class="greenline"></div>
-            <p>LBM has been promptly delivering professional Web solutions...</p>
-          </div>
-              <div class="clearfix"></div>
+					<div class="col-sm-6">
+						<div class="blk1">
+							<div class="col-sm-4">
+								<img src="images/green_shape.png" class="img-responsive" alt="Android &amp; iOS application">
+								<img src="images/service1.png" class="img-responsive service_img" alt="Android &amp; iOS application">
+							</div>
+							<div class="col-sm-8">
+								<h3>Android &amp; iOS<br />
+								<span>Applications</span></h3>
+								<div class="greenline"></div>
+								<p>Mobile devices &amp; smartphones have become increasingly...</p>
+							</div>
+							<div class="clearfix"></div>
+							<hr>
+							<ul>
+								<li><img src="images/icon1.jpg" class="img-responsive" alt="android"></li>
+								<li><img src="images/icon2.jpg" class="img-responsive" alt="ios"></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="blk1">
+							<div class="col-sm-4">
+								<img src="images/green_shape.png" class="img-responsive" alt="Web App Development">
+								<img src="images/service2.png" class="img-responsive service_img" alt="Web App Development">
+							</div>
+							<div class="col-sm-8">
+								<h3>Web App <br />
+								<span>Development</span></h3>
+								<div class="greenline"></div>
+									<p>LBM has been promptly delivering professional Web solutions...</p>
+								</div>
+							<div class="clearfix"></div>
               <hr>
               <ul>
             <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
@@ -61,7 +61,7 @@ const ServicesOne = () => {
         <div class="blk1">
               <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Graphics &amp; Web Designing"> <img src="images/service3.png" class="img-responsive service_img" alt="Graphics &amp; Web Designing"> </div>
               <div class="col-sm-8">
-            <h3>Graphics &amp; Web <br>
+            <h3>Graphics &amp; Web <br />
                   <span>Designing</span></h3>
             <div class="greenline"></div>
             <p>Our design approach offers the flexibility of accommodating... </p>
@@ -81,7 +81,7 @@ const ServicesOne = () => {
         <div class="blk1">
               <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Content Management System"> <img src="images/service4.png" class="img-responsive service_img" alt="Content Management System"> </div>
               <div class="col-sm-8">
-            <h3>Content <br>
+            <h3>Content <br />
                   <span>Management System</span></h3>
             <div class="greenline"></div>
             <p>A content management system is a software system rendering... </p>
@@ -102,7 +102,7 @@ const ServicesOne = () => {
         <div class="blk1">
               <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development"> <img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development"> </div>
               <div class="col-sm-8">
-            <h3>E-commerce <br>
+            <h3>E-commerce <br />
                   <span>Development</span></h3>
             <div class="greenline"></div>
             <p>Our expertise in delivering high end and feature rich ecommerce... </p>
@@ -121,7 +121,7 @@ const ServicesOne = () => {
         <div class="blk1">
               <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares"> <img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares"> </div>
               <div class="col-sm-8">
-            <h3>ERP &amp; CRM <br>
+            <h3>ERP &amp; CRM <br />
                   <span>Softwares </span></h3>
             <div class="greenline"></div>
             <p>ERP are transforming business activities and re-defining... </p>

@@ -13100,13 +13100,6 @@ Career Area CSS
 
 
 
-
-
-
-
-
-
-
 .locations-main {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -13379,3 +13372,67 @@ Career Area CSS
         max-width: 100%;
         text-align: left;
         padding: 0; } }
+
+
+
+.core_data .blk1 {
+    width: 100%;
+    float: left;
+    background: #fff;
+    position: relative;
+    padding: 20px 18px;
+    text-align: left;
+    border: 1px solid #eee;
+    margin: 0 0 30px 0;
+}
+
+.service_img {
+    position: absolute;
+    left: 34px;
+    top: 25px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.greenline {
+    width: 5%;
+    height: 3px;
+    background: #7cb000;
+    margin: 15px auto;
+}
+
+.blk1 {
+    width: 100%;
+    float: left;
+    background: #fff;
+    position: relative;
+    padding: 20px 18px;
+    text-align: left;
+}
+
+.core_data #services {
+    width: 100%;
+    float: left;
+    position: relative;
+    background: none;
+    background-size: auto;
+    padding: 0;
+    text-align: left;
+    background-attachment: inherit;
+}
+
+#services {
+    width: 100%;
+    float: left;
+    position: relative;
+    background: url(../images/service_bg.jpg) no-repeat left top;
+    background-size: 100% 100%;
+    padding: 40px 65px 80px 65px;
+    text-align: center;
+    background-attachment: fixed;
+}
+
