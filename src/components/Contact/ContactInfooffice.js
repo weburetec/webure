@@ -301,9 +301,9 @@ const ContactInfooffice = () => {
 						</div>
 					</h2><div class="accoContain">
 							<div class="map-block">
-								<!-- India -->
+
 								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.861094136046!2d72.52956941496858!3d23.065553584931333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4e7bc65c17%3A0x8881db708141e320!2sUplers!5e0!3m2!1sen!2sin!4v1596779835557!5m2!1sen!2sin"></iframe>
-								<!-- India -->
+
 							</div>
 						</div>
 					</div>
