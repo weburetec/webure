@@ -110,8 +110,7 @@ const ContactInfooffice = () => {
 								</h2>
 								<div class="accoContain">
 									<div class="map-block">
-										<!-- Australia -->
-										<!-- Australia -->
+									
 									</div>
 								</div>
 								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
@@ -126,8 +125,7 @@ const ContactInfooffice = () => {
 								</h2>
 								<div class="accoContain">
 									<div class="map-block">
-										<!-- netherland -->
-										<!-- netherland -->
+									
 									</div>
 								</div>
 								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
@@ -142,8 +140,7 @@ const ContactInfooffice = () => {
 								</h2>
 								<div class="accoContain">
 									<div class="map-block">
-										<!-- India -->
-										<!-- India -->
+									
 									</div>
 								</div>
 							</div>
