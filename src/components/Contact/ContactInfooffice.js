@@ -79,77 +79,80 @@ const ContactInfooffice = () => {
 				</div>			
 
 				<div class="row">
-				
-					<section class="locations-main">
-				<div class="row mainTabing">
-					<div class="map-part col-md-7 col-lg-8">
-						<div class="accMainDiv">
-							<h2 class="resp-accordion minus" role="tab"><span class="resp-arrow"></span>
-							<div class="contact-info">
-								<h4 class="name">United States</h4>
-								<div class="address">9655 Granite Ridge Dr Suite 200, CA 92123</div>
-								<div><a href="tel:+12136746665">+1 213 674 6665</a></div>
-							</div>
-							<div class="direction-btn">
-								<a href="https://g.page/uplers?share" target="_blank" class="cta-button">Get Directions</a>
-							</div>
-						</h2><div class="accoContain current in" id="tab-1">
-								<div class="map-block">
-									<!-- united -->
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.4861281815915!2d-117.12163218481723!3d32.805882180963316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d95575b152f711%3A0xb90b5b3ad3488d50!2sUplers!5e0!3m2!1sen!2sin!4v1571855551135!5m2!1sen!2sin"></iframe>
-									<!-- united -->
+					<div class="locations-main row mainTabing">
+						<div class="map-part col-md-7 col-lg-8">
+							<div class="accMainDiv">
+								<h2 class="resp-accordion minus" role="tab">
+									<span class="resp-arrow"></span>
+									<div class="contact-info">
+									<h4 class="name">United States</h4>
+									<div class="address">9655 Granite Ridge Dr Suite 200, CA 92123</div>
+										<div><a href="tel:+12136746665">+1 213 674 6665</a></div>
+									</div>
+									<div class="direction-btn">
+										<a href="https://g.page/uplers?share" target="_blank" class="cta-button">Get Directions</a>
+									</div>
+								</h2>
+								<div class="accoContain current in" id="tab-1">
+									<div class="map-block">
+										<!-- united -->
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.4861281815915!2d-117.12163218481723!3d32.805882180963316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d95575b152f711%3A0xb90b5b3ad3488d50!2sUplers!5e0!3m2!1sen!2sin!4v1571855551135!5m2!1sen!2sin"></iframe>
+										<!-- united -->
+									</div>
 								</div>
-							</div>
-							<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
-							<div class="contact-info">
-								<h4 class="name">Australia</h4>
-								<div class="address">Level 6, 241 Commonwealth Street, Surry Hills, NSW 2010</div>
-								<div><a href="tel:+610872006665">+61 08 7200 6665</a></div>
-							</div>
-							<div class="direction-btn">
-								<a href="https://goo.gl/maps/Y1JgSndRuWSJbjRR9" target="_blank" class="cta-button">Get Directions</a>
-							</div>
-						</h2><div class="accoContain" id="tab-2">
-								<div class="map-block">
-									<!-- Australia -->
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.230931967279!2d151.20746351521063!3d-33.883705880652094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b07d567c3673%3A0x36ee546b38b6542a!2sUplers!5e0!3m2!1sen!2sin!4v1596779639529!5m2!1sen!2sin"></iframe>
-									<!-- Australia -->
+								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
+									<div class="contact-info">
+										<h4 class="name">Australia</h4>
+										<div class="address">Level 6, 241 Commonwealth Street, Surry Hills, NSW 2010</div>
+										<div><a href="tel:+610872006665">+61 08 7200 6665</a></div>
+									</div>
+									<div class="direction-btn">
+										<a href="https://goo.gl/maps/Y1JgSndRuWSJbjRR9" target="_blank" class="cta-button">Get Directions</a>
+									</div>
+								</h2>
+								<div class="accoContain" id="tab-2">
+									<div class="map-block">
+										<!-- Australia -->
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.230931967279!2d151.20746351521063!3d-33.883705880652094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b07d567c3673%3A0x36ee546b38b6542a!2sUplers!5e0!3m2!1sen!2sin!4v1596779639529!5m2!1sen!2sin"></iframe>
+										<!-- Australia -->
+									</div>
 								</div>
-							</div>
-							<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
-							<div class="contact-info">
-								<h4 class="name">Netherlands</h4>
-								<div class="address">Wilhelminastraat 14, 2011VM, Haarlem, The Netherlands</div>
-	<div><a href="tel:+31647076508">+31 23 204 9966</a></div>
-							</div>
-							<div class="direction-btn">
-								<a href="https://goo.gl/maps/dqQRhH6JDN5SUwG3A" target="_blank" class="cta-button">Get Directions</a>
-							</div>
-						</h2><div class="accoContain" id="tab-3">
-								<div class="map-block">
-									<!-- netherland -->
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.4181616698743!2d4.625820215949349!3d52.38096945427555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5ef145bb02ff3%3A0xf434a02f4d865dd8!2sWilhelminastraat%2014%2C%202011%20VM%20Haarlem%2C%20Netherlands!5e0!3m2!1sen!2sin!4v1568959247238!5m2!1sen!2sin"></iframe>
-									<!-- netherland -->
+								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
+									<div class="contact-info">
+										<h4 class="name">Netherlands</h4>
+										<div class="address">Wilhelminastraat 14, 2011VM, Haarlem, The Netherlands</div>
+										<div><a href="tel:+31647076508">+31 23 204 9966</a></div>
+									</div>
+									<div class="direction-btn">
+										<a href="https://goo.gl/maps/dqQRhH6JDN5SUwG3A" target="_blank" class="cta-button">Get Directions</a>
+									</div>
+								</h2>
+								<div class="accoContain" id="tab-3">
+									<div class="map-block">
+										<!-- netherland -->
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.4181616698743!2d4.625820215949349!3d52.38096945427555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5ef145bb02ff3%3A0xf434a02f4d865dd8!2sWilhelminastraat%2014%2C%202011%20VM%20Haarlem%2C%20Netherlands!5e0!3m2!1sen!2sin!4v1568959247238!5m2!1sen!2sin"></iframe>
+										<!-- netherland -->
+									</div>
 								</div>
-							</div>
-							<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
-							<div class="contact-info">
-								<h4 class="name">India</h4>
-								<div class="address">Uplers House, Next to Kalasagar Mall, Sattadhar Cross Roads, Ahmedabad - 380061</div>
-								<div><a href="tel:+917940324566">+91 79 40324566</a></div>
-							</div>
-							<div class="direction-btn">
-								<a href="https://goo.gl/maps/B4tJbY7KLmuMYfW88" target="_blank" class="cta-button">Get Directions</a>
-							</div>
-						</h2><div class="accoContain" id="tab-4">
-								<div class="map-block">
-									<!-- India -->
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.861094136046!2d72.52956941496858!3d23.065553584931333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4e7bc65c17%3A0x8881db708141e320!2sUplers!5e0!3m2!1sen!2sin!4v1596779835557!5m2!1sen!2sin"></iframe>
-									<!-- India -->
+								<h2 class="resp-accordion" role="tab"><span class="resp-arrow"></span>
+									<div class="contact-info">
+										<h4 class="name">India</h4>
+										<div class="address">Uplers House, Next to Kalasagar Mall, Sattadhar Cross Roads, Ahmedabad - 380061</div>
+										<div><a href="tel:+917940324566">+91 79 40324566</a></div>
+									</div>
+									<div class="direction-btn">
+										<a href="https://goo.gl/maps/B4tJbY7KLmuMYfW88" target="_blank" class="cta-button">Get Directions</a>
+									</div>
+								</h2>
+								<div class="accoContain" id="tab-4">
+									<div class="map-block">
+										<!-- India -->
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.861094136046!2d72.52956941496858!3d23.065553584931333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b4e7bc65c17%3A0x8881db708141e320!2sUplers!5e0!3m2!1sen!2sin!4v1596779835557!5m2!1sen!2sin"></iframe>
+										<!-- India -->
+									</div>
 								</div>
 							</div>
 						</div>
-						
 					</div>
 					<div class="address-part detailTab col-md-5 col-lg-4">
 						<div class="location-box tabing current" data-tab="tab-1">
@@ -176,11 +179,11 @@ const ContactInfooffice = () => {
 							<div class="contact-info">
 								<h4 class="name">Netherlands</h4>
 								<div class="address">Wilhelminastraat 14, 2011VM, Haarlem, The Netherlands</div>
-	<div><a href="tel:+31647076508">+31 23 204 9966</a></div>
-							</div>
-							<div class="direction-btn">
-								<a href="https://goo.gl/maps/dqQRhH6JDN5SUwG3A" target="_blank" class="cta-button">Get Directions</a>
-							</div>
+									<div><a href="tel:+31647076508">+31 23 204 9966</a></div>
+								</div>
+								<div class="direction-btn">
+									<button class="cta-button">Get Directions</button>
+								</div>
 						</div>
 						<div class="location-box tabing" data-tab="tab-4">
 							<div class="contact-info">
@@ -189,7 +192,7 @@ const ContactInfooffice = () => {
 								<div><a href="tel:+917940324566">+91 79 40324566</a></div>
 							</div>
 							<div class="direction-btn">
-								<a href="https://goo.gl/maps/B4tJbY7KLmuMYfW88" target="_blank" class="cta-button">Get Directions</a>
+								<button class="cta-button">Get Directions</button>
 							</div>
 						</div>
 					</div>
