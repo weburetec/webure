@@ -29,15 +29,15 @@ const ContactFormRevised = () => {
 								<input type="hidden" name="page_title" value="Contact">
 								<div class="row">									
 									<div class="form-group col-md-12">
-										<input type="text" name="full_name" placeholder="Name*">
+										<input type="text" name="full_name">
 									</div>
 
 									<div class="form-group col-md-12">
-										<input type="email" name="email" placeholder="Email*">
+										<input type="email" name="email">
 									</div>
 
 									<div class="form-group col-md-12">
-										<input type="number" name="phone" placeholder="Phone*">
+										<input type="number" name="phone">
 									</div>
 
 									<div class="form-group col-md-12 field-general" style="display: none;">
