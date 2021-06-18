@@ -189,7 +189,6 @@ const ContactInfooffice = () => {
 						</div>
 					</div>
 				</div>
-			</section>
 				
 				</div>
 
