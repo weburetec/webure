@@ -195,38 +195,29 @@ const Footer = () => {
 					<li>
 						<h3 class="coutry-name tap-click">United States</h3>
 						<div class="tap-content">
-							<h4 class="area">San Diego</h4>
-							<div class="address">
-								<a href="https://g.page/uplers?share" target="_blank">9655 Granite Ridge <br> Dr Suite 200, CA 92123</a>
-							</div>
+							<h4 class="area">India</h4>
+							<div class="address">#310G, Whitefield Post Office Road, Whiefield, Bangalore, Karnataka 560103, India</div>
 						</div>
 					</li>
 					<li>
 						<h3 class="coutry-name tap-click">Australia</h3>
 						<div class="tap-content">
-							<h4 class="area">Sydney</h4>
-							<div class="address">
-								<a href="https://goo.gl/maps/hXgD6hPTjBzKESW59" target="_blank">Level 6, 241 Commonwealth <br> Street, Surry Hills, NSW 2010</a>
-							</div>
+							<h4 class="area">Canada</h4>
+							<div class="address">155-2 King Street West Unit #145 Hamilton, ON L8P 4S0 Canada</div>
 						</div>
 					</li>
 					<li>
 						<h3 class="coutry-name tap-click">Netherlands</h3>
 						<div class="tap-content">
-							<h4 class="area">Amsterdam</h4>
-							<div class="address">
-								<a href="https://goo.gl/maps/PmenbQADqdCug5YTA" target="_blank">Wilhelminastraat 14, 2011VM, <br> Haarlem, The Netherlands
-								</a>
-							</div>
+							<h4 class="area">New York</h4>
+							<div class="address">One World Trade Center, 285 Fulton Street Suite 8500, New York City NY 10007, USA</div>
 						</div>
 					</li>
 					<li>
 						<h3 class="coutry-name tap-click">India</h3>
 						<div class="tap-content">
-							<h4 class="area">Ahmedabad</h4>
-							<div class="address">
-								<a href="https://goo.gl/maps/aDb6AHgEz5S9a8a9A" target="_blank">Uplers House, Next to Kalasagar Mall, Sattadhar Cross Roads, Ahmedabad 380061</a>
-							</div>
+							<h4 class="area">New Zealand</h4>
+							<div class="address">Level 26, HSBC Tower, 188 Quay Street, Auckland, AUK 1010 New Zealand</div>
 						</div>
 					</li>
 				</ul>
