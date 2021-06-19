@@ -159,7 +159,7 @@ const Footer = () => {
 
 				<div class="col-sm-4 footer-right">
 
-						<!-- subscribe START -->
+
 						<div class="subscribe">
 							<div class="inputbox">
 								<form id="newslater-form">

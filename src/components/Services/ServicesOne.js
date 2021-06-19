@@ -46,16 +46,16 @@ const ServicesOne = () => {
 							<div class="clearfix"></div>
 							<hr>
 							<ul>
-								<li><img src={icon1} class="img-responsive" alt="android"></li>
-								<li><img src={icon2} class="img-responsive" alt="ios"></li>
+								<li><img src={icon1} class="img-responsive" alt="android" /></li>
+								<li><img src={icon2} class="img-responsive" alt="ios" /></li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-sm-6">
 						<div class="blk1">
 							<div class="col-sm-4">
-								<img src={green_shape} class="img-responsive" alt="Web App Development">
-								<img src={service2} class="img-responsive service_img" alt="Web App Development">
+								<img src={green_shape} class="img-responsive" alt="Web App Development" />
+								<img src={service2} class="img-responsive service_img" alt="Web App Development" />
 							</div>
 							<div class="col-sm-8">
 								<h3>Web App <br />
