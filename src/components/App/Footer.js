@@ -162,32 +162,31 @@ const Footer = () => {
 
 						<div class="subscribe">
 							<div class="inputbox">
-								<form id="newslater-form">
+								<form>
 									<div class="input">
 										<input type="hidden" name="action" value="newsletter_subscription" />
 										<input type="hidden" name="page_title" value="Contact" />
 										<input type="text" placeholder="Work Email*" name="email" />
 									</div>
 									<button class="cta-button" type="submit" name="subscribeBtn">subscribe</button>
-									<div class="form-loader" style="display: none;"><img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/loader.svg" alt="loader" /></div>									<div class="ajax-message"></div>
+									<div class="form-loader">
+										<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/loader.svg" alt="loader" />
+									</div>									
+									<div class="ajax-message"></div>
 								</form>
 							</div>
 						</div>
-						<!-- subscribe END -->
 
-						<!-- footer-contact START -->
 						<div class="footer-contact">
 							<div class="call">
 								<a href="tel:+917940324566">+91 79 4032 4566</a>							</div>
 							<div class="email"><a href="mailto:hello@uplers.com">hello@uplers.com</a></div>							
 						</div>
-						<!-- footer-contact END -->
 
-						<!-- social START -->
 						<div class="social">
 							<h5 class="s-title">Follow:</h5>
 							<ul><li><a href="https://www.facebook.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i></a></li><li><a href="https://www.instagram.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li><li><a href="https://www.youtube.com/c/Uplers" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li></ul>						</div>
-						<!-- social END -->
+
 				</div>
 			</div>
 				
