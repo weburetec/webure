@@ -13692,3 +13692,31 @@ input, textarea {
     margin-bottom: 10px;
 }
 
+.footer-menu .menuBox h5 a {
+    color: #FFFFFF;
+}
+
+.copyrights .policy {
+    position: relative;
+    color: #FFFFFF;
+}
+
+footer .copyrights .policy:after {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: #FFDA30;
+    content: "";
+    bottom: -4px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    transition: 0.5s all;
+}
+
+.copyrights {
+    font-size: 10px;
+    color: #8f8f8f;
+    font-weight: 600;
+    padding: 40px 0 0 0;
+}
