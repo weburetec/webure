@@ -61,9 +61,9 @@ const ServicesOne = () => {
 							<div class="clearfix"></div>
 							<hr />
 							<ul>
-								<li><img src={icon3} class="img-responsive" alt="php"></li>
-								<li><img src={icon4} class="img-responsive" alt="java"></li>
-								<li><img src={icon5} class="img-responsive" alt="dot net"></li>
+								<li><img src={icon3} class="img-responsive" alt="php" /></li>
+								<li><img src={icon4} class="img-responsive" alt="java" /></li>
+								<li><img src={icon5} class="img-responsive" alt="dot net" /></li>
 							</ul>
 						</div>
 					</div>
@@ -82,9 +82,9 @@ const ServicesOne = () => {
 								<div class="clearfix"></div>
 								<hr />
 								<ul>
-									<li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop"></li>
-									<li><img src="images/icon7.jpg" class="img-responsive" alt="html5"></li>
-									<li><img src="images/icon8.jpg" class="img-responsive" alt="artificial intelligence"></li>
+									<li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop" /></li>
+									<li><img src="images/icon7.jpg" class="img-responsive" alt="html5" /></li>
+									<li><img src="images/icon8.jpg" class="img-responsive" alt="artificial intelligence" /></li>
 								</ul>
 							</div>
 						</div>
@@ -104,10 +104,10 @@ const ServicesOne = () => {
 								<div class="clearfix"></div>
 								<hr />
 								<ul>
-									<li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
-									<li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
-									<li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
-									<li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
+									<li><img src="images/icon3.jpg" class="img-responsive" alt="php" /></li>
+									<li><img src="images/icon5.jpg" class="img-responsive" alt="dot net" /></li>
+									<li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress" /></li>
+									<li><img src="images/icon13.jpg" class="img-responsive" alt="magento" /></li>
 								</ul>
 							</div>
 						</div>
@@ -115,7 +115,9 @@ const ServicesOne = () => {
       <a href="e-commerce.html">
           <div class="col-sm-6">
         <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development"> <img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development"> </div>
+              <div class="col-sm-4"> 
+			  <img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development" /> 
+			  <img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development" /> </div>
               <div class="col-sm-8">
             <h3>E-commerce <br />
                   <span>Development</span></h3>
@@ -125,8 +127,8 @@ const ServicesOne = () => {
               <div class="clearfix"></div>
               <hr />
               <ul>
-            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
-            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
+            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress" /></li>
+            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento" /></li>
           </ul>
             </div>
       </div>
@@ -134,7 +136,9 @@ const ServicesOne = () => {
       <a href="erp.html">
           <div class="col-sm-6">
         <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares"> <img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares"> </div>
+              <div class="col-sm-4"> 
+			  <img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares" /> 
+			  <img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares" /> </div>
               <div class="col-sm-8">
             <h3>ERP &amp; CRM <br />
                   <span>Softwares </span></h3>
@@ -144,8 +148,8 @@ const ServicesOne = () => {
               <div class="clearfix"></div>
               <hr />
               <ul>
-            <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
-            <li><img src="images/icon4.jpg" class="img-responsive" alt="java"></li>
+            <li><img src="images/icon3.jpg" class="img-responsive" alt="php" /></li>
+            <li><img src="images/icon4.jpg" class="img-responsive" alt="java" /></li>
           </ul>
             </div>
       </div>
