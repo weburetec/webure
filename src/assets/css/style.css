@@ -13543,4 +13543,152 @@ Career Area CSS
     color: #8d8d8d;
 }
 
+.subscribe .inputbox {
+    position: relative;
+}
+
+.subscribe .inputbox .input {
+    width: 280px;
+    height: 50px;
+    border-bottom: solid 2px #FFDA30;
+    line-height: 59px;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.subscribe .inputbox input[type="text"] {
+    background: none;
+    border: 0;
+    color: #FFFFFF;
+    width: 100%;
+    padding: 0;
+    box-shadow: none;
+}
+
+input, textarea {
+    border: none;
+    border-bottom: 1px solid #000;
+    color: #000;
+    width: 100%;
+    font-size: 16px;
+    padding: 11px 0;
+    position: relative;
+    outline: none;
+    transition: all .5s;
+    background: transparent;
+}
+
+.subscribe .inputbox .cta-button {
+    font-size: 16px;
+    font-weight: 600;
+    border: 0;
+    vertical-align: middle;
+    margin: -13px 0 0 0;
+    padding: 0 29px;
+    min-height: 49px;
+    line-height: 49px;
+    transition: 0.5s all;
+}
+
+.footer-contact {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.footer-contact .call {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+    font-weight: 400;
+    margin: 0 15px 0 0;
+    padding-right: 15px;
+    border-right: solid 1px #676767;
+}
+
+.footer-contact .email {
+    font-size: 18px;
+}
+
+.social .s-title {
+    display: inline-block;
+    color: #676767;
+    font-weight: 500;
+    font-size: 16px;
+    vertical-align: middle;
+    margin: -5px 10px 0 0;
+}
+
+.social {
+    margin-bottom: 72px;
+}
+
+.social ul li a {
+    height: 34px;
+    width: 34px;
+    color: #FFFFFF;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    line-height: 35px;
+}
+
+.social ul li a:before {
+    position: absolute;
+    background: #676767;
+    display: block;
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    transition: 0.5s all;
+}
+
+.social ul li a:after {
+    position: absolute;
+    background: url(../images/uplers-shape.svg) no-repeat;
+    display: block;
+    content: "";
+    width: 35px;
+    height: 32px;
+    background-size: 100%;
+    position: absolute;
+    top: 3px;
+    left: -3px;
+    transition: 0.5s all;
+    opacity: 0;
+    transform: scale(0.1) rotate(90deg);
+}
+
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+}
+
+.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-linkedin:before {
+    content: "\f0e1";
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+}
+
+.fa-youtube-play:before {
+    content: "\f16a";
+}
+
+.ftr-locations ul li .coutry-name {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 23px;
+}
+
+.ftr-locations ul li .area {
+    font-size: 16px;
+    color: #FFDA30;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
 
