@@ -13645,7 +13645,7 @@ input, textarea {
 
 .social ul li a:after {
     position: absolute;
-    background: url(../images/uplers-shape.svg) no-repeat;
+    background: url(https://www.uplers.com/wp-content/themes/uplers/assets/images/uplers-shape.svg) no-repeat;
     display: block;
     content: "";
     width: 35px;
