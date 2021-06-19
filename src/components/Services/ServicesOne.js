@@ -27,10 +27,7 @@ const ServicesOne = () => {
                 <UpcomingEventTimer />
             </div>
             <div className="container">
-                <div className="row">
-                
-				
-				<div class="row">
+                <div class="row">
 					<div class="col-sm-6">
 						<div class="blk1">
 							<div class="col-sm-4">
@@ -38,8 +35,7 @@ const ServicesOne = () => {
 								<img src={service1} class="img-responsive service_img" alt="Android &amp; iOS application" />
 							</div>
 							<div class="col-sm-8">
-								<h3>Android &amp; iOS<br />
-								<span>Applications</span></h3>
+								<h3>Android &amp; iOS<br /><span>Applications</span></h3>
 								<div class="greenline"></div>
 								<p>Mobile devices &amp; smartphones have become increasingly...</p>
 							</div>
@@ -58,62 +54,64 @@ const ServicesOne = () => {
 								<img src={service2} class="img-responsive service_img" alt="Web App Development" />
 							</div>
 							<div class="col-sm-8">
-								<h3>Web App <br />
-								<span>Development</span></h3>
+								<h3>Web App <br /><span>Development</span></h3>
 								<div class="greenline"></div>
-									<p>LBM has been promptly delivering professional Web solutions...</p>
-								</div>
+								<p>LBM has been promptly delivering professional Web solutions...</p>
+							</div>
 							<div class="clearfix"></div>
-              <hr>
-              <ul>
-            <li><img src={icon3} class="img-responsive" alt="php"></li>
-            <li><img src={icon4} class="img-responsive" alt="java"></li>
-            <li><img src={icon5} class="img-responsive" alt="dot net"></li>
-          </ul>
-            </div>
-      </div>
-      </a>
-       <a href="webdesign.html">
-          <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Graphics &amp; Web Designing"> <img src="images/service3.png" class="img-responsive service_img" alt="Graphics &amp; Web Designing"> </div>
-              <div class="col-sm-8">
-            <h3>Graphics &amp; Web <br />
-                  <span>Designing</span></h3>
-            <div class="greenline"></div>
-            <p>Our design approach offers the flexibility of accommodating... </p>
-          </div>
-              <div class="clearfix"></div>
-              <hr>
-              <ul>
-            <li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop"></li>
-            <li><img src="images/icon7.jpg" class="img-responsive" alt="html5"></li>
-            <li><img src="images/icon8.jpg" class="img-responsive" alt="artificial intelligence"></li>
-          </ul>
-            </div>
-      </div>
-      </a>
-      <a href="content-management.html">
-          <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> <img src="images/green_shape.png" class="img-responsive" alt="Content Management System"> <img src="images/service4.png" class="img-responsive service_img" alt="Content Management System"> </div>
-              <div class="col-sm-8">
-            <h3>Content <br />
-                  <span>Management System</span></h3>
-            <div class="greenline"></div>
-            <p>A content management system is a software system rendering... </p>
-          </div>
-              <div class="clearfix"></div>
-              <hr>
-              <ul>
-            <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
-            <li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
-            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
-            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
-          </ul>
-            </div>
-      </div>
-      </a>
+							<hr>
+							<ul>
+								<li><img src={icon3} class="img-responsive" alt="php"></li>
+								<li><img src={icon4} class="img-responsive" alt="java"></li>
+								<li><img src={icon5} class="img-responsive" alt="dot net"></li>
+							</ul>
+						</div>
+					</div>
+					<a href="webdesign.html">
+						<div class="col-sm-6">
+							<div class="blk1">
+								<div class="col-sm-4"> 
+									<img src="images/green_shape.png" class="img-responsive" alt="Graphics &amp; Web Designing" /> 
+									<img src="images/service3.png" class="img-responsive service_img" alt="Graphics &amp; Web Designing" /> 
+								</div>
+								<div class="col-sm-8">
+									<h3>Graphics &amp; Web <br /><span>Designing</span></h3>
+									<div class="greenline"></div>
+									<p>Our design approach offers the flexibility of accommodating... </p>
+								</div>
+								<div class="clearfix"></div>
+								<hr>
+								<ul>
+									<li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop"></li>
+									<li><img src="images/icon7.jpg" class="img-responsive" alt="html5"></li>
+									<li><img src="images/icon8.jpg" class="img-responsive" alt="artificial intelligence"></li>
+								</ul>
+							</div>
+						</div>
+					</a>
+					<a href="content-management.html">
+						<div class="col-sm-6">
+							<div class="blk1">
+								<div class="col-sm-4">
+									<img src="images/green_shape.png" class="img-responsive" alt="Content Management System" />
+									<img src="images/service4.png" class="img-responsive service_img" alt="Content Management System" />
+								</div>
+								<div class="col-sm-8">
+									<h3>Content <br /><span>Management System</span></h3>
+									<div class="greenline"></div>
+									<p>A content management system is a software system rendering... </p>
+								</div>
+								<div class="clearfix"></div>
+								<hr>
+								<ul>
+									<li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
+									<li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
+									<li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
+									<li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
+								</ul>
+							</div>
+						</div>
+					</a>
       <a href="e-commerce.html">
           <div class="col-sm-6">
         <div class="blk1">
