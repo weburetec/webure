@@ -13718,5 +13718,6 @@ footer .copyrights .policy:after {
     font-size: 10px;
     color: #8f8f8f;
     font-weight: 600;
-    padding: 40px 0 0 0;
+    padding: 20px 0 0 0;
+	padding-bottom: 20px;
 }
