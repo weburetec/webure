@@ -13436,3 +13436,110 @@ Career Area CSS
     background-attachment: fixed;
 }
 
+.cta-button, input[type="submit"] {
+    font-weight: 700;
+    color: #000000;
+    text-transform: uppercase;
+    background: #FFDA30;
+    padding: 0 45px;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    min-height: 58px;
+    line-height: 58px;
+    border-radius: 50px;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+footer .ftr-locations {
+    border-top: solid 1px #4d4e4e;
+    border-bottom: solid 1px #4d4e4e;
+    padding: 50px 0;
+}
+
+footer .ftr-locations ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 -50px;
+}
+
+footer .ftr-locations ul li {
+    flex: 0 0 25%;
+    max-width: 25%;
+    color: #E2E2E2;
+    min-height: 140px;
+    padding: 0 50px;
+    position: relative;
+}
+
+footer .ftr-locations ul li .coutry-name {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 23px;
+}
+
+.ftr-locations .tap-content {
+    display: block;
+}
+
+footer .ftr-locations ul li .area {
+    font-size: 16px;
+    color: #FFDA30;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+footer .ftr-locations ul li .address {
+    line-height: 1.5;
+}
+
+footer .ftr-locations ul li a {
+    color: #FFFFFF;
+	text-decoration: none;
+    transition: 0.5s all;
+}
+
+footer .ftr-locations ul li:after {
+    content: "";
+    background: #4d4e4e;
+    height: 100%;
+    position: absolute;
+    width: 1px;
+    top: 0;
+    right: 30px;
+}
+
+footer .footer-menu {
+    margin-bottom: 35px;
+}
+
+.more-services {
+    padding: 30px 30px 0 0;
+}
+
+footer .footer-menu .menuBox h5 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.footer-menu .tap-content {
+    display: block;
+}
+
+footer .footer-menu .menuBox ul li {
+    font-size: 14px;
+    margin-bottom: 7px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+footer .footer-menu .menuBox ul li a {
+    color: #8d8d8d;
+}
+
+
