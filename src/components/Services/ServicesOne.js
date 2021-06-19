@@ -112,53 +112,48 @@ const ServicesOne = () => {
 							</div>
 						</div>
 					</a>
-      <a href="e-commerce.html">
-          <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> 
-			  <img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development" /> 
-			  <img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development" /> </div>
-              <div class="col-sm-8">
-            <h3>E-commerce <br />
-                  <span>Development</span></h3>
-            <div class="greenline"></div>
-            <p>Our expertise in delivering high end and feature rich ecommerce... </p>
-          </div>
-              <div class="clearfix"></div>
-              <hr />
-              <ul>
-            <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress" /></li>
-            <li><img src="images/icon13.jpg" class="img-responsive" alt="magento" /></li>
-          </ul>
-            </div>
-      </div>
-      </a>
-      <a href="erp.html">
-          <div class="col-sm-6">
-        <div class="blk1">
-              <div class="col-sm-4"> 
-			  <img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares" /> 
-			  <img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares" /> </div>
-              <div class="col-sm-8">
-            <h3>ERP &amp; CRM <br />
-                  <span>Softwares </span></h3>
-            <div class="greenline"></div>
-            <p>ERP are transforming business activities and re-defining... </p>
-          </div>
-              <div class="clearfix"></div>
-              <hr />
-              <ul>
-            <li><img src="images/icon3.jpg" class="img-responsive" alt="php" /></li>
-            <li><img src="images/icon4.jpg" class="img-responsive" alt="java" /></li>
-          </ul>
-            </div>
-      </div>
-      </a>
-        </div>
-				
-				
-				
-				
+					<a href="e-commerce.html">
+						<div class="col-sm-6">
+							<div class="blk1">
+								<div class="col-sm-4"> 
+									<img src="images/green_shape.png" class="img-responsive" alt="E-commerce Development" /> 
+									<img src="images/service5.png" class="img-responsive service_img" alt="E-commerce Development" /> 
+								</div>
+								<div class="col-sm-8">
+									<h3>E-commerce <br /><span>Development</span></h3>
+									<div class="greenline"></div>
+									<p>Our expertise in delivering high end and feature rich ecommerce... </p>
+								</div>
+								<div class="clearfix"></div>
+								<hr />
+								<ul>
+									<li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress" /></li>
+									<li><img src="images/icon13.jpg" class="img-responsive" alt="magento" /></li>
+								</ul>
+							</div>
+						</div>
+					</a>
+					<a href="erp.html">
+						<div class="col-sm-6">
+							<div class="blk1">
+								<div class="col-sm-4"> 
+									<img src="images/green_shape.png" class="img-responsive" alt="ERP &amp; CRM Softwares" /> 
+									<img src="images/service6.png" class="img-responsive service_img" alt="ERP &amp; CRM Softwares" /> 
+								</div>
+								<div class="col-sm-8">
+									<h3>ERP &amp; CRM <br /><span>Softwares </span></h3>
+									<div class="greenline"></div>
+									<p>ERP are transforming business activities and re-defining... </p>
+								</div>
+								<div class="clearfix"></div>
+								<hr />
+								<ul>
+									<li><img src="images/icon3.jpg" class="img-responsive" alt="php" /></li>
+									<li><img src="images/icon4.jpg" class="img-responsive" alt="java" /></li>
+								</ul>
+							</div>
+						</div>
+					</a>
 				</div>
             </div>
         </section>
