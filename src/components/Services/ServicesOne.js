@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import details from '../../assets/images/events/events-details.webp'
+import green_shape from '../../assets/images/green_shape.webp'
 
 const ServicesOne = () => {
     return (
@@ -17,8 +18,8 @@ const ServicesOne = () => {
 					<div class="col-sm-6">
 						<div class="blk1">
 							<div class="col-sm-4">
-								<img src="images/green_shape.png" class="img-responsive" alt="Android &amp; iOS application">
-								<img src="images/service1.png" class="img-responsive service_img" alt="Android &amp; iOS application">
+								<img src={green_shape} class="img-responsive" alt="Android &amp; iOS application" />
+								<img src={details} class="img-responsive service_img" alt="Android &amp; iOS application" />
 							</div>
 							<div class="col-sm-8">
 								<h3>Android &amp; iOS<br />
