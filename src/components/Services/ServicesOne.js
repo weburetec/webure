@@ -40,7 +40,7 @@ const ServicesOne = () => {
 								<p>Mobile devices &amp; smartphones have become increasingly...</p>
 							</div>
 							<div class="clearfix"></div>
-							<hr>
+							<hr />
 							<ul>
 								<li><img src={icon1} class="img-responsive" alt="android" /></li>
 								<li><img src={icon2} class="img-responsive" alt="ios" /></li>
@@ -59,7 +59,7 @@ const ServicesOne = () => {
 								<p>LBM has been promptly delivering professional Web solutions...</p>
 							</div>
 							<div class="clearfix"></div>
-							<hr>
+							<hr />
 							<ul>
 								<li><img src={icon3} class="img-responsive" alt="php"></li>
 								<li><img src={icon4} class="img-responsive" alt="java"></li>
@@ -80,7 +80,7 @@ const ServicesOne = () => {
 									<p>Our design approach offers the flexibility of accommodating... </p>
 								</div>
 								<div class="clearfix"></div>
-								<hr>
+								<hr />
 								<ul>
 									<li><img src="images/icon6.jpg" class="img-responsive" alt="photoshop"></li>
 									<li><img src="images/icon7.jpg" class="img-responsive" alt="html5"></li>
@@ -102,7 +102,7 @@ const ServicesOne = () => {
 									<p>A content management system is a software system rendering... </p>
 								</div>
 								<div class="clearfix"></div>
-								<hr>
+								<hr />
 								<ul>
 									<li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
 									<li><img src="images/icon5.jpg" class="img-responsive" alt="dot net"></li>
@@ -123,7 +123,7 @@ const ServicesOne = () => {
             <p>Our expertise in delivering high end and feature rich ecommerce... </p>
           </div>
               <div class="clearfix"></div>
-              <hr>
+              <hr />
               <ul>
             <li><img src="images/icon12.jpg" class="img-responsive" alt="wordpress"></li>
             <li><img src="images/icon13.jpg" class="img-responsive" alt="magento"></li>
@@ -142,7 +142,7 @@ const ServicesOne = () => {
             <p>ERP are transforming business activities and re-defining... </p>
           </div>
               <div class="clearfix"></div>
-              <hr>
+              <hr />
               <ul>
             <li><img src="images/icon3.jpg" class="img-responsive" alt="php"></li>
             <li><img src="images/icon4.jpg" class="img-responsive" alt="java"></li>
