@@ -18,6 +18,7 @@ import service3 from '../../assets/images/services/service3.png'
 import service4 from '../../assets/images/services/service4.png'
 import service5 from '../../assets/images/services/service5.png'
 import service6 from '../../assets/images/services/service6.png'
+import UpcomingEventTimer from './UpcomingEventTimer'
 
 const ServicesOne = () => {
     return (
