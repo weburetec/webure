@@ -164,9 +164,9 @@ const Footer = () => {
 							<div class="inputbox">
 								<form id="newslater-form">
 									<div class="input">
-										<input type="hidden" name="action" value="newsletter_subscription">
-										<input type="hidden" name="page_title" value="Contact">
-										<input type="text" placeholder="Work Email*" name="email">
+										<input type="hidden" name="action" value="newsletter_subscription" />
+										<input type="hidden" name="page_title" value="Contact" />
+										<input type="text" placeholder="Work Email*" name="email" />
 									</div>
 									<button class="cta-button" type="submit" name="subscribeBtn">subscribe</button>
 									<div class="form-loader" style="display: none;"><img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/loader.svg" alt="loader" /></div>									<div class="ajax-message"></div>
