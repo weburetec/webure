@@ -13596,8 +13596,9 @@ input, textarea {
     margin-bottom: 25px;
 }
 
-.footer-contact .call .a{
+.footer-contact.calla {
     color: #fad62f;
+    padding-top: 40px;
 }
 
 .footer-contact .call {

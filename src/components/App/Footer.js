@@ -173,10 +173,11 @@ const Footer = () => {
 							</div>
 						</div>
 
-						<div class="footer-contact">
+						<div class="footer-contact calla">
 							<div class="call">
-								<a href="tel:+917940324566">+91 79 4032 4566</a>							</div>
-							<div class="email"><a href="mailto:hello@uplers.com">connect@webure.in</a></div>							
+								<a href="tel:+917940324566">+91 79 4032 4566</a>							
+							</div>
+							<div class="email"><a href="mailto:connect@webure.in">connect@webure.in</a></div>							
 						</div>
 
 						<div class="social">
