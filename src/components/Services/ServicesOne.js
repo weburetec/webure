@@ -29,132 +29,24 @@ const ServicesOne = () => {
             </div>
             <div className="container">
                 <div class="row">
-					<div class="col-sm-6">
-						<div class="blk1">
-							<div class="col-sm-4">
-								<img src={green_shape} class="img-responsive" alt="Android &amp; iOS application" />
-								<img src={service1} class="img-responsive service_img" alt="Android &amp; iOS application" />
-							</div>
-							<div class="col-sm-8">
-								<h3>Android &amp; iOS<br /><span>Applications</span></h3>
-								<div class="greenline"></div>
-								<p>Mobile devices &amp; smartphones have become increasingly...</p>
-							</div>
-							<div class="clearfix"></div>
-							<hr />
-							<ul>
-								<li><img src={icon1} class="img-responsive" alt="android" /></li>
-								<li><img src={icon2} class="img-responsive" alt="ios" /></li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-sm-6">
-						<div class="blk1">
-							<div class="col-sm-4">
-								<img src={green_shape} class="img-responsive" alt="Web App Development" />
-								<img src={service2} class="img-responsive service_img" alt="Web App Development" />
-							</div>
-							<div class="col-sm-8">
-								<h3>Web App <br /><span>Development</span></h3>
-								<div class="greenline"></div>
-								<p>LBM has been promptly delivering professional Web solutions...</p>
-							</div>
-							<div class="clearfix"></div>
-							<hr />
-							<ul>
-								<li><img src={icon3} class="img-responsive" alt="php" /></li>
-								<li><img src={icon4} class="img-responsive" alt="java" /></li>
-								<li><img src={icon5} class="img-responsive" alt="dot net" /></li>
-							</ul>
-						</div>
-					</div>
-					<a href="webdesign.html">
-						<div class="col-sm-6">
-							<div class="blk1">
-								<div class="col-sm-4"> 
-									<img src={green_shape} class="img-responsive" alt="Graphics &amp; Web Designing" /> 
-									<img src={service3} class="img-responsive service_img" alt="Graphics &amp; Web Designing" /> 
-								</div>
-								<div class="col-sm-8">
-									<h3>Graphics &amp; Web <br /><span>Designing</span></h3>
-									<div class="greenline"></div>
-									<p>Our design approach offers the flexibility of accommodating... </p>
-								</div>
-								<div class="clearfix"></div>
-								<hr />
-								<ul>
-									<li><img src={icon6} class="img-responsive" alt="photoshop" /></li>
-									<li><img src={icon7} class="img-responsive" alt="html5" /></li>
-									<li><img src={icon8} class="img-responsive" alt="artificial intelligence" /></li>
-								</ul>
-							</div>
-						</div>
-					</a>
-					<a href="content-management.html">
-						<div class="col-sm-6">
-							<div class="blk1">
-								<div class="col-sm-4">
-									<img src={green_shape} class="img-responsive" alt="Content Management System" />
-									<img src={service4} class="img-responsive service_img" alt="Content Management System" />
-								</div>
-								<div class="col-sm-8">
-									<h3>Content <br /><span>Management System</span></h3>
-									<div class="greenline"></div>
-									<p>A content management system is a software system rendering... </p>
-								</div>
-								<div class="clearfix"></div>
-								<hr />
-								<ul>
-									<li><img src={icon3} class="img-responsive" alt="php" /></li>
-									<li><img src={icon5} class="img-responsive" alt="dot net" /></li>
-									<li><img src={icon12} class="img-responsive" alt="wordpress" /></li>
-									<li><img src={icon13} class="img-responsive" alt="magento" /></li>
-								</ul>
-							</div>
-						</div>
-					</a>
-					<a href="e-commerce.html">
-						<div class="col-sm-6">
-							<div class="blk1">
-								<div class="col-sm-4"> 
-									<img src={green_shape} class="img-responsive" alt="E-commerce Development" /> 
-									<img src={service5} class="img-responsive service_img" alt="E-commerce Development" /> 
-								</div>
-								<div class="col-sm-8">
-									<h3>E-commerce <br /><span>Development</span></h3>
-									<div class="greenline"></div>
-									<p>Our expertise in delivering high end and feature rich ecommerce... </p>
-								</div>
-								<div class="clearfix"></div>
-								<hr />
-								<ul>
-									<li><img src={icon12} class="img-responsive" alt="wordpress" /></li>
-									<li><img src={icon13} class="img-responsive" alt="magento" /></li>
-								</ul>
-							</div>
-						</div>
-					</a>
-					<a href="erp.html">
-						<div class="col-sm-6">
-							<div class="blk1">
-								<div class="col-sm-4"> 
-									<img src={green_shape} class="img-responsive" alt="ERP &amp; CRM Softwares" /> 
-									<img src={service6} class="img-responsive service_img" alt="ERP &amp; CRM Softwares" /> 
-								</div>
-								<div class="col-sm-8">
-									<h3>ERP &amp; CRM <br /><span>Softwares </span></h3>
-									<div class="greenline"></div>
-									<p>ERP are transforming business activities and re-defining... </p>
-								</div>
-								<div class="clearfix"></div>
-								<hr />
-								<ul>
-									<li><img src={icon3} class="img-responsive" alt="php" /></li>
-									<li><img src={icon4} class="img-responsive" alt="java" /></li>
-								</ul>
-							</div>
-						</div>
-					</a>
+					<div class="col-sm-3 menuBox">
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+								<div class="et_pb_text_inner"><h1>Services</h1></div>
+							</div> 
+							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth.</div>
+								</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#web_development" data-et-has-event-already="true">Learn More</a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783" data-pagespeed-url-hash="1964100010"/></noscript></span>
+			</div>
+			</div>
+						
+						
+					</div>				
 				</div>
             </div>
         </section>

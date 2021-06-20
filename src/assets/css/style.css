@@ -13494,6 +13494,7 @@ Career Area CSS
 
 .ftr-locations ul li .address {
     line-height: 1.5;
+	font-size: 14px;
 }
 
 .ftr-locations ul li a {
@@ -13548,7 +13549,7 @@ Career Area CSS
 }
 
 .subscribe .inputbox .input {
-    width: 280px;
+    width: 220px;
     height: 50px;
     border-bottom: solid 2px #FFDA30;
     line-height: 59px;
@@ -13579,7 +13580,7 @@ input, textarea {
 }
 
 .subscribe .inputbox .cta-button {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 600;
     border: 0;
     vertical-align: middle;
