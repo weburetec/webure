@@ -107,7 +107,7 @@ const ServicesOne = () => {
 						<div class="et_pb_row et_pb_row_3">
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
 								<div class="et_pb_module et_pb_image et_pb_image_5">
-									<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png" alt="Digital Marketing" title="Digital Marketing" height="auto" width="auto" class="wp-image-2744 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 698px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png 698w, https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2-480x391.png 480w" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png" alt="Digital Marketing" title="Digital Marketing" height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png 698w, https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2-480x391.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 698px, 100vw" class="wp-image-2744" data-pagespeed-url-hash="2511533758"/></noscript></span>
+									<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png" alt="Digital Marketing" title="Digital Marketing" height="auto" width="auto" class="wp-image-2744 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 698px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png 698w, https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2-480x391.png 480w" data-ll-status="loaded" /><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png" alt="Digital Marketing" title="Digital Marketing" height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2.png 698w, https://brandshark.in/wp-content/uploads/2020/06/Digital-Marketing-min-2-480x391.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 698px, 100vw" class="wp-image-2744" data-pagespeed-url-hash="2511533758"/></noscript></span>
 								</div>
 							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -127,7 +127,7 @@ const ServicesOne = () => {
 						<div class="et_pb_row et_pb_row_4">
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
 								<div class="et_pb_module et_pb_image et_pb_image_6">
-									<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" class="wp-image-2667 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" class="wp-image-2667" data-pagespeed-url-hash="147497542"/></noscript></span>
+									<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" class="wp-image-2667 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" data-ll-status="loaded" /><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" class="wp-image-2667" data-pagespeed-url-hash="147497542"/></noscript></span>
 								</div>
 							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -144,59 +144,44 @@ const ServicesOne = () => {
 						</div>
 					</div>			
 					<div id="contactUs" class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular">
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_5 et_pb_equal_columns et_pb_gutters1">
-				<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_7">
-				
-				
-				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png" alt="Contact brandshark website design &amp; development, branding, digital marketing image " title="Contact brandshark website design &amp; development, branding, digital marketing image " height="auto" width="auto" class="wp-image-2662 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 643px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png 643w, https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin-480x560.png 480w" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png" alt="Contact brandshark website design &amp; development, branding, digital marketing image " title="Contact brandshark website design &amp; development, branding, digital marketing image " height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png 643w, https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin-480x560.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 643px, 100vw" class="wp-image-2662" data-pagespeed-url-hash="4092247723"/></noscript></span>
-			</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_8">
-				
-				
-				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Mask-Group-62.png" alt="Contact brandshark website design &amp; development" title="Contact brandshark website design &amp; development" height="auto" width="auto" class="wp-image-1357 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Mask-Group-62.png" alt="Contact brandshark website design &amp; development" title="Contact brandshark website design &amp; development" height="auto" width="auto" class="wp-image-1357" data-pagespeed-url-hash="2597832738"/></noscript></span>
-			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><h2>Get in touch with us</h2></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_12 get_intouchform  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><noscript class="ninja-forms-noscript-message">
-    Notice: JavaScript is required for this content.</noscript><style>.nf-form-cont{width:100%}.nf-form-content .nf-field-container.textarea-container .field-wrap{height:160px;width:100%}.nf-form-content .nf-field-container.textarea-container .nf-field-element .ninja-forms-field{height:160px}</style><style>#nf-form-2-cont .nf-form-title h3{margin: }#nf-form-2-cont .nf-row{width: ;margin: }#nf-form-2-cont .nf-row:nth-child(odd) {display:inline}</style><style>.nf-form-content .nf-field-container #nf-field-5-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-5-wrap .nf-field-label label{font-size: }.nf-form-content .nf-field-container #nf-field-5-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-6-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-6-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-7-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-7-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-9-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-10-wrap{width:100%}.nf-form-content .nf-field-container #nf-field-10-wrap .nf-field-element .ninja-forms-field{background-color:#faf371;border-width:2px;border-style:solid;border-color:#2e2058;color:#2e2058;float:right;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;padding:1% 4%;font-size:20px;font-weight:600}.nf-form-content .nf-field-container #nf-field-10-wrap .nf-field-element .ninja-forms-field:hover{background-color:#faf371;border-width:2px;border-style:solid;border-color:#2e2058;color:#2e2058;float:right}</style><div id="nf-form-2-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-2" aria-describedby="nf-form-errors-2" role="form">
-	<span id="nf-form-title-2" class="nf-form-title">
-		
-	</span>
-	<div class="nf-form-wrap ninja-forms-form-wrap nf-multi-cell">
-		<div class="nf-response-msg"></div>
-		<div class="nf-debug-msg"></div>
-		<div class="nf-before-form"><nf-section>
-	
-</nf-section></div>
-		<div class="nf-form-layout"><form>
-		<div>
-			<div class="nf-before-form-content"><nf-section>
-    <div class="nf-form-fields-required">Fields marked with an <span class="ninja-forms-req-symbol">*</span> are required</div>
-    
-</nf-section></div>
-			<div class="nf-form-content "><nf-rows-wrap><div class="nf-row">
-            <nf-cells><div class="nf-cell" style="width: 100%;">
-            <nf-fields><nf-field>
-    <div id="nf-field-17-container" class="nf-field-container hidden-container  label-hidden ">
-        <div class="nf-before-field"><nf-section>
+						<div class="et_pb_row et_pb_row_5 et_pb_equal_columns et_pb_gutters1">
+							<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+								<div class="et_pb_module et_pb_image et_pb_image_7">
+									<span class="et_pb_image_wrap ">
+										<img src="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png" alt="Contact brandshark website design &amp; development, branding, digital marketing image " title="Contact brandshark website design &amp; development, branding, digital marketing image " height="auto" width="auto" class="wp-image-2662 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 643px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png 643w, https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin-480x560.png 480w" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png" alt="Contact brandshark website design &amp; development, branding, digital marketing image " title="Contact brandshark website design &amp; development, branding, digital marketing image " height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin.png 643w, https://brandshark.in/wp-content/uploads/2020/06/get-in-touchmin-480x560.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 643px, 100vw" class="wp-image-2662" data-pagespeed-url-hash="4092247723"/></noscript>
+									</span>
+								</div>
+							</div>
+							<div class="et_pb_column et_pb_column_2_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+								<div class="et_pb_module et_pb_image et_pb_image_8">
+									<span class="et_pb_image_wrap ">
+										<img src="https://brandshark.in/wp-content/uploads/2020/06/Mask-Group-62.png" alt="Contact brandshark website design &amp; development" title="Contact brandshark website design &amp; development" height="auto" width="auto" class="wp-image-1357 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Mask-Group-62.png" alt="Contact brandshark website design &amp; development" title="Contact brandshark website design &amp; development" height="auto" width="auto" class="wp-image-1357" data-pagespeed-url-hash="2597832738"/></noscript>
+									</span>
+								</div>
+								<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+									<div class="et_pb_text_inner"><h2>Get in touch with us</h2></div>
+								</div>
+								<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+									<div class="et_pb_text_inner">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</div>
+								</div>
+								<div class="et_pb_module et_pb_text et_pb_text_12 get_intouchform  et_pb_text_align_left et_pb_bg_layout_light">
+									<div class="et_pb_text_inner"><noscript class="ninja-forms-noscript-message">
+										Notice: JavaScript is required for this content.</noscript><style>.nf-form-cont{width:100%}.nf-form-content .nf-field-container.textarea-container .field-wrap{height:160px;width:100%}.nf-form-content .nf-field-container.textarea-container .nf-field-element .ninja-forms-field{height:160px}</style><style>#nf-form-2-cont .nf-form-title h3{margin: }#nf-form-2-cont .nf-row{width: ;margin: }#nf-form-2-cont .nf-row:nth-child(odd) {display:inline}</style><style>.nf-form-content .nf-field-container #nf-field-5-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-5-wrap .nf-field-label label{font-size: }.nf-form-content .nf-field-container #nf-field-5-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-6-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-6-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-7-wrap{width: ;display:inline;float: }.nf-form-content .nf-field-container #nf-field-7-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-9-wrap .nf-field-element .ninja-forms-field{color:#2e2058;font-size:14px;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:500}.nf-form-content .nf-field-container #nf-field-10-wrap{width:100%}.nf-form-content .nf-field-container #nf-field-10-wrap .nf-field-element .ninja-forms-field{background-color:#faf371;border-width:2px;border-style:solid;border-color:#2e2058;color:#2e2058;float:right;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;padding:1% 4%;font-size:20px;font-weight:600}.nf-form-content .nf-field-container #nf-field-10-wrap .nf-field-element .ninja-forms-field:hover{background-color:#faf371;border-width:2px;border-style:solid;border-color:#2e2058;color:#2e2058;float:right}</style><div id="nf-form-2-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-2" aria-describedby="nf-form-errors-2" role="form">
+										<span id="nf-form-title-2" class="nf-form-title">
+										</span>
+										<div class="nf-form-wrap ninja-forms-form-wrap nf-multi-cell">
+											<div class="nf-response-msg"></div>
+											<div class="nf-debug-msg"></div>
+											<div class="nf-before-form"><nf-section></nf-section></div>
+											<div class="nf-form-layout"><form>
+											<div>
+												<div class="nf-before-form-content"><nf-section>
+													<div class="nf-form-fields-required">Fields marked with an <span class="ninja-forms-req-symbol">*</span> are required</div></nf-section></div>
+													<div class="nf-form-content "><nf-rows-wrap><div class="nf-row">
+													<nf-cells><div class="nf-cell" style="width: 100%;">
+													<nf-fields><nf-field>
+													<div id="nf-field-17-container" class="nf-field-container hidden-container  label-hidden ">
+													<div class="nf-before-field"><nf-section>
     
 </nf-section></div>
         <div class="nf-field"><div id="nf-field-17-wrap" class="field-wrap hidden-wrap" data-field-id="17">
