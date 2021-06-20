@@ -46,6 +46,25 @@ const ServicesOne = () => {
 								</span>
 							</div>
 						</div>
+						
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<span class="et_pb_image_wrap ">
+					<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-10237-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-771 lazyloaded" />
+				</span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/services-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-2742 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 879px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/services-min.png 879w, https://brandshark.in/wp-content/uploads/2020/06/services-min-480x397.png 480w" data-ll-status="loaded" />
+				</span>
+			</div>
+			</div>
+						
+						
 					</div>				
 				</div>
             </div>
