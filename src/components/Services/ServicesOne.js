@@ -36,16 +36,14 @@ const ServicesOne = () => {
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
 								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth.</div>
-								</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#web_development" data-et-has-event-already="true">Learn More</a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_0">
-				
-				
-				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783" data-pagespeed-url-hash="1964100010"/></noscript></span>
-			</div>
-			</div>
-						
-						
+							</div>
+							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+								<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#web_development" data-et-has-event-already="true">Learn More</a>
+							</div>
+							<div class="et_pb_module et_pb_image et_pb_image_0">
+								<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783" data-pagespeed-url-hash="1964100010"/></noscript></span>
+							</div>
+						</div>
 					</div>				
 				</div>
             </div>
