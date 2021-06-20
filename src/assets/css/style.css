@@ -13596,6 +13596,10 @@ input, textarea {
     margin-bottom: 25px;
 }
 
+.footer-contact .a{
+    color: #fad62f;
+}
+
 .footer-contact .call {
     font-size: 18px;
     color: #FFFFFF;
