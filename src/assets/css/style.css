@@ -13883,3 +13883,60 @@ element.style {
     text-align: left;
 }
 
+.et_pb_text_1 {
+    font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2.1em;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+}
+
+.et_pb_module {
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-duration: .2s;
+    animation-duration: .2s;
+}
+
+.et_pb_text_align_left {
+    text-align: left;
+}
+
+.et_pb_all_tabs, .et_pb_column, .et_pb_counters .et_pb_counter_container, .et_pb_module, .et_pb_portfolio_item, .et_pb_posts_nav a, .et_pb_pricing_table, .et_pb_row, .et_pb_row_inner, .et_pb_slide, .et_pb_tab, .et_pb_with_background {
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+.et_pb_blurb_content, .et_pb_circle_counter, .et_pb_contact_main_title, .et_pb_countdown_timer_container, .et_pb_counter_title, .et_pb_gallery_item, .et_pb_newsletter_description, .et_pb_number_counter, .et_pb_portfolio_item, .et_pb_post, .et_pb_pricing_content, .et_pb_pricing_heading, .et_pb_promo_description, .et_pb_slide_description, .et_pb_tab, .et_pb_tabs_controls, .et_pb_team_member, .et_pb_testimonial_description_inner, .et_pb_text, .et_pb_toggle_content, .et_pb_toggle_title, .et_pb_wc_add_to_cart, .et_pb_wc_additional_info, .et_pb_wc_breadcrumb, .et_pb_wc_description, .et_pb_wc_meta, .et_pb_wc_price, .et_pb_wc_rating, .et_pb_wc_stock, .et_pb_wc_title, .et_pb_widget, .product {
+    word-wrap: break-word;
+}
+
+.et_pb_image_0 {
+    width: 7%;
+}
+
+.et_pb_image_0 {
+    transform: translateX(92px) translateY(0);
+    text-align: center;
+}
+
+.et_pb_image {
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 0;
+}
+
+.et_pb_image {
+    display: block;
+}
+
+.et_pb_image .et_pb_image_wrap {
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+}
+
