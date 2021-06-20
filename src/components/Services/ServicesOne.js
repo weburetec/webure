@@ -29,7 +29,7 @@ const ServicesOne = () => {
             </div>
             <div className="container">
                 <div class="row">
-					<div class="col-sm-3 menuBox">
+					<div>
 						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
 							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
 								<div class="et_pb_text_inner"><h1>Services</h1></div>
@@ -38,7 +38,7 @@ const ServicesOne = () => {
 								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth.</div>
 							</div>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-								<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#web_development" data-et-has-event-already="true">Learn More</a>
+								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 							</div>
 							<div class="et_pb_module et_pb_image et_pb_image_0">
 								<span class="et_pb_image_wrap ">
