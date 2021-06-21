@@ -31,13 +31,7 @@ const AboutUsContent = () => {
 							<div class="col-12">
 								<h6 class="sec-head"></h6>
 							</div>						
-						</div>
-						<div className="events-details-image aa">
-							<UpcomingEventTimer />
-						</div>
-						
-	
-						<br/><br/>						
+						</div>						
 					</div>
 					<div className="col-lg-5 col-md-12">
 						<img src={bannerhex} alt="bannerhex" />
