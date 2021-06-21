@@ -13964,3 +13964,7 @@ element.style {
     display: inline-block;
 }
 
+.imageweb1 {
+    min-width: 100px;
+    margin-right: 18px;
+}

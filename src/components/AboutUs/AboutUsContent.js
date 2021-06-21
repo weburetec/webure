@@ -106,12 +106,12 @@ const AboutUsContent = () => {
 								</div>
 								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
-									<div class="image">
+									<div class="imageweb1">
 										<img alt="Innovation_and_passion" data-src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" />
 										<noscript><img alt="Innovation_and_passion" src="https://digiligo.com/wp-content/uploads/2021/06/Innovation_and_passion.png" /></noscript>
 									</div>
 									<div class="content-box">
-										<h4 class="title"><a href="#">Innovation &amp; Passion</a></h4>
+										<h4 class="title"><a href="#"><strong>Innovation &amp; Passion</strong></a></h4>
 										<div class="description">
 											<p>We might not be a 100 year old experienced company, but we guarantee you practical ideas and solutions with young minds executing the entire project. The passion is what drives our team!</p>
 										</div>
@@ -119,12 +119,12 @@ const AboutUsContent = () => {
 								</div>
 								<div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
-									<div class="image">
+									<div class="imageweb1">
 										<img alt="Personalised Process" data-src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" />
 										<noscript><img alt="Personalised Process" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" /></noscript>
 									</div>
 									<div class="content-box">
-										<h4 class="title"><a href="#">Personalised Process</a></h4>
+										<h4 class="title"><a href="#"><strong>Personalised Process</strong></a></h4>
 										<div class="description">
 											<p>We don’t work with a “one size fits all” approach, instead we believe in personalisation.</p>
 										</div>
@@ -132,12 +132,12 @@ const AboutUsContent = () => {
 								</div>
 								<div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
-									<div class="image">
+									<div class="imageweb1">
 										<img alt="Transparency" data-src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" />
 										<noscript><img alt="Transparency" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" /></noscript>		
 									</div>
 									<div class="content-box">
-										<h4 class="title"><a href="#">Transparency</a></h4>
+										<h4 class="title"><a href="#"><strong>Transparency</strong></a></h4>
 										<div class="description">
 											<p>Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</p>
 										</div>
