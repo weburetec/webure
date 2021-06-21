@@ -49,9 +49,15 @@ const AboutUsContent = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
-                            <div className="content">
-                                <h2>Drive Digital Revolution Through Data Science</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                            <div className="content">			
+								<div className="row">
+									<div className="col-lg-7 col-md-12">
+										<hr class="new1" />
+										<br />
+										<h2><strong>Driving Digital <span class="contactopening">Revolution</span></strong></h2>					
+									</div>
+								</div>
+                                <p>Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</p>
                                 
                                 <ul className="features-list">
                                     <li>
@@ -75,7 +81,7 @@ const AboutUsContent = () => {
                                         <p>Senior scientist</p>
                                     </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <p>Our transformation solutions will help your organization build a future-ready sustainable business model with a digital-first approach!.</p>
                                 
                                 <Link to="/about-us" className="default-btn">
                                     <i className="flaticon-right"></i>More About Us<span></span>
