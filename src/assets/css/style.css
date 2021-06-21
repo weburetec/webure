@@ -73,7 +73,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 17px;
-  font-family: "Montserrat", Barlow, Fire Sans;
+  font-family:'Montserrat',Barlow, Fire Sans, Helvetica,Arial,Lucida,sans-serif!important;
 }
 
 .container {
@@ -99,7 +99,7 @@ img {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  font-family: "Barlow", Fire Sans;
+  font-family: 'Montserrat',Barlow, Fire Sans, Helvetica,Arial,Lucida,sans-serif!important;
   font-weight: 400;
 }
 
@@ -12993,7 +12993,7 @@ hr.new1 {
     background-color: #f9f377;
     padding: 8px;
     font-size: 32px;
-    font-family: 'Barlow';
+    font-family: 'Montserrat',Barlow, Fire Sans, Helvetica,Arial,Lucida,sans-serif!important;
 }
 
 
