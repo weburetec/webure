@@ -54,7 +54,7 @@ const AboutUsContent = () => {
 									<div className="col-lg-7 col-md-12">
 										<hr class="new1" />
 										<br />
-										<h2><strong>Driving Digital <span class="contactopening">Revolution</span></strong></h2>					
+										<h2><strong>Webure <span class="contactopening">Revolution</span></strong></h2>					
 									</div>
 								</div>
                                 <p>Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</p>
