@@ -13968,3 +13968,21 @@ element.style {
     min-width: 100px;
     margin-right: 18px;
 }
+
+.gel-60d1f58c18f8a .item-list:before {
+    color: #2663af !important;
+}
+
+.gel-list .circle-type li:before {
+    font-family: "Font Awesome 5 Pro";
+    content: "";
+    font-weight: 600;
+    font-size: 8px;
+}
+
+.gel-list .item-list:before {
+    counter-increment: item;
+    min-width: 30px;
+    line-height: 1.4rem;
+}
+
