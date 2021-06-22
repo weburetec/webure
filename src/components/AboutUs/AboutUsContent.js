@@ -101,9 +101,11 @@ const AboutUsContent = () => {
                     <div className="row">
                         <div className="col-lg-6 col-md-6 col-sm-6">
 							<div class="wpb_wrapper">
-								<div class="gel-heading gel-heading-style-01 text-left">
-									<h2 class="gel-heading-title">Why Webure</h2>
-								</div>
+									<div className="col-lg-12 col-md-12">
+										<hr class="new1" />
+										<br />
+										<h2><strong>Why <span class="contactopening">Webure</span></strong></h2>					
+									</div>
 								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
 								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
 									<div class="imageweb1">
@@ -149,9 +151,11 @@ const AboutUsContent = () => {
     
                         <div className="col-lg-6 col-md-6 col-sm-6">
 							<div class="wpb_wrapper">
-								<div class="gel-heading gel-heading-style-01 text-left">
-									<h2 class="gel-heading-title">Our Mission &amp; Vision</h2>
-								</div>
+									<div className="col-lg-12 col-md-12">
+										<hr class="new1" />
+										<br />
+										<h2><strong>Our Mission <span class="contactopening">&amp; Vision</span></strong></h2>					
+									</div>
 								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
 								<div class="wpb_text_column wpb_content_element ">
 									<div class="wpb_wrapper">
