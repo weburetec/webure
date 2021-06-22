@@ -51,7 +51,7 @@ const AboutUsContent = () => {
                         <div className="about-content">
                             <div className="content">			
 								<div className="row">
-									<div className="col-lg-7 col-md-12">
+									<div className="col-lg-12 col-md-12">
 										<hr class="new1" />
 										<br />
 										<h2><strong>Webure <span class="contactopening">Revolution</span></strong></h2>					
