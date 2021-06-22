@@ -16221,3 +16221,9 @@ element.style {
 
 .fa-meetup:before {
   content: "\f2e0"; }
+  
+  
+footer .footer-contact {
+    display: flex;
+    margin-bottom: 25px;
+}
