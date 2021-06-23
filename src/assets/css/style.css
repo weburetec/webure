@@ -16224,3 +16224,9 @@ footer .footer-contact {
     display: flex;
     margin-bottom: 25px;
 }
+
+.ul{
+    list-style: none;
+    display: flex;
+    padding: 5px;
+}
