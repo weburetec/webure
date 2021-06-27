@@ -13543,6 +13543,7 @@ Career Area CSS
 .footer-menu .tap-content {
     display: block;
     list-style: none;
+	margin-left: -40px;
 }
 .follow-liststyle{
   list-style: none;
