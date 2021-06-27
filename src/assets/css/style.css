@@ -16244,6 +16244,7 @@ element.style {
 footer .footer-contact {
     display: flex;
     margin-bottom: 25px;
+	margin-top: 22px;
 }
 
 .ul{
