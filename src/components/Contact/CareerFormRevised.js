@@ -1,46 +1,47 @@
 import React from 'react'
-import starIcon from '../../assets/images/star-icon.webp'
-import contact from '../../assets/images/contact.webp'
-import { Grid, Paper, Avatar, Typography, TextField, Button } from '@material-ui/core'
-import AddCircleOutlineOutlinedIcon from '@material-ui/icons/AddCircleOutlineOutlined';
-import Radio from '@material-ui/core/Radio';
-import RadioGroup from '@material-ui/core/RadioGroup';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import FormControl from '@material-ui/core/FormControl';
-import FormLabel from '@material-ui/core/FormLabel';
-import Checkbox from '@material-ui/core/Checkbox';
 
 const CareerFormRevised = () => {
-    const paperStyle = { padding: '30px 20px', width: 740, margin: "20px auto" }
-    const headerStyle = { margin: 0 }
-    const avatarStyle = { backgroundColor: '#1bbd7e' }
-    const marginTop = { marginTop: 5 }
     return (
-        <Grid>
-            <Paper elevation={20} style={paperStyle}>
-                <h2 style={headerStyle}>Sign Up</h2>
-                <form>
-                    <TextField fullWidth label='Name' placeholder="Enter your name" />
-                    <TextField fullWidth label='Email' placeholder="Enter your email" />
-                    <FormControl component="fieldset" style={marginTop}>
-                        <FormLabel component="legend">Gender</FormLabel>
-                        <RadioGroup aria-label="gender" name="gender" style={{ display: 'initial' }}>
-                            <FormControlLabel value="female" control={<Radio />} label="Female" />
-                            <FormControlLabel value="male" control={<Radio />} label="Male" />
-                        </RadioGroup>
-                    </FormControl>
-                    <TextField fullWidth label='Phone Number' placeholder="Enter your phone number" />
-                    <TextField fullWidth label='Password' placeholder="Enter your password"/>
-                    <TextField fullWidth label='Confirm Password' placeholder="Confirm your password"/>
-                    <FormControlLabel
-                        control={<Checkbox name="checkedA" />}
-                        label="I accept the terms and conditions."
-                    />
+        <div class="row justify-content-center  align-items-center h-100">
+        <div class="col-12 col-lg-9 col-xl-7 ">
+          <div class="card shadow-2-strong card-registration m-2 bd card-color">
+            <div class="card-body p-4 p-md-5">
+            <form>
 
-                </form>
-            </Paper>
-        </Grid>
+                <div class="form-outline mb-2">
+                  <input type="text" id="1cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="1cg">Your Name</label>
+                </div>
+
+                <div class="form-outline mb-2">
+                  <input type="email" id="3cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="3cg">Your Email</label>
+                </div>
+
+                <div class="form-outline mb-2">
+                  <input type="text" id="2cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="2cg">Your phone Number</label>
+                </div>
+
+
+                <div class="form-outline mb-2">
+                  <input type="password" id="4cg" class="form-control form-control-lg" />
+                  <label class="form-label" for="4cg">Password</label>
+                </div>
+
+                <div class="form-outline mb-2">
+                  <input type="password" id="4cdg" class="form-control form-control-lg" />
+                  <label class="form-label" for="4cdg">Repeat your password</label>
+                </div>
+
+                <div class="d-flex justify-content-center">
+                  <button type="button" class="btn btn-warning btn-block btn-lg gradient-custom-4 text-body">Register</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
     )
 }
-
 export default CareerFormRevised
