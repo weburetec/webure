@@ -770,7 +770,7 @@ Navbar Area CSS
 .tarn-nav .navbar .navbar-nav .nav-item:hover .dropdown-menu {
   opacity: 1;
   visibility: visible;
-  margin-top: -25px;
+  margin-top: -28px;
 }
 
 .tarn-nav .navbar .navbar-nav .nav-item.megamenu {
