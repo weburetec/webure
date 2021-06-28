@@ -41,18 +41,27 @@ const Navbar = () => {
 								<div class="cl-lg-8">
 									<div class="row">
 										<div class="cl-lg-4">
-											<div className="shadow single-career-box">
+											<div className="header-infobox-box">
+												<p class="color1">sales@webure.in</p>
+											</div>
+										</div>
+										<div class="cl-lg-4">
+											<div className="header-infobox-box">
 												<p class="color1">Flutter Developer</p>
 											</div>
 										</div>
 										<div class="cl-lg-4">
-											<div className="shadow single-career-box">
-												<p class="color1">Flutter Developer</p>
-											</div>
-										</div>
-										<div class="cl-lg-4">
-											<div className="shadow single-career-box">
-												<p class="color1">Flutter Developer</p>
+											<div className="header-infobox-box">
+												<div class="social">
+													<h5 class="s-title">Follow:</h5>
+													<ul class="row follow-liststyle">
+														<li class="p-1"><a href="https://www.facebook.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+														<li class="p-1"><a href="https://twitter.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+														<li class="p-1"><a href="https://www.linkedin.com/company/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i></a></li>
+														<li class="p-1"><a href="https://www.instagram.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+														<li class="p-1"><a href="https://www.youtube.com/c/Uplers" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li>
+													</ul>		
+												</div>
 											</div>
 										</div>
 									</div>
@@ -108,34 +117,12 @@ const Navbar = () => {
 
 														<li className="nav-item">
 															<Link 
-																to="/history" 
-																activeClassName="active"
-																onClick={() => setCollapsed(true)}
-																className="nav-link"
-															>
-																History
-															</Link>
-														</li>
-
-														<li className="nav-item">
-															<Link 
 																to="/testimonials" 
 																activeClassName="active"
 																onClick={() => setCollapsed(true)}
 																className="nav-link"
 															>
 																Media Coverage
-															</Link>
-														</li>
-
-														<li className="nav-item">
-															<Link 
-																to="/team" 
-																activeClassName="active"
-																onClick={() => setCollapsed(true)}
-																className="nav-link"
-															>
-																Team @Webure
 															</Link>
 														</li>
 													</ul>
@@ -163,26 +150,6 @@ const Navbar = () => {
 													</Link>
 												</li>
 												
-												<li className="nav-item">
-													<Link 
-														to="/case-studies" 
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														ROI Stories</Link>
-												</li>
-
-												<li className="nav-item">
-													<Link 
-														to="/blog" 
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														Blog
-													</Link>
-												</li>
 												<li className="nav-item">
 													<Link 
 														to="/gallery" 

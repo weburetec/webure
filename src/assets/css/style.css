@@ -16253,3 +16253,28 @@ footer .footer-contact {
     display: flex;
     padding: 5px;
 }
+
+.header-infobox-box {
+  margin-bottom: 10px;
+  padding: 2px;
+  border-radius: 5px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  border: 1px solid #f5f3f2;
+  text-align: center;
+}
+
+.header-infobox-box:hover {    
+    background: white;
+    font-size: 8px;
+    margin: 10px auto;
+    padding: 8px;
+    cursor: pointer;
+	border-color: #f5eb0b;
+	background: #f5eb0b;
+	font-family: 'Montserrat',Barlow, Fire Sans, Helvetica,Arial,Lucida,sans-serif!important;
+}
+
+.color1{
+  color: rgb(12, 12, 12);
+}
