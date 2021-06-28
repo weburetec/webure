@@ -48,7 +48,7 @@ const Testimonials = () => {
                         <img src={starIcon} alt="about" /> 
                         Testimonials
                     </span>
-                    <h2>What Our Clients are Saying?</h2>
+                    <h2 class='text-center'>What Our Clients are Saying?</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
 

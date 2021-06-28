@@ -182,7 +182,8 @@ const Navbar = () => {
                                     <div className="option-item">
                                         <Link 
                                             to="/contact" 
-                                            activeClassName="active"
+                                            activeCla
+                                            ssName="active"
                                             onClick={() => setCollapsed(true)}
                                             className="default-btn"
                                         >

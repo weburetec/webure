@@ -4,6 +4,7 @@ import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import BlogCard from '../components/BlogContent/BlogCard'
+import ContactInfo from "../components/Contact/ContactInfo"
 
 const Blog = () => {
     return (

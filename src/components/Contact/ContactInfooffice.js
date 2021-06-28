@@ -19,44 +19,44 @@ const ContactInfooffice = () => {
 					<div class="col-lg-8 col-sm-6 mt-4">
 						<div class="row">
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className=" shadow single-career-box">
 									<p class="color1">UI/UX Designer</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">Flutter Developer</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">People Manager</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">Business Manager</p>
 								</div>					
 							</div>	
 						</div>
 						<div class="row">
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">UI/UX Designer</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">Flutter Developer</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">People Manager</p>
 								</div>					
 							</div>
 							<div class="col-lg-3 col-sm-6">
-								<div className="single-career-box">
+								<div className="shadow single-career-box">
 									<p class="color1">Business Manager</p>
 								</div>					
 							</div>	

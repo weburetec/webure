@@ -29,7 +29,7 @@ const OurSolutions = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
                             <div className="content">
-                                <h2>Drive Digital Revolution Through Webure Technologies</h2>
+                                <h2 class="text-left">Drive Digital Revolution Through Webure Technologies</h2>
                                 <p>Utilizing technology to drive efficiency, enable scale, encourage engagement and facilitate ease of use.</p>
                                 
                                 <ul className="features-list">
@@ -68,7 +68,7 @@ const OurSolutions = () => {
 				<br/>
 				<br/>				
 			    <div className="section-title">
-                    <h2>Ready to Grow Business?</h2>
+                    <h2 class='text-center'>Ready to Grow Business?</h2>
                     <p>Targeted Leads :: New Business Opportunities :: New Clients</p>
                 </div>
                 <div className="row">
@@ -139,7 +139,7 @@ const OurSolutions = () => {
                     <span className="sub-title"> 
                         Our Solutions
                     </span>
-                    <h2>We are different from others Why should you Choose Us</h2>
+                    <h2 class='text-center'>We are different from others Why should you Choose Us</h2>
                     <p>Webure a Full Service Agency that help our clients expand their digital reach.</p>
                 </div>
 

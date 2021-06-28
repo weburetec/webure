@@ -8,11 +8,12 @@ const Banner = () => {
         <div className="it-services-banner">
             <div className="container">
                 <div className="row align-items-center">
-                    <div className="col-lg-6 col-md-12">
+                    <div className="col-12 col-lg-6 col-md-12">
                         <div className="main-banner-content">
-                            <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                <h1>Webure a<strong> Full Service Digital Agency</strong></h1>
-                            </ReactWOW>
+                            <div >
+                                <h1 class='text-left' >Webure a <strong> Full Service Digital Agency </strong> </h1>
+                            </div>
+                            
 
                             <ReactWOW delay='.1s' animation='fadeInLeft'>
                                 <h4>That helps clients expand their digital reach. Put your brand on the map with the ROI driven Digital Marketing solutions</h4>

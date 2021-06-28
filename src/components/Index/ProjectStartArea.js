@@ -16,7 +16,7 @@ const ProjectStartArea = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="project-start-content">
-                            <h2>We Like to Start Your Project With Us</h2>
+                            <h2 class="text-left">We Like to Start Your Project With Us</h2>
                             <p>Let’s talk and explore variety of digital marketing strategies to build your brand and reach the right people.</p>
                             
                             <Link to="/contact" className="default-btn">
