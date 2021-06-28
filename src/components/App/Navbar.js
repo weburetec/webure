@@ -33,12 +33,12 @@ const Navbar = () => {
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
 							<div class="row">
-								<div class="cl-lg-4">
+								<div class="cl-lg-6">
 									<Link to="/" onClick={() => setCollapsed(true)} className="navbar-brand">
 										<img src={logo} alt="logo" />
 									</Link>
 								</div>
-								<div class="cl-lg-8">
+								<div class="cl-lg-6">
 									<div class="row">
 										<div class="cl-lg-4">
 											<div className="header-infobox-box">
@@ -46,12 +46,9 @@ const Navbar = () => {
 											</div>
 										</div>
 										<div class="cl-lg-4">
-											<div className="header-infobox-box">
-												<p class="color1">Flutter Developer</p>
-											</div>
 										</div>
 										<div class="cl-lg-4">
-											<div className="header-infobox-box">
+											<div>
 												<div class="social">
 													<h5 class="s-title">Follow:</h5>
 													<ul class="row follow-liststyle">
