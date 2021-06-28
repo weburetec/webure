@@ -10,12 +10,6 @@ const Services = () => {
     return (
         <Layout>
             <Navbar />
-            <PageBanner
-                pageTitle="Services" 
-                homePageText="Home" 
-                homePageUrl="/" 
-                activePageText="Services" 
-            />
             <ServicesOne />
             <StartProject />
             <Footer />
