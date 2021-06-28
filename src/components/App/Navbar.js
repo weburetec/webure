@@ -28,6 +28,15 @@ const Navbar = () => {
 
     return (
         <React.Fragment>
+
+                            <Link 
+                                to="/"
+                                onClick={() => setCollapsed(true)} 
+                                className="navbar-brand"
+                            >
+                                <img src={logo} alt="logo" />
+                            </Link>
+
             <div id="navbar" className="navbar-area">
 				<div class="row">
 					<div class="cl-lg=4">
@@ -61,13 +70,9 @@ const Navbar = () => {
 				<div className="tarn-nav">
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
-                            <Link 
-                                to="/"
-                                onClick={() => setCollapsed(true)} 
-                                className="navbar-brand"
-                            >
-                                <img src={logo} alt="logo" />
-                            </Link>
+
+
+
 
                             <button 
                                 onClick={toggleNavbar} 
