@@ -32,6 +32,7 @@ const Navbar = () => {
                 <div className="tarn-nav">
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
+						
                             <Link 
                                 to="/"
                                 onClick={() => setCollapsed(true)} 
@@ -91,34 +92,12 @@ const Navbar = () => {
 
                                             <li className="nav-item">
                                                 <Link 
-                                                    to="/history" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    History
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
                                                     to="/testimonials" 
                                                     activeClassName="active"
                                                     onClick={() => setCollapsed(true)}
                                                     className="nav-link"
                                                 >
                                                     Media Coverage
-                                                </Link>
-                                            </li>
-
-                                            <li className="nav-item">
-                                                <Link 
-                                                    to="/team" 
-                                                    activeClassName="active"
-                                                    onClick={() => setCollapsed(true)}
-                                                    className="nav-link"
-                                                >
-                                                    Team @Webure
                                                 </Link>
                                             </li>
                                         </ul>
@@ -146,26 +125,6 @@ const Navbar = () => {
                                         </Link>
                                     </li>
 									
-                                    <li className="nav-item">
-                                        <Link 
-                                            to="/case-studies" 
-                                            activeClassName="active"
-                                            onClick={() => setCollapsed(true)}
-                                            className="nav-link"
-                                        >
-                                            ROI Stories</Link>
-                                    </li>
-
-                                    <li className="nav-item">
-                                        <Link 
-                                            to="/blog" 
-                                            activeClassName="active"
-                                            onClick={() => setCollapsed(true)}
-                                            className="nav-link"
-                                        >
-                                            Blog
-                                        </Link>
-                                    </li>
                                     <li className="nav-item">
                                         <Link 
                                             to="/gallery" 
