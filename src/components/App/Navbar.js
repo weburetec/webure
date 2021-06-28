@@ -28,48 +28,35 @@ const Navbar = () => {
 
     return (
         <React.Fragment>
-	
-				
-					<div class="row">
-
-						<div id="navbar" className="navbar-area">
-							<div className="tarn-nav">
-								<div className="container-fluid">
-									<nav className="navbar navbar-expand-lg navbar-light">
-												<div class="row">
-				<div class="cl-lg-4">
-                    <Link to="/" onClick={() => setCollapsed(true)} className="navbar-brand">
-                        <img src={logo} alt="logo" />
-                    </Link>				
-				</div>
-									
-<div class="cl-lg-8">
-					<div class="row">
-						<div class="cl-lg=5">
-							<div className="single-career-box">
-								<p class="color1">sales@webure.in</p>
-							</div>							
-						</div>	
-						<div class="cl-lg=5">							
-						</div>				
-						<div class="cl-lg=2">
-                                <div className="others-option d-flex align-items-center">
-                                    <div className="option-item">
-                                        <Link 
-                                            to="/contact" 
-                                            activeCla
-                                            ssName="active"
-                                            onClick={() => setCollapsed(true)}
-                                            className="default-btn"
-                                        >
-                                            <i className="flaticon-right"></i> Connect with Us <span></span>
-                                        </Link>
-                                    </div>
-                                </div>						
-						</div>
-					</div>
-					<hr />									
-						<div class="cl-lg=12">			
+            <div id="navbar" className="navbar-area">
+                <div className="tarn-nav">
+                    <div className="container-fluid">
+                        <nav className="navbar navbar-expand-lg navbar-light">
+							<div class="row">
+								<div class="cl-lg-4">
+									<Link to="/" onClick={() => setCollapsed(true)} className="navbar-brand">
+										<img src={logo} alt="logo" />
+									</Link>
+								</div>
+								<div class="cl-lg-8">
+									<div class="row">
+										<div class="cl-lg-4">
+											<div className="shadow single-career-box">
+												<p class="color1">Flutter Developer</p>
+											</div>
+										</div>
+										<div class="cl-lg-4">
+											<div className="shadow single-career-box">
+												<p class="color1">Flutter Developer</p>
+											</div>
+										</div>
+										<div class="cl-lg-4">
+											<div className="shadow single-career-box">
+												<p class="color1">Flutter Developer</p>
+											</div>
+										</div>
+									</div>
+									<div class="row">
 										<button 
 											onClick={toggleNavbar} 
 											className={classTwo}
@@ -121,6 +108,17 @@ const Navbar = () => {
 
 														<li className="nav-item">
 															<Link 
+																to="/history" 
+																activeClassName="active"
+																onClick={() => setCollapsed(true)}
+																className="nav-link"
+															>
+																History
+															</Link>
+														</li>
+
+														<li className="nav-item">
+															<Link 
 																to="/testimonials" 
 																activeClassName="active"
 																onClick={() => setCollapsed(true)}
@@ -130,6 +128,16 @@ const Navbar = () => {
 															</Link>
 														</li>
 
+														<li className="nav-item">
+															<Link 
+																to="/team" 
+																activeClassName="active"
+																onClick={() => setCollapsed(true)}
+																className="nav-link"
+															>
+																Team @Webure
+															</Link>
+														</li>
 													</ul>
 												</li>
 
@@ -157,6 +165,26 @@ const Navbar = () => {
 												
 												<li className="nav-item">
 													<Link 
+														to="/case-studies" 
+														activeClassName="active"
+														onClick={() => setCollapsed(true)}
+														className="nav-link"
+													>
+														ROI Stories</Link>
+												</li>
+
+												<li className="nav-item">
+													<Link 
+														to="/blog" 
+														activeClassName="active"
+														onClick={() => setCollapsed(true)}
+														className="nav-link"
+													>
+														Blog
+													</Link>
+												</li>
+												<li className="nav-item">
+													<Link 
 														to="/gallery" 
 														activeClassName="active"
 														onClick={() => setCollapsed(true)}
@@ -181,17 +209,13 @@ const Navbar = () => {
 												</div>
 											</div>
 										</div>
-									</nav>
+									</div>
 								</div>
-							</div>
-						</div>
-					</div>
-				</div>					
-			</div>
-
-
-
-
+							</div>	
+                        </nav>
+                    </div>
+                </div>
+            </div>
         </React.Fragment>
     );
 }
