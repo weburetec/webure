@@ -32,150 +32,166 @@ const Navbar = () => {
                 <div className="tarn-nav">
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
-							<div class="row">
-								<div class="cl-lg-6">
-									<Link to="/" onClick={() => setCollapsed(true)} className="navbar-brand">
-										<img src={logo} alt="logo" />
-									</Link>
-								</div>
-								<div class="cl-lg-6">
-									<div class="row">
-										<div class="cl-lg-4">
-											<div className="header-infobox-box">
-												<p>sales@webure.in</p>
-											</div>
-										</div>
-										<div class="cl-lg-4 gappweb">
-										</div>
-										<div class="cl-lg-4">
-											<div>
-												<div class="social">
-													<ul class="row follow-liststyle">
-														<li class="p-1"><a href="https://www.facebook.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
-														<li class="p-1"><a href="https://twitter.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
-														<li class="p-1"><a href="https://www.linkedin.com/company/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i></a></li>
-														<li class="p-1"><a href="https://www.instagram.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
-														<li class="p-1"><a href="https://www.youtube.com/c/Uplers" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li>
-													</ul>		
-												</div>
-											</div>
-										</div>
-									</div>
-									<hr />
-									<div class="row gappweb1">
-										<button 
-											onClick={toggleNavbar} 
-											className={classTwo}
-											type="button" 
-											data-toggle="collapse" 
-											data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
-											aria-expanded="false" 
-											aria-label="Toggle navigation"
-										>
-											<span className="icon-bar top-bar"></span>
-											<span className="icon-bar middle-bar"></span>
-											<span className="icon-bar bottom-bar"></span>
-										</button>
+                            <Link 
+                                to="/"
+                                onClick={() => setCollapsed(true)} 
+                                className="navbar-brand"
+                            >
+                                <img src={logo} alt="logo" />
+                            </Link>
 
-										<div className={classOne} id="navbarSupportedContent">
-											<ul className="navbar-nav">
-												<li className="nav-item">
-													<Link 
-														to="/"
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														Home
-													</Link>
-												</li>
+                            <button 
+                                onClick={toggleNavbar} 
+                                className={classTwo}
+                                type="button" 
+                                data-toggle="collapse" 
+                                data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+                                aria-expanded="false" 
+                                aria-label="Toggle navigation"
+                            >
+                                <span className="icon-bar top-bar"></span>
+                                <span className="icon-bar middle-bar"></span>
+                                <span className="icon-bar bottom-bar"></span>
+                            </button>
 
-												<li className="nav-item">
-													<Link 
-														to="/about-us" 
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														About Us <i className='bx bx-chevron-down'></i>
-													</Link>
-													
-													<ul className="dropdown-menu">
-														<li className="nav-item">
-															<Link 
-																to="/about-us" 
-																activeClassName="active"
-																onClick={() => setCollapsed(true)}
-																className="nav-link"
-															>
-															   About Us
-															</Link>
-														</li>
+                            <div className={classOne} id="navbarSupportedContent">
+                                <ul className="navbar-nav">
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/"
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            Home
+                                        </Link>
+                                    </li>
 
-														<li className="nav-item">
-															<Link 
-																to="/testimonials" 
-																activeClassName="active"
-																onClick={() => setCollapsed(true)}
-																className="nav-link"
-															>
-																Media Coverage
-															</Link>
-														</li>
-													</ul>
-												</li>
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/about-us" 
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            About Us <i className='bx bx-chevron-down'></i>
+                                        </Link>
+                                        
+                                        <ul className="dropdown-menu">
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="/about-us" 
+                                                    activeClassName="active"
+                                                    onClick={() => setCollapsed(true)}
+                                                    className="nav-link"
+                                                >
+                                                   About Us
+                                                </Link>
+                                            </li>
 
-												<li className="nav-item">
-													<Link 
-														to="/services"
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														Services
-													</Link>
-												</li>
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="/history" 
+                                                    activeClassName="active"
+                                                    onClick={() => setCollapsed(true)}
+                                                    className="nav-link"
+                                                >
+                                                    History
+                                                </Link>
+                                            </li>
 
-												<li className="nav-item">
-													<Link 
-														to="/career" 
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														Career
-													</Link>
-												</li>
-												
-												<li className="nav-item">
-													<Link 
-														to="/gallery" 
-														activeClassName="active"
-														onClick={() => setCollapsed(true)}
-														className="nav-link"
-													>
-														Clientele
-													</Link>
-												</li>
-											</ul>
-										
-											<div className="others-option d-flex align-items-center">
-												<div className="option-item">
-													<Link 
-														to="/contact" 
-														activeCla
-														ssName="active"
-														onClick={() => setCollapsed(true)}
-														className="default-btn"
-													>
-														<i className="flaticon-right"></i> Connect with Us <span></span>
-													</Link>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>	
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="/testimonials" 
+                                                    activeClassName="active"
+                                                    onClick={() => setCollapsed(true)}
+                                                    className="nav-link"
+                                                >
+                                                    Media Coverage
+                                                </Link>
+                                            </li>
+
+                                            <li className="nav-item">
+                                                <Link 
+                                                    to="/team" 
+                                                    activeClassName="active"
+                                                    onClick={() => setCollapsed(true)}
+                                                    className="nav-link"
+                                                >
+                                                    Team @Webure
+                                                </Link>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/services"
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            Services
+                                        </Link>
+                                    </li>
+
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/career" 
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            Career
+                                        </Link>
+                                    </li>
+									
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/case-studies" 
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            ROI Stories</Link>
+                                    </li>
+
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/blog" 
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            Blog
+                                        </Link>
+                                    </li>
+                                    <li className="nav-item">
+                                        <Link 
+                                            to="/gallery" 
+                                            activeClassName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="nav-link"
+                                        >
+                                            Clientele
+                                        </Link>
+                                    </li>
+                                </ul>
+                            
+                                <div className="others-option d-flex align-items-center">
+                                    <div className="option-item">
+                                        <Link 
+                                            to="/contact" 
+                                            activeCla
+                                            ssName="active"
+                                            onClick={() => setCollapsed(true)}
+                                            className="default-btn"
+                                        >
+                                            <i className="flaticon-right"></i> Connect with Us <span></span>
+                                        </Link>
+                                    </div>
+                                </div>
+                            </div>
                         </nav>
                     </div>
                 </div>
