@@ -589,7 +589,7 @@ Navbar Area CSS
   background: #ffffff;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  border-top: 3px solid #ff5d22;
+  border-top: 3px solid #F9F377;
   -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
 }
@@ -603,8 +603,8 @@ Navbar Area CSS
   position: relative;
   display: block;
   color: #221638;
-  font-size: 16.5px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 .tarn-nav .navbar .navbar-nav .nav-item .dropdown-menu li a i {
