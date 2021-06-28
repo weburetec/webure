@@ -42,15 +42,14 @@ const Navbar = () => {
 									<div class="row">
 										<div class="cl-lg-4">
 											<div className="header-infobox-box">
-												<p class="color1">sales@webure.in</p>
+												<p>sales@webure.in</p>
 											</div>
 										</div>
-										<div class="cl-lg-4">
+										<div class="cl-lg-4 gappweb">
 										</div>
 										<div class="cl-lg-4">
 											<div>
 												<div class="social">
-													<h5 class="s-title">Follow:</h5>
 													<ul class="row follow-liststyle">
 														<li class="p-1"><a href="https://www.facebook.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
 														<li class="p-1"><a href="https://twitter.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
