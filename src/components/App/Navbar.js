@@ -28,27 +28,22 @@ const Navbar = () => {
 
     return (
         <React.Fragment>
-
-                            <Link 
-                                to="/"
-                                onClick={() => setCollapsed(true)} 
-                                className="navbar-brand"
-                            >
-                                <img src={logo} alt="logo" />
-                            </Link>
-
-            <div id="navbar" className="navbar-area">
-				<div class="row">
-					<div class="cl-lg=4">
-								<div className="shadow single-career-box">
-									<p class="color1">sales@webure.in</p>
-								</div>							
-					</div>
-					<div class="cl-lg=4">
-				
-					</div>
-					<div class="cl-lg=4">
-
+			<div class="row">
+				<div class="cl-lg-4">
+                    <Link to="/" onClick={() => setCollapsed(true)} className="navbar-brand">
+                        <img src={logo} alt="logo" />
+                    </Link>				
+				</div>	
+				<div class="cl-lg-8">
+					<div class="row">
+						<div class="cl-lg=3">
+							<div className="single-career-box">
+								<p class="color1">sales@webure.in</p>
+							</div>							
+						</div>	
+						<div class="cl-lg=2">							
+						</div>				
+						<div class="cl-lg=3">
                                 <div className="others-option d-flex align-items-center">
                                     <div className="option-item">
                                         <Link 
@@ -61,19 +56,16 @@ const Navbar = () => {
                                             <i className="flaticon-right"></i> Connect with Us <span></span>
                                         </Link>
                                     </div>
-                                </div>
+                                </div>						
+						</div>
+					</div>
+					<hr />
+					<div class="row">
 
-				
-					</div>					
-				</div>
-                <hr />
+            <div id="navbar" className="navbar-area">
 				<div className="tarn-nav">
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-lg navbar-light">
-
-
-
-
                             <button 
                                 onClick={toggleNavbar} 
                                 className={classTwo}
@@ -189,6 +181,16 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
+
+
+					
+					</div>
+				</div>					
+			</div>
+
+
+
+
         </React.Fragment>
     );
 }
