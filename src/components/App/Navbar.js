@@ -61,7 +61,8 @@ const Navbar = () => {
 											</div>
 										</div>
 									</div>
-									<div class="row">
+									<hr />
+									<div class="row gappweb1">
 										<button 
 											onClick={toggleNavbar} 
 											className={classTwo}
