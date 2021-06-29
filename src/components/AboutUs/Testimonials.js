@@ -44,10 +44,6 @@ const Testimonials = () => {
         <section className="testimonials-area bg-f1f8fb">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">
-                        <img src={starIcon} alt="about" /> 
-                        Testimonials
-                    </span>
                     <h2>What Our Clients are Saying?</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                 </div>
