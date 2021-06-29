@@ -44,8 +44,10 @@ const Testimonials = () => {
         <section className="testimonials-area bg-f1f8fb">
             <div className="container">
                 <div className="section-title">
+					<br />
+					<br />
                     <h2>What Our Clients are Saying?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                    <p>Start by doing what's necessary then do what's possible and suddenly you are doing the impossible.</p>
                 </div>
 
                 {display ? <OwlCarousel 
@@ -81,13 +83,13 @@ const Testimonials = () => {
                     </div>
 
                     <div className="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                        <p>The real deal, they have a great team with aggressive execution strategies. Webure has grown our revenues by 30X in the last few years we have worked with them</p>
                         <div className="client-info">
                             <div className="d-flex justify-content-center align-items-center">
                                 <img src={client3} alt="about" />
                                 <div className="title">
-                                    <h3>Sarah Taylor</h3>
-                                    <span>CEO at ThemeForest</span>
+                                    <h3>Ashwin Baburao</h3>
+                                    <span>CFO at Calista Interiors</span>
                                 </div>
                             </div>
                         </div>
