@@ -161,7 +161,6 @@ const AboutUsContent = () => {
 										<p>Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.</p>
                                         <p>Enable digital transformation for clients of all sizes, be it an MNC or a startup.</p>
                                         <p>Build systems and applications that will change the way our clients do business.</p>
-                                        <p>Empower every human being with the endless possibilities of digital, even in rural areas across the world.</p>
 									</div>
 								</div>
 								<div class="gel-space gel-0fae9c719603b15e5d955a9603debdfc"></div>
