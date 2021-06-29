@@ -6,7 +6,7 @@ const WhyChooseUs = () => {
     return (
         <section className="how-its-work-area ptb-100">
             <div className="container">
-                <div className="row align-items-center">
+                <div className="row align-items-center gappweb2">
                     <div className="col-lg-6 col-md-12">
                         <div className="how-its-work-content">
                             <h2>Why Choose Us?</h2>
