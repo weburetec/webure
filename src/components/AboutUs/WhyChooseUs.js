@@ -9,10 +9,6 @@ const WhyChooseUs = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
                         <div className="how-its-work-content">
-                            <span className="sub-title">
-                                <img src={starIcon} alt="banner" /> 
-                                People Love Us
-                            </span>
                             <h2>Why Choose Us?</h2>
                             <p>With the power of technology, data, and our team of professionals you will be able to bridge the gap between digital platforms and business sustainability. Our market focus spans a vast range of project types – each one demanding unique, client-focused solutions.</p>
                             <div className="inner-box">
