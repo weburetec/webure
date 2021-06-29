@@ -82,10 +82,6 @@ const AboutUsContent = () => {
                                     </li>
                                 </ul>
                                 <p>Our transformation solutions will help your organization build a future-ready sustainable business model with a digital-first approach!.</p>
-                                
-                                <Link to="/about-us" className="default-btn">
-                                    <i className="flaticon-right"></i>More About Us<span></span>
-                                </Link>
                             </div>
                         </div>
                     </div>
@@ -162,15 +158,11 @@ const AboutUsContent = () => {
 										<p><strong>Our Mission</strong> is to empower our clients to be future ready through tailored digital first approaches.</p>
 										<p><strong>Our Vision</strong> is to create impactful and meaningful applications, digital platforms, marketing solutions and enterprise systems that will help clients, customers and the general public become digital savvy for today and generations to come!</p>
 										<p>We will achieve this by doing the below:</p>
+										<p>Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.</p>
+                                        <p>Enable digital transformation for clients of all sizes, be it an MNC or a startup.</p>
+                                        <p>Build systems and applications that will change the way our clients do business.</p>
+                                        <p>Empower every human being with the endless possibilities of digital, even in rural areas across the world.</p>
 									</div>
-								</div>
-								<div class="gel-list gel-list-style-01 gel-60c9d0d8d666e gel-60c9d0d8d6679">
-									<ul class="content-list circle-type">
-										<li class="item-list gel-list-item">Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.                                    </li>
-                                        <li class="item-list gel-list-item">Enable digital transformation for clients of all sizes, be it an MNC or a startup.                                      </li>
-                                        <li class="item-list gel-list-item">Build systems and applications that will change the way our clients do business.                                     </li>
-                                        <li class="item-list gel-list-item">Empower every human being with the endless possibilities of digital, even in rural areas across the world.                                    </li>
-									</ul>
 								</div>
 								<div class="gel-space gel-0fae9c719603b15e5d955a9603debdfc"></div>
 							</div>
