@@ -16351,3 +16351,22 @@ footer .footer-contact {
     text-align: center !important;
 }
 
+.item {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 0 15px;
+    margin-bottom: 80px;
+    list-style: none;
+    display: inline-block;
+}
+
+.icon-title {
+    font-size: 12px;
+    text-align: center;
+}
+
+.figure {
+    padding: 10px;
+}
