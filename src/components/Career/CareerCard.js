@@ -235,7 +235,7 @@ const CareerCard = () => {
 						<li class="item">
 							<div class="icon-box">
 								<figure>
-									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/remote-working.svg" alt="Remote Working"/>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/remote-working.svg" alt="Remote Working" />
 								</figure>
 								<h4 class="icon-title">Remote Working</h4>
 							</div>
@@ -243,7 +243,7 @@ const CareerCard = () => {
 						<li class="item">
 							<div class="icon-box">
 								<figure>
-									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/Insurances-icon.png" alt="Medical and Accidental Insurances"/>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/Insurances-icon.png" alt="Medical and Accidental Insurances" />
 								</figure>
 								<h4 class="icon-title">Medical and Accidental <br>Insurances</h4>
 							</div>
@@ -261,7 +261,7 @@ const CareerCard = () => {
 								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/travel-icon.svg" alt="Annual Travel and Experiences"/>
 								</figure>
-								<h4 class="icon-title">Annual Travel <br>and Experiences</h4>
+								<h4 class="icon-title">Annual Travel <br />and Experiences</h4>
 							</div>
 						</li>
 						<li class="item">
@@ -269,7 +269,7 @@ const CareerCard = () => {
 								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/upliftment-icon.png" alt="Individual Upliftment Program"/>
 								</figure>
-								<h4 class="icon-title">Individual Upliftment <br>Program</h4>
+								<h4 class="icon-title">Individual Upliftment <br />Program</h4>
 							</div>
 						</li>
 						<li class="item">
@@ -301,7 +301,7 @@ const CareerCard = () => {
 								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/oprtunity-icn.svg" alt="Potential Individual Earning Opportunities"/>
 								</figure>
-								<h4 class="icon-title">Potential Individual Earning<br> Opportunities</h4>
+								<h4 class="icon-title">Potential Individual Earning<br /> Opportunities</h4>
 							</div>
 						</li>
 						<li class="item">
