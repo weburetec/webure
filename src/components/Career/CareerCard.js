@@ -61,10 +61,10 @@ const CareerCard = () => {
 			<br />
 			<br />
 			
-			<div className="container">
+			<div className="container text-center">
                 <div className="row">
 					<div class="heading-content">
-					<h2 class="title"><i class="uplers-shape"></i>Open Positions</h2>
+					<h2 class="title text-center"><i class="uplers-shape"></i>Open Positions</h2>
 					<p>Webure is now remote, forever! Experience creativity &amp; flexibility like never before.</p>
 
 					<p>A paradise for performers, under-utilized potential, Uplers is welcoming you to enter a new era of work-life freedom.</p>
@@ -199,6 +199,8 @@ const CareerCard = () => {
 							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
 								<div class="et_pb_text_inner">
 									<h2><strong>Life at <span class="contactopening">Webure</span></strong></h2>
+									<br />
+									<br />
 								</div>
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
@@ -221,10 +223,10 @@ const CareerCard = () => {
                 </div>
             </div>		
 
-			<div class="benefits-content">
+			<div class="benefits-content text-center">
 				<div class="container">
 					<div class="heading-content">
-						<h2 class="title"><i class="uplers-shape"></i>Perks &amp; benefits</h2>
+						<h2 class="title text-center"><i class="uplers-shape"></i>Perks &amp; benefits</h2>
 						<p>We believe in the well-being of our employees and make conscious efforts to facilitate the workplace with a favourable work environment and amenities that enables employees to give their best.</p>
 					</div>
 				</div>
