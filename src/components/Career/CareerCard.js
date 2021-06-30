@@ -185,11 +185,39 @@ const CareerCard = () => {
 								</div>
 							</div>
 						</div>
-                    </div>
-
-					
+                    </div>			
                 </div>
             </div>
+			
+			<div className="container">
+                <div className="row">
+					<div>
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+								<div class="et_pb_text_inner">
+									<h2><strong>Life at <span class="contactopening">Webure</span></strong></h2>
+								</div>
+							</div> 
+							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+								<h4 class="font-size-3 text-gray line-height-2">Life here is a pretty sweet deal. From flexible PTO to paid parental leave to dogs in the office on Fido Fridays, we work hard to ensure that every employee feels supported and encouraged to have a healthy balance between work and home commitments. We believe rest and a full life outside of the office makes for a happier, healthier team.</h4>
+							</div>
+						</div>
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+							<div class="et_pb_module et_pb_image et_pb_image_1">
+								<span class="et_pb_image_wrap ">
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-10237-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-771 lazyloaded" />
+								</span>
+							</div>
+							<div class="et_pb_module et_pb_image et_pb_image_2">
+								<span class="et_pb_image_wrap gappweb3">
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
+								</span>
+							</div>
+						</div>
+					</div>
+                </div>
+            </div>
+			
         </section>
     )
 }
