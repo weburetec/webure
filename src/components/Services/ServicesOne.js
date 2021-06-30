@@ -78,6 +78,7 @@ const ServicesOne = () => {
 								</div> 
 								<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
 									<h4 class="font-size-3 text-gray line-height-2">In this technologically driven world, achieving a lasting online presence is an aim that businesses need to pursue. Webure’s skilled team of web designers and developers employ their years of experience and expertise in building high-performing, feature-packed, secure and scalable websites. We provide tailor-made website development services to meet your specific industry needs.</h4>
+									<h4 class="font-size-3 text-gray line-height-2"><strong>Webure Technologies</strong> is a leading web development company. Our expert team of Website Developers & Digital Strategists combine intelligent architecture and web-friendly practices to create interactive business and e-commerce websites.</h4>
 								</div>
 								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
@@ -96,10 +97,11 @@ const ServicesOne = () => {
 							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
 								<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
-									<div class="et_pb_text_inner"><h2>UI/UX</h2></div>
+									<h2><strong>UI/UX <span class="contactopening">Design Services</span></strong></h2>
 								</div>
 								<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-									<div class="et_pb_text_inner">We help our clients convert their ideas into user experiences that drive engagement and increase conversion. The initial visual representation of your product is what is critical to sparking likeability in your users. This is why your UI needs to be crafted with perfection keeping the users in mind. Being one of India’s best UI/UX design companies, we aim at creating compelling user interactions that tell the story of your brand as well as shaping the aspects of usability and user engagement.</div>
+									<h4 class="font-size-3 text-gray line-height-2">We help our clients convert their ideas into user experiences that drive engagement and increase conversion. The initial visual representation of your product is what is critical to sparking likeability in your users. This is why your UI needs to be crafted with perfection keeping the users in mind. Being one of India’s best UI/UX design companies, we aim at creating compelling user interactions that tell the story of your brand as well as shaping the aspects of usability and user engagement.</h4>
+									<h4 class="font-size-3 text-gray line-height-2">From user research and wireframes to final design, our design experts employ industry best practices to achieve high user engagement and build user friendly website designs, mobile and desktop applications.</h4>									
 								</div>
 								<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 									<a class="et_pb_button et_pb_custom_button_icon et_pb_button_2 et_pb_bg_layout_light" href="https://brandshark.in/services/ui-ux-design-service-company/" data-icon="$">Learn More</a>
