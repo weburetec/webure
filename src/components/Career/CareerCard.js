@@ -72,10 +72,13 @@ const CareerCard = () => {
 					<p>Ready to get on board? So hop on and take a look at our open positions. With no limitations of location, we invite you to work from anywhere in the world.</p>
 
 					<p>If you are a go-getter, dynamic, and willing to grab opportunities that come your way, Uplers is the place to be. Uplers can be your playground where dreams take flight, ideas turn into innovations and every goal achieved is celebrated.</p>
-
 				</div>
 				</div>
 			</div>
+			<br />
+			<br />
+			<br />
+			<br />
 			
             <div className="container">
                 <div className="row">
@@ -217,9 +220,7 @@ const CareerCard = () => {
 					</div>
                 </div>
             </div>		
-        </section>
-		
-		<section class="benefits-main text-center">
+
 			<div class="benefits-content">
 				<div class="container">
 					<div class="heading-content">
@@ -314,9 +315,8 @@ const CareerCard = () => {
 					</ul>
 				</div>
 			</div>
-		</section>		
-		
-		
+			
+        </section>
     )
 }
 
