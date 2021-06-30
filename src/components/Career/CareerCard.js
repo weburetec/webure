@@ -34,82 +34,44 @@ const CareerCard = () => {
                 <img src={details} alt="details" />
             </div>
             <div className="container">
-			
-			
-			<div class="et_pb_row et_pb_row_0 et_pb_equal_columns et_pb_gutters2">
-				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
-					<div class="et_pb_module et_pb_image et_pb_image_0">
-						<span class="et_pb_image_wrap ">
-							<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-12224-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-1312 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-						</span>
-					</div>
-					<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-						<div class="et_pb_text_inner">
-							<h1><strong>A Career <span class="contactopening">you love</span></strong></h1>
-						</div>
-					</div>
-					<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Brandshark! </div>
-			</div> <div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#job_section" data-et-has-event-already="true">Explore Opportunities</a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_1">
-				
-				
-				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-				</span>
-			</div>
-			</div> <div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_2">
-				
-				
-				<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career" title="career" height="auto" width="auto" class="wp-image-1309 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 879px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/career-min.png 879w, https://brandshark.in/wp-content/uploads/2020/06/career-min-480x405.png 480w" data-ll-status="loaded"/>
-				</span>
-			</div>
-			</div> 
-				
-				
-			</div>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-				<div className="row">
-					<div className="col-lg-6 col-sm-6 col-md-6">
-						<h2 class="fs-20 text-black">We are Webure</h2>
-						<h4 class="fs-14">Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that.”</h4>
-						<br/>
-					</div>
-					<div className="col-lg-6 col-sm-6 col-md-6">
-						<div className="row">
-							<div class="col-lg-4 col-sm-6">						
-								<img src={Location1} alt="Location1" />
+				<div class="row">
+					<div class="et_pb_row et_pb_row_0 et_pb_equal_columns et_pb_gutters2">
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+							<div class="et_pb_module et_pb_image et_pb_image_0">
+								<span class="et_pb_image_wrap ">
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-12224-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-1312 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
+								</span>
 							</div>
-							<div class="col-lg-4 col-sm-6">						
-								<img src={Location2} alt="Location2" />
+							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+								<div class="et_pb_text_inner">
+									<h1><strong>A Career <span class="contactopening">you love</span></strong></h1>
+								</div>
 							</div>
-							<div class="col-lg-4 col-sm-6">						
-								<img src={Location3} alt="Location3" />
+							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+								<h4 class="font-size-3 text-gray line-height-2">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Webure Technologies! Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that.”</h4>
+							</div>
+							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+								<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#job_section" data-et-has-event-already="true">Explore Opportunities</a>
+							</div>
+							<div class="et_pb_module et_pb_image et_pb_image_1">
+								<span class="et_pb_image_wrap ">
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
+								</span>
 							</div>
 						</div>
+						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+							<div class="et_pb_module et_pb_image et_pb_image_2">
+								<span class="et_pb_image_wrap ">
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career" title="career" height="auto" width="auto" class="wp-image-1309 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 879px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/career-min.png 879w, https://brandshark.in/wp-content/uploads/2020/06/career-min-480x405.png 480w" data-ll-status="loaded"/>
+								</span>
+							</div>
+						</div> 
 					</div>
 				</div>
 			</div>
 			
             <div className="container">
-				<div className="row"><br/><br/>
-					<h4 align="center" class="fs-20 text-black">What to expect when you join us</h4><br/><br/>
-					<br/><br/>						
+				<div className="row"><br/><br/>						
 					<h2 align="center" class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h2><br/><br/>
 				</div>
 			</div>
