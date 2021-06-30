@@ -77,9 +77,9 @@ const ServicesOne = () => {
 								</div>
 								</div> 
 								<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-									<div class="et_pb_text_inner">In this technologically driven world, achieving a lasting online presence is an aim that businesses need to pursue. Brandshark’s skilled team of web designers and developers employ their years of experience and expertise in building high-performing, feature-packed, secure and scalable websites. We provide tailor-made website development services to meet your specific industry needs.</div>
+									<h4 class="font-size-3 text-gray line-height-2">In this technologically driven world, achieving a lasting online presence is an aim that businesses need to pursue. Webure’s skilled team of web designers and developers employ their years of experience and expertise in building high-performing, feature-packed, secure and scalable websites. We provide tailor-made website development services to meet your specific industry needs.</h4>
 								</div>
-								<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 								</div>
 							</div>
