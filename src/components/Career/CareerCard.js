@@ -32,7 +32,7 @@ const CareerCard = () => {
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
 								<h4 class="font-size-3 text-gray line-height-2">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Webure Technologies! Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that.”</h4>
-								<h4 class="font-size-3 text-gray line-height-2">We have chosen and picked out some of the best service providers, digital agencies, and creative agencies to help us full fill an entire set of requirements a client has under one roof. This allows us to ensure that all the strategies, systems, activities, and stakeholders have similar synergy levels for higher business value.</h4>
+								<h4 class="font-size-3 text-gray line-height-2">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h4>
 							</div>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Explore Opportunities</a>
@@ -58,12 +58,8 @@ const CareerCard = () => {
 					</div>				
 				</div>
 			</div>
-
-			<div className="container">
-				<div className="row">						
-					<h2 align="center" class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h2><br/><br/>
-				</div>
-			</div>
+			<br />
+			<br />
 						
             <div className="container">
                 <div className="row">
@@ -87,7 +83,7 @@ const CareerCard = () => {
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, Telangana</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
 									</div>
 								</div>
 							</div>
@@ -114,7 +110,7 @@ const CareerCard = () => {
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, Telangana</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
 									</div>
 								</div>
 							</div>
@@ -141,7 +137,7 @@ const CareerCard = () => {
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, Telangana</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
 									</div>
 								</div>
 							</div>
@@ -168,7 +164,7 @@ const CareerCard = () => {
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad Telangana</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
 									</div>
 								</div>
 							</div>
