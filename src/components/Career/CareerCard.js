@@ -245,7 +245,7 @@ const CareerCard = () => {
 								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/Insurances-icon.png" alt="Medical and Accidental Insurances" />
 								</figure>
-								<h4 class="icon-title">Medical and Accidental <br>Insurances</h4>
+								<h4 class="icon-title">Medical and Accidental <br />Insurances</h4>
 							</div>
 						</li>
 						<li class="item">
@@ -253,7 +253,7 @@ const CareerCard = () => {
 								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/learning-icon.png" alt="Learning and Development"/>
 								</figure>
-								<h4 class="icon-title">Learning and <br>Development</h4>
+								<h4 class="icon-title">Learning and <br />Development</h4>
 							</div>
 						</li>
 						<li class="item">
