@@ -237,14 +237,6 @@ const CareerCard = () => {
 						<li class="item">
 							<div class="icon-box">
 								<figure>
-									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/remote-working.svg" alt="Remote Working" />
-								</figure>
-								<h4 class="icon-title">Remote Working</h4>
-							</div>
-						</li>
-						<li class="item">
-							<div class="icon-box">
-								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/Insurances-icon.png" alt="Medical and Accidental Insurances" />
 								</figure>
 								<h4 class="icon-title">Medical and Accidental <br />Insurances</h4>
@@ -285,25 +277,9 @@ const CareerCard = () => {
 						<li class="item">
 							<div class="icon-box">
 								<figure>
-									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/laptop-icon.png" alt="No Contracts"/>
-								</figure>
-								<h4 class="icon-title">Company Laptop and Internet Reimbursement</h4>
-							</div>
-						</li>
-						<li class="item">
-							<div class="icon-box">
-								<figure>
-									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/smile-icon.png" alt="Parental Leaves"/>
-								</figure>
-								<h4 class="icon-title">Parental Leaves</h4>
-							</div>
-						</li>
-						<li class="item">
-							<div class="icon-box">
-								<figure>
 									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/oprtunity-icn.svg" alt="Potential Individual Earning Opportunities"/>
 								</figure>
-								<h4 class="icon-title">Potential Individual Earning<br /> Opportunities</h4>
+								<h4 class="icon-title">ESOPs</h4>
 							</div>
 						</li>
 						<li class="item">
