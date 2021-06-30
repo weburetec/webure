@@ -23,12 +23,11 @@ const CareerCard = () => {
             </div>
             <div className="container">
 				<div class="row">
-				
 					<div>
 						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
 							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
 								<div class="et_pb_text_inner">
-									<h2><strong>Our <span class="contactopening">Services</span></strong></h2>
+									<h2><strong>A Career <span class="contactopening">You Love</span></strong></h2>
 								</div>
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
@@ -36,7 +35,7 @@ const CareerCard = () => {
 								<h4 class="font-size-3 text-gray line-height-2">We have chosen and picked out some of the best service providers, digital agencies, and creative agencies to help us full fill an entire set of requirements a client has under one roof. This allows us to ensure that all the strategies, systems, activities, and stakeholders have similar synergy levels for higher business value.</h4>
 							</div>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
+								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Explore Opportunities</a>
 							</div>
 							<div class="et_pb_module et_pb_image et_pb_image_0">
 								<span class="et_pb_image_wrap gappweb3">
@@ -52,56 +51,18 @@ const CareerCard = () => {
 							</div>
 							<div class="et_pb_module et_pb_image et_pb_image_2">
 								<span class="et_pb_image_wrap gappweb3">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
+									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
 								</span>
 							</div>
 						</div>
 					</div>				
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_0 et_pb_equal_columns et_pb_gutters2">
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
-							<div class="et_pb_module et_pb_image et_pb_image_0">
-								<span class="et_pb_image_wrap ">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-12224-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-1312 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-								</span>
-							</div>
-							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-								<div class="et_pb_text_inner">
-									<h1><strong>A Career <span class="contactopening">you love</span></strong></h1>
-								</div>
-							</div>
-							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-								<h4 class="font-size-3 text-gray line-height-2">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Webure Technologies! Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that.”</h4>
-							</div>
-							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-								<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="#job_section" data-et-has-event-already="true">Explore Opportunities</a>
-							</div>
-							<div class="et_pb_module et_pb_image et_pb_image_1">
-								<span class="et_pb_image_wrap ">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-								</span>
-							</div>
-						</div>
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-							<div class="et_pb_module et_pb_image et_pb_image_2">
-								<span class="et_pb_image_wrap ">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career" title="career" height="auto" width="auto" class="wp-image-1309 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 879px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/career-min.png 879w, https://brandshark.in/wp-content/uploads/2020/06/career-min-480x405.png 480w" data-ll-status="loaded"/>
-								</span>
-							</div>
-						</div> 
-					</div>
 				</div>
 			</div>
-			
-            <div className="container">
-				<div className="row"><br/><br/>						
-					<h2 align="center" class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h2><br/><br/>
-				</div>
+
+			<div className="row">						
+				<h2 align="center" class="fs-20 text-black">Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h2><br/><br/>
 			</div>
-			
+						
             <div className="container">
                 <div className="row">
                     <div className="col-lg-4 col-sm-6 col-md-6">
@@ -110,8 +71,8 @@ const CareerCard = () => {
 								<div class="card-body">
 									<div class="media mb-2">
 										<div class="media-body">
-											<p class="mb-1">Maximoz Team</p>
-											<h4 class="fs-20 text-black">Database Progammer</h4>
+											<p class="mb-1">People Management Team</p>
+											<h4 class="fs-20 text-black">HR Manager</h4>
 										</div>
 										<svg class="ml-3" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<path d="M0 8.72727C0 3.90733 3.90733 0 8.72727 0H51.2727C56.0927 0 60 3.90733 60 8.72727V51.2727C60 56.0927 56.0927 60 51.2727 60H8.72727C3.90733 60 0 56.0927 0 51.2727V8.72727Z" fill="#D3D3D3"></path>
@@ -120,11 +81,11 @@ const CareerCard = () => {
 										<path d="M15.4661 44.2558C11.6484 40.4381 9.50365 35.2601 9.50365 29.8611C9.50365 24.462 11.6484 19.2841 15.4661 15.4664C19.2838 11.6487 24.4617 9.50395 29.8608 9.50395C35.2598 9.50394 40.4378 11.6487 44.2555 15.4664L37.0581 22.6637C35.1493 20.7549 32.5603 19.6825 29.8608 19.6825C27.1613 19.6825 24.5723 20.7549 22.6635 22.6638C20.7546 24.5726 19.6822 27.1616 19.6822 29.8611C19.6822 32.5606 20.7546 35.1496 22.6635 37.0584L15.4661 44.2558Z" fill="white"></path>
 										</svg>
 									</div>
-									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
+									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, Telangana</span>
 									</div>
 								</div>
 							</div>
@@ -137,8 +98,8 @@ const CareerCard = () => {
 								<div class="card-body">
 									<div class="media mb-2">
 										<div class="media-body">
-											<p class="mb-1">Maximoz Team</p>
-											<h4 class="fs-20 text-black">Database Progammer</h4>
+											<p class="mb-1">Finance Team</p>
+											<h4 class="fs-20 text-black">Account Manager</h4>
 										</div>
 										<svg class="ml-3" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<path d="M0 8.72727C0 3.90733 3.90733 0 8.72727 0H51.2727C56.0927 0 60 3.90733 60 8.72727V51.2727C60 56.0927 56.0927 60 51.2727 60H8.72727C3.90733 60 0 56.0927 0 51.2727V8.72727Z" fill="#D3D3D3"></path>
@@ -147,11 +108,11 @@ const CareerCard = () => {
 										<path d="M15.4661 44.2558C11.6484 40.4381 9.50365 35.2601 9.50365 29.8611C9.50365 24.462 11.6484 19.2841 15.4661 15.4664C19.2838 11.6487 24.4617 9.50395 29.8608 9.50395C35.2598 9.50394 40.4378 11.6487 44.2555 15.4664L37.0581 22.6637C35.1493 20.7549 32.5603 19.6825 29.8608 19.6825C27.1613 19.6825 24.5723 20.7549 22.6635 22.6638C20.7546 24.5726 19.6822 27.1616 19.6822 29.8611C19.6822 32.5606 20.7546 35.1496 22.6635 37.0584L15.4661 44.2558Z" fill="white"></path>
 										</svg>
 									</div>
-									<span class="text-primary font-w500 d-block mb-3">$14,000 - $25,000</span>
+									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
-										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, England</span>
+										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, Telangana</span>
 									</div>
 								</div>
 							</div>
