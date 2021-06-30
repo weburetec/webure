@@ -189,7 +189,7 @@ const CareerCard = () => {
                 </div>
             </div>
 			
-			<div className="container">
+			<div className="container text-center">
                 <div className="row">
 					<div>
 						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
@@ -216,9 +216,107 @@ const CareerCard = () => {
 						</div>
 					</div>
                 </div>
-            </div>
-			
+            </div>		
         </section>
+		
+		<section class="benefits-main text-center">
+			<div class="benefits-content">
+				<div class="container">
+					<div class="heading-content">
+						<h2 class="title"><i class="uplers-shape"></i>Perks &amp; benefits</h2>
+						<p>We believe in the well-being of our employees and make conscious efforts to facilitate the workplace with a favourable work environment and amenities that enables employees to give their best.</p>
+					</div>
+				</div>
+			</div>
+			<div class="benefits-listing">
+				<div class="container">
+					<ul>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/remote-working.svg" alt="Remote Working"/>
+								</figure>
+								<h4 class="icon-title">Remote Working</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/Insurances-icon.png" alt="Medical and Accidental Insurances"/>
+								</figure>
+								<h4 class="icon-title">Medical and Accidental <br>Insurances</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/learning-icon.png" alt="Learning and Development"/>
+								</figure>
+								<h4 class="icon-title">Learning and <br>Development</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/travel-icon.svg" alt="Annual Travel and Experiences"/>
+								</figure>
+								<h4 class="icon-title">Annual Travel <br>and Experiences</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/upliftment-icon.png" alt="Individual Upliftment Program"/>
+								</figure>
+								<h4 class="icon-title">Individual Upliftment <br>Program</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/no-door-icon.png" alt="Open Door policy"/>
+								</figure>
+								<h4 class="icon-title">Open Door policy</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/laptop-icon.png" alt="No Contracts"/>
+								</figure>
+								<h4 class="icon-title">Company Laptop and Internet Reimbursement</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/smile-icon.png" alt="Parental Leaves"/>
+								</figure>
+								<h4 class="icon-title">Parental Leaves</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/oprtunity-icn.svg" alt="Potential Individual Earning Opportunities"/>
+								</figure>
+								<h4 class="icon-title">Potential Individual Earning<br> Opportunities</h4>
+							</div>
+						</li>
+						<li class="item">
+							<div class="icon-box">
+								<figure>
+									<img src="https://www.uplers.com/wp-content/themes/uplers/assets/images/career/encashment-icon.png" alt="Emergency Loans"/>
+								</figure>
+								<h4 class="icon-title">Emergency Loans</h4>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>		
+		
+		
     )
 }
 
