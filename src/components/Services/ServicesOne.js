@@ -55,7 +55,7 @@ const ServicesOne = () => {
 								</span>
 							</div>
 							<div class="et_pb_module et_pb_image et_pb_image_2">
-								<span class="et_pb_image_wrap ">
+								<span class="et_pb_image_wrap gappweb3">
 									<img src="https://brandshark.in/wp-content/uploads/2020/06/services-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-2742 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 879px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/services-min.png 879w, https://brandshark.in/wp-content/uploads/2020/06/services-min-480x397.png 480w" data-ll-status="loaded" />
 								</span>
 							</div>
@@ -65,7 +65,7 @@ const ServicesOne = () => {
 						<div class="et_pb_row et_pb_row_1">
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
 								<div class="et_pb_module et_pb_image et_pb_image_3">
-									<span class="et_pb_image_wrap ">
+									<span class="et_pb_image_wrap gappweb3">
 										<img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png" alt="Website Developement" title="Website Developement" height="auto" width="auto" class="wp-image-2666 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 564px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png 564w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-1-480x418.png 480w" data-ll-status="loaded" />
 									</span>
 								</div>
