@@ -16330,3 +16330,13 @@ footer .footer-contact {
 .color1{
   color: rgb(12, 12, 12);
 }
+
+.uplers-shape {
+    background: url(https://www.uplers.com/wp-content/themes/uplers/assets/images/uplers-shape.svg) no-repeat;
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    z-index: -1;
+    margin: -15px 0 0 -21px;
+    background-size: 100%;
+}
