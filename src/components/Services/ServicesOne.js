@@ -103,8 +103,8 @@ const ServicesOne = () => {
 									<h4 class="font-size-3 text-gray line-height-2">We help our clients convert their ideas into user experiences that drive engagement and increase conversion. The initial visual representation of your product is what is critical to sparking likeability in your users. This is why your UI needs to be crafted with perfection keeping the users in mind. Being one of India’s best UI/UX design companies, we aim at creating compelling user interactions that tell the story of your brand as well as shaping the aspects of usability and user engagement.</h4>
 									<h4 class="font-size-3 text-gray line-height-2">From user research and wireframes to final design, our design experts employ industry best practices to achieve high user engagement and build user friendly website designs, mobile and desktop applications.</h4>									
 								</div>
-								<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-									<a class="et_pb_button et_pb_custom_button_icon et_pb_button_2 et_pb_bg_layout_light" href="https://brandshark.in/services/ui-ux-design-service-company/" data-icon="$">Learn More</a>
+								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 								</div>
 							</div>	
 						</div>
@@ -118,13 +118,13 @@ const ServicesOne = () => {
 							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
 								<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
-									<div class="et_pb_text_inner"><h2>Digital Marketing</h2></div>
+									<h2><strong>Digital <span class="contactopening">Marketing</span></strong></h2>
 								</div>
 								<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-									<div class="et_pb_text_inner">We provide successful results in such a short period through our enthralling digital marketing services. From generating leads and increasing your sales to driving website traffic, Brandshark’s digital marketing solutions can help you achieve your business goals effectively. We use cutting edge data analytics tools and industry best digital marketing strategies to help you reach your goals. With Brandshark’s digital marketing services, you take the express elevator to higher growth!</div>
+									<h4 class="font-size-3 text-gray line-height-2">We provide successful results in such a short period through our enthralling digital marketing services. From generating leads and increasing your sales to driving website traffic, Brandshark’s digital marketing solutions can help you achieve your business goals effectively. We use cutting edge data analytics tools and industry best digital marketing strategies to help you reach your goals. With Brandshark’s digital marketing services, you take the express elevator to higher growth!</h4>
 								</div> 
-								<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-									<a class="et_pb_button et_pb_custom_button_icon et_pb_button_3 et_pb_bg_layout_light" href="https://brandshark.in/services/digital-marketing-service/" data-icon="$">Learn More</a>
+								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 								</div>
 							</div> 
 						</div>
