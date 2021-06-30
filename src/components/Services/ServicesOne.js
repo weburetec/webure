@@ -88,13 +88,6 @@ const ServicesOne = () => {
 					</div>
 					<div class="et_pb_section et_pb_section_2 et_section_regular">
 						<div class="et_pb_row et_pb_row_2">
-							<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
-								<div class="et_pb_module et_pb_image et_pb_image_4">
-									<span class="et_pb_image_wrap ">
-										<img src="https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1.png" alt="UI/UX" title="UI/UX" height="auto" width="auto" class="wp-image-2743 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 663px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1.png 663w, https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1-480x439.png 480w" data-ll-status="loaded" />
-									</span>
-								</div>
-							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
 								<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
 									<h2><strong>UI/UX <span class="contactopening">Design Services</span></strong></h2>
@@ -106,6 +99,13 @@ const ServicesOne = () => {
 								</div>
 								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
+								</div>
+							</div>
+							<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+								<div class="et_pb_module et_pb_image et_pb_image_4">
+									<span class="et_pb_image_wrap ">
+										<img src="https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1.png" alt="UI/UX" title="UI/UX" height="auto" width="auto" class="wp-image-2743 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 663px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1.png 663w, https://brandshark.in/wp-content/uploads/2020/06/UI-UX-min-1-480x439.png 480w" data-ll-status="loaded" />
+									</span>
 								</div>
 							</div>	
 						</div>
@@ -122,7 +122,7 @@ const ServicesOne = () => {
 									<h2><strong>Digital <span class="contactopening">Marketing</span></strong></h2>
 								</div>
 								<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-									<h4 class="font-size-3 text-gray line-height-2">We provide successful results in such a short period through our enthralling digital marketing services. From generating leads and increasing your sales to driving website traffic, Webure Technologies digital marketing solutions can help you achieve your business goals effectively. We use cutting edge data analytics tools and industry best digital marketing strategies to help you reach your goals. With Brandshark’s digital marketing services, you take the express elevator to higher growth!</h4>
+									<h4 class="font-size-3 text-gray line-height-2">We provide successful results in such a short period through our enthralling digital marketing services. From generating leads and increasing your sales to driving website traffic, Webure Technologies digital marketing solutions can help you achieve your business goals effectively. We use cutting edge data analytics tools and industry best digital marketing strategies to help you reach your goals. With Webure’s digital marketing services, you take the express elevator to higher growth!</h4>
 									<h4 class="font-size-3 text-gray line-height-2">Give your brand the online presence that it deserves by leveraging our Digital Marketing Solutions and get ahead of your competition. Be it driving more leads, conversions and relevant traffic, we create strategies tailored to your business needs with a blend of creativity and technology. We got you covered!</h4>									
 								</div> 
 								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
@@ -133,20 +133,20 @@ const ServicesOne = () => {
 					</div>
 					<div class="et_pb_section et_pb_section_4 et_section_regular">
 						<div class="et_pb_row et_pb_row_4">
+							<div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+								<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+									<h2><strong>Branding & Corporate <span class="contactopening">Identity Solutions</span></strong></h2>
+								</div>
+								<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+									<h4 class="font-size-3 text-gray line-height-2">We understand how important your business is to you. Great brands require strategic and creative thinking to create an impression that is long-lasting, relevant to your business, and the audience could relate to easily. More than just being beautiful, your brand should make an impact on the target audience. It must create a perception of your product in the minds of the people driving them to buy more of what you have to offer. This is why our branding strategy aims to bring your brand story to life.</h4>
+								</div>
+								<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
+								</div>
+							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
 								<div class="et_pb_module et_pb_image et_pb_image_6">
 									<span class="et_pb_image_wrap "><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" class="wp-image-2667 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" data-ll-status="loaded" /><noscript><img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png" alt="Branding and corporate identity" title="Branding and corporate identity" height="auto" width="auto" srcset="https://brandshark.in/wp-content/uploads/2020/06/our-agency-2.png 572w, https://brandshark.in/wp-content/uploads/2020/06/our-agency-2-480x399.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 572px, 100vw" class="wp-image-2667" data-pagespeed-url-hash="147497542"/></noscript></span>
-								</div>
-							</div>
-							<div class="et_pb_column et_pb_column_1_2 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
-								<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
-									<div class="et_pb_text_inner"><h2>Branding and corporate identity</h2></div>
-								</div>
-								<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-									<div class="et_pb_text_inner">We understand how important your business is to you. Great brands require strategic and creative thinking to create an impression that is long-lasting, relevant to your business, and the audience could relate to easily. More than just being beautiful, your brand should make an impact on the target audience. It must create a perception of your product in the minds of the people driving them to buy more of what you have to offer. This is why our branding strategy aims to bring your brand story to life.</div>
-								</div>
-								<div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-									<a class="et_pb_button et_pb_custom_button_icon et_pb_button_4 et_pb_bg_layout_light" href="https://brandshark.in/services/branding-and-corporate-identity/" data-icon="$">Learn More</a>
 								</div>
 							</div>	
 						</div>
