@@ -14,22 +14,10 @@ import contact01 from '../../assets/images/contact-01.webp'
 import contact02 from '../../assets/images/contact-02.webp'
 import contact03 from '../../assets/images/contact-03.webp'
 import contact04 from '../../assets/images/contact-04.webp'
-import Location1 from '../../assets/images/Location-1.webp'
-import Location2 from '../../assets/images/Location-2.webp'
-import Location3 from '../../assets/images/Location-3.webp'
-import Location4 from '../../assets/images/Location-4.webp'
-import Location5 from '../../assets/images/Location-5.webp'
-import Location6 from '../../assets/images/Location-6.webp'
-import Location7 from '../../assets/images/Location-7.webp'
-import Location8 from '../../assets/images/Location-8.webp'
-import Location9 from '../../assets/images/Location-9.webp'
-import Location10 from '../../assets/images/Location-10.webp'
-import Location11 from '../../assets/images/Location-11.webp'
-import UpcomingEventTimer from './UpcomingEventTimer'
 
 const CareerCard = () => {
     return (
-        <div className="events-area pt-100 pb-70">
+        <section className="solutions-area pt-100 pb-70">
 		    <div className="events-details-image">
                 <img src={details} alt="details" />
             </div>
@@ -242,7 +230,7 @@ const CareerCard = () => {
 					
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
 
