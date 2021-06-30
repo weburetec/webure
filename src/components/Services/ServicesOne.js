@@ -31,11 +31,13 @@ const ServicesOne = () => {
 					<div>
 						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
 							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-								<div class="et_pb_text_inner"><h1>Services</h1></div>
+								<div class="et_pb_text_inner">
+									<h2><strong>Our <span class="contactopening">Services</span></strong></h2>
+								</div>
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth. Our internal team can only provide a specific set of services, but as an integrated <strong>Digital Transformation Company</strong>, we believe in providing our clients with as many solutions as possible for their marketing, IT, sales and other organisational process initiatives.</div>
-								<div class="et_pb_text_inner">We have chosen and picked out some of the best service providers, digital agencies, and creative agencies to help us full fill an entire set of requirements a client has under one roof. This allows us to ensure that all the strategies, systems, activities, and stakeholders have similar synergy levels for higher business value.</div>
+								<h4 class="font-size-3 text-gray line-height-2">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth. Our internal team can only provide a specific set of services, but as an integrated <strong>Digital Transformation Company</strong>, we believe in providing our clients with as many solutions as possible for their marketing, IT, sales and other organisational process initiatives.</h4>
+								<h4 class="font-size-3 text-gray line-height-2">We have chosen and picked out some of the best service providers, digital agencies, and creative agencies to help us full fill an entire set of requirements a client has under one roof. This allows us to ensure that all the strategies, systems, activities, and stakeholders have similar synergy levels for higher business value.</h4>
 							</div>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
@@ -70,13 +72,15 @@ const ServicesOne = () => {
 							</div>
 							<div class="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
 								<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
-									<div class="et_pb_text_inner"><h2>Website Development</h2></div>
+								<div class="et_pb_text_inner">
+									<h2><strong>Website <span class="contactopening">Development</span></strong></h2>
+								</div>
 								</div> 
 								<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
 									<div class="et_pb_text_inner">In this technologically driven world, achieving a lasting online presence is an aim that businesses need to pursue. Brandshark’s skilled team of web designers and developers employ their years of experience and expertise in building high-performing, feature-packed, secure and scalable websites. We provide tailor-made website development services to meet your specific industry needs.</div>
 								</div>
 								<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
-									<a class="et_pb_button et_pb_custom_button_icon et_pb_button_1 et_pb_bg_layout_light" href="https://brandshark.in/services/web-development-company/" data-icon="$">Learn More</a>
+									<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 								</div>
 							</div>
 						</div>
