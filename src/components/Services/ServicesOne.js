@@ -25,7 +25,6 @@ const ServicesOne = () => {
         <section className="solutions-area pt-100 pb-70">
             <div className="events-details-image">
                 <img src={details} alt="details" />
-                <UpcomingEventTimer />
             </div>
             <div className="container">
                 <div class="row">
@@ -35,7 +34,8 @@ const ServicesOne = () => {
 								<div class="et_pb_text_inner"><h1>Services</h1></div>
 							</div> 
 							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth.</div>
+								<div class="et_pb_text_inner">As India’s leading digital marketing agency, we create digital products and experiences that meet great expectations. We provide various services to lift your brand off the ground quickly to attain visibility and growth. Our internal team can only provide a specific set of services, but as an integrated <strong>Digital Transformation Company</strong>, we believe in providing our clients with as many solutions as possible for their marketing, IT, sales and other organisational process initiatives.</div>
+								<div class="et_pb_text_inner">We have chosen and picked out some of the best service providers, digital agencies, and creative agencies to help us full fill an entire set of requirements a client has under one roof. This allows us to ensure that all the strategies, systems, activities, and stakeholders have similar synergy levels for higher business value.</div>
 							</div>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
