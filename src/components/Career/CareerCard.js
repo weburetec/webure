@@ -96,7 +96,7 @@ const CareerCard = () => {
 									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
 									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
 									<div class="d-flex align-items-center mt-4">
-									<Link to="/career-details"><a class="btn btn-primary light btn-rounded mr-auto">APPLY NOW!</a></Link>
+									<Link to="/career-details"><a class="et_pb_button_0">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
 									</div>
 								</div>
