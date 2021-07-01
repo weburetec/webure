@@ -16375,7 +16375,7 @@ h4.icon-title {
     padding: 40px;
 }
 
-select {
+.select {
     word-wrap: normal;
     width: 100%;
     padding: 15px;
@@ -16383,4 +16383,16 @@ select {
     border-bottom: 1px solid #000;
     border-radius: 3px;
     background-color: transparent;
+}
+
+.jss1 {
+    margin: 0;
+    border: 0;
+    display: inline-flex;
+    padding: 0;
+    position: relative;
+    min-width: 0;
+    flex-direction: column;
+    vertical-align: top;
+    width: 100%;
 }
