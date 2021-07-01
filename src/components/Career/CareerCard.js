@@ -66,7 +66,7 @@ const CareerCard = () => {
 					<div class="heading-content">
 					<h1 class="title text-center"><i class="uplers-shape"></i><strong>Open Positions</strong></h1>
 					<br />
-					<h4 class="font-size-3 text-gray line-height-2 text-center">Experience creativity &amp; flexibility like never before. A paradise for performers, under-utilized potential, Webure is welcoming you to enter a new era of work-life freedom. Ready to get on board? So hop on and take a look at our open positions. With no limitations of location, we invite you to work from anywhere in the world. If you are a go-getter, dynamic, and willing to grab opportunities that come your way, Uplers is the place to be. Uplers can be your playground where dreams take flight, ideas turn into innovations and every goal achieved is celebrated.</h4>
+					<h4 class="font-size-3 text-gray line-height-2 text-center">Experience creativity &amp; flexibility like never before. A paradise for performers, under-utilized potential, Webure is welcoming you to enter a new era of work-life freedom. Ready to get on board? So hop on and take a look at our open positions. With no limitations of location, we invite you to work from anywhere in the world. If you are a go-getter, dynamic, and willing to grab opportunities that come your way, Webure Technologies is the place to be and your playground where dreams take flight, ideas turn into innovations and every goal achieved is celebrated.</h4>
 				</div>
 				</div>
 			</div>
