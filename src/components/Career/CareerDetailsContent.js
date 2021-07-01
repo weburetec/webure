@@ -27,7 +27,7 @@ const CareerDetailsContent = () => {
 								<div class="pt-9 pl-sm-9 pl-5 pr-sm-9 pr-5 pb-8 border-bottom border-width-1 border-default-color light-mode-texts">
 									<div class="row figure1">
 										<div class="col-md-8">
-											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
+											<h1 class="font-size-6 mb-0"><strong>HR Manager</strong></h1>
 											<div class="ahl"></div>
 											<span class="font-size-3 text-gray line-height-2">Webure Technologies is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles.</span>
 											<div class="col-md-12">
@@ -43,11 +43,11 @@ const CareerDetailsContent = () => {
 											<div class="col-md-12">
 											<span class="font-size-3 text-gray line-height-2"><strong>Technical Skill</strong></span>
 												<ul class="d-flex list-unstyled flex-wrap pr-sm-25 pr-md-0">
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Editing</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Wire-framing</li>
-													<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">XD</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">User Persona</li>
-													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">Sketch</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">HRM KNOWLEDGE</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">ADVISING</li>
+													<li class="bg-regent-opacity-15 mr-md-0 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">RECRUITMENT</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">INTERCULTURAL SENSTIVITY</li>
+													<li class="bg-regent-opacity-15 mr-3 h-px-33 text-center flex-all-center rounded-3 px-5 font-size-3 text-black-2 mt-2">ANALYTICS DRIVEN</li>
 												</ul>
 											</div>
 										</div>
