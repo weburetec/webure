@@ -94,7 +94,7 @@ const CareerCard = () => {
 										</svg>
 									</div>
 									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
-									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+									<p class="fs-14">looking for an HR Manager to oversee all aspects of human resources practices and processes.</p>
 									<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="et_pb_button_0">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
@@ -121,7 +121,7 @@ const CareerCard = () => {
 										</svg>
 									</div>
 									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
-									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+									<p class="fs-14">Monitor the day-to-day financial operations within the company (payroll, invoicing, and other transactions).</p>
 									<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="et_pb_button_0">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
@@ -148,7 +148,7 @@ const CareerCard = () => {
 										</svg>
 									</div>
 									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
-									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+									<p class="fs-14">As the leader of our Backend team, you’ll use your skills in advocating and unblocking to provide effective technical leadership for our core API</p>
 									<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="et_pb_button_0">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
@@ -175,7 +175,7 @@ const CareerCard = () => {
 										</svg>
 									</div>
 									<span class="text-primary font-w500 d-block mb-3">Best in Industry</span>
-									<p class="fs-14">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+									<p class="fs-14">Hosting and Technical Support Specialist will be primarily responsible for maintenance, support and deployment of customer facing hosting solutions</p>
 									<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module d-flex align-items-center mt-4">
 									<Link to="/career-details"><a class="et_pb_button_0">APPLY NOW!</a></Link>
 										<span class="location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad, India</span>
