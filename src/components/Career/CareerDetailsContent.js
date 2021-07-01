@@ -141,7 +141,7 @@ const CareerDetailsContent = () => {
 									<input type="tel" placeholder="Phone" />                      
 								</div>
 								<div class="col-12 mb-2 pb-1">          
-									<select>
+									<select placeholder="Objective">
 										<option value="">Select the position</option>
 										<option value="">HR Manager</option>
 										<option value="">HR Executive</option>
