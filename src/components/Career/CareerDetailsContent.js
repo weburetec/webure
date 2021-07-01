@@ -150,7 +150,6 @@ const CareerDetailsContent = () => {
 								</div>
 								<div class="col-12 mb-1 pb-1">
 									<input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-									<TextBoxComponent multiline={true} placeholder='Enter your address' value= 'Mr. Dodsworth Dodsworth, System Analyst, Studio 103, The Business Center'/>
 								</div> 
 
 								<div class="col-12 mb-1 pb-1">
