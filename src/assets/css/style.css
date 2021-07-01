@@ -16378,9 +16378,9 @@ h4.icon-title {
 select {
     word-wrap: normal;
     width: 100%;
-    padding: 5px;
+    padding: 15px;
     border: 0;
-    border-bottom: 2px solid #000;
+    border-bottom: 1px solid #000;
     border-radius: 3px;
     background-color: transparent;
 }
