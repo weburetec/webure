@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDom from 'react-dom';
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
@@ -143,16 +144,22 @@ const CareerDetailsContent = () => {
 									<input type="text" placeholder="Position for applying"  />
 								</div>
 								<div class="col-12 mb-1 pb-1">
-									<input type="text" multiline={true} numberOfLines={4} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
+									<input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
+									<select>
+										<option value="">Grapefruit</option>
+										<option value="">Grapefruit</option>
+										<option value="">Grapefruit</option>
+									</select>
 								</div> 
 
-							  <div class="col-12 mb-1 pb-1">
-								  <input type="text" placeholder="Experience - Experienced and all set to march a different beat? Yes please! - No or little experience, but game for trying out new things and ready for an adventurous trip? HOP IN!" />          
-							  </div> 
+								<div class="col-12 mb-1 pb-1">
+									<input type="text" placeholder="Experience - Experienced and all set to march a different beat? Yes please! - No or little experience, but game for trying out new things and ready for an adventurous trip? HOP IN!" />          
+								</div> 
 
-							  <div class="col-12 mb-1 pb-1">
-								  <input type="text" placeholder="Education - Anything above higher secondary is a plus. We focus more on the skill set and potential of an individual than degrees and certificates." />          
-							  </div> 
+								<div class="col-12 mb-1 pb-1">
+									<input type="text" placeholder="Education - Anything above higher secondary is a plus. We focus more on the skill set and potential of an individual than degrees and certificates." />          
+								
+								</div> 
 
 							  <div class="col-12 mb-1 pb-1">
 								  <input type="text" placeholder="Where did you heard about us?" />          
