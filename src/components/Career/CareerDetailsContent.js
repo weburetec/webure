@@ -147,6 +147,12 @@ const CareerDetailsContent = () => {
 
 							  <div class="col-12 mb-1 pb-1">
 								  <input type="text" multiline={true} numberOfLines={4} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
+									      <Dropdown formLabel="Choose a service" buttonText="Send form" onChange={handleSelect} action="/">
+											<Option selected value="Click to see options" />
+											<Option value="Option 1" />
+											<Option value="Option 2" />
+											<Option value="Option 3" />
+											</Dropdown>
 							  </div> 
 
 							  <div class="col-12 mb-1 pb-1">
