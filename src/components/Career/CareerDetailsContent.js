@@ -25,7 +25,7 @@ const CareerDetailsContent = () => {
 						<div class="mb-9">
 							<div class="bg-white rounded-4 border border-mercury shadow-9">
 								<div class="pt-9 pl-sm-9 pl-5 pr-sm-9 pr-5 pb-8 border-bottom border-width-1 border-default-color light-mode-texts">
-									<div class="row">
+									<div class="row figure1">
 										<div class="col-md-8">
 											<h1 class="font-size-6 mb-0"><strong>Product Designer</strong></h1>
 											<div class="ahl"></div>
