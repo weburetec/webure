@@ -1,5 +1,5 @@
 import React from 'react'
-import {components} from 'react'
+import DropdownButton from 'react-bootstrap/DropdownButton'
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
