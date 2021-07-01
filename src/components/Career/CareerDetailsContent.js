@@ -84,11 +84,29 @@ const CareerDetailsContent = () => {
 								<p class="font-size-4 text-black-2 mb-7">We are serious about remote work. You can work for from anywhere. </p>
 								<h4 class="mb-4 font-size-4 text-gray"><strong>What you will be doing:</strong></h4>							
 								<ul class="list-unstyled">
-									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Contribute new controls or design improvements to our</li>
-									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Take ownership of the successful delivery of features</li>
-									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Help set and achieve quarterly goals</li>
-									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ship a TON of product improvements and features</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Recruiting, training and developing staff</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Making sure that staff get paid correctly and on time</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Pensions and benefits administration</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Approving job descriptions and advertisements</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Looking after the health, safety and welfare of all employees</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Organising staff training sessions and activities</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Monitoring staff performance and attendance</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Advising line managers and other employees on employment law and the employer's own employment policies and procedures</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ensuring candidates have the right to work at the organisation</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Negotiating salaries, contracts, working conditions or redundancy packages with staff and representatives.</li>
 								</ul>
+								<h4 class="mb-4 font-size-4 text-gray"><strong>Qualification Required</strong></h4>							
+								<ul class="list-unstyled">
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>A degree or a professional qualification in HR Management or in a relevant subject or business may be required for some posts.</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Relevant experience of atleast 2 years in HR management services is a must</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Effective organisational skills</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Ability to form working relationships with people at all levels</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-2"><span class="d-inline-block mr-7">•</span>Teamwork skills</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Interpersonal skills</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Meticulous attention to detail</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>Numerical skills</li>
+									<li class="d-block font-size-4 text-black-2 d-flex flex-row mt-1"><span class="d-inline-block mr-7">•</span>IT skills</li>
+								</ul>								
 							</div>
 						</div>							
 					</div>
