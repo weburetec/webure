@@ -77,10 +77,10 @@ const CareerDetailsContent = () => {
 						<div class="col-12">
 							<div class="card-btn-group">
 								<br/>
-								<h4 class="mb-4 font-size-4 text-gray"><strong>Job Description</strong></h4>
-								<p class="font-size-4 text-black-2 mb-7">Webure is a fast growing provider of messaging and commerce solutions for automotive dealers changing the future of how people find, buy and service their vehicles. </p>
+								<h4 class="mb-4 font-size-4 text-gray"><strong>Why Webure</strong></h4>
+								<p class="font-size-4 text-black-2 mb-7">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential. We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</p>
 								<h4 class="mb-4 font-size-4 text-gray"><strong>Your Role:</strong></h4>
-								<p class="font-size-4 text-black-2 mb-7">We’re looking for a passionate individual to design beautiful and functional products for our customers at Gubagoo. We move very fast and you will be expected to contribute to a cross-functional product development squad, that includes product managers and developers, to deliver the UX and UI for the team to bring to life. </p>
+								<p class="font-size-4 text-black-2 mb-7">You will determines or is assigned the duties and job responsibilities that are required by the senior management team to meet the needs of their workforce management</p>
 								<p class="font-size-4 text-black-2 mb-7">We are serious about remote work. You can work for from anywhere. </p>
 								<h4 class="mb-4 font-size-4 text-gray"><strong>What you will be doing:</strong></h4>							
 								<ul class="list-unstyled">
@@ -111,61 +111,72 @@ const CareerDetailsContent = () => {
 						</div>							
 					</div>
 					<div className="col-lg-4 col-md-12">
-						<CareerSidebar />
+						<div className="events-details-info">
+							<ul className="info">
+								<li>
+									<div className="d-flex justify-content-between align-items-center">
+										<span>JOB ID</span>
+										WT/BRLHYD/DEV/001
+									</div>
+								</li>
+								<li>
+									<div className="d-flex justify-content-between align-items-center">
+										<span>Department</span>
+										People Team
+									</div>
+								</li>
+							</ul>
+						</div>
 						<br />
+							<form>  
+							<div class="row">
+							  <div class="col-12 mb-2 pb-1">         
+								  <input type="text" placeholder='Full Name'/>                  
+							  </div>
+							  <div class="col-12 mb-2 pb-1">                      
+								  <input type="email" placeholder='Email' />                 
+							  </div>
+							  <div class="col-12 mb-2 pb-1">                    
+								  <input type="tel" placeholder="Phone" />                      
+							  </div>
 
-    <form>  
-    <div class="row">
-      <div class="col-12 mb-2 pb-1">         
-          <input type="text" placeholder='Full Name'/>                  
-      </div>
-      <div class="col-12 mb-2 pb-1">                      
-          <input type="email" placeholder='Email' />                 
-      </div>
-      <div class="col-12 mb-2 pb-1">                    
-          <input type="tel" placeholder="Phone" />                      
-      </div>
+							  <div class="col-12 mb-2 pb-1">          
+								  <input type="text" placeholder="Position for applying"  />
+							  </div>
 
-      <div class="col-12 mb-2 pb-1">          
-          <input type="text" placeholder="Position for applying"  />
-      </div>
+							  <div class="col-12 mb-1 pb-1">
+								  <input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
+							  </div> 
 
-      <div class="col-12 mb-1 pb-1">
-          <input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-      </div> 
+							  <div class="col-12 mb-1 pb-1">
+								  <input type="text" placeholder="Experience - Experienced and all set to march a different beat? Yes please! - No or little experience, but game for trying out new things and ready for an adventurous trip? HOP IN!" />          
+							  </div> 
 
-      <div class="col-12 mb-1 pb-1">
-          <input type="text" placeholder="Experience - Experienced and all set to march a different beat? Yes please! - No or little experience, but game for trying out new things and ready for an adventurous trip? HOP IN!" />          
-      </div> 
+							  <div class="col-12 mb-1 pb-1">
+								  <input type="text" placeholder="Education - Anything above higher secondary is a plus. We focus more on the skill set and potential of an individual than degrees and certificates." />          
+							  </div> 
 
-      <div class="col-12 mb-1 pb-1">
-          <input type="text" placeholder="Education - Anything above higher secondary is a plus. We focus more on the skill set and potential of an individual than degrees and certificates." />          
-      </div> 
+							  <div class="col-12 mb-1 pb-1">
+								  <input type="text" placeholder="Where did you heard about us?" />          
+							  </div>    
 
-      <div class="col-12 mb-1 pb-1">
-          <input type="text" placeholder="Where did you heard about us?" />          
-      </div>    
+							</div> 
 
-    </div> 
+							<div class="row align-items-center py-3">
+									  <div class="col-md-3 ps-5">
+										<h6 class="mb-0">Upload CV</h6>
+									  </div>
+									  <div class="col-md-9 pe-5">
+									  <div class="file-upload-wrapper">
+											<input type="file" id="input-file-now" class="file-upload" />
+									</div>
+									 </div>
+								</div> 
+							<div class="d-flex justify-content-center">
+							  <button type="button" class="btn btn-warning">Send</button>
+							</div>
 
-    <div class="row align-items-center py-3">
-              <div class="col-md-3 ps-5">
-                <h6 class="mb-0">Upload CV</h6>
-              </div>
-              <div class="col-md-9 pe-5">
-              <div class="file-upload-wrapper">
-                    <input type="file" id="input-file-now" class="file-upload" />
-            </div>
-             </div>
-        </div> 
-    <div class="d-flex justify-content-center">
-      <button type="button" class="btn btn-warning">Send</button>
-    </div>
-
-  </form>
-
-
-
+						  </form>
 					</div>
 				</div>
 			</div>
