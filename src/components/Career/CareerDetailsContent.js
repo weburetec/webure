@@ -6,7 +6,6 @@ import ContactForm from './ContactForm'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 import '../../assets/css/contactForm.css'
-import { TextBoxComponent } from 'https://cdn.syncfusion.com/ej2/ej2-react-inputs/dist/ej2-react-inputs.umd.min.js';
 
 const CareerDetailsContent = () => {
     return (
@@ -151,7 +150,6 @@ const CareerDetailsContent = () => {
 								</div>
 								<div class="col-12 mb-1 pb-1">
 									<input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-<TextBoxComponent multiline={true} maxlength={'15'} placeholder='Enter your address' floatLabelType='Auto'/>
 								</div> 
 
 								<div class="col-12 mb-1 pb-1">
