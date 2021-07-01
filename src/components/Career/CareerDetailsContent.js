@@ -151,14 +151,7 @@ const CareerDetailsContent = () => {
 									</select>
 								</div>
 								<div class="col-12 mb-1 pb-1">
-									<input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-        <TextField
-          id="standard-multiline-static"
-          label="Multiline"
-          multiline
-          rows={4}
-          defaultValue="Default Value"
-        />
+									<TextField id="standard-multiline-static" multiline rows={4} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!""/>
 								</div> 
 
 								<div class="col-12 mb-1 pb-1">
