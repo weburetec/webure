@@ -1,5 +1,4 @@
 import React from 'react'
-import DropdownButton from 'react-bootstrap/DropdownButton'
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
@@ -145,17 +144,6 @@ const CareerDetailsContent = () => {
 								</div>
 								<div class="col-12 mb-1 pb-1">
 									<input type="text" multiline={true} numberOfLines={4} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-<DropdownButton
-  menuAlign="right"
-  title="Dropdown right"
-  id="dropdown-menu-align-right"
->
-  <Dropdown.Item eventKey="1">Action</Dropdown.Item>
-  <Dropdown.Item eventKey="2">Another action</Dropdown.Item>
-  <Dropdown.Item eventKey="3">Something else here</Dropdown.Item>
-  <Dropdown.Divider />
-  <Dropdown.Item eventKey="4">Separated link</Dropdown.Item>
-</DropdownButton>
 								</div> 
 
 							  <div class="col-12 mb-1 pb-1">
