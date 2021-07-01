@@ -1,4 +1,5 @@
 import React from 'react'
+import {components} from 'react'
 import {Link} from 'gatsby'
 import UpcomingEventTimer from './UpcomingEventTimer'
 import ContactForm from './ContactForm'
@@ -145,7 +146,7 @@ const CareerDetailsContent = () => {
 							  </div>
 
 							  <div class="col-12 mb-1 pb-1">
-								  <input type="text" textBoxComponent multiline={true} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
+								  <input type="text" multiline={true} placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
 							  </div> 
 
 							  <div class="col-12 mb-1 pb-1">
