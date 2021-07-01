@@ -141,15 +141,16 @@ const CareerDetailsContent = () => {
 									<input type="tel" placeholder="Phone" />                      
 								</div>
 								<div class="col-12 mb-2 pb-1">          
-									<input type="text" placeholder="Position for applying"  />
+									<select>
+										<option value="">Select the position</option>
+										<option value="">HR Manager</option>
+										<option value="">HR Executive</option>
+										<option value="">HR Specialist</option>
+									</select>
 								</div>
 								<div class="col-12 mb-1 pb-1">
 									<input type="text" placeholder="Objective - To make money. To kill time. To get popular. Sorry, not interested. Next!  To learn and learn more. To take up a challenging role. To grow with growing organization. Great!" />          
-									<select>
-										<option value="">Grapefruit</option>
-										<option value="">Grapefruit</option>
-										<option value="">Grapefruit</option>
-									</select>
+
 								</div> 
 
 								<div class="col-12 mb-1 pb-1">
