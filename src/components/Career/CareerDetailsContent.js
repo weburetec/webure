@@ -6,7 +6,7 @@ import ContactForm from './ContactForm'
 import CareerSidebar from './CareerSidebar'
 import details from '../../assets/images/events/events-details.webp'
 import '../../assets/css/contactForm.css'
-import { TextBoxComponent } from '@syncfusion/ej2-react-inputs';
+import { TextBoxComponent } from 'https://cdn.syncfusion.com/ej2/ej2-react-inputs/dist/ej2-react-inputs.umd.min.js';
 
 const CareerDetailsContent = () => {
     return (
