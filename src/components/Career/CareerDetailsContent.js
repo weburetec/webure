@@ -116,7 +116,7 @@ const CareerDetailsContent = () => {
 								<li>
 									<div className="d-flex justify-content-between align-items-center">
 										<span>JOB ID</span>
-										WT/BRLHYD/DEV/001
+										WT/BLRHYD/HRM/001
 									</div>
 								</li>
 								<li>
