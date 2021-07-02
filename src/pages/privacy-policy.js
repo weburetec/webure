@@ -519,14 +519,14 @@ const PrivacyPolicy = () => {
 						<p><span style="font-weight: 400;">At Uplers, we make good faith efforts and allow access to our partners with their personal information, in case of corrections to the existing data or deletion of such data on request if not retained by law or for legitimate business purposes. However, to get your access to the information and make changes to it, you should identify the data you are willing to edit and request it to be accessed, corrected or removed. But, we hold the right to decline any requests that are unreasonably repetitive, unlawful, or jeopardize the privacy of others in any manner.</span></p>
 						<h3 id="termsofuse">Terms of Use &amp; Undertaking</h3>
 						<p>If you continue to browse and use this Website, you are agreeing to comply with and be bound by the following policies i.e., Terms of Use &amp; Undertaking and Privacy Policy and other such policies including amended policies which govern Uplers’ relationship with you. All such policies are made easily accessible to you under various tabs of the Website for your perusal and reference at your convenience.</p>
-						<p>This document a legally binding Agreement made between you, whether personally or on behalf of an entity (“you”, “your”, “Users”, “Site Visitors”, “Client” or “Talent”) and Uplers<br>
-						Solutions Private Limited (“we,” “us” or “our”), concerning your access to and use of the www.uplers.com Website as well as any other media form, platform, media channel, mobile<br>
+						<p>This document a legally binding Agreement made between you, whether personally or on behalf of an entity (“you”, “your”, “Users”, “Site Visitors”, “Client” or “Talent”) and Uplers<br />
+						Solutions Private Limited (“we,” “us” or “our”), concerning your access to and use of the www.uplers.com Website as well as any other media form, platform, media channel, mobile<br />
 						Website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”, “Site Services” or “Website”).</p>
-						<p>We grant you a limited license to access the Site and Site Services. This license is subject to and conditioned on compliance with the Site Terms of Use and, to the extent applicable, the<br>
+						<p>We grant you a limited license to access the Site and Site Services. This license is subject to and conditioned on compliance with the Site Terms of Use and, to the extent applicable, the<br />
 						rest of the Terms of Service.</p>
-						<p>We try to keep our Site and the Site Services safe, secure, and functioning properly, but we cannot guarantee the continuous operation of or access to our Services. In fact, we might<br>
+						<p>We try to keep our Site and the Site Services safe, secure, and functioning properly, but we cannot guarantee the continuous operation of or access to our Services. In fact, we might<br />
 						even stop providing the Site or Site Services completely or stop providing certain features without notice.</p>
-						<p>The provisions of this Agreement apply to both the Client and the Talent or anyone who desires to use this Website. The respective rights and obligations shall be as defined under<br>
+						<p>The provisions of this Agreement apply to both the Client and the Talent or anyone who desires to use this Website. The respective rights and obligations shall be as defined under<br />
 						this Agreement, respectively as mentioned.</p>
 						<h5 id="TU_terms_Use">Terms of Use</h5>
 						<p>The use of this Website is subject to the following terms of use:</p>
@@ -534,12 +534,12 @@ const PrivacyPolicy = () => {
 						<li>The content of the pages of this Site or Website is for your general information and use only. It is subject to change without notice.</li>
 						<li>This Website uses cookies to monitor browsing preferences. If you do allow cookies to be used, the personal information may be stored by us for use by third parties.</li>
 						<li>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this Website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
-						<li>Your use of any information or materials on this Website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any<br>
+						<li>Your use of any information or materials on this Website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any<br />
 						products, services or information available through this Website meet your specific requirements.</li>
 						<li>When you post content on the Site or through the Site Services or provide Uplers with user content, you understand and acknowledge that you are solely responsible for such user content. Further, you represent and warrant that you have the right, power, and authority to (a) post that user content without violating the rights of third parties, and (b) grant the licenses of user content</li>
 						<li>You acknowledge and agree that the poster of user content, and not Uplers, is responsible for any user content including any harms caused to you, another user, or a third party by such user Content.</li>
-						<li>You may submit comments or ideas about the Site and Site Services, including without limitation about how to improve the Site or Site Services (collectively, “Ideas”). By submitting any Ideas, you agree that: (a) your disclosure is voluntary, gratuitous, unsolicited, and without restriction and will not place Uplers under any fiduciary or other obligation, (b) your Ideas do not contain the confidential or proprietary information of third parties, and (c) you grant us a perpetual and royalty- free license to use the Ideas without any additional<br>
-						 ompensation to you and to disclose the Ideas on a non-confidential basis or otherwise to anyone. You further acknowledge and agree that, by acceptance of your submission, Uplers does not<br>
+						<li>You may submit comments or ideas about the Site and Site Services, including without limitation about how to improve the Site or Site Services (collectively, “Ideas”). By submitting any Ideas, you agree that: (a) your disclosure is voluntary, gratuitous, unsolicited, and without restriction and will not place Uplers under any fiduciary or other obligation, (b) your Ideas do not contain the confidential or proprietary information of third parties, and (c) you grant us a perpetual and royalty- free license to use the Ideas without any additional<br />
+						 ompensation to you and to disclose the Ideas on a non-confidential basis or otherwise to anyone. You further acknowledge and agree that, by acceptance of your submission, Uplers does not<br />
 						waive any rights to use similar or related ideas, including those known or developed by Uplers or obtained from sources other than you.</li>
 						<li>You will indemnify, defend, and hold harmless Uplers, our Affiliates, and our respective directors, officers, employees, representatives, and agents (each an “Indemnified Party”) from any and all claims, damages, liabilities, costs, losses, and expenses (including, but not limited to, reasonable attorneys’ fees and all related costs and expenses) arising from or relating to any claim, suit, proceeding, demand, or action brought by you or a third party or other User against an Indemnified Party relating to or arising out of any User Content you post.</li>
 						<li>This Website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance, user interface and graphics. Reproduction is strictly prohibited.</li>
@@ -593,7 +593,7 @@ const PrivacyPolicy = () => {
 						<h5>Changes to this Policy</h5>
 						<p>This Policy was last updated as mentioned above and we would recommend that you look back at this notice from time to time to check for any updates. The provisions of this Policy are subject to change without Notice and it shall be your sole responsibility to check for any updates. Your continued use of the website or platform after any changes or revisions to this Policy shall indicate your agreement with the terms of such revised Policy, without prejudice to your rights under the applicable law.</p>
 						<h5>Contact Us</h5>
-						<p>If you have any questions about this Privacy Policy and you can contact us:<br>
+						<p>If you have any questions about this Privacy Policy and you can contact us:<br />
 						By email: <a href="mailto:legal@uplers.com" style="color:#000;text-decoration:underline">legal@uplers.com</a></p>
 						<p>&nbsp;</p>
 
