@@ -13,6 +13,9 @@ const Services = () => {
             <Navbar />
 			<br />
 			<br />
+			<br />
+			<br />
+			<br />
 			<section className="events-details-area pb-100">
 				<div className="events-details-image">
 					<img src={details} alt="details" />
