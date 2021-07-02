@@ -5,7 +5,7 @@ import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import ServicesOne from '../components/Services/ServicesOne'
 import StartProject from '../components/Common/StartProject'
-import details from '../../assets/images/events/events-details.webp'
+import details from '../assets/images/events/events-details.webp'
 
 const Services = () => {
     return (
