@@ -5,6 +5,7 @@ import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
 import ServicesOne from '../components/Services/ServicesOne'
 import StartProject from '../components/Common/StartProject'
+import details from '../../assets/images/events/events-details.webp'
 
 const Services = () => {
     return (
@@ -15,7 +16,6 @@ const Services = () => {
 			<section className="events-details-area pb-100">
 				<div className="events-details-image">
 					<img src={details} alt="details" />
-					<UpcomingEventTimer />
 				</div>
 				<div class="container">
 					<div class="full-width">						
