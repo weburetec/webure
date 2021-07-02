@@ -596,20 +596,6 @@ const PrivacyPolicy = () => {
 						<p>If you have any questions about this Privacy Policy and you can contact us:<br />
 						By email: <a href="mailto:legal@uplers.com" style="color:#000;text-decoration:underline">legal@uplers.com</a></p>
 						<p>&nbsp;</p>
-
-						<div class="accept">
-							<div class="selection">
-								<label>
-									<input type="checkbox" name="">
-									<span>I have read and accept the Uplers Talent Connect <a href="#">privacy policy</a></span>
-								</label>
-							</div>
-							<div class="btns">
-								<button class="cta-button bck">Back</button>
-								<button class="cta-button">Conﬁrm</button>
-							</div>
-						</div>
-
 					</div>
 			</div>
 		</div>
