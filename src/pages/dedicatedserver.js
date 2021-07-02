@@ -327,9 +327,11 @@ const Details = () => {
 						</div>
 					</div>
 				</div>
-			</section>
-			
-			<section>
+
+
+
+
+
 			<div class="mrth-mncntr" id="vpsCpanel">
 <div class="htwo-prime1">Choose Your Control Panel</div>
 <div class="prrty-mndsc">
