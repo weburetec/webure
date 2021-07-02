@@ -597,7 +597,7 @@ const PrivacyPolicy = () => {
 						By email: <a href="mailto:legal@uplers.com" style="color:#000;text-decoration:underline">legal@uplers.com</a></p>
 						<p>&nbsp;</p>
 
-						<!-- <div class="accept">
+						<div class="accept">
 							<div class="selection">
 								<label>
 									<input type="checkbox" name="">
@@ -608,7 +608,7 @@ const PrivacyPolicy = () => {
 								<button class="cta-button bck">Back</button>
 								<button class="cta-button">Conﬁrm</button>
 							</div>
-						</div> -->
+						</div>
 
 					</div>
 			</div>
