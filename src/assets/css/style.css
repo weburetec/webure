@@ -16396,3 +16396,60 @@ select {
     vertical-align: top;
     width: 100%;
 }
+
+/*================================================
+Dedicated Server Page CSS
+=================================================*/
+
+.mrth-mncntr {
+    padding: 50px 15px;
+}
+
+.htwo-prime1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.prrty-mndsc {
+    width: 950px;
+    margin: 0 auto;
+    font-size: 18px;
+    text-align: center;
+}
+
+.mrth-mnwrapr {
+    max-width: 1200px;
+    margin: 50px auto 10px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.mrth-mncol {
+    margin: 0 25px;
+    width: calc((100% - 150px) / 3);
+}
+
+.mrth-tbl {
+    width: 100%;
+    margin-bottom: 30px;
+    background: #f8fdff;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.mrth-tbl thead tr td {
+    padding: 18px 10px;
+    font-size: 18px;
+    font-weight: 600;
+    background: #c0e6f9;
+}
+
+[data-mrth-bg="webuzo"] {
+    position: relative;
+    background: url(https://www.milesweb.in/img-assets/vps/logo-svg/webuzo-op10.svg)no-repeat;
+    background-size: 50px;
+    background-position: 40% 3px;
+}
+
