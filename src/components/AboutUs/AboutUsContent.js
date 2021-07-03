@@ -57,7 +57,7 @@ const AboutUsContent = () => {
 										<h2><strong>Webure <span class="contactopening">Revolution</span></strong></h2>					
 									</div>
 								</div>
-                                <p>Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</p>
+                                <h4 class="font-size-3 text-gray line-height-2">Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</h4>
                                 
                                 <ul className="features-list">
                                     <li>
@@ -81,7 +81,7 @@ const AboutUsContent = () => {
                                         <p>Senior scientist</p>
                                     </li>
                                 </ul>
-                                <p>Our transformation solutions will help your organization build a future-ready sustainable business model with a digital-first approach!.</p>
+                                <h4 class="font-size-3 text-gray line-height-2">Our transformation solutions will help your organization build a future-ready sustainable business model with a digital-first approach!.</h4>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@ const AboutUsContent = () => {
 									<div class="content-box">
 										<h4 class="title"><a href="#"><strong>Innovation &amp; Passion</strong></a></h4>
 										<div class="description">
-											<p>We might not be a 100 year old experienced company, but we guarantee you practical ideas and solutions with young minds executing the entire project. The passion is what drives our team!</p>
+											<h4 class="font-size-3 text-gray line-height-2">We might not be a 100 year old experienced company, but we guarantee you practical ideas and solutions with young minds executing the entire project. The passion is what drives our team!</h4>
 										</div>
 									</div>
 								</div>
@@ -124,7 +124,7 @@ const AboutUsContent = () => {
 									<div class="content-box">
 										<h4 class="title"><a href="#"><strong>Personalised Process</strong></a></h4>
 										<div class="description">
-											<p>We don’t work with a “one size fits all” approach, instead we believe in personalisation.</p>
+											<h4 class="font-size-3 text-gray line-height-2">We don’t work with a “one size fits all” approach, instead we believe in personalisation.</h4>
 										</div>
 									</div>
 								</div>
@@ -137,7 +137,7 @@ const AboutUsContent = () => {
 									<div class="content-box">
 										<h4 class="title"><a href="#"><strong>Transparency</strong></a></h4>
 										<div class="description">
-											<p>Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</p>
+											<h4 class="font-size-3 text-gray line-height-2">Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</h4>
 										</div>
 									</div>
 								</div>
@@ -155,12 +155,12 @@ const AboutUsContent = () => {
 								<div class="gel-space gel-0d24495c733dc19f8f479f3a2eb22fa3"></div>
 								<div class="wpb_text_column wpb_content_element ">
 									<div class="wpb_wrapper">
-										<p><strong>Our Mission</strong> is to empower our clients to be future ready through tailored digital first approaches.</p>
-										<p><strong>Our Vision</strong> is to create impactful and meaningful applications, digital platforms, marketing solutions and enterprise systems that will help clients, customers and the general public become digital savvy for today and generations to come!</p>
-										<p>We will achieve this by doing the below:</p>
-										<p>Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.</p>
-                                        <p>Enable digital transformation for clients of all sizes, be it an MNC or a startup.</p>
-                                        <p>Build systems and applications that will change the way our clients do business.</p>
+										<h4 class="font-size-3 text-gray line-height-2"><strong>Our Mission</strong> is to empower our clients to be future ready through tailored digital first approaches.</h4>
+										<h4 class="font-size-3 text-gray line-height-2"><strong>Our Vision</strong> is to create impactful and meaningful applications, digital platforms, marketing solutions and enterprise systems that will help clients, customers and the general public become digital savvy for today and generations to come!</h4>
+										<h4 class="font-size-3 text-gray line-height-2">We will achieve this by doing the below:</h4>
+										<h4 class="font-size-3 text-gray line-height-2">Make our clients digital ready, so they are able to create an internal ecosystem that is sustainable.</h4>
+                                        <h4 class="font-size-3 text-gray line-height-2">Enable digital transformation for clients of all sizes, be it an MNC or a startup.</h4>
+                                        <h4 class="font-size-3 text-gray line-height-2">Build systems and applications that will change the way our clients do business.</h4>
 									</div>
 								</div>
 								<div class="gel-space gel-0fae9c719603b15e5d955a9603debdfc"></div>
