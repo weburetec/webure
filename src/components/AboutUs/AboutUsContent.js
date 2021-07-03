@@ -122,22 +122,9 @@ const AboutUsContent = () => {
 										<noscript><img alt="Personalised Process" src="https://digiligo.com/wp-content/uploads/2021/06/Personalised-Process.png" /></noscript>
 									</div>
 									<div class="content-box">
-										<h4 class="title"><a href="#"><strong>Personalised Process</strong></a></h4>
+										<h4 class="title"><a href="#"><strong>Personalised Process & Transparency</strong></a></h4>
 										<div class="description">
-											<h4 class="font-size-3 text-gray line-height-2">We don’t work with a “one size fits all” approach, instead we believe in personalisation.</h4>
-										</div>
-									</div>
-								</div>
-								<div class="gel-space gel-d5666620ba5d859b8f7502dd414e4870"></div>
-								<div class="gel-image-box img-default img-size-origin gel-image-box-style-04">
-									<div class="imageweb1">
-										<img alt="Transparency" data-src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" class=" lazyloaded" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" />
-										<noscript><img alt="Transparency" src="https://digiligo.com/wp-content/uploads/2021/06/Transparency.png" /></noscript>		
-									</div>
-									<div class="content-box">
-										<h4 class="title"><a href="#"><strong>Transparency</strong></a></h4>
-										<div class="description">
-											<h4 class="font-size-3 text-gray line-height-2">Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</h4>
+											<h4 class="font-size-3 text-gray line-height-2">We don’t work with a “one size fits all” approach, instead we believe in personalisation. Strategy, ideas, reports and action plan is shared with the client at every stage of the business.</h4>
 										</div>
 									</div>
 								</div>
