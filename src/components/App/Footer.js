@@ -95,7 +95,6 @@ const Footer = () => {
 									</div>
 								</div>
 							</div>
-
 							<div class="col-12 col-md-4 footer-right">
 									<div class="subscribe">
 										<div class="inputbox">
