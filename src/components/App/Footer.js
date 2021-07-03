@@ -94,59 +94,6 @@ const Footer = () => {
 										</ul>
 									</div>
 								</div>
-								<div class="more-services">
-									<div class="more-content">
-										<div class="row">
-											<div class="col-12 col-md-3 menuBox">
-												<h5 class="tap-click">MarTech Services</h5>
-												<ul class="tap-content">
-													<li><a href="https://www.uplers.com/ppc-management-services/">PPC Management</a></li>
-
-													<li><a href="https://www.uplers.com/local-seo-services/">Local SEO Services</a></li>
-
-													<li><a href="https://www.uplers.com/shopify-development-services/">Shopify Development</a></li>
-
-													<li><a href="https://www.uplers.com/woocommerce-development-services/">WooCommerce Development</a></li>
-
-													<li><a href="https://www.uplers.com/link-building-services/">Link Building Services</a></li>
-
-													<li><a href="https://www.uplers.com/guest-posting-services/">Guest Posting Services</a></li>
-
-													
-												</ul>
-											</div>
-											<div class="col-12 col-md-3 menuBox">
-												<h5>White-Label Services</h5>
-												<ul class="tap-content">
-													<li><a href="https://www.uplers.com/white-label-agency/">White Label Services</a></li>
-													<li><a href="https://www.uplers.com/white-label-digital-marketing-services/">White Label Digital Marketing</a></li>
-													<li><a href="https://www.uplers.com/white-label-web-design-development-services/">White Label Web Development &amp; Design</a></li>
-												</ul>
-											</div>
-											<div class="col-12 col-md-3 menuBox">
-												<h5 class="tap-click">Hire Developers</h5>
-												<ul class="tap-content">
-													<li><a href="https://www.uplers.com/hire-front-end-developers/">Hire Front-end Developer</a></li>
-
-													<li><a href="https://www.uplers.com/hire-wordpress-developers/">Hire WordPress Developer</a></li>
-
-													<li><a href="https://www.uplers.com/hire-shopify-developers/">Hire Shopify Developer</a></li>
-
-													<li><a href="https://www.uplers.com/hire-hubspot-developer/">Hire HubSpot Developer</a></li>
-
-													<li><a href="https://www.uplers.com/hire-woocommerce-developer/">Hire WooCommerce Developer</a></li>
-												</ul>
-											</div>
-											<div class="col-12 col-md-3 menuBox">
-												<h5 class="tap-click">Hire Marketers</h5>
-												<ul class="tap-content">
-													<li><a href="https://www.uplers.com/hire-seo-expert/">Hire SEO Expert</a></li>
-													<li><a href="https://www.uplers.com/hire-ppc-expert/">Hire PPC Expert</a></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
 							</div>
 
 							<div class="col-12 col-md-4 footer-right">
