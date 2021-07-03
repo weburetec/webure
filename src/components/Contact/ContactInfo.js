@@ -22,9 +22,7 @@ const ContactInfo = () => {
 						<div class="row">
 							<div class="col-6 col-md-6">
 								<h4 class="font-size-3 text-gray line-height-2"><strong>Contact [India]</strong></h4>
-							</div>
-							<div class="col-6 col-md-6">
-								<div className=" shadow single-career-box">
+								<div className="single-career-box">
 									<h4 class="font-size-3 text-gray line-height-2 color1">+91 9886528400</h4>
 								</div>
 							</div>
