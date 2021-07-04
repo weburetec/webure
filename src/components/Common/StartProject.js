@@ -6,7 +6,7 @@ import shape10 from '../../assets/images/shape/vector-shape10.webp'
 
 const StartProject = () => {
     return (
-        <div className="project-start-area bg-color ptb-100">
+        <div className="gappweb44 project-start-area bg-color ptb-100">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
@@ -18,7 +18,8 @@ const StartProject = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="gappweb44 project-start-content">
 							<h4 class="gapweb44"><strong>We would like to start<span class="contactopening">your project with us</span></strong></h4>
-                            <h4 class="gapweb44 text-gray line-height-2">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</h4>
+                            <br />
+							<h4 class="gapweb44 text-gray line-height-2">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</h4>
 
 							<div class="col-12 col-md-12 footer-right">
 									<div class="subscribe">
