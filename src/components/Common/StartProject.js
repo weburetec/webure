@@ -21,11 +21,30 @@ const StartProject = () => {
                             <h2>We Like to Start Your Project With Us</h2>
                             <h4 class="gapweb44 text-gray line-height-2">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</h4>
 
-                            <Link to="/contact" className="default-btn">
-                                <i className="flaticon-web"></i> 
-                                Get Started 
-                                <span></span>
-                            </Link>
+							<div class="col-12 col-md-4 footer-right">
+									<div class="subscribe">
+										<div class="inputbox">
+											<form>
+												<div class="input">
+													<input type="hidden" name="action" value="newsletter_subscription" />
+													<input type="hidden" name="page_title" value="Contact" />
+													<input type="text" placeholder="Work Email*" name="email" />
+												</div>
+			
+												<button class=" mt-2 mb-2 btn btn-warning" type="submit" name="subscribeBtn">subscribe</button>
+											
+											</form>
+										</div>
+									</div>
+									<div class=" mt-3 footer-contact calla">
+										<div class="call">
+											<a href="tel:+917940324566">+91 79 4032 4566</a>							
+										</div>
+										<div class=" email">
+											<a href="mailto:connect@webure.in">connect@webure.in</a>
+										</div>							
+									</div>
+							</div>
                         </div>
                     </div>
                 </div>
