@@ -99,7 +99,7 @@ const CareerDetailsContent = () => {
 								</ul>
 								<h4 class="font-size-3 text-gray line-height-2"><strong>Qualification<span class="contactopening">required:</span></strong></h4>							
 								<ul class="list-unstyled">
-									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>A degree or a professional qualification in HR Management or in a relevant subject or business may be required for some posts.</li>
+									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>A degree or a professional qualification in HR Management or in a relevant subject.</li>
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Relevant experience of atleast 2 years in HR management services is a must</li>
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Effective organisational skills</li>
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Ability to form working relationships with people at all levels</li>
