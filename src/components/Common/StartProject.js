@@ -16,33 +16,25 @@ const StartProject = () => {
                     </div>
 
                     <div className="col-lg-6 col-md-12">
-                        <div className="project-start-content">
-							<h2 class="gapweb44"><strong>We would like to start<span class="contactopening">your project with us</span></strong></h2>
-                            <h2>We Like to Start Your Project With Us</h2>
+                        <div className="gappweb44 project-start-content">
+							<h4 class="gapweb44"><strong>We would like to start<span class="contactopening">your project with us</span></strong></h4>
+                            <h4 class="gapweb44 text-gray line-height-2">We Like to Start Your Project With Us</h4>
                             <h4 class="gapweb44 text-gray line-height-2">Our digital marketing team is always ready to help. Give us a call, drop us an email, or just fill in the form below to instantly schedule a call with us.</h4>
 
-							<div class="col-12 col-md-4 footer-right">
+							<div class="col-12 col-md-12 footer-right">
 									<div class="subscribe">
 										<div class="inputbox">
 											<form>
 												<div class="input">
 													<input type="hidden" name="action" value="newsletter_subscription" />
 													<input type="hidden" name="page_title" value="Contact" />
-													<input type="text" placeholder="Work Email*" name="email" />
+													<input type="text" placeholder="Email to which we can reach you*" name="email" />
 												</div>
 			
 												<button class=" mt-2 mb-2 btn btn-warning" type="submit" name="subscribeBtn">subscribe</button>
 											
 											</form>
 										</div>
-									</div>
-									<div class=" mt-3 footer-contact calla">
-										<div class="call">
-											<a href="tel:+917940324566">+91 79 4032 4566</a>							
-										</div>
-										<div class=" email">
-											<a href="mailto:connect@webure.in">connect@webure.in</a>
-										</div>							
 									</div>
 							</div>
                         </div>
