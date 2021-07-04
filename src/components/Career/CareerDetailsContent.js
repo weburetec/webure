@@ -82,15 +82,15 @@ const CareerDetailsContent = () => {
 								<br/>
 								<hr class="new1" />
 								<br />
-								<h4 class="font-size-3 text-gray line-height-2"><strong>Why<span class="contactopening">Webure</span></strong></h4>
+								<h4 class="font-size-3 text-gray line-height-2 gappweb66"><strong>Why<span class="contactopening">Webure</span></strong></h4>
 								<p class="font-size-3 text-gray line-height-2 gappweb55">Webure Technologies is a forward thinking and creative Full service agency based in Bengaluru having global office in New York, London, Australia and New Zealand that provides consultancy and have a proven track record in helping small, medium and large businesses achieve high levels of success. Our consulting services can be tailored for your needs, be it large, medium or small campaigns. Webure Technologies are a leading Full service digital transformation agency committed in helping businesses to meet their online potential. We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.</p>
 								<hr class="new1" />
 								<br />
-								<h4 class="font-size-3 text-gray line-height-2"><strong>Your<span class="contactopening">Role</span></strong></h4>
+								<h4 class="font-size-3 text-gray line-height-2 gappweb66"><strong>Your<span class="contactopening">Role</span></strong></h4>
 								<p class="font-size-3 text-gray line-height-2 gappweb55">You will determines or is assigned the duties and job responsibilities that are required by the senior management team to meet the needs of their workforce management. We are serious about remote work. You can work for from anywhere. </p>
 								<hr class="new1" />
 								<br />
-								<h4 class="font-size-3 text-gray line-height-2"><strong>What you will<span class="contactopening">be doing</span></strong></h4>							
+								<h4 class="font-size-3 text-gray line-height-2 gappweb66"><strong>What you will<span class="contactopening">be doing</span></strong></h4>							
 								<ul class="list-unstyled">
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Recruiting, training and developing staff</li>
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Making sure that staff get paid correctly and on time</li>
@@ -105,7 +105,7 @@ const CareerDetailsContent = () => {
 								</ul>
 								<hr class="new1" />
 								<br />
-								<h4 class="font-size-3 text-gray line-height-2"><strong>Qualification<span class="contactopening">required:</span></strong></h4>							
+								<h4 class="font-size-3 text-gray line-height-2 gappweb66"><strong>Qualification<span class="contactopening">required:</span></strong></h4>							
 								<ul class="list-unstyled">
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>A degree or a professional qualification in HR Management or in a relevant subject.</li>
 									<li class="font-size-3 text-gray line-height-2"><span class="d-inline-block mr-7">•</span>Relevant experience of atleast 2 years in HR management services is a must</li>
