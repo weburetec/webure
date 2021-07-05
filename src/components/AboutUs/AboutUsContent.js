@@ -51,37 +51,18 @@ const AboutUsContent = () => {
 					
 						<div className="container">
 							<div className="row">
-								<div className="col-lg-7 col-md-12">
+								<div className="col-lg-12 col-md-12">
 									<hr class="new1" />
 									<br />
 									<h2><strong>Webure <span class="contactopening">Revolution</span></strong></h2>
-									<h4 class="font-size-3 text-gray line-height-2">Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</h4>
-									<h4 class="font-size-3 text-gray line-height-2">We are a Digital Marketing and Technology Agency in India that provide complete end-to-end digital media solutions with higher scope on Brand Strategy, Creating uncontested market space and Analytics. <br />Our R&D team are in the process of creating breakthrough technologies to make advertising more engaging and converting for businesses.<br /><br /><br /></h4>						
-									<div class="row">
-										<div class="col-12">
-											<h6 class="sec-head"></h6>
-										</div>						
-									</div>						
-								</div>
-								<div className="col-lg-5 col-md-12">
-									<img src={bannerhex} alt="bannerhex" />
-									<br />
+									<h4 class="font-size-3 text-gray line-height-2">Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</h4>					
 								</div>
 							</div>
 						</div>
 					
 					
                         <div className="about-content">
-                            <div className="content">			
-								<div className="row">
-									<div className="col-lg-12 col-md-12">
-										<hr class="new1" />
-										<br />
-										<h2><strong>Webure <span class="contactopening">Revolution</span></strong></h2>					
-									</div>
-								</div>
-                                <h4 class="font-size-3 text-gray line-height-2">Webure helps brands increase their revenues for today and generations to come by creating uncontested market spaces, empowering clients with data and building scalable products.</h4>
-                                
+                            <div className="content">
                                 <ul className="features-list">
                                     <li>
                                         <img src={icon4} alt="banner" />
