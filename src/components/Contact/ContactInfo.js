@@ -22,9 +22,9 @@ const ContactInfo = () => {
 						<div class="row">
 							<div class="col-6 col-md-6">
 								<h4 class="font-size-3 text-gray line-height-2"><strong>Contact [India]</strong></h4>
-								<div className="single-career-box">
-									<h4 class="font-size-3 text-gray line-height-2 color1">+91 9886528400</h4>
-								</div>
+							</div>
+							<div class="col-6 col-md-6">
+									<p id="rcorners2">+91 9886528400</p>
 							</div>
 						</div>
 						Contact [India] : +91 – 9886528400<br />Contact [New Zealand] : +64 9 889 3406<br />Contact [New York] : +1 917 675 3086</p>
