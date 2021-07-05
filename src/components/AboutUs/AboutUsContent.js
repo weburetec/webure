@@ -48,7 +48,7 @@ const AboutUsContent = () => {
                     </div>
 
                     <div className="col-lg-6 col-md-12">
-                        <div className="container">
+                        <div className="about-content">
                             <div className="content">			
 								<div className="row">
 									<div className="col-lg-12 col-md-12">
