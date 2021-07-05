@@ -14,82 +14,82 @@ const Footer = () => {
 									<div class="col-12 col-md-3 menuBox">
 										<h5 class="tap-click">Our Company</h5>
 										<ul class="tap-content">
-											<li><a href="https://www.uplers.com/about-us/">About Us</a></li>
+											<li><a href="#">About Us</a></li>
 
-											<li><a href="https://www.uplers.com/pricing/">Pricing</a></li>
+											<li><a href="#">Pricing</a></li>
 
-											<li><a href="https://www.uplers.com/business-referral-program/">Referral Program</a></li>
+											<li><a href="#">Referral Program</a></li>
 
-											<li><a href="https://www.uplers.com/giving-back-to-community/">#GivingBackToCommunity</a></li>
+											<li><a href="#">#GivingBackToCommunity</a></li>
 
-											<li><a href="https://www.uplers.com/employee-referral/">Employee Referral</a></li>
+											<li><a href="#">Employee Referral</a></li>
 
-											<li><a href="https://www.uplers.com/culture/">Our Culture</a></li>
+											<li><a href="#">Our Culture</a></li>
 
-											<li><a href="https://www.uplers.com/corporate-social-responsibility/">Corporate Social Responsibility</a></li>
+											<li><a href="#">Corporate Social Responsibility</a></li>
 
-											<li><a href="https://www.uplers.com/careers/">Careers</a></li>
+											<li><a href="#">Careers</a></li>
 
-											<li class="active"><a href="https://www.uplers.com/contact-us/">Contact Us</a></li>
+											<li class="active"><a href="#">Contact Us</a></li>
 
-											<li><a href="https://www.uplers.com/faqs/">FAQs</a></li>
+											<li><a href="#">FAQs</a></li>
 										</ul>
 									</div>
 									<div class="col-12 col-md-3 menuBox">
-										<h5 class="tap-click"><a href="https://www.uplers.com/offshore-remote-teams/">Build Your Team</a></h5>
+										<h5 class="tap-click"><a href="#">Build Your Team</a></h5>
 										<ul class="tap-content">
-											<li><a href="https://www.uplers.com/how-it-works/">How It Works</a></li>
+											<li><a href="#">How It Works</a></li>
 
-											<li><a href="https://www.uplers.com/why-offshore/">Why Offshore</a></li>
+											<li><a href="#">Why Offshore</a></li>
 											
-											<li><a href="https://www.uplers.com/offshore-pricing-estimator/">Pricing Estimator</a></li>
+											<li><a href="#">Pricing Estimator</a></li>
 
-											<li><a href="https://www.uplers.com/video-profiles/">Video Profiles</a></li>
+											<li><a href="#">Video Profiles</a></li>
 
-											<li><a href="https://www.uplers.com/about-uplers/">About Uplers</a></li>
+											<li><a href="#">About Uplers</a></li>
 
-											<li><a href="https://www.uplers.com/category/remote-team/">Remote Blogs</a></li>
+											<li><a href="#">Remote Blogs</a></li>
 
-											<li><a href="https://www.uplers.com/are-you-offshore-team-ready/">Take the Assessment</a></li>
+											<li><a href="#">Take the Assessment</a></li>
 										</ul>
 									</div>
 									<div class="col-12 col-md-3 menuBox">
 										<h5 class="tap-click">Services</h5>
 										<ul class="tap-content">
-											<li><a href="https://www.uplers.com/seo-services/">SEO Services</a></li>
+											<li><a href="#">SEO Services</a></li>
 
-											<li><a href="https://www.uplers.com/search-engine-marketing/">SEM Services</a></li>
+											<li><a href="#">SEM Services</a></li>
 
-											<li><a href="https://www.uplers.com/email-marketing/">Email Marketing</a></li>
+											<li><a href="#">Email Marketing</a></li>
 
-											<li><a href="https://www.uplers.com/design-services/">Design Services</a></li>
+											<li><a href="#>Design Services</a></li>
 
-											<li><a href="https://www.uplers.com/front-end-development-services/">Front-end Development</a></li>
+											<li><a href="#">Front-end Development</a></li>
 
-											<li><a href="https://www.uplers.com/wordpress-development/">WordPress Development</a></li>
+											<li><a href="#">WordPress Development</a></li>
 
 
-											<li><a href="https://www.uplers.com/hubspot-development/">HubSpot Development</a></li>
+											<li><a href="#">HubSpot Development</a></li>
 
-											<li><a href="https://www.uplers.com/dedicated-marketo-team/">Marketo Automation</a></li>
+											<li><a href="#">Marketo Automation</a></li>
 
-											<li><a href="https://www.uplers.com/salesforce-marketing-cloud-team/">Salesforce Automation</a></li>
+											<li><a href="#">Salesforce Automation</a></li>
 										</ul>
 									</div>
 									<div class="col-12 col-md-3 menuBox">
 										<h5 class="tap-click">Resources</h5>
 										<ul class="tap-content">
-											<li><a href="https://www.uplers.com/blog/">Blogs</a></li>
+											<li><a href="#">Blogs</a></li>
 
-											<li><a href="https://www.uplers.com/digital-mountaineers/">Podcast</a></li>
+											<li><a href="#">Podcast</a></li>
 
-											<li><a href="https://www.uplers.com/case-studies/">Case Studies</a></li>
+											<li><a href="#">Case Studies</a></li>
 
-											<li><a href="https://www.uplers.com/testimonials/">Testimonials</a></li>
+											<li><a href="#">Testimonials</a></li>
 
-											<li><a href="https://www.uplers.com/ebooks/">eBooks</a></li>
+											<li><a href="#">eBooks</a></li>
 
-											<li><a href="https://www.uplers.com/infographics/">Infographics</a></li>
+											<li><a href="#">Infographics</a></li>
 
 										</ul>
 									</div>
@@ -121,11 +121,11 @@ const Footer = () => {
 									<div class="social">
 										<h5 class="s-title">Follow:</h5>
 										<ul class="row follow-liststyle">
-											<li class="p-1"><a href="https://www.facebook.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
-										    <li class="p-1"><a href="https://twitter.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
-											<li class="p-1"><a href="https://www.linkedin.com/company/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i></a></li>
-											<li class="p-1"><a href="https://www.instagram.com/weareuplers" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
-											<li class="p-1"><a href="https://www.youtube.com/c/Uplers" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li>
+											<li class="p-1"><a href="https://www.facebook.com/webure" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+										    <li class="p-1"><a href="https://twitter.com/weburetech" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+											<li class="p-1"><a href="https://www.linkedin.com/company/weburetech/" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i></a></li>
+											<li class="p-1"><a href="https://www.instagram.com/weburetech/" target="_blank" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+											<li class="p-1"><a href="https://www.youtube.com/channel/UC1wqOGMT-ie9DwVMyxtZb5A" target="_blank" rel="nofollow"><i class="fa fa-youtube-play"></i></a></li>
 										</ul>		
 									</div>
 							</div>

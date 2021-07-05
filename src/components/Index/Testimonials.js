@@ -55,41 +55,40 @@ const Testimonials = () => {
                     {...options}
                 > 
                     <div className="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-
+                        <p>Webure Technologies had answers for everything, a testament to their deep technical knowledge. They came up with great solutions that would've been impossible without the depth and breadth of their team's skills. The process was smooth and easy.</p>
                         <div className="client-info">
                             <div className="d-flex justify-content-center align-items-center">
                                 <img src={client1} alt="testimonial" />
                                 <div className="title">
-                                    <h3>Alex Maxwell</h3>
-                                    <span>CEO at EnvyTheme</span>
+                                    <h3>Dominika Brown</h3>
+                                    <span>Chief Marketing Officer, Heynz Digitals</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                        <p>Webure Technologies Private Limited delivered an app that's received over 2800 downloads. It's doubled the number of inquiries that the client receives, and has automated many of their critical processes. The team was exceptionally proactive in incorporating feedback and providing frequent updates.</p>
 
                         <div className="client-info">
                             <div className="d-flex justify-content-center align-items-center">
                                 <img src={client2} alt="testimonial" />
                                 <div className="title">
-                                    <h3>David Warner</h3>
-                                    <span>CEO at Envato</span>
+                                    <h3>Aaman Kothari</h3>
+                                    <span>Director Business Development, Aspirava Solutions</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div className="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                        <p>The real deal, they have a great team with aggressive execution strategies. Webure has grown our revenues by 30X in the last few years we have worked with them</p>
                         <div className="client-info">
                             <div className="d-flex justify-content-center align-items-center">
                                 <img src={client3} alt="testimonial" />
                                 <div className="title">
-                                    <h3>Sarah Taylor</h3>
-                                    <span>CEO at ThemeForest</span>
+                                    <h3>Ashwin Baburao</h3>
+                                    <span>CFO at Calista Interiors</span>
                                 </div>
                             </div>
                         </div>
