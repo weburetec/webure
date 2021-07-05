@@ -62,7 +62,7 @@ const Footer = () => {
 
 											<li><a href="#">Email Marketing</a></li>
 
-											<li><a href="#>Design Services</a></li>
+											<li><a href="#">Design Services</a></li>
 
 											<li><a href="#">Front-end Development</a></li>
 
