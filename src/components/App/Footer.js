@@ -156,7 +156,7 @@ const Footer = () => {
 
 						</div>
 							
-						<div class="copyrights">© 2021 Webure Technologies. All rights reserved. <a href="https://www.uplers.com/privacy-policy/" class="policy">Privacy Policy</a> &nbsp;|&nbsp; <a href="https://www.uplers.com/isms-policy/" class="policy">ISMS Policy</a>
+						<div class="copyrights">© 2021 Webure Technologies. All rights reserved. <a href="#" class="policy">Privacy Policy</a> &nbsp;|&nbsp; <a href="#" class="policy">ISMS Policy</a>
 						</div>
 					</div>
 
