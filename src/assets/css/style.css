@@ -16537,42 +16537,6 @@ Dedicated Server Page CSS
     margin-top: 1.5rem !important;
 }
 
-.package .btn {
-    min-width: inherit;
-    margin: 3px 6px;
-    padding: 1.125rem 1.375rem;
-}
-
-.btn.btn--border-primary {
-    border: solid 2px var(--first-color);
-    color: var(--first-color);
-}
-
-.btn, .form input[type="submit"], .form input[type="button"], .form input[type="reset"], .form button {
-    position: relative;
-    display: inline-block;
-    margin: 0;
-    border: 2px solid transparent;
-    padding: 1.2rem 2rem;
-    min-width: 230px;
-    vertical-align: middle;
-    text-align: center;
-    -o-text-overflow: ellipsis;
-    text-overflow: ellipsis;
-    color: #fff;
-    font-size: 1.29em;
-    line-height: 1;
-    font-weight: 500;
-    overflow: hidden;
-    outline: none;
-    cursor: pointer;
-    border-radius: 3px;
-}
-
-.btn.btn--primary {
-    background: var(--first-color);
-}
-
 .dark-package {
     background-color: var(--second-color);
 }
