@@ -3,7 +3,7 @@ import Layout from "../components/App/Layout"
 import Navbar from "../components/App/Navbar"
 import PageBanner from '../components/Common/PageBanner'
 import Footer from "../components/App/Footer"
-import ServicesOne from '../components/Services/ServicesOne'
+import ServicesTwo from '../components/Services/ServicesTwo'
 import StartProject from '../components/Common/StartProject'
 
 const Services = () => {
