@@ -30,17 +30,11 @@ const ServicesTwo = () => {
 
 				<div class="row">
 					<div class="col-12 col-md-5 d-none d-md-block pb-3">
-						<img
-						src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png"
-						class="customers-section-img"
-						/>
+						<img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png" class="customers-section-img" />
 					</div>
 					<div class="col-12 col-md-7 d-flex flex-column justify-content-center">
 						<div class="d-md-none pb-3">
-							<img
-								src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png"
-								class="customers-section-img"
-							/>
+							<img src="https://brandshark.in/wp-content/uploads/2020/06/our-agency-1.png" class="customers-section-img" />
 						</div>
 						<div class="et_pb_text_inner">
 							<h2><strong>Website <span class="contactopening">Development</span></strong></h2>
@@ -52,7 +46,7 @@ const ServicesTwo = () => {
 								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Learn More</a>
 							</div>	
 						</div>												
-					<div>						
+					</div>						
 				</div>
 			</div>
 		</section>
