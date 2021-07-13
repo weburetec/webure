@@ -54,10 +54,8 @@ const ServicesTwo = () => {
 						</div>												
 					<div>						
 				</div>
-
 			</div>
-		</div>	
-        </section>
+		</section>
     )
 }
 
