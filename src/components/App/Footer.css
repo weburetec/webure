@@ -18,6 +18,12 @@ p {
     color: white;
 }
 
+.img-logo{
+    width: 100px;
+    height: 60px;
+    opacity: 1;
+}
+
 h3 {
     color: white;
 }

@@ -23,39 +23,32 @@ const CareerCard = () => {
             </div>
             <div className="container">
 				<div class="row">
-					<div>
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
-							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-								<div class="et_pb_text_inner">
-									<h2><strong>A Career <span class="contactopening">You Love</span></strong></h2>
-								</div>
-							</div> 
-							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-								<h4 class="font-size-3 text-gray line-height-2">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Webure Technologies! Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that". Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h4>
-								<h4 class="font-size-3 text-gray line-height-2">A company’s success starts with the right and worthy people who can create value for the customers. Our company is constantly looking for creative, talented, and goal-oriented professionals. At Webure Technologies we provide an opportunity for you to learn and grow with us.</h4>
-							</div>
+					<div class="col-12 col-md-7 d-flex flex-column justify-content-center">
+						<div class="d-md-none pb-3">
+							<img
+								src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png"
+								class="customers-section-img"
+							/>
+						</div>
+						<div class="et_pb_text_inner">
+							<h2><strong>A Career <span class="contactopening">You Love</span></strong></h2>
+						</div>
+						<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+							<h4 class="font-size-3 text-gray line-height-2">Got the agility and flexibility to solve exciting real-world challenges? Be a part of our uber cool team in shaping the world for a digital future. Check out exciting career opportunities at Webure Technologies! Webure follows in the footsteps of those visionaries that combine determination, passion, loyalty and intuition to reach new horizons, overcoming obstacles or finding new paths. We are fully aware of the fact that “if you want something you never had before, you must do something you have never done before. We are fully aware of the fact that". Be a part of an upbeat, dynamic and fun-loving team that loves to make a difference in the way things work.</h4>
+							<h4 class="font-size-3 text-gray line-height-2">A company’s success starts with the right and worthy people who can create value for the customers. Our company is constantly looking for creative, talented, and goal-oriented professionals. At Webure Technologies we provide an opportunity for you to learn and grow with us.</h4>
 							<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
 								<a class="et_pb_button_0" href="#web_development" data-et-has-event-already="true">Explore Opportunities</a>
-							</div>
-							<div class="et_pb_module et_pb_image et_pb_image_0">
-								<span class="et_pb_image_wrap gappweb3">
-								<img src="https://brandshark.in/wp-content/uploads/2020/06/Path-16932.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-783 lazyloaded" />
-								</span>
-							</div>
-						</div>
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-							<div class="et_pb_module et_pb_image et_pb_image_1">
-								<span class="et_pb_image_wrap ">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-10237-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-771 lazyloaded" />
-								</span>
-							</div>
-							<div class="et_pb_module et_pb_image et_pb_image_2">
-								<span class="et_pb_image_wrap gappweb3">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-								</span>
-							</div>
-						</div>
-					</div>				
+							</div>	
+						</div>												
+					<div>						
+			</div>
+		</div>
+					<div class="col-12 col-md-5 d-none d-md-block pb-3">
+						<img
+						src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png"
+						class="customers-section-img"
+						/>
+					</div>	
 				</div>
 			</div>
 			<br />
@@ -190,35 +183,33 @@ const CareerCard = () => {
 			<br />
 			<br />
 			<div className="container text-center">
-                <div className="row">
-					<div>
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
-							<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-								<div class="et_pb_text_inner">
-									<h2><strong>Life at <span class="contactopening">Webure</span></strong></h2>
-									<br />
-									<br />
-								</div>
-							</div> 
-							<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
-								<h4 class="font-size-3 text-gray line-height-2">Life here is a pretty sweet deal. From flexible PTO to paid parental leave to dogs in the office on Fido Fridays, we work hard to ensure that every employee feels supported and encouraged to have a healthy balance between work and home commitments. We believe rest and a full life outside of the office makes for a happier, healthier team.</h4>
-								<h4 class="font-size-3 text-gray line-height-2">We’re a company regiment who care for employees and brings out the best in one another. Our growth is streamlining with synergic efforts to attain uncommon goals and deliver exceptional results.</h4>								
-							</div>
+			<div class="row">
+					<div class="col-12 col-md-7 d-flex flex-column justify-content-center">
+						<div class="d-md-none pb-3">
+							<img
+								src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png"
+								class="customers-section-img"
+							/>
 						</div>
-						<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
-							<div class="et_pb_module et_pb_image et_pb_image_1">
-								<span class="et_pb_image_wrap ">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/Group-10237-min.png" alt="Services" title="Services" height="auto" width="auto" class="wp-image-771 lazyloaded" />
-								</span>
-							</div>
-							<div class="et_pb_module et_pb_image et_pb_image_2">
-								<span class="et_pb_image_wrap gappweb3">
-									<img src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png" alt="career icon" title="career icon" height="auto" width="auto" class="wp-image-783 lazyloaded" data-pagespeed-url-hash="3435895109" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" data-ll-status="loaded"/>
-								</span>
-							</div>
+						<div class="et_pb_text_inner">
+							<h2><strong>Life at <span class="contactopening">Webure</span></strong></h2>
+							<br />
+							<br />
 						</div>
-					</div>
-                </div>
+						<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+							<h4 class="font-size-3 text-gray line-height-2">Life here is a pretty sweet deal. From flexible PTO to paid parental leave to dogs in the office on Fido Fridays, we work hard to ensure that every employee feels supported and encouraged to have a healthy balance between work and home commitments. We believe rest and a full life outside of the office makes for a happier, healthier team.</h4>
+							<h4 class="font-size-3 text-gray line-height-2">We’re a company regiment who care for employees and brings out the best in one another. Our growth is streamlining with synergic efforts to attain uncommon goals and deliver exceptional results.</h4>	
+						</div>												
+					<div>						
+			</div>
+		</div>
+					<div class="col-12 col-md-5 d-none d-md-block pb-3">
+						<img
+						src="https://brandshark.in/wp-content/uploads/2020/06/career-min.png"
+						class="customers-section-img"
+						/>
+					</div>	
+			</div>
             </div>					
         </section>
     )

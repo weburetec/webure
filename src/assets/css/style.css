@@ -544,8 +544,7 @@ Navbar Area CSS
   font-weight: 400;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 25px;
-  padding-bottom: 25px;
+
 }
 
 .tarn-nav .navbar .navbar-nav .nav-item a i {
@@ -2103,7 +2102,7 @@ Main Banner Area CSS
   background-position: bottom center;
   background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 220px;
+  padding-top: 120px;
   padding-bottom: 210px;
 }
 
@@ -13239,10 +13238,7 @@ Career Area CSS
         left: 0;
         right: 0;
         margin: auto; }
-        #col:hover {
-          background-color: #ffc107;
-       
-       }
+        
       .locations-main .map-part .resp-accordion:after {
         content: "";
         height: 25px;

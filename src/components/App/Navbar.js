@@ -1,8 +1,9 @@
-import React from 'react';
+import React ,{Component}from 'react';
 import { useRecoilState } from 'recoil'
 import { collapsedState } from '../../utils/recoil-atoms'
 import {Link} from 'gatsby'
-import logo from "../../assets/images/logo.webp"
+import logo from "../../assets/images/logo2.jpeg"
+import './Footer.css'
 
 const Navbar = () => {
     const [collapsed, setCollapsed] = useRecoilState(collapsedState);
@@ -31,14 +32,13 @@ const Navbar = () => {
             <div id="navbar" className="navbar-area">
                 <div className="tarn-nav">
                     <div className="container-fluid">
-                        <nav className="navbar navbar-expand-lg navbar-light">
-						
+                        <nav className="navbar navbar-expand-lg navbar-light">						
                             <Link 
                                 to="/"
                                 onClick={() => setCollapsed(true)} 
                                 className="navbar-brand"
                             >
-                                <img src={logo} alt="logo" />
+                                <img className="img-logo" src={logo} alt="logo" />
                             </Link>
 
                             <button 
