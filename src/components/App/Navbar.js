@@ -2,7 +2,7 @@ import React ,{Component}from 'react';
 import { useRecoilState } from 'recoil'
 import { collapsedState } from '../../utils/recoil-atoms'
 import {Link} from 'gatsby'
-import logo from "../../assets/images/logo2.jpeg"
+import logo from "../../assets/images/webure logo.png"
 import './Footer.css'
 
 const Navbar = () => {
