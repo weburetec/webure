@@ -48,6 +48,61 @@ const ServicesTwo = () => {
 						</div>												
 					</div>						
 				</div>
+				<div class="row">
+					<div class="et_pb_text_inner">
+						<h2><strong>Best Website Design Pricing & Packages For<span class="contactopening">All Sized Businesses</span></strong></h2>
+					</div>					
+					<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_text_align_center-tablet et_pb_bg_layout_light">
+						<h4 class="font-size-3 text-gray line-height-2">Every business is unique in its own way and we help businesses to convey their unique identity through their website. We understand the brand voice and brand value of every business and then create thoughtful designs that demonstrate the same value as that of the brand. We offer a wide array of website design pricing and packages that cater to all size of businesses ranging from startups and small-sized firms to medium and large scale enterprises</h4>
+					</div>
+					<div class="row align-items-center">
+<div class="col-xl-4 col-md-4 mt-4 mt-md-0">
+<div class="package p-lg-5 p-4 box-shadow text-center">
+<div class="pkg-inner">
+<h4 class="p-0 m-0"><strong>Small Business</strong></h4>
+<h6>Design Package</h6>
+<div class="pkg-price  pb-4">
+<span><sub>$</sub>1499</span>
+</div>
+<div class="button-group mt-4">
+<a href="https://www.2checkout.com/checkout/purchase?sid=1803558&amp;quantity=1&amp;product_id=219" class="btn btn--border btn--border-primary">Buy Now</a>
+<a href="/website-design-company/requestaquote.html" class="btn btn--primary" target="_blank">Contact Us</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-md-4 mt-4 mt-md-0">
+<div class="package py-lg-5 p-4 box-shadow text-center dark-package">
+<div class="pkg-inner py-3">
+<h4 class="p-0 m-0"><strong>Mid-Size Business</strong></h4>
+<h6>Design Package</h6>
+<div class="pkg-price  pb-4">
+<span><sub>$</sub>2499</span>
+</div>
+<div class="button-group mt-4">
+<a href="https://www.2checkout.com/checkout/purchase?sid=1803558&amp;quantity=1&amp;product_id=220" class="btn btn--border btn--border-white" target="_blank">Buy Now</a>
+<a href="/website-design-company/requestaquote.html" class="btn btn--primary" target="_blank">Enquire Now</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-4 col-md-4 mt-4 mt-md-0">
+<div class="package p-lg-5 p-4 box-shadow text-center">
+<div class="pkg-inner">
+<h4 class="p-0 m-0"><strong>Large Business</strong></h4>
+<h6>Design Package</h6>
+<div class="pkg-price  pb-4">
+<span><sub>$</sub>4500</span>
+</div>
+<div class="button-group mt-4">
+<a href="https://www.2checkout.com/checkout/purchase?sid=1803558&amp;quantity=1&amp;product_id=221" class="btn btn--border btn--border-primary " target="_blank">Buy Now</a>
+<a href="/website-design-company/requestaquote.html" class="btn btn--primary" target="_blank">Contact Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+				</div>
 			</div>
 		</section>
     )
