@@ -309,7 +309,7 @@ class WebDevelopment extends Component {
 				<h2 className="section-title">Our Work</h2>
 				<div className="inner-projects">
 				<div className="single-projects">
-					<a href="https://www.getreminded.com/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -327,7 +327,7 @@ class WebDevelopment extends Component {
 					</a>
 				</div>
 				<div className="single-projects">
-					<a href="https://www.eatingfit.com.au/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -345,7 +345,7 @@ class WebDevelopment extends Component {
 					</a>
 				</div>
 				<div className="single-projects">
-					<a href="https://www.blindsinprint.com.au/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -363,7 +363,7 @@ class WebDevelopment extends Component {
 					</a>	
 				</div>
 				<div className="single-projects">
-					<a href="http://zeusstreetgreek.com.au/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -381,7 +381,7 @@ class WebDevelopment extends Component {
 					</a>
 				</div>
 				<div className="single-projects">
-					<a href="https://www.thehse.net/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -399,7 +399,7 @@ class WebDevelopment extends Component {
 					</a>
 				</div>
 				<div className="single-projects">
-					<a href="https://www.stokerealty.com.au/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -417,7 +417,7 @@ class WebDevelopment extends Component {
 					</a>
 				</div>
 				<div className="single-projects">
-					<a href="https://www.sleepscore.com/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
@@ -435,7 +435,7 @@ class WebDevelopment extends Component {
 					</a>	
 				</div>
 				<div className="single-projects">
-					<a href="https://www.emvoices.com.au/" rel="noreferrer" target="_blank">
+					<a href="#" rel="noreferrer" target="_blank">
 					<div className="default-content">
 						<div className="project-thumb">
 						<figure>
