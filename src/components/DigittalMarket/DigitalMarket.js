@@ -348,9 +348,9 @@ export default class DigitalMarket extends Component {
 				<h2 class="title section-title" style={{fontWeight:"700",fontSize:"35px"}}>Our Case Studies</h2>
 				<div class="row">
 					<div class="col-lg-4 col-sm-6 listbox ">
-						<h3 class="box-title"><a href="https://www.uplers.com/case-studies/airtasker/">Airtasker</a></h3>
+						<h3 class="box-title"><a href="#">Airtasker</a></h3>
 						<figure class="ratio-img">
-							<a href="https://www.uplers.com/case-studies/airtasker/">
+							<a href="#">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images/case-studies/airtasker.jpg"/>
 								<span class="view">View</span>
 							</a>
@@ -361,9 +361,9 @@ export default class DigitalMarket extends Component {
 					</div>
 
 					<div class="col-lg-4 col-sm-6 listbox ">
-						<h3 class="box-title"><a href="https://www.uplers.com/case-studies/red-soda/">Red Soda</a></h3>
+						<h3 class="box-title"><a href="#">Red Soda</a></h3>
 						<figure class="ratio-img">
-							<a href="https://www.uplers.com/case-studies/red-soda/">
+							<a href="#">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images/case-studies/musical-function.jpg"/>
 								<span class="view">View</span>
 							</a>
@@ -374,9 +374,9 @@ export default class DigitalMarket extends Component {
 					</div>
 					
 					<div class="col-lg-4 col-sm-6 listbox ">
-						<h3 class="box-title"><a href="https://www.uplers.com/case-studies/survival-emergency-solutions/">Survival Emergency Solutions</a></h3>
+						<h3 class="box-title"><a href="#">Survival Emergency Solutions</a></h3>
 						<figure class="ratio-img">
-							<a href="https://www.uplers.com/case-studies/survival-emergency-solutions/">
+							<a href="#">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images/case-studies/survival-emergency-solutions.jpg"/>
 								<span class="view">View</span>
 							</a>
@@ -526,7 +526,7 @@ export default class DigitalMarket extends Component {
 					</div>
 					<div class="row justify-content-center">
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="https://www.uplers.com/seo-services/" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Search Engine Optimization</h2>
 							<div class="box-link">Learn More</div>
 							<div class="icon">
@@ -535,7 +535,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Blogger Outreach / Link Building</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-link-icon.svg"/>
@@ -543,7 +543,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Google Maps Optimization</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-g-map-icon.svg"/>
@@ -551,7 +551,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="https://www.uplers.com/search-engine-marketing/" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Google Ads</h2>
 							<div class="box-link">Learn More</div>
 							<div class="icon">
@@ -560,7 +560,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Facebook Ads</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-fb-icon.svg"/>
@@ -568,7 +568,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Instagram Ads</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-insta-icon.svg"/>
@@ -576,7 +576,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">LinkedIn Ads</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-linkdien-icon.svg"/>
@@ -584,7 +584,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box">
+						<a href="#" class="service-box">
 							<h2 class="box-title">Twitter Ads</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/vec-twitter-icon.svg"/>
@@ -592,7 +592,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="https://www.uplers.com/email-marketing/" class="service-box no-box-link">
+						<a href="#" class="service-box no-box-link">
 							<h2 class="box-title">Email Marketing</h2>
 							<div class="box-link">Learn More</div>
 							<div class="icon">
@@ -601,7 +601,7 @@ export default class DigitalMarket extends Component {
 						</a>
 					</div>
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box no-box-link">
+						<a href="#" class="service-box no-box-link">
 							<h2 class="box-title">Email Automation &amp; Journey</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/Email-Automation.svg"/>
@@ -610,7 +610,7 @@ export default class DigitalMarket extends Component {
 					</div>
 
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box no-box-link">
+						<a href="#" class="service-box no-box-link">
 							<h2 class="box-title">Email Template Production</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/Email-Template-Production.svg"/>
@@ -619,7 +619,7 @@ export default class DigitalMarket extends Component {
 					</div>
 
 					<div class="col-sm-4 col-lg-3 item">
-						<a href="javascript:void(0)" class="service-box no-box-link">
+						<a href="#" class="service-box no-box-link">
 							<h2 class="box-title">Campaign Management</h2>
 							<div class="icon">
 								<img alt="" src="https://www.uplers.com/wp-content/themes/uplers/assets/images//digital-marketing/Campaign-Management.svg"/>
