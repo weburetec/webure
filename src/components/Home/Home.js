@@ -250,7 +250,7 @@ export default class Home extends Component {
                     <div class="col-12 col-md-3">
                         <div class="card p-3 mb-3">
                         <div className="text-center">   
-                            <img src={cmp2} class="card2-image" alt="cmp2"/>
+                            <img src="https://razorpay.com/assets/razorpay-logo.svg" class="card2-image" alt="cmp2"/>
                         </div>
                         <h1 class="card2-title mt-3">razorpay</h1>
                         <p class="card2-description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
