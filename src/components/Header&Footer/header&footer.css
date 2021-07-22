@@ -1,0 +1,115 @@
+@import url("https://use.fontawesome.com/releases/v5.6.1/css/all.css");
+
+body {
+    margin: 0px;
+  }
+
+.navbackground1{
+    background-color: #ffffff;
+}
+.navbar-nav { width: 100%;}
+
+.nav-link:hover {
+    color: #f54b08 !important;
+    text-decoration:underline;
+    text-decoration-color: royalblue;
+    text-underline-offset: 10px;
+    text-decoration-style:solid;
+}
+.navbutton1 {
+    border-style: none;
+    border-radius: 25px;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    background-color: #f54b08;
+  }
+
+  .navbutton1:hover {
+    border-style: none;
+    border-radius: 25px;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+    background-color: #31045c;
+  }
+
+.footer-area{
+    background-color: #1A1F39;
+    color: #ffffff;}
+
+
+ul {
+    list-style-type: none;
+  }
+
+.footerheadpadding{
+    padding-left: 100px;
+}
+
+.footersocilapadding{
+    padding-left: 90px;
+}
+
+.footer-list{
+    color: #ffffff;
+    font-size: large;
+}
+
+.footer-list:hover{
+    color: #fdcf02;
+}
+
+hr{
+    background-color:#ffffff;
+    height: 1px; 
+}
+
+.citycolor{
+    color:#fdcf02;
+}
+
+.regioncolor{
+    background-color: transparent;
+    color:#ffffff;
+    border-width: 2px;
+}
+
+.socialsize{
+    font-size: 30px;
+}
+
+.socialsize:hover{
+    color: #f54b08;
+}
+.numstyle{
+    color: #fdcf02;
+    padding-left: 70px;
+}
+.mailstyle{    
+    color: #fdcf02;
+    padding-left: 70px;    
+}
+
+.copyrights{
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+.policy{
+    color: #ffffff;
+    text-decoration:underline;
+    text-decoration-color: #fdcf02;
+    text-underline-offset: 10px;
+    text-decoration-style:solid;
+}
+.policy:hover{
+    color: #53f508;
+    text-decoration:underline;
+    text-decoration-color: #f54b08;
+    text-underline-offset: 10px;
+    text-decoration-style:solid;
+}
