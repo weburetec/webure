@@ -12,6 +12,7 @@ const SEO = () => {
                 <meta name="twitter:card" content="Webure Technologies - Consult | Create | Collaborate"></meta>
                 <link rel="canonical" href="https://webure.in/"></link>
                 <meta property="og:image" content="https://res.cloudinary.com/dev-empty/image/upload/v1593069801/explore-learning.jpg" />
+	    	<script src='//in.fw-cdn.com/30673666/364679.js' chat='false'></script>
             </Helmet>
         </div>
     )
